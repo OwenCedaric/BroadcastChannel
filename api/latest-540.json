@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/3362c76d265093fc17039dc17098602c.jpg",
-    "totalPosts": 662,
+    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
+    "totalPosts": 663,
     "totalPages": 34,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "139",
+      "title": "Lever回来了！还好我没放弃",
+      "type": "text",
+      "datetime": "2024-04-07T05:52:02+00:00",
+      "tags": [],
+      "text": "Lever回来了！还好我没放弃",
+      "content": "Lever回来了！还好我没放弃",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "22",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "138",
       "title": "跌麻了 别看盘了 休息一下吧 等牛回",
@@ -370,32 +386,6 @@
         {
           "emoji": "❤️",
           "count": "37",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "119",
-      "title": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了",
-      "type": "text",
-      "datetime": "2024-03-19T13:46:28+00:00",
-      "tags": [],
-      "text": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了。",
-      "content": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
           "isPaid": false
         },
         {

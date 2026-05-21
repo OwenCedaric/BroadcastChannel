@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/3362c76d265093fc17039dc17098602c.jpg",
-    "totalPosts": 662,
+    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
+    "totalPosts": 663,
     "totalPages": 34,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "304",
+      "title": "关于港股买什么，我的选择还是买龙头",
+      "type": "text",
+      "datetime": "2025-03-28T02:27:52+00:00",
+      "tags": [],
+      "text": "关于港股买什么，我的选择还是买龙头。这是我认为的龙头：1⃣腾讯+阿里巴巴，断档第一，马云重新现身也代表历史问题终结，祖国需要他。2⃣小米，我的小米前段时间冲高卖了，最近期待有好的价格接回来。雷军的整个影响力和公众喜爱度属于断档第一，有点曾经乔布斯的感觉。产品也拿得出手，而且也讲究性价比，对现在的经济形势下的人友好。最近主要的争议是高位配股，但是相信这部分的影响也会过去。3⃣港交所，护城河很强，港股回暖最直接受益者，IPO数量今年应该也会暴增。4⃣比亚迪，或许今年可以成为全球第一的车企，欧洲的出货量不断增加，超过了特斯拉。海外销量在过去一年内翻倍的增长。比亚迪还有🔋，也入局机器人。有实力也有叙事。其他还有不少在观察列表里的：蜜雪冰城（PE有点不合理的高，但是一定是好公司，只是需要好价格），优必选（机器人概念，只是还停留在概念，尚未盈利）。也有朋友是直接买指数，像是 $YINN 或者 恒生科技指数，这个更省力，但是成分更杂，见仁见智。",
+      "content": "关于港股买什么，我的选择还是买龙头。<br><br>这是我认为的龙头：<br><i class=\"emoji\"><b>1⃣</b></i>腾讯+阿里巴巴，断档第一，马云重新现身也代表历史问题终结，祖国需要他。<br><i class=\"emoji\"><b>2⃣</b></i>小米，我的小米前段时间冲高卖了，最近期待有好的价格接回来。雷军的整个影响力和公众喜爱度属于断档第一，有点曾经乔布斯的感觉。产品也拿得出手，而且也讲究性价比，对现在的经济形势下的人友好。最近主要的争议是高位配股，但是相信这部分的影响也会过去。<br><i class=\"emoji\"><b>3⃣</b></i>港交所，护城河很强，港股回暖最直接受益者，IPO数量今年应该也会暴增。<br><i class=\"emoji\"><b>4⃣</b></i>比亚迪，或许今年可以成为全球第一的车企，欧洲的出货量不断增加，超过了特斯拉。海外销量在过去一年内翻倍的增长。比亚迪还有<i class=\"emoji\"><b>🔋</b></i>，也入局机器人。有实力也有叙事。<br><br>其他还有不少在观察列表里的：<br>蜜雪冰城（PE有点不合理的高，但是一定是好公司，只是需要好价格），<br>优必选（机器人概念，只是还停留在概念，尚未盈利）。<br><br>也有朋友是直接买指数，像是 $YINN 或者 恒生科技指数，这个更省力，但是成分更杂，见仁见智。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "26",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "303",
       "title": "hello 大家好久不见",
@@ -513,27 +534,6 @@
         {
           "emoji": "👍",
           "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "284",
-      "title": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下",
-      "type": "text",
-      "datetime": "2024-10-04T09:52:45+00:00",
-      "tags": [],
-      "text": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。欢迎使用我的邀请链接：https://testnet.humanity.org/login?ref=fionact关于项目的介绍可以看：https://x.com/nft_hu/status/1760078920387621263?lang=enHumanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、",
-      "content": "对标 WLD 的一个掌纹识别项目：<br>主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。<br><br>欢迎使用我的邀请链接：<br><a href=\"https://testnet.humanity.org/login?ref=fionact\" target=\"_blank\" rel=\"noopener\" title=\"https://testnet.humanity.org/login?ref=fionact\">https://testnet.humanity.org/login?ref=fionact</a><br><br>关于项目的介绍可以看：<a href=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\">https://x.com/nft_hu/status/1760078920387621263?lang=en</a><br><br>Humanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、<a class=\"tgme_widget_message_link_preview\" href=\"https://testnet.humanity.org/login?ref=nasowilliam\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">app.humanity.org</div>\n  <img class=\"link_preview_image\" alt=\"Humanity Protocol\" src=\"/static/7b835a2fc3156bb74c317822ffef66fb.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Humanity Protocol</div>\n  \n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/3362c76d265093fc17039dc17098602c.jpg",
-    "totalPosts": 662,
+    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
+    "totalPosts": 663,
     "totalPages": 34,
     "currentPage": 23,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-420.json"
   },
   "data": [
+    {
+      "id": "243",
+      "title": "9月魔咒不知道今年是不是一樣",
+      "type": "text",
+      "datetime": "2024-08-27T10:39:05+00:00",
+      "tags": [],
+      "text": "9月魔咒不知道今年是不是一樣",
+      "content": "9月魔咒不知道今年是不是一樣",
+      "reactions": [
+        {
+          "emoji": "🤷‍♂",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "242",
       "title": "",
@@ -427,16 +448,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "221",
-      "title": "0.144-0.173，这种币比较妖，止盈看个人",
-      "type": "text",
-      "datetime": "2024-08-19T10:57:20+00:00",
-      "tags": [],
-      "text": "0.144-0.173，这种币比较妖，止盈看个人。我的经验，大盘不崩，应该可以上窜下跳一会。建议现货别合约",
-      "content": "0.144-0.173，这种币比较妖，止盈看个人。我的经验，大盘不崩，应该可以上窜下跳一会。建议现货别合约",
-      "reactions": []
     }
   ]
 }
