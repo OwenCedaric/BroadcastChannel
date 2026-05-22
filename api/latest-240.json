@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
-    "totalPosts": 663,
+    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
+    "totalPosts": 664,
     "totalPages": 34,
     "currentPage": 13,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "450",
+      "title": "稳定币系列第一篇：Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意",
+      "type": "text",
+      "datetime": "2025-11-29T12:07:41+00:00",
+      "tags": [],
+      "text": "稳定币系列第一篇：Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意。https://x.com/nft_hu/status/1994739844262625481?s=20",
+      "content": "稳定币系列第一篇：Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意。<a href=\"https://x.com/nft_hu/status/1994739844262625481?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1994739844262625481?s=20\">https://x.com/nft_hu/status/1994739844262625481?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1994739844262625481?s=20\" target=\"_blank\" rel=\"noopener\" title=\"Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意。明明隔壁大哥Tether三个季度净利润超过100亿美金，利润率高达99%。Ardoino自己都说：“我们有99%的利润率，世界上没有其他公司能做到这一点。”那Circle $CRCL 的财报说了怎么样的一个故事？他们的利润率被什么侵吞了？（数据来源\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b890e150d95800623cf1aa62e16cbab1.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意。<br><br>明明隔壁大哥Tether三个季度净利润超过100亿美金，利润率高达99%。Ardoino自己都说：“我们有99%的利润率，世界上没有其他公司能做到这一点。”<br><br>那Circle $CRCL 的财报说了怎么样的一个故事？他们的利润率被什么侵吞了？（数据来源</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "449",
       "title": "Circle能不够讲好这个故事其实有两个前提：1️⃣稳定币的故事边际在哪里？如何把这个市场的想象力打开？2️⃣作为目前万年老二的circle，如何保住自己的老二地位，并且赚钱",
@@ -447,27 +468,6 @@
         {
           "emoji": "❤️",
           "count": "19",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "428",
-      "title": "旅游中没时间冲meme，选择买了BNB",
-      "type": "text",
-      "datetime": "2025-10-08T06:30:27+00:00",
-      "tags": [],
-      "text": "旅游中没时间冲meme，选择买了BNB",
-      "content": "旅游中没时间冲meme，选择买了BNB",
-      "reactions": [
-        {
-          "emoji": "❤‍🔥",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

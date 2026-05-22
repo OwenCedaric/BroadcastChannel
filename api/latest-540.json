@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
-    "totalPosts": 663,
+    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
+    "totalPosts": 664,
     "totalPages": 34,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "140",
+      "title": "4月底上线的 io.net 明星投资人，热门赛道，高估值低流通：",
+      "type": "text",
+      "datetime": "2024-04-08T13:58:47+00:00",
+      "tags": [],
+      "text": "4月底上线的 io.net 明星投资人，热门赛道，高估值低流通：https://x.com/nft_hu/status/1777334782013378611",
+      "content": "4月底上线的 <a href=\"http://io.net/\" target=\"_blank\" rel=\"noopener\" title=\"io.net\">io.net</a> 明星投资人，热门赛道，高估值低流通：<a href=\"https://x.com/nft_hu/status/1777334782013378611\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1777334782013378611\">https://x.com/nft_hu/status/1777334782013378611</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1777334782013378611\" target=\"_blank\" rel=\"noopener\" title=\"https://t.co/6qA6704CNT 是否会创造/成为下一个 $RNDR?https://t.co/6qA6704CNT 也是今年风靡各个群聊的话题，大家都在研究怎么挖矿？ 据说早期挖的人送 $RNDR 代币，早早回本。https://t.co/6qA6704CNT 上线在即，这个结合 #AI+#DePIN （ GPU挖矿），由RNDR团队再次推出的去中心化云服务…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">https://t.co/6qA6704CNT 是否会创造/成为下一个 $RNDR?<br>https://t.co/6qA6704CNT 也是今年风靡各个群聊的话题，大家都在研究怎么挖矿？ 据说早期挖的人送 $RNDR 代币，早早回本。<br><br>https://t.co/6qA6704CNT 上线在即，这个结合 #AI+#DePIN （ GPU挖矿），由RNDR团队再次推出的去中心化云服务…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "139",
       "title": "Lever回来了！还好我没放弃",
@@ -370,27 +386,6 @@
         {
           "emoji": "❤️",
           "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "120",
-      "title": "我的现货也今天回撤不少 哪怕主要是sol btc之类的",
-      "type": "text",
-      "datetime": "2024-03-19T15:32:26+00:00",
-      "tags": [],
-      "text": "我的现货也今天回撤不少 哪怕主要是sol btc之类的。但是我相信7w不是终点，倒车接人要记得上车。在车上的也不担心，只要确定你上对了车🚗～",
-      "content": "我的现货也今天回撤不少 哪怕主要是sol btc之类的。<br>但是我相信7w不是终点，倒车接人要记得上车。<br>在车上的也不担心，只要确定你上对了车<i class=\"emoji\"><b>🚗</b></i>～",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "37",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "4",
           "isPaid": false
         }
       ]

@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/23aa4cdf2c72e10e8c41988c2af88a77.jpg",
-    "totalPosts": 663,
+    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
+    "totalPosts": 664,
     "totalPages": 34,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "677",
+      "title": "回头看看年初的选择 选的真好👍 虽然我看人眼光一般，但是我选股眼光很好",
+      "type": "text",
+      "datetime": "2026-05-04T06:48:58+00:00",
+      "tags": [],
+      "text": "回头看看年初的选择 选的真好👍 虽然我看人眼光一般，但是我选股眼光很好",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/470\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">我的2026年展望：2026 AI和太空经济、军工并行的一年  前提： AI不是泡沫，而是未来。且2026AI仍然是美国经济增长的核心驱动力。看多/增持美股  选标的要求： <i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>有真实的数据/业务/营收，最好是盈利或者即将盈利 <i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>题材：热门题材，基金资本愿意介入 <i class=\"emoji\" style=\"background-image:url('/static/6b280f1f7623a712029e47a7b87b7d7d.png')\"><b>3️⃣</b></i>防御性：极端行情下的表现  自己的直觉选择： <i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>Google：感受我日常生活的含G含量超级高，gemini的突破性发展和TPU <i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>阿里巴巴：抖音IPO之前的最好选择 <i class=\"emoji\" style=\"background-image:url('/static/6b280f1f7623a712029e47a7b87b7d7d.png')\"><b>3️⃣</b></i>宁德时代：机器人绕不过的一环 <i class=\"emoji\" style=\"background-image:url('/static/bcd46baf053909529ab2cbbfc696ceea.png')\"><b>4️⃣</b></i>NVDA：数据中心最大的成本…</div>\n</small></blockquote></a>回头看看年初的选择 选的真好<i class=\"emoji\"><b>👍</b></i> 虽然我看人眼光一般，但是我选股眼光很好",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "676",
       "title": "5月最大的关注点，习特会",
@@ -375,27 +401,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "657",
-      "title": "如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链",
-      "type": "text",
-      "datetime": "2026-04-29T12:30:47+00:00",
-      "tags": [],
-      "text": "如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链。文章稍长，但是把光通讯的每个环节都讲的清楚明白需要费一些笔墨。https://x.com/nft_hu/status/2049466252025061438?s=20",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-657-0\" popovertargetaction=\"show\">\n        <img src=\"/static/5471120a73442740cec373d4036b28c3.jpg\" alt=\"如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-657-0\" popovertarget=\"modal-657-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/5471120a73442740cec373d4036b28c3.jpg\" alt=\"如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链\" loading=\"lazy\" />\n      </button>\n    </div>如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链。<br><br>文章稍长，但是把光通讯的每个环节都讲的清楚明白需要费一些笔墨。<br><a href=\"https://x.com/nft_hu/status/2049466252025061438?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049466252025061438?s=20\">https://x.com/nft_hu/status/2049466252025061438?s=20</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]
