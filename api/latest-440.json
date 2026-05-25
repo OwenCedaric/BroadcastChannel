@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
-    "totalPosts": 664,
+    "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
+    "totalPosts": 665,
     "totalPages": 34,
     "currentPage": 23,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-420.json"
   },
   "data": [
+    {
+      "id": "245",
+      "title": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY",
+      "type": "text",
+      "datetime": "2024-08-27T12:38:45+00:00",
+      "tags": [],
+      "text": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY。 看了下有点算变相拆分MKR，作为更名的一部分，Maker 将全球最大的去中心化稳定币 Dai（DAI）更名为 USDS。该协议还推出了 Sky（SKY）原生治理代币，MakerDAO 联合创始人 Rune Christensen 称此次更名是迎接「DeFi 下一次进化」的一步。MKR 持有者可以将其 MKR 升级为 SKY，SKY 也可以转换回 MKR。升级是可选的。用户在升级时每枚 MKR 可以换得 24,000 枚 SKY",
+      "content": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY。 看了下有点算变相拆分MKR，作为更名的一部分，Maker 将全球最大的去中心化稳定币 Dai（DAI）更名为 USDS。<br><br>该协议还推出了 Sky（SKY）原生治理代币，MakerDAO 联合创始人 Rune Christensen 称此次更名是迎接「DeFi 下一次进化」的一步。MKR 持有者可以将其 MKR 升级为 SKY，SKY 也可以转换回 MKR。升级是可选的。用户在升级时每枚 MKR 可以换得 24,000 枚 SKY",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "244",
       "title": "脱水完成，满手U，虽然没有卖在最高点，但是8月半仓操作，整体仓位赚了40%，其实对自己挺满意的",
@@ -427,22 +448,6 @@
         {
           "emoji": "🔥",
           "count": "12",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "223",
-      "title": "今天买了一点 $SOL",
-      "type": "text",
-      "datetime": "2024-08-20T03:05:04+00:00",
-      "tags": [],
-      "text": "今天买了一点 $SOL",
-      "content": "今天买了一点 $SOL",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "32",
           "isPaid": false
         }
       ]

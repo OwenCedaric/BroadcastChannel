@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
-    "totalPosts": 664,
+    "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
+    "totalPosts": 665,
     "totalPages": 34,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "658",
+      "title": "AXTI也是今晚财报，许可证是关键 ",
+      "type": "text",
+      "datetime": "2026-04-29T13:10:59+00:00",
+      "tags": [],
+      "text": "AXTI也是今晚财报，许可证是关键 https://x.com/nft_hu/status/2049476376051531972?s=20",
+      "content": "AXTI也是今晚财报，许可证是关键 <a href=\"https://x.com/nft_hu/status/2049476376051531972?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049476376051531972?s=20\">https://x.com/nft_hu/status/2049476376051531972?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2049476376051531972?s=20\" target=\"_blank\" rel=\"noopener\" title=\"有了这一条抛砖引玉，就可以说清楚 $AXTI 的重要性了。AXTI通过其北京通美设施，控制着全球60-70%的InP衬底产量。 这不是普通的市场份额优势，而是接近垄断的地位。全球做InP衬底的玩家极少，主要就是AXTI（北京通美）和日本住友电气，其他的产能零散且不成规模。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/98561ec21195c236b5b60d4902086652.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">有了这一条抛砖引玉，就可以说清楚 $AXTI 的重要性了。<br><br>AXTI通过其北京通美设施，控制着全球60-70%的InP衬底产量。 这不是普通的市场份额优势，而是接近垄断的地位。全球做InP衬底的玩家极少，主要就是AXTI（北京通美）和日本住友电气，其他的产能零散且不成规模。</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "657",
       "title": "如果你想真的了解光通讯产业链，那以下的内容不容错过——一图了解全产业链",
@@ -380,16 +396,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "637",
-      "title": "今天港股还有两支股票可以打，迈威生物和曦智科技",
-      "type": "text",
-      "datetime": "2026-04-21T11:55:28+00:00",
-      "tags": [],
-      "text": "今天港股还有两支股票可以打，迈威生物和曦智科技。两只本质都是“高研发、高亏损、强赛道故事”的融资股：迈威生物偏 Biotech 商业化慢、风险大且估值看情绪；曦智科技是 AI 硅光+光电混合算力故事，技术含金量高、财务更轻，但也在早期高亏阶段。迈威不打，过去三年累计亏损超过 30 亿，商业化进度不及当年科创板招股书。董事长口碑也一般。曦智上车🚌港股硅光芯片第一股。赛道好但是赚的少亏得多，当前收入只有 1 亿出头人民币。有淡马锡、阿里、联想等作为基石投资者，给了很强的“背书+锁仓”信号，对短线炒作氛围有明显加成。货少中签率不高，当个分母吧",
-      "content": "今天港股还有两支股票可以打，迈威生物和曦智科技。<br><br>两只本质都是“高研发、高亏损、强赛道故事”的融资股：<br>迈威生物偏 Biotech 商业化慢、风险大且估值看情绪；<br>曦智科技是 AI 硅光+光电混合算力故事，技术含金量高、财务更轻，但也在早期高亏阶段。<br><br>迈威不打，过去三年累计亏损超过 30 亿，商业化进度不及当年科创板招股书。董事长口碑也一般。<br><br>曦智上车<i class=\"emoji\"><b>🚌</b></i>港股硅光芯片第一股。赛道好但是赚的少亏得多，当前收入只有 1 亿出头人民币。<br>有淡马锡、阿里、联想等作为基石投资者，给了很强的“背书+锁仓”信号，对短线炒作氛围有明显加成。<br>货少中签率不高，当个分母吧",
-      "reactions": []
     }
   ]
 }

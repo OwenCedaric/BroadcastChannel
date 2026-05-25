@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
-    "totalPosts": 664,
+    "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
+    "totalPosts": 665,
     "totalPages": 34,
     "currentPage": 16,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-280.json"
   },
   "data": [
+    {
+      "id": "387",
+      "title": "早安！醒来又是莫名其妙的上涨，不过不错！还有很多仓位",
+      "type": "text",
+      "datetime": "2025-09-12T01:34:51+00:00",
+      "tags": [],
+      "text": "早安！醒来又是莫名其妙的上涨，不过不错！还有很多仓位。看多下半年，不空仓。注意插针，所以不轻易开小山寨的杠杆。怎么定义小山寨，大概是市值排名超过30名的。挂了一些接针的订单，基本也就是这些仓位。Pump还在研究中，看要不要纳入长持标的还是短线投机标的。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/383\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">现在还有的仓位 BTC ETH SOL HYPE 防御时间</div>\n</small></blockquote></a>早安！<br>醒来又是莫名其妙的上涨，不过不错！还有很多仓位。<br><br>看多下半年，不空仓。注意插针，所以不轻易开小山寨的杠杆。怎么定义小山寨，大概是市值排名超过30名的。<br><br>挂了一些接针的订单，基本也就是这些仓位。Pump还在研究中，看要不要纳入长持标的还是短线投机标的。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "35",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "386",
       "title": "如我所料 加仓的钱还在路上，阿里股价已经一支青云箭",
@@ -413,32 +449,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "367",
-      "title": "多单平了，现货继续",
-      "type": "text",
-      "datetime": "2025-08-22T14:24:41+00:00",
-      "tags": [],
-      "text": "多单平了，现货继续",
-      "content": "多单平了，现货继续",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

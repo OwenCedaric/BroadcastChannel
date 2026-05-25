@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
-    "totalPosts": 664,
+    "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
+    "totalPosts": 665,
     "totalPages": 34,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "286",
+      "title": "写在 Sui 新高的时刻，投资其实是一件很单的事",
+      "type": "text",
+      "datetime": "2024-10-12T13:24:14+00:00",
+      "tags": [],
+      "text": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。希望 $SUI 可以成为越卖越多的好标的😝",
+      "content": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。<br><br>从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。<br><br>看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。<br><br>2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。<br><br>希望 $SUI 可以成为越卖越多的好标的<i class=\"emoji\"><b>😝</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "68",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👀",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "285",
       "title": "今晚非农公布",
@@ -410,22 +456,6 @@
       "text": "和 $mao币的日子https://x.com/nft_hu/status/1834261505313059201?s=46",
       "content": "和 $mao币的日子<a href=\"https://x.com/nft_hu/status/1834261505313059201?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1834261505313059201?s=46\">https://x.com/nft_hu/status/1834261505313059201?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1834261505313059201?s=46\" target=\"_blank\" rel=\"noopener\" title=\"这只磨人的小猫猫 $MAO关注很久了这个项目，算是关注人群很优质的早期项目，包括DWF各位大大和一些早期链上玩家都有关注的项目。1️⃣冲开盘被套前天晚上开盘合约一出来我发到群里的同时手动买入，果不其然手动挡买在了最高点。均价FDV18m买入2️⃣割肉还是加仓\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b5338ad9e3c5015f1770119810f2d8f6.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">这只磨人的小猫猫 $MAO<br>关注很久了这个项目，算是关注人群很优质的早期项目，包括DWF各位大大和一些早期链上玩家都有关注的项目。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>冲开盘被套<br>前天晚上开盘合约一出来我发到群里的同时手动买入，果不其然手动挡买在了最高点。均价FDV18m买入<br><br><i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>割肉还是加仓</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "266",
-      "title": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 @BroLeonAus @tyw1984 @_0xSea_ 1⃣️什么是 $FB 经济模型又如何：",
-      "type": "text",
-      "datetime": "2024-09-12T13:55:14+00:00",
-      "tags": [],
-      "text": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 @BroLeonAus @tyw1984 @_0xSea_ 1⃣️什么是 $FB 经济模型又如何：https://x.com/BroLeonAus/status/18341080196318744432⃣️如果没有空投，又想购买，如何操作：https://x.com/tyw1984/status/18337931660733567243⃣️FB生态里有什么值得关注的？maybe Cat，Cat本身也是推高 $FB 的一种策略https://x.com/_0xSea_/status/18340281894355273114⃣️划重点，关于经济模型：经济模型和当前流通 $FB 一共总量 2.1 亿枚，其中 80% 分配给社区， 20% 分配给团队和贡献者，POW 挖矿 50%。 10% 的社区激励。",
-      "content": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 <a href=\"https://t.me/BroLeonAus\" target=\"_blank\" title=\"@BroLeonAus\">@BroLeonAus</a> <a href=\"https://t.me/tyw1984\" target=\"_blank\" title=\"@tyw1984\">@tyw1984</a> <a href=\"https://t.me/_0xSea_\" target=\"_blank\" title=\"@_0xSea_\">@_0xSea_</a> <br><i class=\"emoji\"><b>1⃣️</b></i>什么是 $FB 经济模型又如何：<br><a href=\"https://x.com/BroLeonAus/status/1834108019631874443\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/BroLeonAus/status/1834108019631874443\">https://x.com/BroLeonAus/status/1834108019631874443</a><br><i class=\"emoji\"><b>2⃣️</b></i>如果没有空投，又想购买，如何操作：<br><a href=\"https://x.com/tyw1984/status/1833793166073356724\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/tyw1984/status/1833793166073356724\">https://x.com/tyw1984/status/1833793166073356724</a><br><i class=\"emoji\"><b>3⃣️</b></i>FB生态里有什么值得关注的？<br>maybe Cat，Cat本身也是推高 $FB 的一种策略<br><a href=\"https://x.com/_0xSea_/status/1834028189435527311\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/_0xSea_/status/1834028189435527311\">https://x.com/_0xSea_/status/1834028189435527311</a><br><i class=\"emoji\"><b>4⃣️</b></i>划重点，关于经济模型：<br>经济模型和当前流通 $FB 一共总量 2.1 亿枚，其中 80% 分配给社区， 20% 分配给团队和贡献者，POW 挖矿 50%。 10% 的社区激励。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "10",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

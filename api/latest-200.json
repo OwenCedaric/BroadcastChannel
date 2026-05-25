@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/17129a4b432b05b9b65704543525e787.jpg",
-    "totalPosts": 664,
+    "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
+    "totalPosts": 665,
     "totalPages": 34,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "494",
+      "title": "加仓了美光",
+      "type": "text",
+      "datetime": "2026-01-16T14:42:53+00:00",
+      "tags": [],
+      "text": "加仓了美光",
+      "content": "加仓了美光",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "493",
       "title": "周三，预测市场的资金用真金白银下注“开战窗口”，polymarket充分定价开战的几率",
@@ -387,27 +408,6 @@
         {
           "emoji": "🔥",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "471",
-      "title": "SK到了止盈位置卖出了，虽然感觉会卖飞",
-      "type": "text",
-      "datetime": "2026-01-08T04:40:44+00:00",
-      "tags": [],
-      "text": "SK到了止盈位置卖出了，虽然感觉会卖飞。但是还是尊重挂单",
-      "content": "SK到了止盈位置卖出了，虽然感觉会卖飞。但是还是尊重挂单",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
           "isPaid": false
         }
       ]

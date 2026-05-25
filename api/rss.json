@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/698",
+      "title": "Post #698",
+      "description": "",
+      "date_published": "2026-05-25T10:52:24.000Z",
+      "tags": [],
+      "content_html": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-698-0\" popovertargetaction=\"show\">\n        <img src=\"/static/43d6b5a4c728b5650279336170d1ad54.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-698-0\" popovertarget=\"modal-698-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/43d6b5a4c728b5650279336170d1ad54.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/697",
       "title": "最近很火一直疯涨的 MLCC 是什么？现在这个产业的竞争格局是如何的？这是一篇非常马后炮的科普文，不过虽迟但到，虽然股票不敢买了，但是知识还是得吸收！",
       "description": "",
@@ -401,14 +409,6 @@
       "date_published": "2026-04-24T00:57:41.000Z",
       "tags": [],
       "content_html": "最近以来买到的牛股基本还是紧紧扣着AI，毕竟几千亿的CapEx都要找到去处：<br><br><i class=\"emoji\"><b>1️⃣</b></i>存储股：<br>$MU $SK 以及相对的两倍做多 $MUU 07709，两倍做多适合单边行情启动之时，震荡期拿着磨损有点心疼。不过都吃到了翻倍，给到一个夯。<br><i class=\"emoji\"><b>2️⃣</b></i>光通讯<br>前期重仓 $COHR 但是吃了几波大涨就全卖飞了，后期选择了 $MRVL $CRDO $AEHR $AXTI 基本也都翻倍或者接近翻倍，因为涨的加速度很快，给到一个夯。<br><i class=\"emoji\"><b>3️⃣</b></i>CPU<br>单吊一个 $INTC 也吃到了翻倍，但是整体持仓体验不如前两个板块，给一个人上人。<br><i class=\"emoji\"><b>4️⃣</b></i>港股板块<br>港股买的很杂，打新股和一些概念股轮流买卖，操作非常不理想有赚有亏，给一个NPC。真的赚到钱的之后07709和宁德时代。剩下的小打小闹，重点批评 优必选和阿里，今年实在拉爆了。<br><i class=\"emoji\"><b>5️⃣</b></i>火箭板块<br>$RKLB $ASTS $SATS 除了小火箭因为良好的几次加仓行为，吃了一个70%的涨幅之外，其他两都没贡献什么收益。整个板块目前NPC，希望接下来会有更好的表现。<br><i class=\"emoji\"><b>6️⃣</b></i> 时代弃子股<br>这个板块基本属于目前的垃圾回收，基本都是涨过一波但是现在跌的不敢认的。已经介入抄底。<br>目前主要回收了 $CRCL $DUOL $MSTR $NOW $AAPL的远期期权 $RDDT 。目前水上但不多，给一个NPC。"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/647",
-      "title": "股价不涨的时候，写再多利好都没人看",
-      "description": "",
-      "date_published": "2026-04-24T00:57:11.000Z",
-      "tags": [],
-      "content_html": "股价不涨的时候，写再多利好都没人看。但是现在 $INTC 走到你们面前了，是否可以回顾一下这些帖文：<br><br><i class=\"emoji\"><b>1️⃣</b></i>2025年5月13日，陈立武确认任命INTEL CEO，但是股价刚突破20+<br><a href=\"https://x.com/nft_hu/status/1900155606302154948?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1900155606302154948?s=20\">https://x.com/nft_hu/status/1900155606302154948?s=20</a><br><i class=\"emoji\"><b>2️⃣</b></i>2026年1月21日，长文写2026年会是INTC爆发关键年，但是股价40附近<br><a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><br><i class=\"emoji\"><b>3️⃣</b></i>2026年1月23日，财报后回调但依然看多逻辑<br><a href=\"https://x.com/nft_hu/status/2014687839368454541?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2014687839368454541?s=20\">https://x.com/nft_hu/status/2014687839368454541?s=20</a><br><i class=\"emoji\"><b>4️⃣</b></i>2026年1月30日，Intel 的 Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%<br><a href=\"https://x.com/nft_hu/status/2017236150361178597?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2017236150361178597?s=20\">https://x.com/nft_hu/status/2017236150361178597?s=20</a><br><i class=\"emoji\"><b>5️⃣</b></i>2月7日，陈立武组建梦之队，中国市场CPU缺货，交货期推迟<br><a href=\"https://x.com/nft_hu/status/2020131083917103391?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2020131083917103391?s=20\">https://x.com/nft_hu/status/2020131083917103391?s=20</a><br><br>我老公经常和我说，我写的调研根本没人看。其实看了眼这些帖文确实流量惨淡，不过那是我的来时路，是我的逻辑和思考。<br><br>投资和记录的快乐或许就在于，在无人问津时买入，在人声鼎沸时回看自己的逻辑，这种成就感和自我证明的快乐是难以言喻的。<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1900155606302154948?s=20\" target=\"_blank\" rel=\"noopener\" title=\"陈立武确认任命INTEL CEO，这一消息提振了股价 INTC上涨超过10%987年，陈立武创立了风险投资公司华登国际专注于半导体、清洁能源、软件及通讯等领域的投资。他被誉为“芯片创投教父”，在全球范围内投资了超过500家企业，其中138家成功上市。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f6aeab3556011b41368079b5533953d3.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">陈立武确认任命INTEL CEO，这一消息提振了股价 INTC上涨超过10%<br><br>987年，陈立武创立了风险投资公司华登国际专注于半导体、清洁能源、软件及通讯等领域的投资。他被誉为“芯片创投教父”，在全球范围内投资了超过500家企业，其中138家成功上市。</div>\n</a>"
     }
   ]
 }
