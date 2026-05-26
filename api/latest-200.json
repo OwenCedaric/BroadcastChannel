@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "投机之路",
+    "description": "",
+    "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
+    "totalPosts": 202,
+    "totalPages": 11,
+    "currentPage": 11,
+    "pageSize": 20,
+    "hasNextPage": false,
+    "hasPrevPage": true,
+    "nextPageUrl": null,
+    "prevPageUrl": "latest-180.json"
+  },
+  "data": [
+    {
+      "id": "8",
+      "title": "我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍",
+      "type": "text",
+      "datetime": "2025-04-27T15:42:46+00:00",
+      "tags": [],
+      "text": "我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍https://immersivetranslate.com/zh-Hans/但是加密市场的人一定要注意，使用这种会读取修改你浏览器信息的插件，要：1. 限制它能在哪些网页上读取修改信息，只有点击时才给予权限2. 尽量别在自己有加密钱包/登录交易所账户的浏览器上使用这种插件这个插件对于海外投机套利客来说是辅助工作的利器，但对于黑客来说这也是超高价值目标",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-8-0\" popovertargetaction=\"show\">\n        <img src=\"/static/ef284f85080b6d1164a469668a958bf5.jpg\" alt=\"我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-8-0\" popovertarget=\"modal-8-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/ef284f85080b6d1164a469668a958bf5.jpg\" alt=\"我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍\" loading=\"lazy\" />\n      </button>\n    </div>我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍<br><pre><code class=\"language-yaml\">https<span class=\"token punctuation\">:</span>//immersivetranslate.com/zh<span class=\"token punctuation\">-</span>Hans/</code></pre><br><br>但是加密市场的人一定要注意，使用这种会读取修改你浏览器信息的插件，要：<br>1. 限制它能在哪些网页上读取修改信息，只有点击时才给予权限<br>2. 尽量别在自己有加密钱包/登录交易所账户的浏览器上使用这种插件<br><br>这个插件对于海外投机套利客来说是辅助工作的利器，但对于黑客来说这也是超高价值目标",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "197",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "41",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结",
+      "type": "text",
+      "datetime": "2025-04-25T22:33:28+00:00",
+      "tags": [],
+      "text": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
+      "content": "为什么要建立此频道：<br>因为<br>- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。<br>- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量<br>- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉<br>- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个<br><br>我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "827",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "126",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "79",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}
