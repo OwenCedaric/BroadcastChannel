@@ -21,7 +21,7 @@ const DISCORD = getEnv(import.meta.env, Astro, 'DISCORD')
 const MASTODON = getEnv(import.meta.env, Astro, 'MASTODON')
 const BLUESKY = getEnv(import.meta.env, Astro, 'BLUESKY')
 
-const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? ''
+const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
 const hideDescription = getEnv(import.meta.env, Astro, 'HIDE_DESCRIPTION')
 ---
 

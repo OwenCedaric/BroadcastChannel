@@ -399,9 +399,10 @@ async function main() {
   }
 
   // Short-circuit: check if the latest post ID we just loaded matches the latest post ID from the previous run
+  let existingMeta = null
   try {
     const metaPath = path.join(API_DIR, 'meta.json')
-    const existingMeta = JSON.parse(await fs.readFile(metaPath, 'utf-8'))
+    existingMeta = JSON.parse(await fs.readFile(metaPath, 'utf-8'))
     const latestPostId = posts[0].id
 
     // We can assume if totalPosts are the same and the most recent ID is the same, no new data has been added
@@ -418,7 +419,10 @@ async function main() {
   const channelMeta = await fetchChannelMeta({ channel: process.env.CHANNEL || 'miantiao_me' })
 
   // Localize channel avatar
-  if (channelMeta.avatar) {
+  if (existingMeta?.avatar?.startsWith('/static/')) {
+    channelMeta.avatar = existingMeta.avatar
+    console.info(`[Stage 2] Reused existing local channel avatar: ${channelMeta.avatar}`)
+  } else if (channelMeta.avatar) {
     channelMeta.avatar = await localizeUrl(channelMeta.avatar)
     console.info(`[Stage 2] Localized channel avatar: ${channelMeta.avatar}`)
   }

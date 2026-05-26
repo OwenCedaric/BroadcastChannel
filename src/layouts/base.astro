@@ -11,6 +11,7 @@ const { SITE_URL, RSS_URL, RSS_PREFIX } = Astro.locals
 const { channel } = Astro.props
 
 const locale = getEnv(import.meta.env, Astro, 'LOCALE')
+const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
 
 const seo = channel?.seo
 const reqPathname = Astro.url.pathname.replace(/\/$/, '')
@@ -33,7 +34,7 @@ const seoParams = {
       image: channel?.avatar
         ? channel.avatar.startsWith('/')
           ? origin + channel.avatar
-          : channel.avatar
+          : origin + staticProxy + channel.avatar
         : origin + '/favicon.ico',
     },
     optional: {
@@ -48,7 +49,7 @@ const seoParams = {
         href: channel?.avatar
           ? channel.avatar.startsWith('/')
             ? channel.avatar
-            : `https://wsrv.nl/?w=64&h=64&fit=cover&mask=circle&url=ssl:${channel.avatar.replace(/^https?:\/\//, '')}`
+            : staticProxy + channel.avatar
           : '/favicon.svg',
       },
     ],
