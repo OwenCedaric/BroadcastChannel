@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "33",
+      "title": "",
+      "type": "text",
+      "datetime": "2023-12-06T17:05:13+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-33-0\" popovertargetaction=\"show\">\n        <img src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-33-0\" popovertarget=\"modal-33-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": []
+    },
     {
       "id": "31",
       "title": "2⃣当下看好，进进出出$FTTFTX的赔付方案和重组方案应该都会在近期迎来结果",
@@ -263,22 +273,6 @@
       "tags": [],
       "text": "需要更多关注比特币生态和新的协议。",
       "content": "需要更多关注比特币生态和新的协议。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "title": "Fiona‘s daily news-11.3, 2023美股消息：1-Block Inc. Q3 财报：净营收同比增加 24% 至 56.2 亿美元，比特币毛利润为 4500 万美元",
-      "type": "text",
-      "datetime": "2023-11-03T02:25:07+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-11.3, 2023美股消息：1-Block Inc. Q3 财报：净营收同比增加 24% 至 56.2 亿美元，比特币毛利润为 4500 万美元https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf2-coinbase第三季度财报：revenue  was $674.1 million, with a net loss of $2 millionhttps://www.theblock.co/post/261218/coinbase-beats-q3-estimates-usdc-interest-income-rebounds-to-172-million?utm_source=onecryptofeed&utm_medium=social3-Strike宣布升级服务:允许Strike客户无限制地转移资金，购买任意数量的比特币，用Strike用比特币支付工资的任何部分，用借记卡进行闪电支付，用银行账户将比特币存入冷库https://jimmymow.medium.com/strike-upgrades-direct-deposit-wires-cards-and-more-6f1f1721fa21News：1- Coin Center 就 Tornado Cash 遭制裁向美国财政部海外资产控制办公室（OFAC）提起的诉讼被驳回2-FTX 创始人 Sam Bankman-Fried（SBF）在纽约受审时被判犯有全部七项刑事罪名https://www.reuters.com/legal/ftx-founder-sam-bankman-fried-thought-rules-did-not-apply-him-prosecutor-says-2023-11-02/3-过去一月 SOL 价格上涨约 80%，或与 Breakpoint2023、FTX 有关https://foresightnews.pro/news/detail/321064-QCP:最近的比特币上涨与现货ETF的发展关系不大，更多的是与宏观力量有关https://t.me/QCPbroadcast/1096项目消息：1-Solana 生态交易聚合器 Jupiter 将推出代币 JUP，40% 将空投给社区2-Aragon Association 将全面解散，将部署 86,343 ETH 用于 ANT 赎回 https://t.me/foresightnews/330583-Orderly Omnichain 已在主网上线，首先部署在 ArbitrumNEAR生态4-Nym 将于明年第一季度推出去中心化 VPN「NymVPNhttps://foresightnews.pro/news/h5Detail/321035-WOOFi 推出基于订单簿的 Perps 协议 WOOFi Pro，现已上线 Arbitrum6-$MEME上线在即，是否复刻$ape走势行情资讯：1-sushi，mask暴涨2-TIA冲高后回落3-GAS暴跌BTC生态：1.sats新高，市值破一亿",
-      "content": "Fiona‘s daily news-11.3, 2023<br><br>美股消息：<br>1-Block Inc. Q3 财报：净营收同比增加 24% 至 56.2 亿美元，比特币毛利润为 4500 万美元<br><a href=\"https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf\" target=\"_blank\" rel=\"noopener\" title=\"https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf\">https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf</a><br>2-coinbase第三季度财报：revenue  was $674.1 million, with a net loss of $2 million<br><a href=\"https://www.theblock.co/post/261218/coinbase-beats-q3-estimates-usdc-interest-income-rebounds-to-172-million?utm_source=onecryptofeed&amp;amp;utm_medium=social\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/261218/coinbase-beats-q3-estimates-usdc-interest-income-rebounds-to-172-million?utm_source=onecryptofeed&amp;utm_medium=social\">https://www.theblock.co/post/261218/coinbase-beats-q3-estimates-usdc-interest-income-rebounds-to-172-million?utm_source=onecryptofeed&amp;utm_medium=social</a><br>3-Strike宣布升级服务:允许Strike客户无限制地转移资金，购买任意数量的比特币，用Strike用比特币支付工资的任何部分，用借记卡进行闪电支付，用银行账户将比特币存入冷库<br><a href=\"https://jimmymow.medium.com/strike-upgrades-direct-deposit-wires-cards-and-more-6f1f1721fa21\" target=\"_blank\" rel=\"noopener\" title=\"https://jimmymow.medium.com/strike-upgrades-direct-deposit-wires-cards-and-more-6f1f1721fa21\">https://jimmymow.medium.com/strike-upgrades-direct-deposit-wires-cards-and-more-6f1f1721fa21</a><br><br><br>News：<br>1- Coin Center 就 Tornado Cash 遭制裁向美国财政部海外资产控制办公室（OFAC）提起的诉讼被驳回<br>2-FTX 创始人 Sam Bankman-Fried（SBF）在纽约受审时被判犯有全部七项刑事罪名<br><a href=\"https://www.reuters.com/legal/ftx-founder-sam-bankman-fried-thought-rules-did-not-apply-him-prosecutor-says-2023-11-02/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.reuters.com/legal/ftx-founder-sam-bankman-fried-thought-rules-did-not-apply-him-prosecutor-says-2023-11-02/\">https://www.reuters.com/legal/ftx-founder-sam-bankman-fried-thought-rules-did-not-apply-him-prosecutor-says-2023-11-02/</a><br>3-过去一月 SOL 价格上涨约 80%，或与 Breakpoint2023、FTX 有关<br><a href=\"https://foresightnews.pro/news/detail/32106\" target=\"_blank\" rel=\"noopener\" title=\"https://foresightnews.pro/news/detail/32106\">https://foresightnews.pro/news/detail/32106</a><br>4-QCP:最近的比特币上涨与现货ETF的发展关系不大，更多的是与宏观力量有关<br><a href=\"https://t.me/QCPbroadcast/1096\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/QCPbroadcast/1096\">https://t.me/QCPbroadcast/1096</a><br><br><br>项目消息：<br>1-Solana 生态交易聚合器 Jupiter 将推出代币 JUP，40% 将空投给社区<br>2-Aragon Association 将全面解散，将部署 86,343 ETH 用于 ANT 赎回 <a href=\"https://t.me/foresightnews/33058\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/foresightnews/33058\">https://t.me/foresightnews/33058</a><br>3-Orderly Omnichain 已在主网上线，首先部署在 Arbitrum<br>NEAR生态<br>4-Nym 将于明年第一季度推出去中心化 VPN「NymVPN<br><a href=\"https://foresightnews.pro/news/h5Detail/32103\" target=\"_blank\" rel=\"noopener\" title=\"https://foresightnews.pro/news/h5Detail/32103\">https://foresightnews.pro/news/h5Detail/32103</a><br>5-WOOFi 推出基于订单簿的 Perps 协议 WOOFi Pro，现已上线 Arbitrum<br>6-$MEME上线在即，是否复刻$ape走势<br><br>行情资讯：<br>1-sushi，mask暴涨<br>2-TIA冲高后回落<br>3-GAS暴跌<br><br>BTC生态：<br>1.sats新高，市值破一亿<a class=\"tgme_widget_message_link_preview\" href=\"https://www.theblock.co/post/261218/coinbase-beats-q3-estimates-usdc-interest-income-rebounds-to-172-million?utm_source=telegram1&amp;utm_medium=social\" target=\"_blank\" rel=\"noopener\" title=\"Coinbase generated $674.1 million in revenue during the third quarter of 2023 compared to $590.3 million for the same period in 2022.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">The Block</div>\n  <img class=\"link_preview_image\" alt=\"Coinbase beats Q3 estimates, USDC interest income rebounds to $172 million\" src=\"/static/be47ab85210a61440045a57b10b3515f.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Coinbase beats Q3 estimates, USDC interest income rebounds to $172 million</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Coinbase generated $674.1 million in revenue during the third quarter of 2023 compared to $590.3 million for the same period in 2022.</div>\n</a>",
       "reactions": [
         {
           "emoji": "👍",

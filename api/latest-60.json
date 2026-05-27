@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "638",
+      "title": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究",
+      "type": "text",
+      "datetime": "2026-04-21T11:55:38+00:00",
+      "tags": [],
+      "text": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究。",
+      "content": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "637",
       "title": "今天港股还有两支股票可以打，迈威生物和曦智科技",
@@ -339,32 +355,6 @@
         },
         {
           "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "618",
-      "title": "最近新云Neocloud真的春天到了",
-      "type": "text",
-      "datetime": "2026-04-14T08:03:33+00:00",
-      "tags": [],
-      "text": "最近新云Neocloud真的春天到了。尤其是微软的千亿大单引爆了CoreWeave $NBIS 。股价也都走出了震荡区间。AI算力缺口仍然存在，NeoCloud长约不断，新云也进入超级周期？Neocloud 提供更短约期（3–12 个月甚至按时租）、高密度 GPU、低延迟网路，对 AI 初创和 model lab 的需求 match 度很高，高增长更给了市场以兴奋点。先梳理一下相关的Ticker：1️⃣ $CRWV 算新云巨头，英伟达投资，和OpenAI深度合作2️⃣ $NBIS 算新云第二巨头，同英伟达投资，拿下微软大单3️⃣ $ORCL 算新云的竞争对手，但是打法也有一点“新云化”。对纯 NeoCloud 来说：甲骨文是潜在大客户，承租算力、机房容量；也可能是合作伙伴（互租机房、转包部分负载）。4️⃣ Fastly $FSLY : 边缘计算＋安全，近一年因估值偏低、边缘平台适合 AI 工作负载（比如模型推理 API、低延迟内容分发）被重评。智能体AI对低延迟的要求也利好 Fastly5️⃣ $APLD : 也是被锤很久终于反弹，深度绑定英伟达的云服务中心。6️⃣ $DOCN :中小企业版的新云 / AI 云平台,靠 AI 推理与代理人应用放量，最近上涨颇多。",
-      "content": "最近新云Neocloud真的春天到了。尤其是微软的千亿大单引爆了CoreWeave $NBIS 。股价也都走出了震荡区间。<br><br>AI算力缺口仍然存在，NeoCloud长约不断，新云也进入超级周期？Neocloud 提供更短约期（3–12 个月甚至按时租）、高密度 GPU、低延迟网路，对 AI 初创和 model lab 的需求 match 度很高，高增长更给了市场以兴奋点。<br><br>先梳理一下相关的Ticker：<br><i class=\"emoji\"><b>1️⃣</b></i> $CRWV 算新云巨头，英伟达投资，和OpenAI深度合作<br><i class=\"emoji\"><b>2️⃣</b></i> $NBIS 算新云第二巨头，同英伟达投资，拿下微软大单<br><i class=\"emoji\"><b>3️⃣</b></i> $ORCL 算新云的竞争对手，但是打法也有一点“新云化”。对纯 NeoCloud 来说：甲骨文是潜在大客户，承租算力、机房容量；也可能是合作伙伴（互租机房、转包部分负载）。<br><i class=\"emoji\"><b>4️⃣</b></i> Fastly $FSLY : 边缘计算＋安全，近一年因估值偏低、边缘平台适合 AI 工作负载（比如模型推理 API、低延迟内容分发）被重评。智能体AI对低延迟的要求也利好 Fastly<br><i class=\"emoji\"><b>5️⃣</b></i> $APLD : 也是被锤很久终于反弹，深度绑定英伟达的云服务中心。<br><i class=\"emoji\"><b>6️⃣</b></i> $DOCN :中小企业版的新云 / AI 云平台,靠 AI 推理与代理人应用放量，最近上涨颇多。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
           "count": "1",
           "isPaid": false
         }

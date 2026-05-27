@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "142",
+      "title": "虽然痛苦 但是买了点w 到我的第一目标价位",
+      "type": "text",
+      "datetime": "2024-04-13T04:56:16+00:00",
+      "tags": [],
+      "text": "虽然痛苦 但是买了点w 到我的第一目标价位",
+      "content": "虽然痛苦 但是买了点w 到我的第一目标价位",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "141",
       "title": "Aethir 之前买的节点可以领取",
@@ -365,27 +391,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "122",
-      "title": "Join Humanity protocol——next $WLD for me.Join the waitlist: ",
-      "type": "text",
-      "datetime": "2024-03-20T09:46:07+00:00",
-      "tags": [],
-      "text": "Join Humanity protocol——next $WLD for me.Join the waitlist: https://cfh.xyz/?ref_id=PPZWRF5HT",
-      "content": "Join Humanity protocol——next $WLD for me.<br>Join the waitlist: <a href=\"https://cfh.xyz/?ref_id=PPZWRF5HT\" target=\"_blank\" rel=\"noopener\" title=\"https://cfh.xyz/?ref_id=PPZWRF5HT\">https://cfh.xyz/?ref_id=PPZWRF5HT</a>",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
           "isPaid": false
         }
       ]

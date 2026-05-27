@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 32,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-600.json"
   },
   "data": [
+    {
+      "id": "56",
+      "title": "SEI暴涨 平行EVM概念重视起来 ",
+      "type": "text",
+      "datetime": "2024-01-02T02:39:30+00:00",
+      "tags": [],
+      "text": "SEI暴涨 平行EVM概念重视起来 https://www.techflowpost.com/article/detail_15290.html",
+      "content": "SEI暴涨 平行EVM概念重视起来 <a href=\"https://www.techflowpost.com/article/detail_15290.html\" target=\"_blank\" rel=\"noopener\" title=\"https://www.techflowpost.com/article/detail_15290.html\">https://www.techflowpost.com/article/detail_15290.html</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.techflowpost.com/article/detail_15290.html\" target=\"_blank\" rel=\"noopener\" title=\"2024 将会是“并行 EVM 之年”。\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">TechFlow</div>\n  <img class=\"link_preview_image\" alt=\"提前布局下一个叙事：并行 EVM 兴起，哪些项目值得重点关注？ - 深潮TechFlow\" src=\"/static/79fe933792c912e23013520ad1a612e6.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">提前布局下一个叙事：并行 EVM 兴起，哪些项目值得重点关注？ - 深潮TechFlow</div>\n  <div class=\"link_preview_description\" dir=\"auto\">2024 将会是“并行 EVM 之年”。</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "55",
       "title": "大家可以一起加入我们的群组战队，在notcoin menu加战队的界面搜索🔍",
@@ -355,16 +371,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "33",
-      "title": "",
-      "type": "text",
-      "datetime": "2023-12-06T17:05:13+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-33-0\" popovertargetaction=\"show\">\n        <img src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-33-0\" popovertarget=\"modal-33-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": []
     }
   ]
 }

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "162",
+      "title": "ETH ETF一定是长期利好，只是利好发生需要时间",
+      "type": "text",
+      "datetime": "2024-05-25T04:51:50+00:00",
+      "tags": [],
+      "text": "ETH ETF一定是长期利好，只是利好发生需要时间。容我刻舟求剑一下，4年一届，2025年牛市来临。不是不涨，时候未到",
+      "content": "ETH ETF一定是长期利好，只是利好发生需要时间。容我刻舟求剑一下，4年一届，2025年牛市来临。不是不涨，时候未到",
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "161",
       "title": "关注UNI，下周五投票🗳️",
@@ -411,32 +427,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "142",
-      "title": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "type": "text",
-      "datetime": "2024-04-13T04:56:16+00:00",
-      "tags": [],
-      "text": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "content": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

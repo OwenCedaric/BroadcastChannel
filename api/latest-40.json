@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "659",
+      "title": "仅仅几天， Intel $INTC 的股价接近100",
+      "type": "text",
+      "datetime": "2026-04-30T00:09:32+00:00",
+      "tags": [],
+      "text": "仅仅几天， Intel $INTC 的股价接近100。Trump也下场喊单！稍微把几个重要的事实联系一下看一下：1️⃣大背景CPU热+AI agent2️⃣Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%。3️⃣去年股价20多块的时候三大投资方，美国政府、英伟达、软银4️⃣陈立武挖了很多半导体大拿组建Intel梦之队5️⃣Chips法案重点支持项目（真金白银支持）就有Intel$INTC 的爆发不是突然的，而是积跬步而至千里。一切都有迹可循。容许我call back一下1月23日的自己：Intel 的仓位我不会动，逻辑是： Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。  美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软银、苹果等。",
+      "content": "仅仅几天， Intel <br>$INTC<br> 的股价接近100。Trump也下场喊单！<br><br>稍微把几个重要的事实联系一下看一下：<br><br><i class=\"emoji\"><b>1️⃣</b></i>大背景CPU热+AI agent<br><i class=\"emoji\"><b>2️⃣</b></i>Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%。<br><i class=\"emoji\"><b>3️⃣</b></i>去年股价20多块的时候三大投资方，美国政府、英伟达、软银<br><i class=\"emoji\"><b>4️⃣</b></i>陈立武挖了很多半导体大拿组建Intel梦之队<br><i class=\"emoji\"><b>5️⃣</b></i>Chips法案重点支持项目（真金白银支持）就有Intel<br><br>$INTC<br> 的爆发不是突然的，而是积跬步而至千里。一切都有迹可循。<br><br>容许我call back一下1月23日的自己：<br>Intel 的仓位我不会动，逻辑是： Intel是处在美国国家半导体生态中的关键位置。<br>今天的AI或者半导体之争已经升级为“国家级基础设施战争”。  美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。<br>NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软银、苹果等。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "658",
       "title": "AXTI也是今晚财报，许可证是关键 ",
@@ -377,22 +398,6 @@
         {
           "emoji": "👍",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "638",
-      "title": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究",
-      "type": "text",
-      "datetime": "2026-04-21T11:55:38+00:00",
-      "tags": [],
-      "text": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究。",
-      "content": "胜宏科技也建仓了，买入原因基于他在AI算力高端PCB领域的龙头地位，和最近业绩的高速增长，加上港股热，先上车再研究。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
           "isPaid": false
         }
       ]

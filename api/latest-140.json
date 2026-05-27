@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "556",
+      "title": "相信最近炒股的朋友都过的有点痛苦，我也同样",
+      "type": "text",
+      "datetime": "2026-03-04T01:57:43+00:00",
+      "tags": [],
+      "text": "相信最近炒股的朋友都过的有点痛苦，我也同样。估计特朗普也怕原油过于失控而引发更大危机，祭出了大杀器“护航+保险“。油价确实暂时下去了，但是亚洲股市开盘还是继续下跌了。不觉得战争可以很快结束，但是希望金融市场的失序可以尽快止住，跌一星期的也就差不多了。再多就真的承受不住了😭这周晚上盯美股，白天看亚盘，看看哪边有希望能够先出现一个支撑。依旧是在痛苦抄底中。",
+      "content": "相信最近炒股的朋友都过的有点痛苦，我也同样。估计特朗普也怕原油过于失控而引发更大危机，祭出了大杀器“护航+保险“。油价确实暂时下去了，但是亚洲股市开盘还是继续下跌了。<br><br>不觉得战争可以很快结束，但是希望金融市场的失序可以尽快止住，跌一星期的也就差不多了。再多就真的承受不住了<i class=\"emoji\"><b>😭</b></i><br><br>这周晚上盯美股，白天看亚盘，看看哪边有希望能够先出现一个支撑。依旧是在痛苦抄底中。",
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "555",
       "title": "关于 $EWY: AI说的，非投资建议",
@@ -382,32 +408,6 @@
         {
           "emoji": "👍",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "535",
-      "title": "",
-      "type": "text",
-      "datetime": "2026-02-06T02:42:06+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-535-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f691f96e87e1e87f5f746fe60ba03b0a.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-535-0\" popovertarget=\"modal-535-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f691f96e87e1e87f5f746fe60ba03b0a.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "1",
           "isPaid": false
         }
       ]

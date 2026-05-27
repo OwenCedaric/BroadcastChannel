@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "307",
+      "title": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了",
+      "type": "text",
+      "datetime": "2025-04-07T01:39:32+00:00",
+      "tags": [],
+      "text": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。也算某种我自以为是的对冲",
+      "content": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。<br>也算某种我自以为是的对冲",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "18",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "306",
       "title": "鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买",
@@ -482,32 +498,6 @@
         },
         {
           "emoji": "😍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "287",
-      "title": "最近两周交易复盘",
-      "type": "text",
-      "datetime": "2024-10-14T14:22:11+00:00",
-      "tags": [],
-      "text": "最近两周交易复盘https://x.com/nft_hu/status/1845831951027954032?s=46",
-      "content": "最近两周交易复盘<a href=\"https://x.com/nft_hu/status/1845831951027954032?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1845831951027954032?s=46\">https://x.com/nft_hu/status/1845831951027954032?s=46</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
           "count": "1",
           "isPaid": false
         }

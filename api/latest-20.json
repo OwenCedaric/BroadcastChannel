@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "679",
+      "title": "伊朗向美军舰发射导弹据伊朗法尔斯通讯社报道，一艘美军舰今天（5月4日）无视伊朗警告，试图接近并进入霍尔木兹海峡",
+      "type": "text",
+      "datetime": "2026-05-04T10:22:49+00:00",
+      "tags": [],
+      "text": "伊朗向美军舰发射导弹据伊朗法尔斯通讯社报道，一艘美军舰今天（5月4日）无视伊朗警告，试图接近并进入霍尔木兹海峡。伊朗向其发射两枚导弹。该舰调头返航。（CCTV国际时讯）",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/663\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">布油120，通胀预期，战争叙事再来</div>\n</small></blockquote></a>伊朗向美军舰发射导弹<br><br>据伊朗法尔斯通讯社报道，一艘美军舰今天（5月4日）无视伊朗警告，试图接近并进入霍尔木兹海峡。伊朗向其发射两枚导弹。该舰调头返航。（CCTV国际时讯）",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🍾",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "678",
       "title": "赶紧找补一下，币圈的项目通常有一点基本面和很多项目方的人品，踩过的坑太多所以我说我看人的眼光不行",
@@ -395,27 +416,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "659",
-      "title": "仅仅几天， Intel $INTC 的股价接近100",
-      "type": "text",
-      "datetime": "2026-04-30T00:09:32+00:00",
-      "tags": [],
-      "text": "仅仅几天， Intel $INTC 的股价接近100。Trump也下场喊单！稍微把几个重要的事实联系一下看一下：1️⃣大背景CPU热+AI agent2️⃣Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%。3️⃣去年股价20多块的时候三大投资方，美国政府、英伟达、软银4️⃣陈立武挖了很多半导体大拿组建Intel梦之队5️⃣Chips法案重点支持项目（真金白银支持）就有Intel$INTC 的爆发不是突然的，而是积跬步而至千里。一切都有迹可循。容许我call back一下1月23日的自己：Intel 的仓位我不会动，逻辑是： Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。  美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软银、苹果等。",
-      "content": "仅仅几天， Intel <br>$INTC<br> 的股价接近100。Trump也下场喊单！<br><br>稍微把几个重要的事实联系一下看一下：<br><br><i class=\"emoji\"><b>1️⃣</b></i>大背景CPU热+AI agent<br><i class=\"emoji\"><b>2️⃣</b></i>Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%。<br><i class=\"emoji\"><b>3️⃣</b></i>去年股价20多块的时候三大投资方，美国政府、英伟达、软银<br><i class=\"emoji\"><b>4️⃣</b></i>陈立武挖了很多半导体大拿组建Intel梦之队<br><i class=\"emoji\"><b>5️⃣</b></i>Chips法案重点支持项目（真金白银支持）就有Intel<br><br>$INTC<br> 的爆发不是突然的，而是积跬步而至千里。一切都有迹可循。<br><br>容许我call back一下1月23日的自己：<br>Intel 的仓位我不会动，逻辑是： Intel是处在美国国家半导体生态中的关键位置。<br>今天的AI或者半导体之争已经升级为“国家级基础设施战争”。  美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。<br>NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软银、苹果等。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 665,
+    "totalPosts": 666,
     "totalPages": 34,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "430",
+      "title": "MNT巨大的利润消失了，现在还持有原来的仓位",
+      "type": "text",
+      "datetime": "2025-10-10T08:03:09+00:00",
+      "tags": [],
+      "text": "MNT巨大的利润消失了，现在还持有原来的仓位。需要问几个问题:1️⃣看好接下来的大盘呢？2️⃣MNT的基本面好么？有变化呢？3️⃣现在谁在卖？这部分卖盘可以被消化么？4️⃣Bybit做好MNT的决心和预算究竟有多少。",
+      "content": "MNT巨大的利润消失了，现在还持有原来的仓位。需要问几个问题:<br><i class=\"emoji\"><b>1️⃣</b></i>看好接下来的大盘呢？<br><i class=\"emoji\"><b>2️⃣</b></i>MNT的基本面好么？有变化呢？<br><i class=\"emoji\"><b>3️⃣</b></i>现在谁在卖？这部分卖盘可以被消化么？<br><i class=\"emoji\"><b>4️⃣</b></i>Bybit做好MNT的决心和预算究竟有多少。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "429",
       "title": "MNT 彻底舒服",
@@ -397,22 +418,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "409",
-      "title": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高",
-      "type": "text",
-      "datetime": "2025-09-24T03:31:56+00:00",
-      "tags": [],
-      "text": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高。相信 持有 等待",
-      "content": "阿里巴巴(<a href=\"http://09988.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09988.HK\">09988.HK</a>)涨幅扩大至7%，股价创近4年新高。<br>相信 持有 等待",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
           "isPaid": false
         }
       ]
