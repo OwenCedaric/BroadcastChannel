@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 666,
+    "totalPosts": 667,
     "totalPages": 34,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "349",
+      "title": "破4000开了新的多单 $ETH🙏",
+      "type": "text",
+      "datetime": "2025-08-09T04:38:06+00:00",
+      "tags": [],
+      "text": "破4000开了新的多单 $ETH🙏",
+      "content": "破4000开了新的多单 <br>$ETH<br><i class=\"emoji\"><b>🙏</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "348",
       "title": "7月交易总结 ",
@@ -483,22 +504,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "328",
-      "title": "最近一个月（7月初至今）ETF资金表现自7月以来，累计净流入约 22.7 亿美元，是ETF推出以来最强劲的表现",
-      "type": "text",
-      "datetime": "2025-07-17T09:06:12+00:00",
-      "tags": [],
-      "text": "最近一个月（7月初至今）ETF资金表现自7月以来，累计净流入约 22.7 亿美元，是ETF推出以来最强劲的表现。单周表现突出：7月7日至11日的一周净流入达 9.08 亿美元。单日流入创纪录：7月16日单日净流入高达 7.27 亿美元，为历史最高；其中 BlackRock 的 ETHA 一天就流入了约 4.99 亿美元。这一切是有意义的。",
-      "content": "最近一个月（7月初至今）ETF资金表现<br>自7月以来，累计净流入约 22.7 亿美元，是ETF推出以来最强劲的表现。<br><br>单周表现突出：<br>7月7日至11日的一周净流入达 9.08 亿美元。<br><br>单日流入创纪录：<br>7月16日单日净流入高达 7.27 亿美元，为历史最高；<br>其中 BlackRock 的 ETHA 一天就流入了约 4.99 亿美元。<br><br>这一切是有意义的。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "8",
           "isPaid": false
         }
       ]

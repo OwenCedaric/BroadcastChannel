@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 666,
+    "totalPosts": 667,
     "totalPages": 34,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "579",
+      "title": "虽然减仓了，但是起码选对了板块",
+      "type": "text",
+      "datetime": "2026-03-16T14:06:11+00:00",
+      "tags": [],
+      "text": "虽然减仓了，但是起码选对了板块",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/563\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">仓位还是集中在内存和光通讯，因为韩股权重大，对能源价格敏感，所以还是谨慎持有中。 新增持有了 $MRVL 财报利好<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>这波下跌相对强势<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>GTC将近</div>\n</small></blockquote></a>虽然减仓了，但是起码选对了板块",
+      "reactions": []
+    },
     {
       "id": "578",
       "title": "全面暴涨发生中！韩股内存光 $HYPE 冲！",
@@ -371,27 +381,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "557",
-      "title": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底",
-      "type": "text",
-      "datetime": "2026-03-04T02:03:48+00:00",
-      "tags": [],
-      "text": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底。买不在最低点，但是买在更安全的位置。最怕的是战争变数，毕竟一旦开打，就不再是特朗普一个人说了算。我认为伊拉克的教训还在眼前，美国会竭尽全力避免卷入长期战争。但是战争局势确实瞬息万变。",
-      "content": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底。买不在最低点，但是买在更安全的位置。<br><br>最怕的是战争变数，毕竟一旦开打，就不再是特朗普一个人说了算。我认为伊拉克的教训还在眼前，美国会竭尽全力避免卷入长期战争。但是战争局势确实瞬息万变。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
           "isPaid": false
         }
       ]

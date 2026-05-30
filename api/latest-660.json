@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 666,
+    "totalPosts": 667,
     "totalPages": 34,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "10",
+      "title": "需要更多关注比特币生态和新的协议",
+      "type": "text",
+      "datetime": "2023-11-03T07:54:12+00:00",
+      "tags": [],
+      "text": "需要更多关注比特币生态和新的协议。",
+      "content": "需要更多关注比特币生态和新的协议。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "9",
       "title": "Fiona‘s daily news-11.3, 2023美股消息：1-Block Inc. Q3 财报：净营收同比增加 24% 至 56.2 亿美元，比特币毛利润为 4500 万美元",
