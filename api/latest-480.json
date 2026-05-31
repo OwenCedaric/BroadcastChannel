@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 668,
+    "totalPosts": 669,
     "totalPages": 34,
     "currentPage": 25,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-460.json"
   },
   "data": [
+    {
+      "id": "205",
+      "title": "值得注意的消息 ",
+      "type": "text",
+      "datetime": "2024-08-07T13:27:55+00:00",
+      "tags": [],
+      "text": "值得注意的消息 https://x.com/blockbeatsasia/status/1821138791555543282?s=46",
+      "content": "值得注意的消息 <a href=\"https://x.com/blockbeatsasia/status/1821138791555543282?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/blockbeatsasia/status/1821138791555543282?s=46\">https://x.com/blockbeatsasia/status/1821138791555543282?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/blockbeatsasia/status/1821138791555543282?s=46\" target=\"_blank\" rel=\"noopener\" title=\"Plus Token的钱包开始整理了⚠️据 Lookonchain 监测，数百个已经休眠 3.3 年的钱包正在转移大量 ETH，可能有 789,533 枚 ETH（20 亿美元）。通过链上追踪，发现这些资金来自钱包「Plus Token Ponzi 2」。「Plus Token Ponzi 2」在 2020 年向数千个钱包分散转移 789,533 枚 ETH，自 2021 年 4\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/acea3ed38273c4550fadd24c8a3dd971.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">BlockBeats｜We're hiring! (@BlockBeatsAsia) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Plus Token的钱包开始整理了<i class=\"emoji\" style=\"background-image:url('/static/4da481dd40fc84c335e77cfe75600c74.png')\"><b>⚠️</b></i>据 Lookonchain 监测，数百个已经休眠 3.3 年的钱包正在转移大量 ETH，可能有 789,533 枚 ETH（20 亿美元）。<br><br>通过链上追踪，发现这些资金来自钱包「Plus Token Ponzi 2」。<br><br>「Plus Token Ponzi 2」在 2020 年向数千个钱包分散转移 789,533 枚 ETH，自 2021 年 4</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "204",
       "title": "日本央行不加息，觉得短期会有上涨行情",
@@ -382,22 +398,6 @@
         {
           "emoji": "🤔",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "185",
-      "title": "",
-      "type": "text",
-      "datetime": "2024-07-14T07:03:08+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-185-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c34a321c5af0882e7b69532440a49175.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-185-0\" popovertarget=\"modal-185-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c34a321c5af0882e7b69532440a49175.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

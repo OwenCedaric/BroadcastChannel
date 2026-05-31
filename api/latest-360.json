@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 668,
+    "totalPosts": 669,
     "totalPages": 34,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "330",
+      "title": "BNB微策略 ",
+      "type": "text",
+      "datetime": "2025-07-17T13:48:32+00:00",
+      "tags": [],
+      "text": "BNB微策略 https://x.com/bruce_aiweb3/status/1945839274030682366?s=46",
+      "content": "BNB微策略 <a href=\"https://x.com/bruce_aiweb3/status/1945839274030682366?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/bruce_aiweb3/status/1945839274030682366?s=46\">https://x.com/bruce_aiweb3/status/1945839274030682366?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/bruce_aiweb3/status/1945839274030682366?s=46\" target=\"_blank\" rel=\"noopener\" title=\"Windtree- A Deep Dive into the &quot;BNB MicroStrategy&quot; PlayA major capital markets play is unfolding. A Nasdaq-listed biotech firm, Windtree Therapeutics ( $WINT), is pivoting to become the FIRST-EVER NASDAQ-LISTED @binance  treasury vehicle. This isn't…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4e2f1fa05c2627aac67cfcdc00876bed.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Bruce | AI &amp; Crypto Macro (@Bruceai) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Windtree- A Deep Dive into the \"BNB MicroStrategy\" Play<br><br>A major capital markets play is unfolding. <br><br>A Nasdaq-listed biotech firm, Windtree Therapeutics ( $WINT), is pivoting to become the FIRST-EVER NASDAQ-LISTED @binance  treasury vehicle. <br><br>This isn't…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "329",
       "title": "",
@@ -387,22 +403,6 @@
         {
           "emoji": "🤡",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "310",
-      "title": "好消息频出的早晨特朗普全面放软！！没有要解雇无意解雇鲍威尔，只是为了大家好想要呼联储降息而已～关税要降的，对华不会是145%～特朗普的话就像骗游客的摊贩，你对半砍也不会过分",
-      "type": "text",
-      "datetime": "2025-04-22T22:09:09+00:00",
-      "tags": [],
-      "text": "好消息频出的早晨特朗普全面放软！！没有要解雇无意解雇鲍威尔，只是为了大家好想要呼联储降息而已～关税要降的，对华不会是145%～特朗普的话就像骗游客的摊贩，你对半砍也不会过分。SEC新主席也提到：首要任务是为数字资产打下坚实的基础。",
-      "content": "好消息频出的早晨<br>特朗普全面放软！！<br>没有要解雇无意解雇鲍威尔，只是为了大家好想要呼联储降息而已～<br>关税要降的，对华不会是145%～<br>特朗普的话就像骗游客的摊贩，你对半砍也不会过分。<br><br>SEC新主席也提到：首要任务是为数字资产打下坚实的基础。",
-      "reactions": [
-        {
-          "emoji": "😍",
-          "count": "20",
           "isPaid": false
         }
       ]

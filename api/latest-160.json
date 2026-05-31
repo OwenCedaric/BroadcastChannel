@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 668,
+    "totalPosts": 669,
     "totalPages": 34,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "538",
+      "title": "開心了",
+      "type": "text",
+      "datetime": "2026-02-07T00:35:52+00:00",
+      "tags": [],
+      "text": "開心了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/534\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">市场全线暴跌，不好受，尝试痛苦左侧区间买入。看好-到达目标区间-买入-持有。做最简单也最难的事情。</div>\n</small></blockquote></a>開心了",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "537",
       "title": "96接到了 AGQ😂 前几天还400的 AGQ 2折大甩卖",
@@ -408,22 +424,6 @@
         {
           "emoji": "👏",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "518",
-      "title": "据美国哥伦比亚广播公司（CBS）：又一艘军舰——“德尔伯特·D·布莱克”号（USS Delbert D. Black）目前已部署在中东地区",
-      "type": "text",
-      "datetime": "2026-01-29T20:21:32+00:00",
-      "tags": [],
-      "text": "据美国哥伦比亚广播公司（CBS）：又一艘军舰——“德尔伯特·D·布莱克”号（USS Delbert D. Black）目前已部署在中东地区。伊朗周四向海上船只发出警告，称计划下周在霍尔木兹海峡进行一次演习，其中将包括实弹射击。看盘面走势，大家都认为真的要来了",
-      "content": "据美国哥伦比亚广播公司（CBS）：又一艘军舰——“德尔伯特·D·布莱克”号（USS Delbert D. Black）目前已部署在中东地区。<br><br>伊朗周四向海上船只发出警告，称计划下周在霍尔木兹海峡进行一次演习，其中将包括实弹射击。<br><br>看盘面走势，大家都认为真的要来了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 668,
+    "totalPosts": 669,
     "totalPages": 34,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "36",
+      "title": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高",
+      "type": "text",
+      "datetime": "2023-12-14T05:29:58+00:00",
+      "tags": [],
+      "text": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高。2️⃣ $PSBTC (骗傻逼同事，防弹少年团）mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK3️⃣$AVAV avax上的铭文，打了防身，名字又meme又羞耻4️⃣MICE，米老鼠很久之前打的，终于涨了5️⃣Turt今晚新IDO6️⃣昨晚把 $INJ 买回来了，之前卖飞我认错还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
+      "content": "返工第一天 :<br><i class=\"emoji\"><b>1️⃣</b></i>sols铭文，OK钱包主页推荐，上线gate，目前市值不高。<br><br><i class=\"emoji\"><b>2️⃣</b></i> $PSBTC (骗傻逼同事，防弹少年团）<br>mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK<br><br><i class=\"emoji\"><b>3️⃣</b></i>$AVAV avax上的铭文，打了防身，名字又meme又羞耻<br><br><i class=\"emoji\"><b>4️⃣</b></i>MICE，米老鼠很久之前打的，终于涨了<br><br><i class=\"emoji\"><b>5️⃣</b></i>Turt今晚新IDO<br><br><i class=\"emoji\"><b>6️⃣</b></i>昨晚把 $INJ 买回来了，之前卖飞我认错<br><br>还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。<br><br>近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "35",
       "title": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议",
@@ -262,18 +278,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "13",
-      "title": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉",
-      "type": "text",
-      "datetime": "2023-11-12T10:56:14+00:00",
-      "tags": [
-        "Gamfi"
-      ],
-      "text": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉。不过总体互动率还可以；YOUTUBE经营的还不错代币：11.8号上线CEX，目前流动性不佳NFT：地板0.12e  https://opensea.io/collection/shrapnel-operators-collection",
-      "content": "新项目介绍 <a href=\"/search/%23Gamfi\" title=\"#Gamfi\">#Gamfi</a><br>- <b>**SHRAPNEL**</b><br><br>AVAX 上的射击游戏<br><br>2023.12上线epic games，发行方Neon Machine<br><br>游戏：做的还不错，目前透露的画面看起来是标准射击游戏<br><br>社群：推特粉丝146k，看互动率应该有50%<i class=\"emoji\"><b>➕</b></i>是假粉。不过总体互动率还可以；YOUTUBE经营的还不错<br><br>代币：11.8号上线CEX，目前流动性不佳<br><br>NFT：地板0.12e  <a href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"https://opensea.io/collection/shrapnel-operators-collection\">https://opensea.io/collection/shrapnel-operators-collection</a><a class=\"tgme_widget_message_link_preview\" href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">opensea.io</div>\n  <img class=\"link_preview_image\" alt=\"Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea\" src=\"/static/4e11abd6f4c3c74e90290ffb51e5448b.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…</div>\n</a>",
-      "reactions": []
     }
   ]
 }

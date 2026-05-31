@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 668,
+    "totalPosts": 669,
     "totalPages": 34,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "371",
+      "title": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论",
+      "type": "text",
+      "datetime": "2025-09-05T12:11:44+00:00",
+      "tags": [],
+      "text": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论。机器人有几个核心部件，是不可或缺的：1️⃣芯片:  $NVDA $TSM2️⃣软件:  Google  Meta $ORCL3️⃣电池: 宁德时代4️⃣整合厂商：基本上是大型互联网企业或者车企，这个赛道比较拥挤，诸如比亚迪 阿里巴巴 特斯拉 小鹏，现代，丰田 小米等均是此外还有专职从事机器人研发的企业：Figure，宇树，优必选，Boston Dynamics...",
+      "content": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论。<br><br>机器人有几个核心部件，是不可或缺的：<br><i class=\"emoji\"><b>1️⃣</b></i>芯片:  $NVDA $TSM<br><i class=\"emoji\"><b>2️⃣</b></i>软件:  Google  Meta $ORCL<br><i class=\"emoji\"><b>3️⃣</b></i>电池: 宁德时代<br><i class=\"emoji\"><b>4️⃣</b></i>整合厂商：基本上是大型互联网企业或者车企，这个赛道比较拥挤，诸如比亚迪 阿里巴巴 特斯拉 小鹏，现代，丰田 小米等均是<br><br>此外还有专职从事机器人研发的企业：Figure，宇树，优必选，Boston Dynamics...",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "370",
       "title": "今晚感觉有大消息",
@@ -390,32 +411,6 @@
         {
           "emoji": "👍",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "351",
-      "title": "这段时间，一不注意，新的币股就和雨后春笋一般冒出来",
-      "type": "text",
-      "datetime": "2025-08-12T12:18:08+00:00",
-      "tags": [],
-      "text": "这段时间，一不注意，新的币股就和雨后春笋一般冒出来。本文来整理一下我知道的币股。欢迎评论区补充～--------------------------------------------------交易所+OG币股：加密货币相关股票，有强相关也有弱相关🌟Robinhood $HOOD🌟Coinbase $COIN🌟MicroStrtegy $MSTR🌟Bullish 近期IPO，与 $EOS 剪不断理还乱Kraken也在谋求上市中挖矿相关，多数都不太行，写两个我曾经持仓的：🌟比特小鹿 $BTDR 火过🌟嘉楠 $CAN 这一轮基本都没有声音了ETH国库概念：国库概念很多，但是目前以太坊相关的赢面最大，确定性最强。🌟 $BMNR 目前的第一，之前写过很多相关文章了🌟 $SBET 目前第二，和以太坊基金会渊源颇深🌟 ETHZilla（原名 180 Life Sciences）根据最新 SEC 披露，Thiel团队持有该公司的约 7.5% 股份。ETHZilla 的业务核心也是构建以太坊企业国库，披露后，股价大涨 11%🌟 $DYNX 是一家 SPAC，计划与 The Ether Machine（Ether Reserve LLC）合并，后者将拥有约 40 万枚以太坊（价值约 15 亿美元），并在纳斯达克 IPO，目标成为“纯以太坊收益”型的公募载体特朗普相关：🌟 $ALTS $WLFI的国库，既是预热也是市场预先定价，波动大，观望中🌟 $RTAC 目前也是一家壳公司，董事会与特朗普家族接近",
-      "content": "这段时间，一不注意，新的币股就和雨后春笋一般冒出来。本文来整理一下我知道的币股。欢迎评论区补充～<br><br>--------------------------------------------------<br>交易所+OG币股：<br>加密货币相关股票，有强相关也有弱相关<br><i class=\"emoji\"><b>🌟</b></i>Robinhood $HOOD<br><i class=\"emoji\"><b>🌟</b></i>Coinbase $COIN<br><i class=\"emoji\"><b>🌟</b></i>MicroStrtegy $MSTR<br><i class=\"emoji\"><b>🌟</b></i>Bullish 近期IPO，与 $EOS 剪不断理还乱<br>Kraken也在谋求上市中<br><br>挖矿相关，多数都不太行，写两个我曾经持仓的：<br><i class=\"emoji\"><b>🌟</b></i>比特小鹿 $BTDR 火过<br><i class=\"emoji\"><b>🌟</b></i>嘉楠 $CAN 这一轮基本都没有声音了<br><br>ETH国库概念：<br>国库概念很多，但是目前以太坊相关的赢面最大，确定性最强。<br><i class=\"emoji\"><b>🌟</b></i> $BMNR 目前的第一，之前写过很多相关文章了<br><i class=\"emoji\"><b>🌟</b></i> $SBET 目前第二，和以太坊基金会渊源颇深<br><i class=\"emoji\"><b>🌟</b></i> ETHZilla（原名 180 Life Sciences）根据最新 SEC 披露，Thiel团队持有该公司的约 7.5% 股份。ETHZilla 的业务核心也是构建以太坊企业国库，披露后，股价大涨 11%<br><i class=\"emoji\"><b>🌟</b></i> $DYNX 是一家 SPAC，计划与 The Ether Machine（Ether Reserve LLC）合并，后者将拥有约 40 万枚以太坊（价值约 15 亿美元），并在纳斯达克 IPO，目标成为“纯以太坊收益”型的公募载体<br><br>特朗普相关：<br><i class=\"emoji\"><b>🌟</b></i> $ALTS $WLFI的国库，既是预热也是市场预先定价，波动大，观望中<br><i class=\"emoji\"><b>🌟</b></i> $RTAC 目前也是一家壳公司，董事会与特朗普家族接近",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
           "isPaid": false
         }
       ]
