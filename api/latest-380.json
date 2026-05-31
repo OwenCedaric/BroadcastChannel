@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 667,
+    "totalPosts": 668,
     "totalPages": 34,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "309",
+      "title": "只有比特币是黄金",
+      "type": "text",
+      "datetime": "2025-04-22T01:35:04+00:00",
+      "tags": [],
+      "text": "只有比特币是黄金",
+      "content": "只有比特币是黄金",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "308",
       "title": "继续看多 特朗普软了口吻",
@@ -453,22 +474,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "289",
-      "title": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来",
-      "type": "text",
-      "datetime": "2024-10-19T17:50:40+00:00",
-      "tags": [],
-      "text": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下最近还是比特币为主，加U，还没看到下一个显著的强势币",
-      "content": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下<br><br>最近还是比特币为主，加U，还没看到下一个显著的强势币",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "21",
           "isPaid": false
         }
       ]

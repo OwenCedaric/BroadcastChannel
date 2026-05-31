@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 667,
+    "totalPosts": 668,
     "totalPages": 34,
     "currentPage": 25,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-460.json"
   },
   "data": [
+    {
+      "id": "204",
+      "title": "日本央行不加息，觉得短期会有上涨行情",
+      "type": "text",
+      "datetime": "2024-08-07T02:23:33+00:00",
+      "tags": [],
+      "text": "日本央行不加息，觉得短期会有上涨行情",
+      "content": "日本央行不加息，觉得短期会有上涨行情",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "👀",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🐳",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "203",
       "title": "今天聊聊套息交易 ",
@@ -362,22 +398,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "184",
-      "title": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了",
-      "type": "text",
-      "datetime": "2024-07-14T04:31:08+00:00",
-      "tags": [],
-      "text": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了。今天的事情会很大地改变选举的进程",
-      "content": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了。今天的事情会很大地改变选举的进程",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "5",
           "isPaid": false
         }
       ]
