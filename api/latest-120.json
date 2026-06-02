@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 202,
+    "totalPosts": 203,
     "totalPages": 11,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,67 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "103",
+      "title": "sol也跑完了赚个超跌反弹舒舒服服",
+      "type": "text",
+      "datetime": "2025-10-12T14:49:17+00:00",
+      "tags": [],
+      "text": "sol也跑完了赚个超跌反弹舒舒服服",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/102\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">xpl跑了，sol跑了一半 就是为了赚个昨晚二探-》反弹的钱 确定性不强的交易不想格局   在当前市场环境下我现在更愿意长期持有昨天买的那包10m fdv的合约meme，持有几个月都没事，因为他们有明确的保底价值很抗跌，而大币没有明确的底</div>\n</small></blockquote></a>sol也跑完了<br>赚个超跌反弹舒舒服服",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "183",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "102",
       "title": "xpl跑了，sol跑了一半就是为了赚个昨晚二探-》反弹的钱 确定性不强的交易不想格局在当前市场环境下我现在更愿意长期持有昨天买的那包10m fdv的合约meme，持有几个月都没事，因为他们有明确的保底价值很抗跌，而大币没有明确的底",
@@ -948,37 +1009,6 @@
         {
           "emoji": "🙏",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "79",
-      "title": "我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配",
-      "type": "text",
-      "datetime": "2025-09-28T07:30:32+00:00",
-      "tags": [],
-      "text": "我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配。往往需要通过多号多kyc来绕过这一道公平分配机制。你搞了，大户照样可以去买kyc做多号策略解决，就是麻烦了很多就不能学学Plasma/Hyperliquid搞资本主义吗？当然，这也是实打实的给很多散户的机会",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default tgme_widget_message_reply_quote\" href=\"/posts/77\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">这要是还女巫，那么Aster官方就惹怒了人民群众的汪洋大海》口碑直接烂了。</div>\n</small></blockquote></a>我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配。往往需要通过多号多kyc来绕过这一道公平分配机制。你搞了，大户照样可以去买kyc做多号策略解决，就是麻烦了很多<br><br>就不能学学Plasma/Hyperliquid搞资本主义吗？<br><br>当然，这也是实打实的给很多散户的机会",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "82",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "5",
           "isPaid": false
         }
       ]

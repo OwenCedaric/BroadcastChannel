@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 202,
+    "totalPosts": 203,
     "totalPages": 11,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "79",
+      "title": "我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配",
+      "type": "text",
+      "datetime": "2025-09-28T07:30:32+00:00",
+      "tags": [],
+      "text": "我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配。往往需要通过多号多kyc来绕过这一道公平分配机制。你搞了，大户照样可以去买kyc做多号策略解决，就是麻烦了很多就不能学学Plasma/Hyperliquid搞资本主义吗？当然，这也是实打实的给很多散户的机会",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default tgme_widget_message_reply_quote\" href=\"/posts/77\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">这要是还女巫，那么Aster官方就惹怒了人民群众的汪洋大海》口碑直接烂了。</div>\n</small></blockquote></a>我比较讨厌这点，就是币圈的大部分项目都爱搞共产主义公平分配。往往需要通过多号多kyc来绕过这一道公平分配机制。你搞了，大户照样可以去买kyc做多号策略解决，就是麻烦了很多<br><br>就不能学学Plasma/Hyperliquid搞资本主义吗？<br><br>当然，这也是实打实的给很多散户的机会",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "82",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "78",
       "title": "btw，我这70万美元投入就是小虾米",
@@ -919,42 +950,6 @@
         },
         {
           "emoji": "🏆",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "58",
-      "title": "陈丹青早期接受采访时的影像😂",
-      "type": "text",
-      "datetime": "2025-08-15T20:03:51+00:00",
-      "tags": [],
-      "text": "陈丹青早期接受采访时的影像😂",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/56\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">要说全中国白手起家00后富豪榜，我现在排个前10完全没问题，可能前5都很轻松  但是我不会去参与任何媒体的这种类型的采访了。其实无论是OKX还是Binance还是好多圈内的媒体，都想采访我给我发过邀约，我想要更大的名气的话简直是再简单不过的事情，但是我全都拒绝了。因为我已经认识到了这么做会带来很多不必要的麻烦  包括你们有些人前几天看到的<i class=\"emoji\" style=\"background-image:url('/static/d5fbbc6525db1768ae3eaa79e3b22bab.png')\"><b>👀</b></i>实盘 我看到有人讨论就立马隐藏掉了，也没做任何正面回复  我现在已经过了那个爱装逼的阶段（虽然偶尔还是装一下但是我永远都只露我的一角<i class=\"emoji\" style=\"background-image:url('/static/3d1941546bc43b2a61d85cb5bb4a551e.png')\"><b>😁</b></i>）</div>\n</small></blockquote></a>陈丹青早期接受采访时的影像<i class=\"emoji\"><b>😂</b></i><a class=\"tgme_widget_message_video_player not_supported js-message_video_player\" href=\"https://t.me/journey_of_someone/58\"><i class=\"tgme_widget_message_video_thumb\" style=\"background-image:url('/static/0e025a6f0ef46a34f269ecb022a99d49.jpg')\"></i>\n\n<div class=\"tgme_widget_message_video_wrap\" style=\"width:848px;padding-top:54.716981132075%\">\n  \n</div>\n<div class=\"message_video_play js-message_video_play\"></div>\n<time class=\"message_video_duration js-message_video_duration\">1:10</time>\n<div class=\"message_media_not_supported_wrap\">\n  <div class=\"message_media_not_supported\">\n    <div class=\"message_media_not_supported_label\">Media is too big</div>\n    <span class=\"message_media_view_in_telegram\">VIEW IN TELEGRAM</span>\n  </div>\n</div></a>",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "56",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "29",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
           "count": "2",
           "isPaid": false
         }

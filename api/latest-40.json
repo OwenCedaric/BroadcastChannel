@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 202,
+    "totalPosts": 203,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "190",
+      "title": "",
+      "type": "text",
+      "datetime": "2026-02-05T20:31:19+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-190-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f42050af447d7a8befd67c74be33febe.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-190-0\" popovertarget=\"modal-190-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f42050af447d7a8befd67c74be33febe.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "47",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "189",
       "title": "为什么选择现在建仓1/10最理想的抄底价格当然是50k-60k但是这需要类似2022年那样美股配合来一次major correction才能实现",
@@ -1017,52 +1048,6 @@
         },
         {
           "emoji": "🥰",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "168",
-      "title": "😂😂😂2天捡了2次尸了，期待未来6-12个月能捡美股的尸来波大的死了拉倒",
-      "type": "text",
-      "datetime": "2026-01-31T19:12:33+00:00",
-      "tags": [],
-      "text": "😂😂😂2天捡了2次尸了，期待未来6-12个月能捡美股的尸来波大的死了拉倒",
-      "content": "<i class=\"emoji\"><b>😂</b></i><i class=\"emoji\"><b>😂</b></i><i class=\"emoji\"><b>😂</b></i>2天捡了2次尸了，期待未来6-12个月能捡美股的尸<br>来波大的死了拉倒",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "181",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
           "count": "1",
           "isPaid": false
         }
