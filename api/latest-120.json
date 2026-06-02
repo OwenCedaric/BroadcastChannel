@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 669,
+    "totalPosts": 670,
     "totalPages": 34,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "582",
+      "title": "Send $MU to the moon 🌕 🚀",
+      "type": "text",
+      "datetime": "2026-03-17T13:40:11+00:00",
+      "tags": [],
+      "text": "Send $MU to the moon 🌕 🚀",
+      "content": "Send $MU to the moon <i class=\"emoji\"><b>🌕</b></i> <i class=\"emoji\"><b>🚀</b></i>",
+      "reactions": [
+        {
+          "emoji": "🎄",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "581",
       "title": "接到了LITE ",
@@ -365,32 +391,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "560",
-      "title": "GTC 可能带动的五大交易主题，非投资建议1️⃣ HBM继续紧缺→ $MU / SK Hynix/ Samsung 2️⃣ 光模块→ $LITE / $COHR / $AAOI3️⃣ AI电力→ $VRT / $ETN4️⃣ AI网络→ $AVGO / $MRVL5️⃣ GPU生态→ $NVDA / $SMCI",
-      "type": "text",
-      "datetime": "2026-03-06T08:21:03+00:00",
-      "tags": [],
-      "text": "GTC 可能带动的五大交易主题，非投资建议1️⃣ HBM继续紧缺→ $MU / SK Hynix/ Samsung 2️⃣ 光模块→ $LITE / $COHR / $AAOI3️⃣ AI电力→ $VRT / $ETN4️⃣ AI网络→ $AVGO / $MRVL5️⃣ GPU生态→ $NVDA / $SMCI",
-      "content": "GTC 可能带动的五大交易主题，非投资建议<br><br><i class=\"emoji\"><b>1️⃣</b></i> HBM继续紧缺<br>→ $MU / SK Hynix/ Samsung <br><br><i class=\"emoji\"><b>2️⃣</b></i> 光模块<br>→ $LITE / $COHR / $AAOI<br><br><i class=\"emoji\"><b>3️⃣</b></i> AI电力<br>→ $VRT / $ETN<br><br><i class=\"emoji\"><b>4️⃣</b></i> AI网络<br>→ $AVGO / $MRVL<br><br><i class=\"emoji\"><b>5️⃣</b></i> GPU生态<br>→ $NVDA / $SMCI",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "2",
           "isPaid": false
         }
       ]

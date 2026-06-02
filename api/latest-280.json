@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 669,
+    "totalPosts": 670,
     "totalPages": 34,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "414",
+      "title": "优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与天奇股份正式签订采购合同",
+      "type": "text",
+      "datetime": "2025-09-29T02:23:14+00:00",
+      "tags": [],
+      "text": "优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker S系列，该笔采购将于2025年12月31日前完成交付。加上本次订单，截止目前，优必选Walker系列人形机器人已获得近4.3亿元合同。",
+      "content": "<a href=\"https://laohu8.com/S/SLGB\" target=\"_blank\" rel=\"noopener\" title=\"优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与\">优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与</a><a href=\"https://laohu8.com/S/002009\" target=\"_blank\" rel=\"noopener\" title=\"天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker\">天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker</a> S系列，该笔采购将于2025年12月31日前完成交付。加上本次订单，截止目前，优必选Walker系列人形机器人已获得近4.3亿元合同。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "413",
       "title": "早安，目前所有的抄底单，除了doge都盈利了",
@@ -417,32 +433,6 @@
         {
           "emoji": "👏",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "393",
-      "title": "止损了",
-      "type": "text",
-      "datetime": "2025-09-12T15:41:49+00:00",
-      "tags": [],
-      "text": "止损了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/392\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">不得不说，开的位置有点差了，被FOMO在了0.006。如果行情或者强势不能持续，这一单会止损</div>\n</small></blockquote></a>止损了",
-      "reactions": [
-        {
-          "emoji": "👌",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]

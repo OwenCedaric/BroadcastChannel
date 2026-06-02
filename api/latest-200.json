@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 669,
+    "totalPosts": 670,
     "totalPages": 34,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "499",
+      "title": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "type": "text",
+      "datetime": "2026-01-20T14:50:58+00:00",
+      "tags": [],
+      "text": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/490\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了些put对冲战争风险</div>\n</small></blockquote></a>盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "498",
       "title": "【Fiona的日报频道】  2026-01-20 ━━ 宏观要闻 ━━1️⃣🌟美联储官员鹰派信号强化 — 哈玛克：利率维持稳定优于再降美联储官员哈玛克表示更担心持续高通胀，倾向于维持当前利率至春季，不支持近期降息",
@@ -352,27 +368,6 @@
         {
           "emoji": "👍",
           "count": "16",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "479",
-      "title": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代",
-      "type": "text",
-      "datetime": "2026-01-09T12:17:09+00:00",
-      "tags": [],
-      "text": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。2️⃣ 生产力与安全 Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。3️⃣ 物理 AI 与工业落地 (Physical AI)奔驰 CLA 级首发 Alpamayo 自驾推理模型。JLR (捷豹路虎) & Lucid  $LCID : 紧随其后的自驾技术合作伙伴。Siemens (http://SIE.DE): 投入数百名专家，深度集成工业 AI 与数字孪生。Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。",
-      "content": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：<br><br><i class=\"emoji\"><b>1️⃣</b></i> 企业级智能体 <br>-Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。<br>-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。<br>-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。<br>NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。<br>Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。<br><br><i class=\"emoji\"><b>2️⃣</b></i> 生产力与安全 <br>Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。<br>CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、<br>CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。<br>Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。<br><br><i class=\"emoji\"><b>3️⃣</b></i> 物理 AI 与工业落地 (Physical AI)<br>奔驰 CLA 级首发 Alpamayo 自驾推理模型。<br>JLR (捷豹路虎) &amp; Lucid  $LCID : 紧随其后的自驾技术合作伙伴。<br>Siemens (<a href=\"http://SIE.DE/\" target=\"_blank\" rel=\"noopener\" title=\"http://SIE.DE\">http://SIE.DE</a>): 投入数百名专家，深度集成工业 AI 与数字孪生。<br>Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。<a class=\"tgme_widget_message_link_preview\" href=\"http://sie.de/\" target=\"_blank\" rel=\"noopener\" title=\"BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">brigitte.de</div>\n  <img class=\"link_preview_image\" alt=\"BRIGITTE: Dein Leben. Dein Weg.\" src=\"/static/821ae8fcfb3b35c387caf2aaa0371172.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">BRIGITTE: Dein Leben. Dein Weg.</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "1",
           "isPaid": false
         }
       ]
