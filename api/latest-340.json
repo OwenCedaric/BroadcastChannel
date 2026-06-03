@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "354",
+      "title": "买eth啦",
+      "type": "text",
+      "datetime": "2025-08-12T12:33:03+00:00",
+      "tags": [],
+      "text": "买eth啦",
+      "content": "买eth啦",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "353",
+      "title": "卖完一直涨 哭了",
+      "type": "text",
+      "datetime": "2025-08-12T12:32:49+00:00",
+      "tags": [],
+      "text": "卖完一直涨 哭了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/352\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">清仓 BMNR 等新增发</div>\n</small></blockquote></a>卖完一直涨 哭了",
+      "reactions": []
+    },
     {
       "id": "352",
       "title": "清仓 BMNR 等新增发",
@@ -456,68 +482,6 @@
         },
         {
           "emoji": "😭",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "333",
-      "title": "Hype减仓 加仓ETH",
-      "type": "text",
-      "datetime": "2025-07-18T01:22:31+00:00",
-      "tags": [],
-      "text": "Hype减仓 加仓ETH",
-      "content": "Hype减仓 加仓ETH",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🐳",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "332",
-      "title": "Keep pumping $ETHPengu 换仓以太坊 这个决定简直绝了",
-      "type": "text",
-      "datetime": "2025-07-18T01:19:10+00:00",
-      "tags": [],
-      "text": "Keep pumping $ETHPengu 换仓以太坊 这个决定简直绝了",
-      "content": "Keep pumping $ETH<br>Pengu 换仓以太坊 这个决定简直绝了",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "⚡",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🦄",
           "count": "2",
           "isPaid": false
         }

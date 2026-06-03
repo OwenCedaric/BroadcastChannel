@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 16,
     "pageSize": 20,
@@ -13,6 +13,53 @@
     "prevPageUrl": "latest-280.json"
   },
   "data": [
+    {
+      "id": "395",
+      "title": "看到豪哥说关于pump的很认同，现在确实是非共识机会",
+      "type": "text",
+      "datetime": "2025-09-12T16:50:43+00:00",
+      "tags": [],
+      "text": "看到豪哥说关于pump的很认同，现在确实是非共识机会。其实回购的叙事在于1️⃣ 是否可以持续产生高收入(看其他meme发行平台竞争力和整体meme行情)2️⃣是否真的会用全部收入来回购。我可能对这两点目前的信心也都不足。今天的交易失败会让我冷静再思考一下🤔",
+      "content": "看到豪哥说关于pump的很认同，现在确实是非共识机会。其实回购的叙事在于<i class=\"emoji\"><b>1️⃣</b></i> 是否可以持续产生高收入(看其他meme发行平台竞争力和整体meme行情)<i class=\"emoji\"><b>2️⃣</b></i>是否真的会用全部收入来回购。我可能对这两点目前的信心也都不足。今天的交易失败会让我冷静再思考一下<i class=\"emoji\"><b>🤔</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "394",
+      "title": "对pump的看法没变，但是交易的执行还是有一些问题",
+      "type": "text",
+      "datetime": "2025-09-12T15:47:26+00:00",
+      "tags": [],
+      "text": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记🫡",
+      "content": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记<i class=\"emoji\"><b>🫡</b></i>",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "393",
       "title": "止损了",
@@ -436,38 +483,6 @@
         {
           "emoji": "💯",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "374",
-      "title": "目前很对味 已经加仓了一些 均价1.27",
-      "type": "text",
-      "datetime": "2025-09-08T14:23:03+00:00",
-      "tags": [],
-      "text": "目前很对味 已经加仓了一些 均价1.27",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/373\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了</div>\n</small></blockquote></a>目前很对味 已经加仓了一些 均价1.27",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "373",
-      "title": "看到了最新的新闻，觉得和之前的pengu有点像",
-      "type": "text",
-      "datetime": "2025-09-08T12:49:03+00:00",
-      "tags": [],
-      "text": "看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/372\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">新增观察标的 WLD</div>\n</small></blockquote></a>看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "27",
           "isPaid": false
         }
       ]

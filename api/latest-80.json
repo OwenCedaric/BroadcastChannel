@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "624",
+      "title": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "type": "text",
+      "datetime": "2026-04-15T15:27:02+00:00",
+      "tags": [],
+      "text": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "content": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "623",
+      "title": "For now, $NOW pumped from 84-93",
+      "type": "text",
+      "datetime": "2026-04-15T15:24:22+00:00",
+      "tags": [],
+      "text": "For now, $NOW pumped from 84-93",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>For now, $NOW pumped from 84-93",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "622",
       "title": "刷过zkSync Lite的朋友记得查一下余额，该链5月4号永久结束，之后资产都会取不出",
@@ -355,43 +387,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "604",
-      "title": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
-      "type": "text",
-      "datetime": "2026-04-08T13:17:36+00:00",
-      "tags": [],
-      "text": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
-      "content": "简单复盘这次成功抄底历程，后来发现可以简单概括为：<br><br>抄底<i class=\"emoji\"><b>➡️</b></i>下跌<i class=\"emoji\"><b>➡️</b></i>继续抄底<i class=\"emoji\"><b>➡️</b></i>跌破位套牢<i class=\"emoji\"><b>➡️</b></i><br>不敢抄了选择祈祷<i class=\"emoji\"><b>➡️</b></i>祈祷无效转移注意<i class=\"emoji\"><b>➡️</b></i>反弹第一波回本<i class=\"emoji\"><b>➡️</b></i>taco反弹第二波大赚<br><br>很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气<i class=\"emoji\"><b>🍀</b></i><br><br>但我坚持做到了！",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "603",
-      "title": "Taco了，舒服了",
-      "type": "text",
-      "datetime": "2026-04-08T01:33:18+00:00",
-      "tags": [],
-      "text": "Taco了，舒服了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/597\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">本次抄底的所有標的都水上了，謝謝朋友們的關心。 左側還是挺不習慣，畢竟專注右側交易。 跌破位的時候說不心慌是假的，還好之前寫研報看了又看，理性和信心還是在的。  還是要深入研究自己的標的，有信仰才拿得住</div>\n</small></blockquote></a>Taco了，舒服了",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

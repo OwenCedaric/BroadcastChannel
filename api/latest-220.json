@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "481",
+      "title": "【Fiona的日报频道】  2026-01-10 ━━ 宏观要闻 ━━1️⃣非农数据正式出炉： 美国劳工部周五公布 12 月非农就业新增 15.8 万人，显著不及市场预期的 19.5 万人，为近半年最低增幅；然而失业率意外降至 3.6%，薪资环比增长 0.4%，这种“就业量缩、薪资质涨”的矛盾数据导致市场对 3 月降息的争论进入白热化",
+      "type": "text",
+      "datetime": "2026-01-10T03:17:15+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】  2026-01-10 ━━ 宏观要闻 ━━1️⃣非农数据正式出炉： 美国劳工部周五公布 12 月非农就业新增 15.8 万人，显著不及市场预期的 19.5 万人，为近半年最低增幅；然而失业率意外降至 3.6%，薪资环比增长 0.4%，这种“就业量缩、薪资质涨”的矛盾数据导致市场对 3 月降息的争论进入白热化。2️⃣日元汇率剧震： 日本央行行长暗示春斗薪资谈判若超预期将加快加息步伐，日元兑美元瞬间拉升 150 点，引发跨境套利交易平仓潮。3️⃣伊朗：全国性抗议进入新一轮爆发，互联网大范围被切断，局势紧张或对地区稳定与能源市场带来扰动。━━ AI新闻 ━━1️⃣Minimax： MiniMax Group 在香港成功 IPO，首日股价大涨100%+，MiniMax作为第一批中国 AI 公司IPO 引发资本热潮。2️⃣XPeng： 小鹏汽车宣布战略转型为“物理 AI”（Physical AI）企业，聚焦自动驾驶、机器人等智能系统部署3️⃣Perplexity 开启 IPO 辅导4️⃣a16z 成立 150 亿美元巨额基金： 硅谷风投 Andreessen Horowitz 今日宣布完成 150 亿美元新一轮募资，明确表示将重点扶持“具有美国国家利益”的 AI 安全（Safety） 与 物理 AI 公司。━━ 机器人新闻 ━━1️⃣追觅（Dreame）CES 发布具身新品：全球首发 Aglaya 系列 工业人形机器人，展示了通过视觉语言模型（VLM）自主修复流水线故障的能力2️⃣万仞 AI “悉悉”机器人批产： 国内新锐万仞 AI 今日宣布其人形机器人“悉悉”完成首批百台量产试制，主打低成本自研执行器，将人形机器人的准入门槛降至 15 万人民币以内。评论：在实现量产走进车间的前夜，似乎已经开始价格战的苗头～━━ 其他要闻 ━━1️⃣特朗普：将推行为期一年的信用卡利率上限政策，限定为10%2️⃣2026年首周海南离岛免税购物金额超12亿元3️⃣美国抵押贷款利率多年来首次跌破6%，特朗普称其解决了拜登留下的高房贷利率难题，为美国家庭减轻负担4️⃣特朗普施压大型石油公司在委内瑞拉投资1000亿美元━━ 产业新闻 ━━1️⃣苹果 Vision Pro 2 供应链定案：1 月 10 日最新供应链消息称，苹果已锁定二代 Vision Pro 的微型 OLED 供应商名单，旨在通过大幅降重和降低售价在今年 6 月重振 XR 市场。$AAPL2️⃣HBM 产能“双轨化”： 受 AI 推理与端侧计算需求分化影响，三星与 SK 海力士今日宣布将 2026 年生产线划分为“云端高带宽”与“端侧低功耗”两类，反映出 AI 硬件正向边缘端迁移。$MU━━ 加密新闻 ━━BTC/ETH ETF 均净流出，SOL ETF小幅流入",
+      "content": "<b>【Fiona的日报频道】  2026-01-10 </b><br><b>━━ 宏观要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><b>非农数据正式出炉</b>： 美国劳工部周五公布 12 月非农就业新增 15.8 万人，显著不及市场预期的 19.5 万人，为近半年最低增幅；然而失业率意外降至 3.6%，薪资环比增长 0.4%，这种“就业量缩、薪资质涨”的矛盾数据导致市场对 3 月降息的争论进入白热化。<br><b><i class=\"emoji\"><b>2️⃣</b></i>日元汇率剧震</b>： 日本央行行长暗示春斗薪资谈判若超预期将加快加息步伐，日元兑美元瞬间拉升 150 点，引发跨境套利交易平仓潮。<br><i class=\"emoji\"><b>3️⃣</b></i><b>伊朗</b>：全国性抗议进入新一轮爆发，互联网大范围被切断，局势紧张或对地区稳定与能源市场带来扰动。<br><br><b>━━ AI新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>Minimax： MiniMax Group 在香港成功 IPO，首日股价大涨100%+，MiniMax作为第一批中国 AI 公司IPO 引发资本热潮。<br><i class=\"emoji\"><b>2️⃣</b></i><b>XPeng</b>： 小鹏汽车宣布战略转型为“物理 AI”（Physical AI）企业，聚焦自动驾驶、机器人等智能系统部署<br><i class=\"emoji\"><b>3️⃣</b></i>Perplexity 开启 IPO 辅导<br><i class=\"emoji\"><b>4️⃣</b></i><b>a16z 成立 150 亿美元巨额基金</b>： 硅谷风投 Andreessen Horowitz 今日宣布完成 150 亿美元新一轮募资，明确表示将重点扶持“具有美国国家利益”的 AI 安全（Safety） 与 物理 AI 公司。<br><br><b>━━ 机器人新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>追觅（Dreame）CES 发布具身新品：全球首发 Aglaya 系列 工业人形机器人，展示了通过视觉语言模型（VLM）自主修复流水线故障的能力<br><i class=\"emoji\"><b>2️⃣</b></i>万仞 AI “悉悉”机器人批产： 国内新锐万仞 AI 今日宣布其人形机器人“悉悉”完成首批百台量产试制，主打低成本自研执行器，将人形机器人的准入门槛降至 15 万人民币以内。<br><br><b>评论：在实现量产走进车间的前夜，似乎已经开始价格战的苗头～</b><br><br><b>━━ 其他要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>特朗普：将推行为期一年的信用卡利率上限政策，限定为10%<br><i class=\"emoji\"><b>2️⃣</b></i>2026年首周海南离岛免税购物金额超12亿元<br><i class=\"emoji\"><b>3️⃣</b></i>美国抵押贷款利率多年来首次跌破6%，特朗普称其解决了拜登留下的高房贷利率难题，为美国家庭减轻负担<br><i class=\"emoji\"><b>4️⃣</b></i>特朗普施压大型石油公司在委内瑞拉投资1000亿美元<br><br><b>━━ 产业新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>苹果 Vision Pro 2 供应链定案：1 月 10 日最新供应链消息称，苹果已锁定二代 Vision Pro 的微型 OLED 供应商名单，旨在通过大幅降重和降低售价在今年 6 月重振 XR 市场。$AAPL<br><b><i class=\"emoji\"><b>2️⃣</b></i>HBM 产能“双轨化”： 受 AI 推理与端侧计算需求分化影响，三星与 SK 海力士今日宣布将 2026 年生产线划分为“云端高带宽”与“端侧低功耗”两类，反映出 AI 硬件正向边缘端迁移。</b><b>$MU</b><br><br>━━ 加密新闻 ━━<br>BTC/ETH ETF 均净流出，SOL ETF小幅流入",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "480",
+      "title": "美国经济12月新增5万个就业岗位，低于预期的6.6万个",
+      "type": "text",
+      "datetime": "2026-01-09T13:32:23+00:00",
+      "tags": [],
+      "text": "美国经济12月新增5万个就业岗位，低于预期的6.6万个。失业率降至4.4%，低于预期的4.5%。11月份的失业率也被从4.6%下修至4.5%。美联储将暂停降息。",
+      "content": "美国经济12月新增5万个就业岗位，低于预期的6.6万个。<br>失业率降至4.4%，低于预期的4.5%。<br>11月份的失业率也被从4.6%下修至4.5%。<br><br>美联储将暂停降息。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "479",
       "title": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代",
@@ -431,32 +468,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "458",
-      "title": "终于写了火箭第一股 Rocket Lab！持有很久且逢低加仓中",
-      "type": "text",
-      "datetime": "2025-12-10T08:35:20+00:00",
-      "tags": [],
-      "text": "终于写了火箭第一股 Rocket Lab！持有很久且逢低加仓中。完整文章请看：https://x.com/nft_hu/status/1998672508007100835?s=20",
-      "content": "终于写了火箭第一股 Rocket Lab！<br>持有很久且逢低加仓中。完整文章请看：<br><a href=\"https://x.com/nft_hu/status/1998672508007100835?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1998672508007100835?s=20\">https://x.com/nft_hu/status/1998672508007100835?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1998672508007100835?s=20\" target=\"_blank\" rel=\"noopener\" title=\"SpaceX的新融资消息带动了美股太空股的起飞，之前加仓的 $RKLB 也长势喜人。今天来介绍一下这一支和Space X同处火箭赛道的美股Rocket Lab。本文非投资建议，如有错误欢迎评论指正。（一）一句话来介绍Rocket Lab $RKLB 是什么？ta是全球第二大商用发射公司（排在 SpaceX 之后），\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/35b38eb24dc6b74126d9ad7261fc0b05.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">SpaceX的新融资消息带动了美股太空股的起飞，之前加仓的 $RKLB 也长势喜人。<br>今天来介绍一下这一支和Space X同处火箭赛道的美股Rocket Lab。本文非投资建议，如有错误欢迎评论指正。<br><br>（一）一句话来介绍Rocket Lab $RKLB 是什么？<br>ta是全球第二大商用发射公司（排在 SpaceX 之后），</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "457",
-      "title": "光通讯 知识点复习 ",
-      "type": "text",
-      "datetime": "2025-12-09T02:30:43+00:00",
-      "tags": [],
-      "text": "光通讯 知识点复习 https://x.com/nft_hu/status/1988075814794260886?s=46",
-      "content": "光通讯 知识点复习 <a href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1988075814794260886?s=46\">https://x.com/nft_hu/status/1988075814794260886?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。1️⃣什么是光通讯？他和传统的通讯有什么不同？光通讯通常依靠光纤来传输数据，速度快、损耗小。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7061b26b183f393488bd8e87d6b97167.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>什么是光通讯？他和传统的通讯有什么不同？<br>光通讯通常依靠光纤来传输数据，速度快、损耗小。</div>\n</a>",
-      "reactions": []
     }
   ]
 }

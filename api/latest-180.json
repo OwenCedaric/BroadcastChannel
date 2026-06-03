@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,58 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "521",
+      "title": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "type": "text",
+      "datetime": "2026-01-30T14:35:17+00:00",
+      "tags": [],
+      "text": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "content": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "reactions": [
+        {
+          "emoji": "⚡",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "💊",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "520",
+      "title": "Fiona 的日报频道｜2026-01-30━━ 宏观要闻 ━━1️⃣ 🌟 美-伊局势大幅升级 特朗普称正评估对伊朗采取军事行动的多种选项，尚未决定是否发起空袭，但已派出以 “航母战斗群”（以 USS Abraham Lincoln 为首）进入中东海域并强调若核谈判失败将采取更强硬行动，美防长称美军“已做好准备执行总统任何决定”",
+      "type": "text",
+      "datetime": "2026-01-30T07:07:06+00:00",
+      "tags": [],
+      "text": "Fiona 的日报频道｜2026-01-30━━ 宏观要闻 ━━1️⃣ 🌟 美-伊局势大幅升级 特朗普称正评估对伊朗采取军事行动的多种选项，尚未决定是否发起空袭，但已派出以 “航母战斗群”（以 USS Abraham Lincoln 为首）进入中东海域并强调若核谈判失败将采取更强硬行动，美防长称美军“已做好准备执行总统任何决定”。📌 伊朗外长声明否认曾向美方请求直接谈判，称谈判不能在威胁与强迫下进行；伊朗同时派外交官赴安卡拉寻求调解，区域大国呼吁避免军事冲突。📌 地缘风险推动市场避险情绪加强，国际油价突破每桶 70 美元，反映市场对中东冲突可能冲击能源供应的担忧。2️⃣ 美股最新盘前体现风险偏好承压3️⃣特朗普下令重开委内瑞拉领空，放松石油制裁。4️⃣ 临时避免政府关门协议推进 美国国会民主党达成临时预算协议，避免了一部分政府机构在短期内关门，缓解了部分政策不确定性。━━ 美联储━━1️⃣特朗普“会面+通话”，敲定沃什为下一任美联储主席人选据纽约邮报报道，有消息人士透露，当地时间周四，美国总统特朗普与前美联储理事、斯坦福大学教授沃什会面后，又给沃什打了电话，询问他是否愿意接受这一职位——而他最终接受了。━━ AI科技 ━━1️⃣阿里明确“云+AI+芯片”战略，PPU芯片出货已数十万片。 阿里正考虑将未来三年投入到AI基建与云计算上的3800亿元提升至4800亿。2️⃣ 亚马逊正在洽谈向OpenAI投资高达500亿美元。3️⃣微软市值单日蒸发3600亿美元，AI支出多到投资者不安。4️⃣ 银河通用发布首款工业级重载机器人，Galbot G1年出货破1200台。5️⃣宇树开源 UnifoLM-VLA-0。6️⃣ 据悉SpaceX正与xAI就合并事宜进行谈判。7️⃣闪迪财报大超预期，机构上调目标价格。━━ 加密货币 ━━币圈大跌，这次跟大盘了，可惜是跟跌。",
+      "content": "<b>Fiona 的日报频道｜2026-01-30</b><br><b>━━ 宏观要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i> <i class=\"emoji\"><b>🌟</b></i> 美-伊局势大幅升级<br> 特朗普称正评估对伊朗采取军事行动的多种选项，尚未决定是否发起空袭，但已派出以 “航母战斗群”（以 USS Abraham Lincoln 为首）进入中东海域并强调若核谈判失败将采取更强硬行动，美防长称美军“已做好准备执行总统任何决定”。<br><i class=\"emoji\"><b>📌</b></i> 伊朗外长声明否认曾向美方请求直接谈判，称谈判不能在威胁与强迫下进行；伊朗同时派外交官赴安卡拉寻求调解，区域大国呼吁避免军事冲突。<br><i class=\"emoji\"><b>📌</b></i> 地缘风险推动市场避险情绪加强，国际油价突破每桶 70 美元，反映市场对中东冲突可能冲击能源供应的担忧。<br><i class=\"emoji\"><b>2️⃣</b></i> 美股最新盘前体现风险偏好承压<br><i class=\"emoji\"><b>3️⃣</b></i>特朗普下令重开委内瑞拉领空，放松石油制裁。<br><i class=\"emoji\"><b>4️⃣</b></i> 临时避免政府关门协议推进<br> 美国国会民主党达成临时预算协议，避免了一部分政府机构在短期内关门，缓解了部分政策不确定性。<br><br><b>━━ 美联储━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>特朗普“会面+通话”，敲定沃什为下一任美联储主席人选<br>据纽约邮报报道，有消息人士透露，当地时间周四，美国总统特朗普与前美联储理事、斯坦福大学教授沃什会面后，又给沃什打了电话，询问他是否愿意接受这一职位——而他最终接受了。<br><br><b>━━ AI科技 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>阿里明确“云+AI+芯片”战略，PPU芯片出货已数十万片。 阿里正考虑将未来三年投入到AI基建与云计算上的3800亿元提升至4800亿。<br><i class=\"emoji\"><b>2️⃣</b></i> 亚马逊正在洽谈向OpenAI投资高达500亿美元。<br><i class=\"emoji\"><b>3️⃣</b></i>微软市值单日蒸发3600亿美元，AI支出多到投资者不安。<br><i class=\"emoji\"><b>4️⃣</b></i> 银河通用发布首款工业级重载机器人，Galbot G1年出货破1200台。<br><i class=\"emoji\"><b>5️⃣</b></i>宇树开源 UnifoLM-VLA-0。<br><i class=\"emoji\"><b>6️⃣</b></i> 据悉SpaceX正与xAI就合并事宜进行谈判。<br><i class=\"emoji\"><b>7️⃣</b></i>闪迪财报大超预期，机构上调目标价格。<br><b><br>━━ 加密货币 ━━</b><br>币圈大跌，这次跟大盘了，可惜是跟跌。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "519",
       "title": "看了深潮的文章说几句",
@@ -356,43 +408,6 @@
         {
           "emoji": "👎",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "501",
-      "title": "Bitgo申购截止19小时倒计时",
-      "type": "text",
-      "datetime": "2026-01-20T15:15:46+00:00",
-      "tags": [],
-      "text": "Bitgo申购截止19小时倒计时。这次 IPO 的主要情况📅 上市时间预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO💰 发行规模与募资目标拟发行 11,800,000 股 普通股。 发行价区间设定为 每股 15–17 美元。 募资规模上限约 2.01 亿美元本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
-      "content": "Bitgo申购截止19小时倒计时。<br><br>这次 IPO 的主要情况<br><br><i class=\"emoji\"><b>📅</b></i> 上市时间<br>预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO<br><br><i class=\"emoji\"><b>💰</b></i> 发行规模与募资目标<br>拟发行 11,800,000 股 普通股。 <br>发行价区间设定为 每股 15–17 美元。 <br>募资规模上限约 2.01 亿美元<br><br>本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "500",
-      "title": "美光也继续冲锋",
-      "type": "text",
-      "datetime": "2026-01-20T14:53:02+00:00",
-      "tags": [],
-      "text": "美光也继续冲锋",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>美光也继续冲锋",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
           "isPaid": false
         }
       ]

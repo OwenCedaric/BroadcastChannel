@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "665",
+      "title": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
+      "type": "text",
+      "datetime": "2026-05-01T02:23:12+00:00",
+      "tags": [],
+      "text": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
+      "content": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "664",
+      "title": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE  $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？文章超长，还是推荐X阅读 ",
+      "type": "text",
+      "datetime": "2026-04-30T14:56:17+00:00",
+      "tags": [],
+      "text": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE  $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？文章超长，还是推荐X阅读 https://x.com/nft_hu/status/2049864621188866303?s=20",
+      "content": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 <br>$LITE  $COHR $MRVL $CRDO<br> 在这个产业链里处于什么位置？我们在交易的到底是什么预期？<br><br>文章超长，还是推荐X阅读 <a href=\"https://x.com/nft_hu/status/2049864621188866303?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049864621188866303?s=20\">https://x.com/nft_hu/status/2049864621188866303?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2049864621188866303?s=20\" target=\"_blank\" rel=\"noopener\" title=\"上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？提示🔔本条最好结合上一条一起服用。理解加倍～本文内容很干，建议收藏随时复习——————————————$LITE 和 $COHR 占据中间三个核心位置:\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbf75073cb1f67c00a4ba28e156a2f57.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？<br><br>提示<i class=\"emoji\" style=\"background-image:url('/static/2a737154a04533c529006bc216bd5ba9.png')\"><b>🔔</b></i>本条最好结合上一条一起服用。理解加倍～<br>本文内容很干，建议收藏随时复习<br>——————————————<br>$LITE 和 $COHR 占据中间三个核心位置:</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "663",
       "title": "布油120，通胀预期，战争叙事再来",
@@ -370,53 +412,6 @@
       "reactions": [
         {
           "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "644",
-      "title": "最近买入 $ORCL 是基于他发生了不少变化，相信股票筑底成功了",
-      "type": "text",
-      "datetime": "2026-04-22T10:30:21+00:00",
-      "tags": [],
-      "text": "最近买入 $ORCL 是基于他发生了不少变化，相信股票筑底成功了。下文是所有的逻辑分析，比较推荐可以看一下最近的“多云穿透”——把数据库插进AWS和Azure。让企业可以在AWS环境中直接访问Oracle数据库，而无需迁移数据。这点其实在我看来是最重要的。当然也有一些目前无解的问题——缺钱。https://x.com/nft_hu/status/2046898589910380559?s=20",
-      "content": "最近买入 $ORCL 是基于他发生了不少变化，相信股票筑底成功了。<br><br>下文是所有的逻辑分析，比较推荐可以看一下最近的“多云穿透”——把数据库插进AWS和Azure。让企业可以在AWS环境中直接访问Oracle数据库，而无需迁移数据。<br>这点其实在我看来是最重要的。<br><br>当然也有一些目前无解的问题——缺钱。<br><a href=\"https://x.com/nft_hu/status/2046898589910380559?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2046898589910380559?s=20\">https://x.com/nft_hu/status/2046898589910380559?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2046898589910380559?s=20\" target=\"_blank\" rel=\"noopener\" title=\"登顶一日，跌落半年——Larry Ellison的反击\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b6fac01f09af4426653e8614e7eb9ac6.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">登顶一日，跌落半年——Larry Ellison的反击</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "643",
-      "title": "昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金",
-      "type": "text",
-      "datetime": "2026-04-22T01:38:53+00:00",
-      "tags": [],
-      "text": "昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金。因为最近的反弹非常惊人，不少股票估值都在历史高位。我倾向于牛市没有结束。但是接下来密集的财报季、美联储主席更替和新一轮的议息会议，增加一点现金水位让操作更有灵活度。多点现金也更平静理性地思考。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/640\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">减仓落袋ing</div>\n</small></blockquote></a>昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金。<br><br>因为最近的反弹非常惊人，不少股票估值都在历史高位。我倾向于牛市没有结束。<br><br>但是接下来密集的财报季、美联储主席更替和新一轮的议息会议，增加一点现金水位让操作更有灵活度。<br><br>多点现金也更平静理性地思考。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
           "count": "1",
           "isPaid": false
         }

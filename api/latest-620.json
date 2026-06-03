@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 32,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-600.json"
   },
   "data": [
+    {
+      "id": "62",
+      "title": "如何参与 Berachain Testnet：",
+      "type": "text",
+      "datetime": "2024-01-12T03:11:14+00:00",
+      "tags": [],
+      "text": "如何参与 Berachain Testnet：https://x.com/nft_hu/status/1745643657691295941?s=20",
+      "content": "如何参与 Berachain Testnet：<a href=\"https://x.com/nft_hu/status/1745643657691295941?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1745643657691295941?s=20\">https://x.com/nft_hu/status/1745643657691295941?s=20</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "title": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议@LENX_Finance  Backed by @fraxfinance, @Bitcoin, @zetablockchain  @FjordFoundry旨在做流动性协议，并且支持BTC资产的抵押借贷",
+      "type": "text",
+      "datetime": "2024-01-07T06:45:14+00:00",
+      "tags": [],
+      "text": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议@LENX_Finance  Backed by @fraxfinance, @Bitcoin, @zetablockchain  @FjordFoundry旨在做流动性协议，并且支持BTC资产的抵押借贷。聚合了市面上核心的借贷协议来提供最佳利率。目前官网除了借贷之外，还有BTC和ETH之间的桥。目前LBP正在进行中。官网介绍的四大产品：1⃣️xBTC BTC StablecoinLENX issues a stablecoin, xBTC, a BTC pegged asset. xBTC is the first stablecoin to seamlessly transfer and redeem native Bitcoin without a long wait on any chain.2⃣️Omnichain BTC SwapLENX's core lies in its ability to conduct swaps and facilitate liquidity for native Bitcoin into any chain.3⃣️XD, permissionless BAMM gaugeFrax BAMM is the core lending facility for LENX, allowing debt origination, customized non-custodial loans, and onboarding collateral assets to the omnichain economy with Frax.4⃣️BOX, Bitcoin-backed CDPLENX issues a USD-pegged stablecoin, BOX. BOX is the first stablecoin to collaterize native Bitcoin, currently in development and will be revealed at V2.",
+      "content": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议<br><br><a href=\"https://t.me/LENX_Finance\" target=\"_blank\" title=\"@LENX_Finance\">@LENX_Finance</a>  <br>Backed by <a href=\"https://twitter.com/fraxfinance\" target=\"_blank\" rel=\"noopener\" title=\"@fraxfinance\">@fraxfinance</a>, <a href=\"https://twitter.com/Bitcoin\" target=\"_blank\" rel=\"noopener\" title=\"@Bitcoin\">@Bitcoin</a>, <a href=\"https://twitter.com/zetablockchain\" target=\"_blank\" rel=\"noopener\" title=\"@zetablockchain\">@zetablockchain</a>  <a href=\"https://twitter.com/FjordFoundry\" target=\"_blank\" rel=\"noopener\" title=\"@FjordFoundry\">@FjordFoundry</a><br>旨在做流动性协议，并且支持BTC资产的抵押借贷。聚合了市面上核心的借贷协议来提供最佳利率。目前官网除了借贷之外，还有BTC和ETH之间的桥。<br><br>目前LBP正在进行中。<br><br>官网介绍的四大产品：<br><i class=\"emoji\"><b>1⃣️</b></i>xBTC BTC Stablecoin<br>LENX issues a stablecoin, xBTC, a BTC pegged asset. xBTC is the first stablecoin to seamlessly transfer and redeem native Bitcoin without a long wait on any chain.<br><i class=\"emoji\"><b>2⃣️</b></i>Omnichain BTC Swap<br>LENX's core lies in its ability to conduct swaps and facilitate liquidity for native Bitcoin into any chain.<br><i class=\"emoji\"><b>3⃣️</b></i>XD, permissionless BAMM gauge<br>Frax BAMM is the core lending facility for LENX, allowing debt origination, customized non-custodial loans, and onboarding collateral assets to the omnichain economy with Frax.<br><i class=\"emoji\"><b>4⃣️</b></i>BOX, Bitcoin-backed CDP<br>LENX issues a USD-pegged stablecoin, BOX. BOX is the first stablecoin to collaterize native Bitcoin, currently in development and will be revealed at V2.<a class=\"tgme_widget_message_link_preview\" href=\"https://twitter.com/fraxfinance\" target=\"_blank\" rel=\"noopener\" title=\"¤ The Financial Engine of the Internet ¤ $FRAX (prev. $FXS)For onchain DeFi → @fraxfinanceFor strategic &amp; institutional news → @frax\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/10892314697fc9c1a3a0b8e738849d7b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Frax Finance ¤<i class=\"emoji\" style=\"background-image:url('/static/7e7d4994d53a374a93644af2abe4b1de.png')\"><b>⛓️</b></i>¤ (@fraxfinance) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">¤ The Financial Engine of the Internet ¤ $FRAX (prev. $FXS)<br><br>For onchain DeFi → @fraxfinance<br>For strategic &amp; institutional news → @frax</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "60",
       "title": "",
@@ -342,38 +374,6 @@
         {
           "emoji": "👍",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "39",
-      "title": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕",
-      "type": "text",
-      "datetime": "2023-12-16T13:09:20+00:00",
-      "tags": [],
-      "text": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹2⃣ $Zero @analysoor 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero 3⃣Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）4⃣铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
-      "content": "Fiona 今日观察<i class=\"emoji\"><b>👀</b></i>：（12月16日）<br><br><i class=\"emoji\"><b>1⃣</b></i>ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹<br><br><i class=\"emoji\"><b>2⃣</b></i> $Zero <br><a href=\"https://t.me/analysoor\" target=\"_blank\" title=\"@analysoor\">@analysoor</a><br> 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero <br><br><i class=\"emoji\"><b>3⃣</b></i>Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）<br><br><i class=\"emoji\"><b>4⃣</b></i>铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "38",
-      "title": "一切都在新高中！MubiMiceFoox",
-      "type": "text",
-      "datetime": "2023-12-15T22:38:20+00:00",
-      "tags": [],
-      "text": "一切都在新高中！MubiMiceFoox",
-      "content": "一切都在新高中！<br>Mubi<br>Mice<br>Foox",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
           "isPaid": false
         }
       ]

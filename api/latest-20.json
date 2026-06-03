@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "685",
+      "title": "【Fiona日报】2026-05-06 周三━━ 今日最重要一件事 ━━AMD盘后跳涨15%，Intel当日创历史新高，Micron HBM卖到年底",
+      "type": "text",
+      "datetime": "2026-05-06T02:17:58+00:00",
+      "tags": [],
+      "text": "【Fiona日报】2026-05-06 周三━━ 今日最重要一件事 ━━AMD盘后跳涨15%，Intel当日创历史新高，Micron HBM卖到年底。市场不再问\"AI需不需要算力\"，现在的问题是\"谁来供应这些算力\"。在Nvidia 5月20日财报之前，半导体板块将持续接棒指数上行——但Palantir跌7%和Shopify跌16%同时提醒：高PE叙事股没有业绩支撑时，财报就是清算日。━━ 市场快照 ━━标普500    7,259.22   ▲ +0.81%（历史新高）纳斯达克   25,326.13  ▲ +1.03%（历史新高）道指       49,298.25  ▲ +0.73%━━ 宏观要闻 ━━🌟🌟🌟【风险最高】霍尔木兹停火脆弱周一美军护送两艘商船穿越霍尔木兹时与伊朗交火，阿联酋富查伊拉港遭无人机袭击起火。国防部长Hegseth警告若谈判破裂将恢复\"大规模作战行动\"；IMF警告若冲突延续至2027年、油价维持$125/桶，将触发\"更严重的全球经济后果\"。周二因停火勉强维持，油价才得以从高位回撤3.9%。🌟🌟🌟【重大事件】Fed FOMC自1992年来最分裂票数维持利率，Powell暗示6月可能转向4月29日FOMC以历史最分裂票数维持基准利率3.50–3.75%不变。Powell明确表示\"能源上涨未见顶，需先看到能源和关税冲击结束再降息\"，并直接暗示\"转向可能最早在下次会议（6月）发生\"——意指不排除加息。目前市场定价12月加息概率约15%。🌟🌟【交易机会】AMD盘后跳涨15%，数据中心营收$58亿（+57% YoY）Q1总营收$103亿（+38% YoY，超预期约$4亿），非GAAP EPS $1.37（超预期$1.25），AI GPU出货持续爬坡。数据中心业务$58亿已连续多季创新高，AI算力供不应求格局确认。→ 交易逻辑：今日AMD高开或消化部分利好；更值得关注的是Nvidia 5月20日——AMD已为AI芯片需求设下高基准，Nvidia若不能超越这一数字，将面临\"买预期卖事实\"的系统性回调风险。🌟🌟【市场结构】Intel历史新高（+12.9%），苹果代工传闻重塑供应链格局Bloomberg报道苹果与Intel及三星就处理器代工展开初步洽谈，若落实将打破台积电对苹果的长期独占。同日Micron（+11%）HBM产品已售罄至2026年底，AI内存短缺格局确认。🌟【持续观察】JOLTS 3月招聘人数激增65.5万，就业韧性支持\"高利率更久\"3月职位空缺689万（略超市场预期680万），招聘人数激增65.5万至555万，招聘率升至3.5%。数据强化了Fed无需着急降息的论据，配合ISM服务业价格指数走强，通胀顽固性仍在。━━ 今日财报重点（5月6日）━━- Coinbase（COIN）盘后",
+      "content": "<b>【Fiona日报】2026-05-06 周三</b><br><br><b>━━ 今日最重要一件事 ━━<br>AMD盘后跳涨15%，Intel当日创历史新高，Micron HBM卖到年底。<br>市场不再问\"AI需不需要算力\"，现在的问题是\"谁来供应这些算力\"。<br>在Nvidia 5月20日财报之前，半导体板块将持续接棒指数上行——但Palantir<br>跌7%和Shopify跌16%同时提醒：高PE叙事股没有业绩支撑时，财报就是清算日。</b><br><br><b>━━ 市场快照 ━━</b><br>标普500    7,259.22   ▲ +0.81%（历史新高）<br>纳斯达克   25,326.13  ▲ +1.03%（历史新高）<br>道指       49,298.25  ▲ +0.73%<br><br><br><b>━━ 宏观要闻 ━━</b><br><b><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【风险最高】霍尔木兹停火脆弱</b><br>周一美军护送两艘商船穿越霍尔木兹时与伊朗交火，阿联酋富查伊拉港遭无人机袭击起火。国防部长Hegseth警告若谈判破裂将恢复\"大规模作战行动\"；IMF警告若冲突延续至2027年、油价维持$125/桶，将触发\"更严重的全球经济后果\"。周二因停火勉强维持，油价才得以从高位回撤3.9%。<br><br><br><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i><b><i class=\"emoji\"><b>🌟</b></i>【重大事件】Fed FOMC自1992年来最分裂票数维持利率，Powell暗示6月可能转向</b><br>4月29日FOMC以历史最分裂票数维持基准利率3.50–3.75%不变。Powell明确表示\"能源上涨未见顶，需先看到能源和关税冲击结束再降息\"，并直接暗示\"转向可能最早在下次会议（6月）发生\"——意指不排除加息。目前市场定价12月加息概率约15%。<br><br><b><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【交易机会】AMD盘后跳涨15%，数据中心营收$58亿（+57% YoY）</b><br>Q1总营收$103亿（+38% YoY，超预期约$4亿），非GAAP EPS $1.37（超预期$1.25），AI GPU出货持续爬坡。数据中心业务$58亿已连续多季创新高，AI算力供不应求格局确认。<br>→ 交易逻辑：今日AMD高开或消化部分利好；更值得关注的是Nvidia 5月20日——AMD已为AI芯片需求设下高基准，Nvidia若不能超越这一数字，将面临\"买预期卖事实\"的系统性回调风险。<br><br><b><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【市场结构】Intel历史新高（+12.9%），苹果代工传闻重塑供应链格局</b><br>Bloomberg报道苹果与Intel及三星就处理器代工展开初步洽谈，若落实将打破台积电对苹果的长期独占。同日Micron（+11%）HBM产品已售罄至2026年底，AI内存短缺格局确认。<br><br><b><i class=\"emoji\"><b>🌟</b></i>【持续观察】JOLTS 3月招聘人数激增65.5万，就业韧性支持\"高利率更久\"</b><br>3月职位空缺689万（略超市场预期680万），招聘人数激增65.5万至555万，招聘率升至3.5%。数据强化了Fed无需着急降息的论据，配合ISM服务业价格指数走强，通胀顽固性仍在。<br><br><b>━━ 今日财报重点（5月6日）━━<br>- Coinbase（COIN）盘后</b>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "684",
+      "title": "回顾一下，美光 $MU是我今年最看好，也对我的盈利做出最大的贡献的一直股票",
+      "type": "text",
+      "datetime": "2026-05-06T01:44:24+00:00",
+      "tags": [],
+      "text": "回顾一下，美光 $MU是我今年最看好，也对我的盈利做出最大的贡献的一直股票。 虽然卖飞了不少 $MUU , 但是正股已经从第一次买入的230涨到了如今的670，并一直持有。从去年底的第一波存储上涨存储荒，到Google turboQuant 新模型可能冲击存储需求，到现在人人都说存储是AI瓶颈。我的想法一直都没有改变过，内存是这一轮AI最为受益的板块。那让我们看看过去7个月，我关于美光的观点和文章。1️⃣去年11月12日，内存分类科普文：知道不同行内存的特性和用途，你才知道这一轮缺的是什么？供不应求直接转化为定价能力，最终体现在利润率的飙升上。https://x.com/nft_hu/status/1988539054997295258?s=20也是我第一次开始研究美光。2️⃣1月11日，第一篇美光长文《从 DRAM 的伤疤，到 HBM 的野望：2026 年的美光值不值得追？》，也是我大量建仓美光的起点。https://x.com/nft_hu/status/2010201229499216269?s=203️⃣1月19日，美国商务部发推文“表扬”美光，美光承诺在美国投资额度已经从最初的750 亿美元扩大到 2000 亿美元。https://x.com/nft_hu/status/2013152939154551127?s=204️⃣1月20日，为什么这一轮内存缺乏是结构性的，而非周期性的：https://x.com/nft_hu/status/2013463653929177334?s=205️⃣3月14日，美光长文第二篇，财报前看点https://x.com/nft_hu/status/2032764784215732715?s=206️⃣3月30日，美光最近新进展。这也是暴跌之下坚定加仓美光。https://x.com/nft_hu/status/2038601114602619201?s=206️⃣我解析的TurboQuant和美光之间的关系，也是我低点加仓的逻辑https://x.com/nft_hu/status/2036824266188996693?s=207️⃣美光关键产品时间节点：https://x.com/nft_hu/status/2010708190137303419?s=20",
+      "content": "<b>回顾一下，美光 $MU是我今年最看好，也对我的盈利做出最大的贡献的一直股票。 虽然卖飞了不少 </b><b>$MUU</b><b> , 但是正股已经从第一次买入的230涨到了如今的670，并一直持有。</b><br><br><b>从去年底的第一波存储上涨存储荒，到Google turboQuant 新模型可能冲击存储需求，到现在人人都说存储是AI瓶颈。我的想法一直都没有改变过，内存是这一轮AI最为受益的板块。</b><br><br>那让我们看看过去7个月，我关于美光的观点和文章。<br><br><i class=\"emoji\"><b>1️⃣</b></i>去年11月12日，内存分类科普文：知道不同行内存的特性和用途，你才知道这一轮缺的是什么？供不应求直接转化为定价能力，最终体现在利润率的飙升上。<a href=\"https://x.com/nft_hu/status/1988539054997295258?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1988539054997295258?s=20\">https://x.com/nft_hu/status/1988539054997295258?s=20</a><br>也是我第一次开始研究美光。<br><br><i class=\"emoji\"><b>2️⃣</b></i>1月11日，第一篇美光长文《从 DRAM 的伤疤，到 HBM 的野望：2026 年的美光值不值得追？》，也是我大量建仓美光的起点。<br><a href=\"https://x.com/nft_hu/status/2010201229499216269?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2010201229499216269?s=20\">https://x.com/nft_hu/status/2010201229499216269?s=20</a><br><br><i class=\"emoji\"><b>3️⃣</b></i>1月19日，美国商务部发推文“表扬”美光，美光承诺在美国投资额度已经从最初的750 亿美元扩大到 2000 亿美元。<br><a href=\"https://x.com/nft_hu/status/2013152939154551127?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013152939154551127?s=20\">https://x.com/nft_hu/status/2013152939154551127?s=20</a><br><br><i class=\"emoji\"><b>4️⃣</b></i>1月20日，为什么这一轮内存缺乏是结构性的，而非周期性的：<a href=\"https://x.com/nft_hu/status/2013463653929177334?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013463653929177334?s=20\">https://x.com/nft_hu/status/2013463653929177334?s=20</a><br><br><i class=\"emoji\"><b>5️⃣</b></i>3月14日，美光长文第二篇，财报前看点<br><a href=\"https://x.com/nft_hu/status/2032764784215732715?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2032764784215732715?s=20\">https://x.com/nft_hu/status/2032764784215732715?s=20</a><br><br><i class=\"emoji\"><b>6️⃣</b></i>3月30日，美光最近新进展。这也是暴跌之下坚定加仓美光。<br><a href=\"https://x.com/nft_hu/status/2038601114602619201?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2038601114602619201?s=20\">https://x.com/nft_hu/status/2038601114602619201?s=20</a><br><br><i class=\"emoji\"><b>6️⃣</b></i>我解析的TurboQuant和美光之间的关系，也是我低点加仓的逻辑<br><a href=\"https://x.com/nft_hu/status/2036824266188996693?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2036824266188996693?s=20\">https://x.com/nft_hu/status/2036824266188996693?s=20</a><br><br><i class=\"emoji\"><b>7️⃣</b></i>美光关键产品时间节点：<br><a href=\"https://x.com/nft_hu/status/2010708190137303419?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2010708190137303419?s=20\">https://x.com/nft_hu/status/2010708190137303419?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1988539054997295258?s=20\" target=\"_blank\" rel=\"noopener\" title=\"芯片狂潮向存储蔓延，美光新高，闪迪暴涨，NAND涨价...等接连占据新闻头条。虽然太多太多人鼓吹记忆体超级牛市通常是顶部标志，虽然确实有很多行业冥灯买入记忆体股票。但是作为一个永远在学习的平民，了解一下“记忆体”是什么？ NAND Flash和DRAM 又究竟都是什么？最近说的减产涨价又是为什么？\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b19c066537ae4254fafdac83ab3dc515.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">芯片狂潮向存储蔓延，美光新高，闪迪暴涨，NAND涨价...等接连占据新闻头条。<br><br>虽然太多太多人鼓吹记忆体超级牛市通常是顶部标志，虽然确实有很多行业冥灯买入记忆体股票。但是作为一个永远在学习的平民，了解一下“记忆体”是什么？ NAND Flash和DRAM 又究竟都是什么？最近说的减产涨价又是为什么？</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "🐳",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "683",
       "title": "5月对于英伟达来说格外的重要",
@@ -352,48 +389,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "665",
-      "title": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
-      "type": "text",
-      "datetime": "2026-05-01T02:23:12+00:00",
-      "tags": [],
-      "text": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
-      "content": "开心的4月结束了，希望5月继续顺顺当当一起赚钱",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "664",
-      "title": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE  $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？文章超长，还是推荐X阅读 ",
-      "type": "text",
-      "datetime": "2026-04-30T14:56:17+00:00",
-      "tags": [],
-      "text": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE  $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？文章超长，还是推荐X阅读 https://x.com/nft_hu/status/2049864621188866303?s=20",
-      "content": "上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 <br>$LITE  $COHR $MRVL $CRDO<br> 在这个产业链里处于什么位置？我们在交易的到底是什么预期？<br><br>文章超长，还是推荐X阅读 <a href=\"https://x.com/nft_hu/status/2049864621188866303?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049864621188866303?s=20\">https://x.com/nft_hu/status/2049864621188866303?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2049864621188866303?s=20\" target=\"_blank\" rel=\"noopener\" title=\"上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？提示🔔本条最好结合上一条一起服用。理解加倍～本文内容很干，建议收藏随时复习——————————————$LITE 和 $COHR 占据中间三个核心位置:\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbf75073cb1f67c00a4ba28e156a2f57.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">上文已经让大家了解了光通讯的产业链构成，那我们今天来讨论一下备受关注 $LITE $COHR $MRVL $CRDO 在这个产业链里处于什么位置？我们在交易的到底是什么预期？<br><br>提示<i class=\"emoji\" style=\"background-image:url('/static/2a737154a04533c529006bc216bd5ba9.png')\"><b>🔔</b></i>本条最好结合上一条一起服用。理解加倍～<br>本文内容很干，建议收藏随时复习<br>——————————————<br>$LITE 和 $COHR 占据中间三个核心位置:</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
           "count": "1",
           "isPaid": false
         }

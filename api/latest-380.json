@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 670,
+    "totalPosts": 672,
     "totalPages": 34,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "313",
+      "title": "humanity 空投可以查询了 ",
+      "type": "text",
+      "datetime": "2025-06-23T14:30:08+00:00",
+      "tags": [],
+      "text": "humanity 空投可以查询了 https://x.com/nft_hu/status/1937154619647602996",
+      "content": "humanity 空投可以查询了 <a href=\"https://x.com/nft_hu/status/1937154619647602996\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1937154619647602996\">https://x.com/nft_hu/status/1937154619647602996</a>",
+      "reactions": []
+    },
+    {
+      "id": "312",
+      "title": "本周解锁🔓 ",
+      "type": "text",
+      "datetime": "2025-04-28T03:58:52+00:00",
+      "tags": [],
+      "text": "本周解锁🔓 https://x.com/wublockchain/status/1916680348945326091?s=46",
+      "content": "本周解锁<i class=\"emoji\"><b>🔓</b></i> <a href=\"https://x.com/wublockchain/status/1916680348945326091?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/wublockchain/status/1916680348945326091?s=46\">https://x.com/wublockchain/status/1916680348945326091?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/wublockchain/status/1916680348945326091?s=46\" target=\"_blank\" rel=\"noopener\" title=\"In the next 7 days, major one-time token unlocks (unlock amounts over $5 million) are expected for SUI, OMNI, OP, KMNO, ENA, ZETA, REZ, MEME, DYDX, GUNZ, and IOTA.Significant linear daily unlocks (daily unlock amounts over $1 million) are expected for SOL…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/21698cc48b787dfb4b09837cf1d31bcd.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Wu Blockchain (@WuBlockchain) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">In the next 7 days, major one-time token unlocks (unlock amounts over $5 million) are expected for SUI, OMNI, OP, KMNO, ENA, ZETA, REZ, MEME, DYDX, GUNZ, and IOTA.Significant linear daily unlocks (daily unlock amounts over $1 million) are expected for SOL…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "311",
       "title": "减仓，多次突破失，等走的更分明再看",
@@ -417,63 +448,6 @@
         {
           "emoji": "❤️",
           "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "293",
-      "title": "Fiona’s Daily News 12.2很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间",
-      "type": "text",
-      "datetime": "2024-12-02T06:43:39+00:00",
-      "tags": [],
-      "text": "Fiona’s Daily News 12.2很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间。👔宏观1️⃣美国总统拜登宣布赦免他的儿子亨特·拜登。据美媒分析，这一决定标志着拜登作为总统的立场发生逆转，他曾多次表示不会利用行政权力赦免儿子或减轻其刑罚。2️⃣WSJ：一旦特朗普重返白宫，SEC可能会放松对加密CEX的法律斗争最起码Gary Gensler是真的要走了 🙏https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc213⃣️Ava Labs创始人：Avalanche正与美国新政府谈判🪙币圈 1️⃣据 Tokenomist.ai 数据显示，JTO、ENA、ADA 将于下周迎来较大额解锁2️⃣比特币市占率跌至56.75%，山寨总市值11月单边上涨近70%3️⃣HYPE市值一度超越OP，昨日交易量占衍生品DEX赛道的47%4️⃣蓝筹NFT普涨，BAYC过去一周涨幅72.56%https://www.theblockbeats.info/flash/272595💰行情XRP ADA HBAR EOS DASH强势DeRec 联盟币",
-      "content": "Fiona’s Daily News 12.2<br>很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间。<br><br><i class=\"emoji\"><b>👔</b></i>宏观<br><i class=\"emoji\"><b>1️⃣</b></i>美国总统拜登宣布赦免他的儿子亨特·拜登。据美媒分析，这一决定标志着拜登作为总统的立场发生逆转，他曾多次表示不会利用行政权力赦免儿子或减轻其刑罚。<br><i class=\"emoji\"><b>2️⃣</b></i>WSJ：一旦特朗普重返白宫，SEC可能会放松对加密CEX的法律斗争<br>最起码Gary Gensler是真的要走了 <i class=\"emoji\"><b>🙏</b></i><br><a href=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\" target=\"_blank\" rel=\"noopener\" title=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\">https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21</a><br><i class=\"emoji\"><b>3⃣️</b></i>Ava Labs创始人：Avalanche正与美国新政府谈判<br><br><br><i class=\"emoji\"><b>🪙</b></i>币圈 <br><i class=\"emoji\"><b>1️⃣</b></i>据 <a href=\"http://Tokenomist.ai/\" target=\"_blank\" rel=\"noopener\" title=\"Tokenomist.ai\">Tokenomist.ai</a> 数据显示，JTO、ENA、ADA 将于下周迎来较大额解锁<br><i class=\"emoji\"><b>2️⃣</b></i>比特币市占率跌至56.75%，山寨总市值11月单边上涨近70%<br><i class=\"emoji\"><b>3️⃣</b></i>HYPE市值一度超越OP，昨日交易量占衍生品DEX赛道的47%<br><i class=\"emoji\"><b>4️⃣</b></i>蓝筹NFT普涨，BAYC过去一周涨幅72.56%<br><a href=\"https://www.theblockbeats.info/flash/272595\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblockbeats.info/flash/272595\">https://www.theblockbeats.info/flash/272595</a><br><br><i class=\"emoji\"><b>💰</b></i>行情<br>XRP ADA HBAR EOS DASH强势<br>DeRec 联盟币<a class=\"tgme_widget_message_link_preview\" href=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\" target=\"_blank\" rel=\"noopener\" title=\"The president-elect’s new SEC chair will likely withdraw from lawsuits aimed at forcing crypto to follow Wall Street rules.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">The Wall Street Journal</div>\n  <img class=\"link_preview_image\" alt=\"Trump’s Return Heralds Litigation Peace for Crypto\" src=\"/static/6c1cc3423ed15d66cf48c3d3d5328328.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Trump’s Return Heralds Litigation Peace for Crypto</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The president-elect’s new SEC chair will likely withdraw from lawsuits aimed at forcing crypto to follow Wall Street rules.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "🐳",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥱",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "292",
-      "title": "MSTR 与BTC",
-      "type": "text",
-      "datetime": "2024-11-24T03:11:36+00:00",
-      "tags": [],
-      "text": "MSTR 与BTChttps://x.com/nft_hu/status/1860519813854167385",
-      "content": "MSTR 与BTC<br><a href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1860519813854167385\">https://x.com/nft_hu/status/1860519813854167385</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：比特币/MSTR将会是下一个Luna么？有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/2055327a22555996dae7e81e0efc2fe7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：<br>比特币/MSTR将会是下一个Luna么？<br><br>有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]
