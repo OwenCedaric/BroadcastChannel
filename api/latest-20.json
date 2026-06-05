@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 203,
+    "totalPosts": 204,
     "totalPages": 11,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,72 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "211",
+      "title": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改",
+      "type": "text",
+      "datetime": "2026-02-21T14:56:49+00:00",
+      "tags": [],
+      "text": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改。但是最近遇到一个战略类的游戏光改游戏数值感觉还不够过瘾，我想把游戏后期的超级道具在新的存档里的游戏前期就解锁。这就涉及到要修改游戏的存档二进制文件才行，全是人肉眼无法读取的Hex Code。丢给gemini 3.1pro看，gemini推荐我用软件自己改自己想改的那几个关键点，它来指导我，中途出了好几次把游戏存档改坏了的问题。丢给Claude Opus4.6看，配合上游戏的debug log它直接帮我把游戏存档整个改好了，把改完的存档丢给了我，完美运行。代码能力Opus4.6实在是强大配合上Openclaw简直是大杀器",
+      "content": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改。<br><br>但是最近遇到一个战略类的游戏光改游戏数值感觉还不够过瘾，我想把游戏后期的超级道具在新的存档里的游戏前期就解锁。<br><br>这就涉及到要修改游戏的存档二进制文件才行，全是人肉眼无法读取的Hex Code。<br><br>丢给gemini 3.1pro看，gemini推荐我用软件自己改自己想改的那几个关键点，它来指导我，中途出了好几次把游戏存档改坏了的问题。<br><br>丢给Claude Opus4.6看，配合上游戏的debug log它直接帮我把游戏存档整个改好了，把改完的存档丢给了我，完美运行。<br><br>代码能力Opus4.6实在是强大<br>配合上Openclaw简直是大杀器",
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "264",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "158",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "51",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "210",
       "title": "上文补充：什么时候才算“全球资产绝对便宜的时刻”？有一个很好的指标就是ishares新兴市场指数，相当于全球股市的“山寨币指数”",
@@ -972,52 +1038,6 @@
         },
         {
           "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "191",
-      "title": "又买了15BTC @63800",
-      "type": "text",
-      "datetime": "2026-02-05T20:31:31+00:00",
-      "tags": [],
-      "text": "又买了15BTC @63800",
-      "content": "又买了15BTC <a href=\"https://t.me/63800\" target=\"_blank\" title=\"@63800\">@63800</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "86",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
           "count": "1",
           "isPaid": false
         }

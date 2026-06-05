@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 203,
+    "totalPosts": 204,
     "totalPages": 11,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "34",
+      "title": "抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）",
+      "type": "text",
+      "datetime": "2025-05-28T17:27:49+00:00",
+      "tags": [],
+      "text": "抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）。理由：最近一些加密机构去美股收购这种小市值公司，然后推出”公司的加密货币投资策略“，使驱动股价上涨。————————我的判断极可能错误，因此我只投入了可承受亏损的金额。若完全归零也属于事先心理预期范围。👆上述仅为本人描述自己的心理心态，记录自己的交易记录，而非推荐任何人购买，不构成财务建议",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-34-0\" popovertargetaction=\"show\">\n        <img src=\"/static/556556371e59a865345fd04353c0fd87.jpg\" alt=\"抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-34-0\" popovertarget=\"modal-34-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/556556371e59a865345fd04353c0fd87.jpg\" alt=\"抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）\" loading=\"lazy\" />\n      </button>\n    </div>抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）。理由：最近一些加密机构去美股收购这种小市值公司，然后推出”公司的加密货币投资策略“，使驱动股价上涨。<br><br>————————<br><br>我的判断极可能错误，因此我只投入了可承受亏损的金额。若完全归零也属于事先心理预期范围。<br><br><i class=\"emoji\"><b>👆</b></i>上述仅为本人描述自己的心理心态，记录自己的交易记录，而非推荐任何人购买，不构成财务建议",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "107",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "33",
       "title": "CCXT大概是这个星球上最最完美最最暴利的套利生意之一",
@@ -812,47 +858,6 @@
         },
         {
           "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "10",
-      "title": "是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了",
-      "type": "text",
-      "datetime": "2025-04-27T15:46:44+00:00",
-      "tags": [],
-      "text": "是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-10-0\" popovertargetaction=\"show\">\n        <img src=\"/static/3ff126154d0ba1bc93c23852217b6669.jpg\" alt=\"是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-10-0\" popovertarget=\"modal-10-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/3ff126154d0ba1bc93c23852217b6669.jpg\" alt=\"是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了\" loading=\"lazy\" />\n      </button>\n    </div>是的，我要宣扬书籍无用论<br>或者说这个时代不需要你自己去大费周章的看完一本书<br><br>你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息<br><br>这效率比你自己翻一本书高太多了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "323",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "47",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "20",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
           "count": "2",
           "isPaid": false
         }

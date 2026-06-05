@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 203,
+    "totalPosts": 204,
     "totalPages": 11,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,47 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "239",
+      "title": "又到了一个这样连续下跌的时刻我知道很多人在等待我发抄底的信号，等我操作的时候我会发的",
+      "type": "text",
+      "datetime": "2026-06-05T15:44:18+00:00",
+      "tags": [],
+      "text": "又到了一个这样连续下跌的时刻我知道很多人在等待我发抄底的信号，等我操作的时候我会发的。我依然会执行我的“抄底只买急跌” 原则，现在这样缓慢的钝刀子割肉我是不会买的 得看到比如BTC几分钟内跌3-5%这种大规模清算发生再出手。蹲不到就不买，反正赚多赚少几个钱无所谓。而不亏钱很重要",
+      "content": "又到了一个这样连续下跌的时刻<br>我知道很多人在等待我发抄底的信号，等我操作的时候我会发的。<br>我依然会执行我的“抄底只买急跌” 原则，现在这样缓慢的钝刀子割肉我是不会买的 得看到比如BTC几分钟内跌3-5%这种大规模清算发生再出手。<br><br>蹲不到就不买，反正赚多赚少几个钱无所谓。<br>而不亏钱很重要",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "112",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "77",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "238",
       "title": "完全错过了这波半导体行情恭喜抓住的人们——无法想象最近你们有多爽well，这就是我追求“稳定”要付出的代价吧我依然85%在现金上老老实实吃利息，我不会突然暴富，我也不会突然跌落我的目标就是守护2022-2025积累的成果，然后蹲守狙击到下一次“一切都打大折”的机会",
@@ -1068,72 +1109,6 @@
         {
           "emoji": "😈",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "211",
-      "title": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改",
-      "type": "text",
-      "datetime": "2026-02-21T14:56:49+00:00",
-      "tags": [],
-      "text": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改。但是最近遇到一个战略类的游戏光改游戏数值感觉还不够过瘾，我想把游戏后期的超级道具在新的存档里的游戏前期就解锁。这就涉及到要修改游戏的存档二进制文件才行，全是人肉眼无法读取的Hex Code。丢给gemini 3.1pro看，gemini推荐我用软件自己改自己想改的那几个关键点，它来指导我，中途出了好几次把游戏存档改坏了的问题。丢给Claude Opus4.6看，配合上游戏的debug log它直接帮我把游戏存档整个改好了，把改完的存档丢给了我，完美运行。代码能力Opus4.6实在是强大配合上Openclaw简直是大杀器",
-      "content": "我打单机游戏是必须开作弊才行的，一般就用Wand这种万能修改器足矣，实在不行还可以用Cheat Engine自己改改。<br><br>但是最近遇到一个战略类的游戏光改游戏数值感觉还不够过瘾，我想把游戏后期的超级道具在新的存档里的游戏前期就解锁。<br><br>这就涉及到要修改游戏的存档二进制文件才行，全是人肉眼无法读取的Hex Code。<br><br>丢给gemini 3.1pro看，gemini推荐我用软件自己改自己想改的那几个关键点，它来指导我，中途出了好几次把游戏存档改坏了的问题。<br><br>丢给Claude Opus4.6看，配合上游戏的debug log它直接帮我把游戏存档整个改好了，把改完的存档丢给了我，完美运行。<br><br>代码能力Opus4.6实在是强大<br>配合上Openclaw简直是大杀器",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "264",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "158",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "51",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

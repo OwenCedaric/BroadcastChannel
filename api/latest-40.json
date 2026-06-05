@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 203,
+    "totalPosts": 204,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "191",
+      "title": "又买了15BTC @63800",
+      "type": "text",
+      "datetime": "2026-02-05T20:31:31+00:00",
+      "tags": [],
+      "text": "又买了15BTC @63800",
+      "content": "又买了15BTC <a href=\"https://t.me/63800\" target=\"_blank\" title=\"@63800\">@63800</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "86",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "190",
       "title": "",
@@ -983,72 +1029,6 @@
         {
           "emoji": "🙏",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "169",
-      "title": "我喜欢在我的频道直播我的交易就像方程式新闻一样我相信人们更喜欢看实时的而不是操作完了发个pnl图说自己赚了",
-      "type": "text",
-      "datetime": "2026-01-31T19:19:47+00:00",
-      "tags": [],
-      "text": "我喜欢在我的频道直播我的交易就像方程式新闻一样我相信人们更喜欢看实时的而不是操作完了发个pnl图说自己赚了",
-      "content": "我喜欢在我的频道直播我的交易<br>就像方程式新闻一样<br><br>我相信人们更喜欢看实时的<br><br>而不是操作完了发个pnl图说自己赚了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "684",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "84",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "1",
           "isPaid": false
         }
       ]
