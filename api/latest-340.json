@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,26 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "356",
+      "title": "4400合约tp了一点",
+      "type": "text",
+      "datetime": "2025-08-12T13:05:44+00:00",
+      "tags": [],
+      "text": "4400合约tp了一点",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/354\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买eth啦</div>\n</small></blockquote></a>4400合约tp了一点",
+      "reactions": []
+    },
+    {
+      "id": "355",
+      "title": "BMNR新公告：",
+      "type": "text",
+      "datetime": "2025-08-12T12:37:36+00:00",
+      "tags": [],
+      "text": "BMNR新公告：https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm",
+      "content": "BMNR新公告：<a href=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\" target=\"_blank\" rel=\"noopener\" title=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\">https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm</a>",
+      "reactions": []
+    },
     {
       "id": "354",
       "title": "买eth啦",
@@ -426,63 +446,6 @@
         {
           "emoji": "👍",
           "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "335",
-      "title": "行情非常好，从BTC ETH扩展到了其他的山寨，无论是昨天爆拉的 $CFX  周末冲锋的 $DOGE 还是ENA PENGU这些近期强势币",
-      "type": "text",
-      "datetime": "2025-07-21T08:37:54+00:00",
-      "tags": [],
-      "text": "行情非常好，从BTC ETH扩展到了其他的山寨，无论是昨天爆拉的 $CFX  周末冲锋的 $DOGE 还是ENA PENGU这些近期强势币。这个时期我的策略有两个：1⃣拥抱强势币；2⃣趋势结束前不要轻易换仓。目前主要持仓 $BTC $ETH  小仓位 $HYPE $DOGE $SOL",
-      "content": "行情非常好，从BTC ETH扩展到了其他的山寨，无论是昨天爆拉的 $CFX  周末冲锋的 $DOGE 还是ENA PENGU这些近期强势币。<br>这个时期我的策略有两个：<br><i class=\"emoji\"><b>1⃣</b></i>拥抱强势币；<i class=\"emoji\"><b>2⃣</b></i>趋势结束前不要轻易换仓。<br>目前主要持仓 $BTC $ETH  小仓位 $HYPE $DOGE $SOL",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "334",
-      "title": "周末行情萎靡，平多了一些仓位",
-      "type": "text",
-      "datetime": "2025-07-19T14:41:08+00:00",
-      "tags": [],
-      "text": "周末行情萎靡，平多了一些仓位",
-      "content": "周末行情萎靡，平多了一些仓位",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😭",
-          "count": "2",
           "isPaid": false
         }
       ]

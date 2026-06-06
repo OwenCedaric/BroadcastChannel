@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "41",
+      "title": "2023的年度总结这是写给自己的一年总结，也是基于现在的认知对于过去一年的整理回顾",
+      "type": "text",
+      "datetime": "2023-12-19T07:50:53+00:00",
+      "tags": [],
+      "text": "2023的年度总结这是写给自己的一年总结，也是基于现在的认知对于过去一年的整理回顾。希望新的一年可以根据自己的能力和特点，达到更好的投资战绩。https://x.com/nft_hu/status/1737017165583429913?s=20",
+      "content": "2023的年度总结<br>这是写给自己的一年总结，也是基于现在的认知对于过去一年的整理回顾。希望新的一年可以根据自己的能力和特点，达到更好的投资战绩。<br><a href=\"https://x.com/nft_hu/status/1737017165583429913?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1737017165583429913?s=20\">https://x.com/nft_hu/status/1737017165583429913?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1737017165583429913?s=20\" target=\"_blank\" rel=\"noopener\" title=\"2023的个人年度总结这是写给自己的一年总结，也是基于现在的认知对于过去一年的整理回顾。希望新的一年可以根据自己的能力和特点，达到更好的投资战绩。…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">2023的个人年度总结<br>这是写给自己的一年总结，也是基于现在的认知对于过去一年的整理回顾。希望新的一年可以根据自己的能力和特点，达到更好的投资战绩。…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "title": "",
+      "type": "text",
+      "datetime": "2023-12-19T05:46:15+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-40-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c2cd54c88c645d190d6ffe71b5c5bbbd.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-40-0\" popovertarget=\"modal-40-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c2cd54c88c645d190d6ffe71b5c5bbbd.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "39",
       "title": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕",
@@ -253,32 +285,6 @@
       "text": "Fiona‘s daily news-11.21, 2023NEWS：1-美司法部要求币安赔偿 40 多亿美元，以作为拟议解决方案的一部分（利空落地，好事）https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case2-Kraken：不同意美 SEC 的主张，将继续不间断地为客户提供服务https://foresightnews.pro/news/h5Detail/331993- Bittrex 将于 12 月 4 日起结束运营，所有交易活动都将被禁用4-美 SEC 正与 Celsius 债委会等协商，希望获得更多资产信息5-阿根廷新总统当选，此前强力支持BTChttps://mp.weixin.qq.com/s/3NBu6NmsPNe0yHs1iqLMQQ6-Bullish 已收购 CoinDesk行情资讯：1-Blur 已开放第 2 季空投申领，并开启为期 6 个月的第 3 季空投https://x.com/blur_io/status/1726755847651623386?s=202-DFINITY 基金会和 SingularityNET 推出去中心化人工智能「DeAI 联合计划」3-Vega Protocol 推出去中心化永续合约，支持以社区投票的 ERC-20 代币进行结算https://www.theblock.co/post/263704/vega-protocol-unveils-decentralized-perpetuals-on-trading-blockchain4-生成式 AI 基础设施公链 BP-FLAC 完成 1000 万美元融资，亚马逊等参投https://apnews.com/press-release/marketersmedia/artificial-intelligence-blockchain-942e3e95884ebab4dfc1a8c392aa06c95-Panoptic 完成 700 万美元种子轮融资，Greenfield Capital 领投https://www.theblock.co/post/263771/panoptic-raises-7-million-to-build-perpetual-options-platform-for-defi链上追踪：1-PYTH空投已经领取70%+BTC生态：1.Nostr Assets即将推出Fair Mint功能，用户应如何参与？https://www.theblockbeats.info/news/47495?from=telegram",
       "content": "Fiona‘s daily news-11.21, 2023<br><br>NEWS：<br>1-美司法部要求币安赔偿 40 多亿美元，以作为拟议解决方案的一部分（利空落地，好事）<br><a href=\"https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case\" target=\"_blank\" rel=\"noopener\" title=\"https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case\">https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case</a><br>2-Kraken：不同意美 SEC 的主张，将继续不间断地为客户提供服务<br><a href=\"https://foresightnews.pro/news/h5Detail/33199\" target=\"_blank\" rel=\"noopener\" title=\"https://foresightnews.pro/news/h5Detail/33199\">https://foresightnews.pro/news/h5Detail/33199</a><br>3- Bittrex 将于 12 月 4 日起结束运营，所有交易活动都将被禁用<br>4-美 SEC 正与 Celsius 债委会等协商，希望获得更多资产信息<br>5-阿根廷新总统当选，此前强力支持BTC<br><a href=\"https://mp.weixin.qq.com/s/3NBu6NmsPNe0yHs1iqLMQQ\" target=\"_blank\" rel=\"noopener\" title=\"https://mp.weixin.qq.com/s/3NBu6NmsPNe0yHs1iqLMQQ\">https://mp.weixin.qq.com/s/3NBu6NmsPNe0yHs1iqLMQQ</a><br>6-Bullish 已收购 CoinDesk<br><br>行情资讯：<br>1-Blur 已开放第 2 季空投申领，并开启为期 6 个月的第 3 季空投<br><a href=\"https://x.com/blur_io/status/1726755847651623386?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/blur_io/status/1726755847651623386?s=20\">https://x.com/blur_io/status/1726755847651623386?s=20</a><br>2-DFINITY 基金会和 SingularityNET 推出去中心化人工智能「DeAI 联合计划」<br>3-Vega Protocol 推出去中心化永续合约，支持以社区投票的 ERC-20 代币进行结算<br><a href=\"https://www.theblock.co/post/263704/vega-protocol-unveils-decentralized-perpetuals-on-trading-blockchain\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/263704/vega-protocol-unveils-decentralized-perpetuals-on-trading-blockchain\">https://www.theblock.co/post/263704/vega-protocol-unveils-decentralized-perpetuals-on-trading-blockchain</a><br>4-生成式 AI 基础设施公链 BP-FLAC 完成 1000 万美元融资，亚马逊等参投<br><a href=\"https://apnews.com/press-release/marketersmedia/artificial-intelligence-blockchain-942e3e95884ebab4dfc1a8c392aa06c9\" target=\"_blank\" rel=\"noopener\" title=\"https://apnews.com/press-release/marketersmedia/artificial-intelligence-blockchain-942e3e95884ebab4dfc1a8c392aa06c9\">https://apnews.com/press-release/marketersmedia/artificial-intelligence-blockchain-942e3e95884ebab4dfc1a8c392aa06c9</a><br>5-Panoptic 完成 700 万美元种子轮融资，Greenfield Capital 领投<br><a href=\"https://www.theblock.co/post/263771/panoptic-raises-7-million-to-build-perpetual-options-platform-for-defi\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/263771/panoptic-raises-7-million-to-build-perpetual-options-platform-for-defi\">https://www.theblock.co/post/263771/panoptic-raises-7-million-to-build-perpetual-options-platform-for-defi</a><br><br>链上追踪：<br>1-PYTH空投已经领取70%+<br><br>BTC生态：<br>1.Nostr Assets即将推出Fair Mint功能，用户应如何参与？<br><a href=\"https://www.theblockbeats.info/news/47495?from=telegram\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblockbeats.info/news/47495?from=telegram\">https://www.theblockbeats.info/news/47495?from=telegram</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case?utm_medium=social&amp;utm_content=middleeast&amp;utm_source=twitter&amp;utm_campaign=socialflow-organic\" target=\"_blank\" rel=\"noopener\" title=\"The US Justice Department is seeking more than $4 billion from Binance Holdings Ltd. as part of a proposed resolution of a years-long investigation into the world’s largest cryptocurrency exchange.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Bloomberg.com</div>\n  <img class=\"link_preview_image\" alt=\"US Is Seeking More than $4 Billion From Binance to End Case\" src=\"/static/d9b6d5a8f49bd4995a63293a140c47a8.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">US Is Seeking More than $4 Billion From Binance to End Case</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The US Justice Department is seeking more than $4 billion from Binance Holdings Ltd. as part of a proposed resolution of a years-long investigation into the world’s largest cryptocurrency exchange.</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "20",
-      "title": "今天介绍第2⃣个Gamfi@Seraph_global      Arbitrum上的 RPG游戏游戏：信息比较少，目前看只有CG效果图的视频社群：推特粉丝40k，活跃度还可以",
-      "type": "text",
-      "datetime": "2023-11-19T08:48:11+00:00",
-      "tags": [],
-      "text": "今天介绍第2⃣个Gamfi@Seraph_global      Arbitrum上的 RPG游戏游戏：信息比较少，目前看只有CG效果图的视频社群：推特粉丝40k，活跃度还可以。但是推特运营时间很短，是2023年9月注册，10月才开始发文。推特的经营方向也主要是不断wl和mint预热，关于游戏自身的信息不多。背景：Actoz soft 工作室出品，是一家韩国游戏工作室，有20年游戏出品开发历史。看官网早期以手机游戏为主。懂游戏的可以链接进入自查。https://actoz.com/aboutus/history/english融资信息没有查到。欢迎评论补充。个人感受，确实是韩国项目，比较正规。团队也懂区块链，以WL和mint nft预热。不过游戏的相关信息较少，感觉游戏开发进度或许不及预期。当然这些都不影响炒作。目前还在相对早期，最近陆续有在推特上看到所以整理一下讯息。",
-      "content": "今天介绍第<i class=\"emoji\"><b>2⃣</b></i>个Gamfi<br><a href=\"https://t.me/Seraph_global\" target=\"_blank\" title=\"@Seraph_global\">@Seraph_global</a>      Arbitrum上的 RPG游戏<br>游戏：信息比较少，目前看只有CG效果图的视频<br>社群：推特粉丝40k，活跃度还可以。但是推特运营时间很短，是2023年9月注册，10月才开始发文。推特的经营方向也主要是不断wl和mint预热，关于游戏自身的信息不多。<br>背景：Actoz soft 工作室出品，是一家韩国游戏工作室，有20年游戏出品开发历史。看官网早期以手机游戏为主。懂游戏的可以链接进入自查。<br><a href=\"https://actoz.com/aboutus/history/english\" target=\"_blank\" rel=\"noopener\" title=\"https://actoz.com/aboutus/history/english\">https://actoz.com/aboutus/history/english</a><br><br>融资信息没有查到。欢迎评论补充。<br><br>个人感受，确实是韩国项目，比较正规。团队也懂区块链，以WL和mint nft预热。不过游戏的相关信息较少，感觉游戏开发进度或许不及预期。当然这些都不影响炒作。<br>目前还在相对早期，最近陆续有在推特上看到所以整理一下讯息。",
-      "reactions": []
-    },
-    {
-      "id": "19",
-      "title": "$Shrap pumped 70% since my last post🙊",
-      "type": "text",
-      "datetime": "2023-11-18T11:13:00+00:00",
-      "tags": [],
-      "text": "$Shrap pumped 70% since my last post🙊",
-      "content": "$Shrap pumped 70% since my last post<i class=\"emoji\"><b>🙊</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

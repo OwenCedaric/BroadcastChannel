@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 31,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "87",
+      "title": "未上线新项目: Synfuture ",
+      "type": "text",
+      "datetime": "2024-03-05T07:37:29+00:00",
+      "tags": [],
+      "text": "未上线新项目: Synfuture https://x.com/nft_hu/status/1764917882771878153?s=46",
+      "content": "未上线新项目: Synfuture <a href=\"https://x.com/nft_hu/status/1764917882771878153?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1764917882771878153?s=46\">https://x.com/nft_hu/status/1764917882771878153?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1764917882771878153?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今天介绍一个最近参与合作的Perp DEX项目@SynFuturesDefi 近期刚刚主网上线，有兴趣体验的朋友传送门: https://t.co/NVlRRyycAl1️⃣产品介绍:SynFutures 是「期货合约领域里的 Uniswap」，用户只需点击几下即可轻松上架自己的perp合约，最近大火的 $YES…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天介绍一个最近参与合作的Perp DEX项目@SynFuturesDefi <br>近期刚刚主网上线，有兴趣体验的朋友传送门: <br>https://t.co/NVlRRyycAl<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>产品介绍:<br>SynFutures 是「期货合约领域里的 Uniswap」，用户只需点击几下即可轻松上架自己的perp合约，最近大火的 $YES…</div>\n</a>",
+      "reactions": []
+    },
+    {
+      "id": "86",
+      "title": "转: 3月几个大的事件boss1、3.5 eth的etf申请 （eth）2、3.11 #btfp结束 （大盘）3、3.12 cpi4、3.13 eth坎昆 （arb op ldo ssv metis）5、3.15 #FTX 债权人会议 （ FTT ）6、3.18 NVDA人工智能 #AI 大会 （wld，mdt，ai）7、3.20 美联邦利率决议8、3.22 $XRP 开庭陈词 （xrp）9、3.25 #SEC诉讼 对DK的审判（ LUNC ，USTC ，luna）10、3.28 sbf宣判 （sbf/ftt）",
+      "type": "text",
+      "datetime": "2024-03-05T07:25:22+00:00",
+      "tags": [
+        "btfp结束",
+        "FTX",
+        "AI",
+        "SEC诉讼"
+      ],
+      "text": "转: 3月几个大的事件boss1、3.5 eth的etf申请 （eth）2、3.11 #btfp结束 （大盘）3、3.12 cpi4、3.13 eth坎昆 （arb op ldo ssv metis）5、3.15 #FTX 债权人会议 （ FTT ）6、3.18 NVDA人工智能 #AI 大会 （wld，mdt，ai）7、3.20 美联邦利率决议8、3.22 $XRP 开庭陈词 （xrp）9、3.25 #SEC诉讼 对DK的审判（ LUNC ，USTC ，luna）10、3.28 sbf宣判 （sbf/ftt）",
+      "content": "转: 3月几个大的事件boss<br>1、3.5 eth的etf申请 （eth）<br>2、3.11 <a href=\"/search/%23btfp%E7%BB%93%E6%9D%9F\" title=\"#btfp结束\">#btfp结束</a> （大盘）<br>3、3.12 cpi<br>4、3.13 eth坎昆 （arb op ldo ssv metis）<br>5、3.15 <a href=\"/search/%23FTX\" title=\"#FTX\">#FTX</a> 债权人会议 （ FTT ）<br>6、3.18 NVDA人工智能 <a href=\"/search/%23AI\" title=\"#AI\">#AI</a> 大会 （wld，mdt，ai）<br>7、3.20 美联邦利率决议<br>8、3.22 $XRP 开庭陈词 （xrp）<br>9、3.25 <a href=\"/search/%23SEC%E8%AF%89%E8%AE%BC\" title=\"#SEC诉讼\">#SEC诉讼</a> 对DK的审判（ LUNC ，USTC ，luna）<br>10、3.28 sbf宣判 （sbf/ftt）",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "85",
       "title": "热点回来ETH L2 ENS等等",
@@ -317,43 +353,6 @@
       "text": "Fiona‘s daily news-1.29, 2024https://t.me/fionasdailynews生病的日子里，感受到了健康的可贵。只有拥有了健康才有资格谈其他～也希望新的一年大家可以身体健康发大财！1⃣️铭文的世界今天有三大值得关注的空投：RSIC; RUNESTONE; DERPhttps://x.com/lilyanna_btc/status/1751846369688686778?s=20Runestone 空投规则：https://x.com/LeonidasNFT/status/1751374137421934872?s=202⃣️SkyArk公募轮超募https://x.com/SkyarkS/status/1751804992602972172?s=203⃣️Meson coinlist public sale 2月5号https://x.com/NetworkMeson/status/1750284563203666122?s=204⃣️如何充分薅sol质押的羊毛Jito-Marg-Jupiter- Kamino-Squads-Drift",
       "content": "Fiona‘s daily news-1.29, 2024<br><a href=\"https://t.me/fionasdailynews\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/fionasdailynews\">https://t.me/fionasdailynews</a><br><br>生病的日子里，感受到了健康的可贵。只有拥有了健康才有资格谈其他～也希望新的一年大家可以身体健康发大财！<br><br><i class=\"emoji\"><b>1⃣️</b></i>铭文的世界今天有三大值得关注的空投：<br>RSIC; RUNESTONE; DERP<br><a href=\"https://x.com/lilyanna_btc/status/1751846369688686778?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/lilyanna_btc/status/1751846369688686778?s=20\">https://x.com/lilyanna_btc/status/1751846369688686778?s=20</a><br>Runestone 空投规则：<br><a href=\"https://x.com/LeonidasNFT/status/1751374137421934872?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/LeonidasNFT/status/1751374137421934872?s=20\">https://x.com/LeonidasNFT/status/1751374137421934872?s=20</a><br><br><i class=\"emoji\"><b>2⃣️</b></i>SkyArk公募轮超募<br><a href=\"https://x.com/SkyarkS/status/1751804992602972172?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/SkyarkS/status/1751804992602972172?s=20\">https://x.com/SkyarkS/status/1751804992602972172?s=20</a><br><br><i class=\"emoji\"><b>3⃣️</b></i>Meson coinlist public sale 2月5号<br><a href=\"https://x.com/NetworkMeson/status/1750284563203666122?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/NetworkMeson/status/1750284563203666122?s=20\">https://x.com/NetworkMeson/status/1750284563203666122?s=20</a><br><br><i class=\"emoji\"><b>4⃣️</b></i>如何充分薅sol质押的羊毛<br>Jito-Marg-Jupiter- Kamino-Squads-Drift",
       "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "65",
-      "title": "Fiona‘s daily news-1.18, 20241⃣️Metis 昨天上涨超过120，距离70的买入位置也将近翻倍",
-      "type": "text",
-      "datetime": "2024-01-18T00:23:08+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-1.18, 20241⃣️Metis 昨天上涨超过120，距离70的买入位置也将近翻倍。之前提到的2亿的生态fund开始投入，但是目前生态币反而不够给力。我决定把仓位部分集中到metis上。他给我的感觉有点像avax推生态基金的时候，主要涨的还是avax。2⃣️$MANTA 上biance一文详解 Manta Network 代币经济模型3⃣️$TROLL-马斯克概念引领以太坊链上土狗季, 这几天买了 $ZUZALU 、 $SMILEY(池子深）和 $FERRETZuzalu 的诞生与以太坊创始人Vitalik 息息相关，甚至被称为Vitalik 的二次创业。在官网中，Vitalik称它为一个聚加密货币，生命科学，哲学三者为一体的IRL 小镇。4⃣️今日meme $BEBE4⃣️$ZKF-L2网络 ZKFair 已开启Gas fee 分红，ZKF总质押量现已突破25亿5⃣️$NEON-Solana EVM兼容方案Neon提议在其主网上部署Aave V3 MVP。6⃣️Jupiter将于1月31日进行TGE推出代币。7⃣️Pyth质押的空投可能性https://x.com/wacy_time1/status/1747673535886045501?s=208⃣️Berachain 代币模型全讲解https://x.com/0xTaki_eth/status/1745668327534661942?s=209⃣️数据：比特币全网算力受美国寒潮影响下降 25%，从 600 EH/s 左右降至 450 EH/s自上周五以来，比特币的全网算力预计下降 25%，从 600 EH/s 左右下降到 450 EH/s，原因是德克萨斯州电力可靠性委员会因为寒潮要求德克萨斯州的企业和居民节约用电。🔟BNB Chain 启动 2024 黑客松计划，本次黑客松赛道涵盖 6 个赛道，分别是 AI、基础设施、游戏、DePIN、社交、学术研究。",
-      "content": "Fiona‘s daily news-1.18, 2024<br><br><i class=\"emoji\"><b>1⃣️</b></i>Metis 昨天上涨超过120，距离70的买入位置也将近翻倍。之前提到的2亿的生态fund开始投入，但是目前生态币反而不够给力。我决定把仓位部分集中到metis上。他给我的感觉有点像avax推生态基金的时候，主要涨的还是avax。<br><br><i class=\"emoji\"><b>2⃣️</b></i>$MANTA 上biance<br>一文详解 Manta Network 代币经济模型<br><br><i class=\"emoji\"><b>3⃣️</b></i>$TROLL-马斯克概念引领以太坊链上土狗季, 这几天买了 $ZUZALU 、 $SMILEY(池子深）和 $FERRET<br>Zuzalu 的诞生与以太坊创始人Vitalik 息息相关，甚至被称为Vitalik 的二次创业。在官网中，Vitalik称它为一个聚加密货币，生命科学，哲学三者为一体的IRL 小镇。<br><br><i class=\"emoji\"><b>4⃣️</b></i>今日meme $BEBE<br><br><i class=\"emoji\"><b>4⃣️</b></i>$ZKF-L2网络 ZKFair 已开启Gas fee 分红，ZKF总质押量现已突破25亿<br><br><i class=\"emoji\"><b>5⃣️</b></i>$NEON-Solana EVM兼容方案Neon提议在其主网上部署Aave V3 MVP。<br><br><i class=\"emoji\"><b>6⃣️</b></i>Jupiter将于1月31日进行TGE推出代币。<br><br><i class=\"emoji\"><b>7⃣️</b></i>Pyth质押的空投可能性<br><a href=\"https://x.com/wacy_time1/status/1747673535886045501?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/wacy_time1/status/1747673535886045501?s=20\">https://x.com/wacy_time1/status/1747673535886045501?s=20</a><br><br><i class=\"emoji\"><b>8⃣️</b></i>Berachain 代币模型全讲解<br><a href=\"https://x.com/0xTaki_eth/status/1745668327534661942?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/0xTaki_eth/status/1745668327534661942?s=20\">https://x.com/0xTaki_eth/status/1745668327534661942?s=20</a><br><br><i class=\"emoji\"><b>9⃣️</b></i>数据：比特币全网算力受美国寒潮影响下降 25%，从 600 EH/s 左右降至 450 EH/s<br>自上周五以来，比特币的全网算力预计下降 25%，从 600 EH/s 左右下降到 450 EH/s，原因是德克萨斯州电力可靠性委员会因为寒潮要求德克萨斯州的企业和居民节约用电。<br><br><i class=\"emoji\"><b>🔟</b></i>BNB Chain 启动 2024 黑客松计划，本次黑客松赛道涵盖 6 个赛道，分别是 AI、基础设施、游戏、DePIN、社交、学术研究。<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/wacy_time1/status/1747673535886045501?s=20\" target=\"_blank\" rel=\"noopener\" title=\"$TIA stakers will be rich - that's a fact.$PYTH stakers also have the potential to become wealthy.Rewards may include: $MONAD, $DRIFT, $PRCL, and more.Consider this:- Stake at least 1052* $PYTH (~$350)- Stake at least 2552 $PYTH (~$850)- Stake at…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">AlΞx Wacy <i class=\"emoji\" style=\"background-image:url('/static/a5ad4161a96c1a7f99fad732d81d95e0.png')\"><b>🌐</b></i> (@wacy_time1) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">$TIA stakers will be rich - that's a fact.<br><br>$PYTH stakers also have the potential to become wealthy.<br><br>Rewards may include: $MONAD, $DRIFT, $PRCL, and more.<br><br>Consider this:<br><br>- Stake at least 1052* $PYTH (~$350)<br>- Stake at least 2552 $PYTH (~$850)<br>- Stake at…</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "63",
-      "title": "关于我如何挑选和交易meme：",
-      "type": "text",
-      "datetime": "2024-01-16T01:40:10+00:00",
-      "tags": [],
-      "text": "关于我如何挑选和交易meme：https://x.com/nft_hu/status/1747071032480215097?s=20",
-      "content": "关于我如何挑选和交易meme：<a href=\"https://x.com/nft_hu/status/1747071032480215097?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1747071032480215097?s=20\">https://x.com/nft_hu/status/1747071032480215097?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1747071032480215097?s=20\" target=\"_blank\" rel=\"noopener\" title=\"今天稍微总结一下我冲 #meme 的经验之谈和选择 #meme 的一些方法论，也欢迎大家一起评论交流。过去半年我的Meme战绩其实还挺不错：1m买了 $MYRO 20倍离开，现在100m+；3m买了 $Grok 25倍离场，最高也是超过1m；0.1 买了 $Ordi, 5u离场，现在应该稳定50+；15m买了 $Silly , 100m卖出，现在60m；…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天稍微总结一下我冲 #meme 的经验之谈和选择 #meme 的一些方法论，也欢迎大家一起评论交流。<br><br>过去半年我的Meme战绩其实还挺不错：<br>1m买了 $MYRO 20倍离开，现在100m+；<br>3m买了 $Grok 25倍离场，最高也是超过1m；<br>0.1 买了 $Ordi, 5u离场，现在应该稳定50+；<br>15m买了 $Silly , 100m卖出，现在60m；…</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "11",
-          "isPaid": false
-        },
         {
           "emoji": "❤️",
           "count": "3",

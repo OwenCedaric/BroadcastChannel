@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "150",
+      "title": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰",
+      "type": "text",
+      "datetime": "2024-04-29T15:27:21+00:00",
+      "tags": [],
+      "text": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰。后续行情我还是看震荡，如果没有新的流动性，恐怕不太乐观。我目前的仓位 9成仓😂 现在反思之前脱水感觉应该卖成U而不是BTC +SOL。我个人还是判断行情没有结束。但是一级投资确实到了转折点，高估值或者有锁仓的项目大家都要仔细计算一下回本周期",
+      "content": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰。后续行情我还是看震荡，如果没有新的流动性，恐怕不太乐观。<br><br>我目前的仓位 9成仓<i class=\"emoji\"><b>😂</b></i> <br>现在反思之前脱水感觉应该卖成U而不是BTC +SOL。我个人还是判断行情没有结束。但是一级投资确实到了转折点，高估值或者有锁仓的项目大家都要仔细计算一下回本周期",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "29",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-04-26T08:42:34+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1783776720023322934?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1783776720023322934?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1783776720023322934?s=46\">https://x.com/nft_hu/status/1783776720023322934?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "148",
       "title": "滴滴 很久没有写日报了Daily News 2024.4.241⃣️ Renzo 在昨天公布上 #Binance 的好消息后，今天情况大反转",
@@ -379,42 +416,6 @@
         {
           "emoji": "👏",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "130",
-      "title": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt",
-      "type": "text",
-      "datetime": "2024-03-28T10:19:25+00:00",
-      "tags": [],
-      "text": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
-      "content": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
-      "reactions": []
-    },
-    {
-      "id": "129",
-      "title": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "type": "text",
-      "datetime": "2024-03-27T11:06:04+00:00",
-      "tags": [],
-      "text": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "content": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "34",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "💔",
-          "count": "2",
           "isPaid": false
         }
       ]

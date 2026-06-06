@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "503",
+      "title": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告",
+      "type": "text",
+      "datetime": "2026-01-21T10:01:16+00:00",
+      "tags": [],
+      "text": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。https://x.com/nft_hu/status/2013914221558571021?s=20",
+      "content": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。<br>对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。<br>CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。<a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"当计算范式改变，2026年的Intel 等到了它的“风”\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/8122f8ecebff08c1228da5e69e98d238.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">当计算范式改变，2026年的Intel 等到了它的“风”</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "title": "买了点BTC SPOT",
+      "type": "text",
+      "datetime": "2026-01-20T15:24:34+00:00",
+      "tags": [],
+      "text": "买了点BTC SPOT",
+      "content": "买了点BTC SPOT",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "501",
       "title": "Bitgo申购截止19小时倒计时",
@@ -331,43 +368,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "483",
-      "title": "【Fiona的日报频道】  2026-01-12 ━━ 宏观要闻 ━━1️⃣沪深两市成交额午后突破3.5万亿，突破2024年10月8日创下的历史纪录",
-      "type": "text",
-      "datetime": "2026-01-12T07:18:42+00:00",
-      "tags": [],
-      "text": "【Fiona的日报频道】  2026-01-12 ━━ 宏观要闻 ━━1️⃣沪深两市成交额午后突破3.5万亿，突破2024年10月8日创下的历史纪录。2️⃣司法部罕见传唤鲍威尔，特朗普回应：我毫不知情。鲍威尔强硬回应刑事调查：刑事传票是“政治借口”，誓言顶住特朗普压力。3️⃣美财长解释MBS购债计划：美联储缩表多少，特朗普政府就买多少4️⃣摩根大通不再预计美联储将在2026年降息。此前预期1月份降息25个基点，摩根大通预计美联储将在2027年第三季度进行一次25个基点的加息。评价：中国股市持续高潮，流动性流向风险资产。美股期货受鲍威尔传唤消息影响下跌━━ AI新闻 ━━1️⃣存储芯片价格飙升，消息称谷歌、微软等美科技巨头派团队赴韩抢购 DRAM2️⃣Google宣布与Shopify,Etsy,Wayfair,Target和Walmart合作创建了通用商务协议。这是一个新的开放标准，允许Agent与系统在购物旅程中的每一步进行相互沟通。AI agent替我们购物的时代即将真正到来。3️⃣OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元。4️⃣核能助推AI革命：Meta签下巨额订单，Oklo与Vistra股价齐飙升。$OKLO $VST评价：数据中心导致的缺电让能源投资也成为AI投资的主线。AI的普及和各种通用协议的推进，AI agent替我们购物的时代即将真正到来。━━ 产业新闻 ━━1️⃣市场消息称小鹏汽车(09868.HK)正聘请银行为其飞行汽车部门在香港进行首次公开募股。 $XPENG",
-      "content": "【Fiona的日报频道】  2026-01-12 <br>━━ 宏观要闻 ━━<br><i class=\"emoji\"><b>1️⃣</b></i>沪深两市成交额午后突破3.5万亿，突破2024年10月8日创下的历史纪录。<br><i class=\"emoji\"><b>2️⃣</b></i>司法部罕见传唤鲍威尔，特朗普回应：我毫不知情。鲍威尔强硬回应刑事调查：刑事传票是“政治借口”，誓言顶住特朗普压力。<br><i class=\"emoji\"><b>3️⃣</b></i>美财长解释MBS购债计划：美联储缩表多少，特朗普政府就买多少<br><i class=\"emoji\"><b>4️⃣</b></i>摩根大通不再预计美联储将在2026年降息。此前预期1月份降息25个基点，摩根大通预计美联储将在2027年第三季度进行一次25个基点的加息。<br>评价：中国股市持续高潮，流动性流向风险资产。美股期货受鲍威尔传唤消息影响下跌<br><br>━━ AI新闻 ━━<br><i class=\"emoji\"><b>1️⃣</b></i>存储芯片价格飙升，消息称谷歌、微软等美科技巨头派团队赴韩抢购 DRAM<br><i class=\"emoji\"><b>2️⃣</b></i>Google宣布与Shopify,Etsy,Wayfair,Target和Walmart合作创建了通用商务协议。这是一个新的开放标准，允许Agent与系统在购物旅程中的每一步进行相互沟通。AI agent替我们购物的时代即将真正到来。<br><i class=\"emoji\"><b>3️⃣</b></i>OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元。<br><i class=\"emoji\"><b>4️⃣</b></i>核能助推AI革命：Meta签下巨额订单，Oklo与Vistra股价齐飙升。$OKLO $VST<br><br>评价：数据中心导致的缺电让能源投资也成为AI投资的主线。AI的普及和各种通用协议的推进，AI agent替我们购物的时代即将真正到来。<br><br>━━ 产业新闻 ━━<br><i class=\"emoji\"><b>1️⃣</b></i>市场消息称小鹏汽车(<a href=\"http://09868.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09868.HK\">09868.HK</a>)正聘请银行为其飞行汽车部门在香港进行首次公开募股。 $XPENG",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "482",
-      "title": "停了一阵子的美股标的更新，是因为能写的太多了反而有点不知道要写什么",
-      "type": "text",
-      "datetime": "2026-01-11T04:05:54+00:00",
-      "tags": [],
-      "text": "停了一阵子的美股标的更新，是因为能写的太多了反而有点不知道要写什么。下定决心用开年走的很猛的 “美光”开启我们的新年第一推。（披露：个人持仓，不构成投资建议）https://x.com/nft_hu/status/2010201229499216269?s=20",
-      "content": "停了一阵子的美股标的更新，是因为能写的太多了反而有点不知道要写什么。<br>下定决心用开年走的很猛的 “美光”开启我们的新年第一推。<br>（披露：个人持仓，不构成投资建议）<br><a href=\"https://x.com/nft_hu/status/2010201229499216269?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2010201229499216269?s=20\">https://x.com/nft_hu/status/2010201229499216269?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2010201229499216269?s=20\" target=\"_blank\" rel=\"noopener\" title=\"从 DRAM 的伤疤，到 HBM 的野望：2026 年的美光值不值得追？\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/c837e4d1c608576f81df474b3b933605.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">从 DRAM 的伤疤，到 HBM 的野望：2026 年的美光值不值得追？</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "1",
           "isPaid": false
         }
       ]

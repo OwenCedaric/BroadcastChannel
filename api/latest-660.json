@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "20",
+      "title": "今天介绍第2⃣个Gamfi@Seraph_global      Arbitrum上的 RPG游戏游戏：信息比较少，目前看只有CG效果图的视频社群：推特粉丝40k，活跃度还可以",
+      "type": "text",
+      "datetime": "2023-11-19T08:48:11+00:00",
+      "tags": [],
+      "text": "今天介绍第2⃣个Gamfi@Seraph_global      Arbitrum上的 RPG游戏游戏：信息比较少，目前看只有CG效果图的视频社群：推特粉丝40k，活跃度还可以。但是推特运营时间很短，是2023年9月注册，10月才开始发文。推特的经营方向也主要是不断wl和mint预热，关于游戏自身的信息不多。背景：Actoz soft 工作室出品，是一家韩国游戏工作室，有20年游戏出品开发历史。看官网早期以手机游戏为主。懂游戏的可以链接进入自查。https://actoz.com/aboutus/history/english融资信息没有查到。欢迎评论补充。个人感受，确实是韩国项目，比较正规。团队也懂区块链，以WL和mint nft预热。不过游戏的相关信息较少，感觉游戏开发进度或许不及预期。当然这些都不影响炒作。目前还在相对早期，最近陆续有在推特上看到所以整理一下讯息。",
+      "content": "今天介绍第<i class=\"emoji\"><b>2⃣</b></i>个Gamfi<br><a href=\"https://t.me/Seraph_global\" target=\"_blank\" title=\"@Seraph_global\">@Seraph_global</a>      Arbitrum上的 RPG游戏<br>游戏：信息比较少，目前看只有CG效果图的视频<br>社群：推特粉丝40k，活跃度还可以。但是推特运营时间很短，是2023年9月注册，10月才开始发文。推特的经营方向也主要是不断wl和mint预热，关于游戏自身的信息不多。<br>背景：Actoz soft 工作室出品，是一家韩国游戏工作室，有20年游戏出品开发历史。看官网早期以手机游戏为主。懂游戏的可以链接进入自查。<br><a href=\"https://actoz.com/aboutus/history/english\" target=\"_blank\" rel=\"noopener\" title=\"https://actoz.com/aboutus/history/english\">https://actoz.com/aboutus/history/english</a><br><br>融资信息没有查到。欢迎评论补充。<br><br>个人感受，确实是韩国项目，比较正规。团队也懂区块链，以WL和mint nft预热。不过游戏的相关信息较少，感觉游戏开发进度或许不及预期。当然这些都不影响炒作。<br>目前还在相对早期，最近陆续有在推特上看到所以整理一下讯息。",
+      "reactions": []
+    },
+    {
+      "id": "19",
+      "title": "$Shrap pumped 70% since my last post🙊",
+      "type": "text",
+      "datetime": "2023-11-18T11:13:00+00:00",
+      "tags": [],
+      "text": "$Shrap pumped 70% since my last post🙊",
+      "content": "$Shrap pumped 70% since my last post<i class=\"emoji\"><b>🙊</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "18",
       "title": "⚠️关于BTC生态你必须知道的事： ",

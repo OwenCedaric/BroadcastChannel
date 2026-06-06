@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "523",
+      "title": "今天消息不多，整体市场偏弱，大宗的回调或者是标普500、纳指期货承压，反映市场风险偏好偏弱",
+      "type": "text",
+      "datetime": "2026-02-02T02:28:21+00:00",
+      "tags": [],
+      "text": "今天消息不多，整体市场偏弱，大宗的回调或者是标普500、纳指期货承压，反映市场风险偏好偏弱。本周关注：周五的非农就业公布。情境1️⃣：如果非农偏强，美债收益率 ↑美股成长股承压，加密短线易被砸（risk asset）情境2️⃣：如果非农偏弱，降息预期回暖，风险资产反弹弹性更大，BTC / 高 beta 科技股或许受益⚠️ 本周风险提示：周四夜 → 周五数据前，仓位风险最大周五 21:30 后 1 小时👉 方向确认 / 假突破高发",
+      "content": "今天消息不多，整体市场偏弱，大宗的回调或者是标普500、纳指期货承压，反映市场风险偏好偏弱。<br><br>本周关注：周五的非农就业公布。<br><br>情境<i class=\"emoji\"><b>1️⃣</b></i>：如果非农偏强，美债收益率 ↑美股成长股承压，加密短线易被砸（risk asset）<br>情境<i class=\"emoji\"><b>2️⃣</b></i>：如果非农偏弱，降息预期回暖，风险资产反弹弹性更大，BTC / 高 beta 科技股或许受益<br><br><i class=\"emoji\"><b>⚠️</b></i> 本周风险提示：周四夜 → 周五数据前，仓位风险最大<br><br>周五 21:30 后 1 小时<br><i class=\"emoji\"><b>👉</b></i> 方向确认 / 假突破高发",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "522",
+      "title": "比特币插针到了75000，以太坊插针到了2200",
+      "type": "text",
+      "datetime": "2026-02-01T00:50:48+00:00",
+      "tags": [],
+      "text": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH这个位置到了很多机构/大户的成本线之下: 1️⃣ $MSTR 平均比特币买入成本760372️⃣ $BMNR 均价3000附近，深深水下了Garret Bullish 在 Hyperliquid 上的仓位爆仓。最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "content": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH<br><br>这个位置到了很多机构/大户的成本线之下: <br><i class=\"emoji\"><b>1️⃣</b></i> $MSTR 平均比特币买入成本76037<br><i class=\"emoji\"><b>2️⃣</b></i> $BMNR 均价3000附近，深深水下了<br><br>Garret Bullish 在 Hyperliquid 上的仓位爆仓。<br><br>最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。<br><br>但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。<br><br>近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。<br><br>而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "521",
       "title": "$COHR 持仓体验很好，会轮到光通讯么？",
@@ -371,43 +413,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "503",
-      "title": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告",
-      "type": "text",
-      "datetime": "2026-01-21T10:01:16+00:00",
-      "tags": [],
-      "text": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。https://x.com/nft_hu/status/2013914221558571021?s=20",
-      "content": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。<br>对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。<br>CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。<a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"当计算范式改变，2026年的Intel 等到了它的“风”\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/8122f8ecebff08c1228da5e69e98d238.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">当计算范式改变，2026年的Intel 等到了它的“风”</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "502",
-      "title": "买了点BTC SPOT",
-      "type": "text",
-      "datetime": "2026-01-20T15:24:34+00:00",
-      "tags": [],
-      "text": "买了点BTC SPOT",
-      "content": "买了点BTC SPOT",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
-          "count": "3",
           "isPaid": false
         }
       ]

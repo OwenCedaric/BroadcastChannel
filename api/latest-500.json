@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 26,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-480.json"
   },
   "data": [
+    {
+      "id": "190",
+      "title": "BTC 60k-66k，SOL 150-169",
+      "type": "text",
+      "datetime": "2024-07-19T23:33:05+00:00",
+      "tags": [],
+      "text": "BTC 60k-66k，SOL 150-169",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/186\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。 看好 $SOL $BTC</div>\n</small></blockquote></a>BTC 60k-66k，SOL 150-169",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "title": "people止盈，看不太懂了",
+      "type": "text",
+      "datetime": "2024-07-18T16:00:06+00:00",
+      "tags": [],
+      "text": "people止盈，看不太懂了",
+      "content": "people止盈，看不太懂了",
+      "reactions": []
+    },
     {
       "id": "188",
       "title": "否极泰来 大石落地Mt.Gox冷钱包地址再次将约48641枚BTC转至一新地址PANews 7月16日消息，据Arkham监测，Mt.Gox冷钱包地址4分钟前向3JQieE开头新地址转移约48641枚BTC，价值约30.7亿美元",
@@ -349,38 +375,6 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "170",
-      "title": "Pixel ygg Ron拉盘了 不知不觉 ron 拿了快一年了，看看这波gamfi 可以持续多久",
-      "type": "text",
-      "datetime": "2024-06-02T06:26:02+00:00",
-      "tags": [],
-      "text": "Pixel ygg Ron拉盘了 不知不觉 ron 拿了快一年了，看看这波gamfi 可以持续多久。",
-      "content": "Pixel ygg Ron拉盘了 不知不觉 ron 拿了快一年了，看看这波gamfi 可以持续多久。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "169",
-      "title": "BB ondo吃肉，现在等谁来救救wif",
-      "type": "text",
-      "datetime": "2024-06-02T06:21:32+00:00",
-      "tags": [],
-      "text": "BB ondo吃肉，现在等谁来救救wif",
-      "content": "BB ondo吃肉，现在等谁来救救wif",
-      "reactions": [
-        {
-          "emoji": "🔥",
           "count": "5",
           "isPaid": false
         }

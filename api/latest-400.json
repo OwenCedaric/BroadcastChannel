@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 672,
+    "totalPosts": 674,
     "totalPages": 34,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "295",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-12-03T12:15:19+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-295-0\" popovertargetaction=\"show\">\n        <img src=\"/static/95d70a299434677ff3219ca9d1e13c94.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-295-0\" popovertarget=\"modal-295-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/95d70a299434677ff3219ca9d1e13c94.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "294",
+      "title": "Fiona’s Daily News 12.3最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里👔宏观1️⃣WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选",
+      "type": "text",
+      "datetime": "2024-12-03T06:51:58+00:00",
+      "tags": [],
+      "text": "Fiona’s Daily News 12.3最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里👔宏观1️⃣WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选https://x.com/EleanorTerrett/status/1863803574121050306🪙币圈 1️⃣韩国交易所交易量激增https://pulse.mk.co.kr/news/english/111843672️⃣Coinbase将Apple Pay集成至其入金服务3️⃣或受存款利率飙升影响，Aave TVL创历史新高4️⃣文章：为什么我要做空SOL？https://www.theblockbeats.info/news/560125⃣️Arbitrum成为Uniswap上首个月交易量超过200亿美元的L2💰行情1⃣️RWA 领涨，ondo QNT RSR等表现出色2⃣️「ETH波段胜率83.3%鲸鱼」抛售1434枚WETH，约523万美元https://x.com/ai_9684xtpa/status/18638335685497405733⃣️1亿枚XRP转入bithumbhttps://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B",
+      "content": "Fiona’s Daily News 12.3<br>最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里<br><br><i class=\"emoji\"><b>👔</b></i>宏观<br><i class=\"emoji\"><b>1️⃣</b></i>WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选<br><a href=\"https://x.com/EleanorTerrett/status/1863803574121050306\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/EleanorTerrett/status/1863803574121050306\">https://x.com/EleanorTerrett/status/1863803574121050306</a><br><br><i class=\"emoji\"><b>🪙</b></i>币圈 <br><i class=\"emoji\"><b>1️⃣</b></i>韩国交易所交易量激增<a href=\"https://pulse.mk.co.kr/news/english/11184367\" target=\"_blank\" rel=\"noopener\" title=\"https://pulse.mk.co.kr/news/english/11184367\">https://pulse.mk.co.kr/news/english/11184367</a><br><i class=\"emoji\"><b>2️⃣</b></i>Coinbase将Apple Pay集成至其入金服务<br><i class=\"emoji\"><b>3️⃣</b></i>或受存款利率飙升影响，Aave TVL创历史新高<br><i class=\"emoji\"><b>4️⃣</b></i>文章：为什么我要做空SOL？<br><a href=\"https://www.theblockbeats.info/news/56012\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblockbeats.info/news/56012\">https://www.theblockbeats.info/news/56012</a><br><i class=\"emoji\"><b>5⃣️</b></i>Arbitrum成为Uniswap上首个月交易量超过200亿美元的L2<br><br><i class=\"emoji\"><b>💰</b></i>行情<br><i class=\"emoji\"><b>1⃣️</b></i>RWA 领涨，ondo QNT RSR等表现出色<br><i class=\"emoji\"><b>2⃣️</b></i>「ETH波段胜率83.3%鲸鱼」抛售1434枚WETH，约523万美元<br><a href=\"https://x.com/ai_9684xtpa/status/1863833568549740573\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/ai_9684xtpa/status/1863833568549740573\">https://x.com/ai_9684xtpa/status/1863833568549740573</a><br><i class=\"emoji\"><b>3⃣️</b></i>1亿枚XRP转入bithumb<br><a href=\"https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B\" target=\"_blank\" rel=\"noopener\" title=\"https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B\">https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/EleanorTerrett/status/1863803574121050306\" target=\"_blank\" rel=\"noopener\" title=\"🚨NEW: @realDonaldTrump’s pick to replace @GaryGensler as @SECGov Chair could be announced as soon as tomorrow, sources tell @FoxBusiness. Stay tuned 📺.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4b44e3251ff8f700d64595fa2a8b2cfc.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Eleanor Terrett (@EleanorTerrett) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('/static/0d52cc88b7126327ddeb4511d9549d4e.png')\"><b>🚨</b></i>NEW: @realDonaldTrump’s pick to replace @GaryGensler as @SECGov Chair could be announced as soon as tomorrow, sources tell @FoxBusiness. Stay tuned <i class=\"emoji\" style=\"background-image:url('/static/272ceb2e5e6357039ee2968dbc5adebc.png')\"><b>📺</b></i>.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "293",
       "title": "Fiona’s Daily News 12.2很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间",
@@ -472,48 +509,6 @@
         {
           "emoji": "👍",
           "count": "24",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "275",
-      "title": "Sui 1.73 😎🛫💎",
-      "type": "text",
-      "datetime": "2024-09-25T00:28:16+00:00",
-      "tags": [],
-      "text": "Sui 1.73 😎🛫💎",
-      "content": "Sui 1.73 <i class=\"emoji\"><b>😎</b></i><i class=\"emoji\"><b>🛫</b></i><i class=\"emoji\"><b>💎</b></i>",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "35",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "274",
-      "title": "I told you Sui 😎",
-      "type": "text",
-      "datetime": "2024-09-23T02:32:07+00:00",
-      "tags": [],
-      "text": "I told you Sui 😎",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/271\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">BTC SUI PEPE ETH 目前我的四大持仓 5成仓位，感觉Sui</div>\n</small></blockquote></a>I told you Sui <i class=\"emoji\"><b>😎</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
           "isPaid": false
         }
       ]
