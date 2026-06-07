@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 674,
+    "totalPosts": 675,
     "totalPages": 34,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "419",
+      "title": "大阳线 终于等到你",
+      "type": "text",
+      "datetime": "2025-10-01T09:18:45+00:00",
+      "tags": [],
+      "text": "大阳线 终于等到你",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/413\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">早安，目前所有的抄底单，除了doge都盈利了。不过周一才刚开始也不想太早乐观。关注本周非农 失业率。</div>\n</small></blockquote></a>大阳线 终于等到你",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "418",
       "title": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”",
@@ -381,32 +407,6 @@
         {
           "emoji": "❤️",
           "count": "8",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "398",
-      "title": "优必选 宁德时代 阿里巴巴 恒生科技ETF都写过，都有，都很猛！",
-      "type": "text",
-      "datetime": "2025-09-17T06:13:46+00:00",
-      "tags": [],
-      "text": "优必选 宁德时代 阿里巴巴 恒生科技ETF都写过，都有，都很猛！",
-      "content": "优必选 宁德时代 阿里巴巴 恒生科技ETF<br>都写过，都有，都很猛！",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "20",
-          "isPaid": false
-        },
-        {
-          "emoji": "🐳",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

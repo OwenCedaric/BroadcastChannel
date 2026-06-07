@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 674,
+    "totalPosts": 675,
     "totalPages": 34,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "357",
+      "title": "感谢以太坊，相信今年一定是表现最好的加密货币之一",
+      "type": "text",
+      "datetime": "2025-08-12T13:06:18+00:00",
+      "tags": [],
+      "text": "感谢以太坊，相信今年一定是表现最好的加密货币之一",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/349\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">破4000开了新的多单  $ETH <i class=\"emoji\" style=\"background-image:url('/static/6288d02dbbda4f3ba61502aee40dae68.png')\"><b>🙏</b></i></div>\n</small></blockquote></a>感谢以太坊，相信今年一定是表现最好的加密货币之一",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "356",
       "title": "4400合约tp了一点",
@@ -420,32 +441,6 @@
         {
           "emoji": "👍",
           "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "336",
-      "title": "周末平多，从结果导向看是一个错误的决定",
-      "type": "text",
-      "datetime": "2025-07-21T08:40:14+00:00",
-      "tags": [],
-      "text": "周末平多，从结果导向看是一个错误的决定。但是从心理层面看是一个正确的决定。不要拿着会影响你睡觉的仓位，能睡得好，才能拿到你相信的那个结果。现在的行情很好，大家也都积极上杠杆，如果来一个稍大的回调，清算量也会很大。注意风险管理，注意杠杆率。我们一起等那个好结果",
-      "content": "周末平多，从结果导向看是一个错误的决定。但是从心理层面看是一个正确的决定。<br><br>不要拿着会影响你睡觉的仓位，能睡得好，才能拿到你相信的那个结果。<br><br>现在的行情很好，大家也都积极上杠杆，如果来一个稍大的回调，清算量也会很大。注意风险管理，注意杠杆率。我们一起等那个好结果",
-      "reactions": [
-        {
-          "emoji": "👏",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
           "isPaid": false
         }
       ]
