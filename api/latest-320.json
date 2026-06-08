@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 675,
+    "totalPosts": 677,
     "totalPages": 34,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "379",
+      "title": "回购是真回购，盘面强势，大行情还行",
+      "type": "text",
+      "datetime": "2025-09-10T09:42:15+00:00",
+      "tags": [],
+      "text": "回购是真回购，盘面强势，大行情还行。右侧一把",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/378\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了点pump</div>\n</small></blockquote></a>回购是真回购，盘面强势，大行情还行。右侧一把",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "378",
+      "title": "买了点pump",
+      "type": "text",
+      "datetime": "2025-09-10T09:41:03+00:00",
+      "tags": [],
+      "text": "买了点pump",
+      "content": "买了点pump",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "377",
       "title": "今早看到一则消息“据纳斯达克向美国证券交易委员会提交提案，拟修订规则以允许在该交易所交易以传统数字或代币化形式上市的证券",
@@ -402,63 +444,6 @@
         {
           "emoji": "🤯",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "359",
-      "title": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的",
-      "type": "text",
-      "datetime": "2025-08-12T13:27:27+00:00",
-      "tags": [],
-      "text": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。现在每天的交易量足够大，应该可以消化这部分的卖盘😭",
-      "content": "买回一半的 BMNR 一卖一买，亏了10%<br>买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。<br>现在每天的交易量足够大，应该可以消化这部分的卖盘<br><i class=\"emoji\"><b>😭</b></i>",
-      "reactions": [
-        {
-          "emoji": "🙏",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👀",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "358",
-      "title": "关于 ATM 增发和盘前股价变化需要知道的几个基础知识点：1⃣ATM 会增加总股数 ATM 是公司在二级市场分批、按当时市价发行新股给投资者的过程",
-      "type": "text",
-      "datetime": "2025-08-12T13:23:46+00:00",
-      "tags": [],
-      "text": "关于 ATM 增发和盘前股价变化需要知道的几个基础知识点：1⃣ATM 会增加总股数 ATM 是公司在二级市场分批、按当时市价发行新股给投资者的过程。每卖出一股 ATM 股票，总股数（Outstanding Shares）就增加 1 股。（除非是回购抵消）2⃣ATM 对 流通股数（Public Float） 的影响流通股数是总股数中不被高管、机构长期锁定的部分。ATM 股票卖出后，通常是直接进入市场投资者的账户，因此大多数情况会进入 流通股。3⃣为什么 ATM 看起来没那么“猛”一次性增发（如 PIPE、二级发行）会在公告当天直接把总股数一次性拉高，比如 +20%。ATM 是边卖边增，比如每天卖 100 万股，几周或几个月才完成。所以对股数的影响是逐步累积的，市场反应可能分阶段消化。4⃣BMNR 的 ATM 授权从 $2B → $4.5B → $24.5B，每次授权只是给了“最大额度”，并不代表马上全部发行。真正影响总股数和流通股数的，是他们实际卖出的股数。例如：他们在 $4.5B 阶段卖了约 $4.5B 股票，如果当时股价 $50，就是发行了 9,000 万股 → 总股数 & 流通股同步增加。最新的 $20B ATM，还没全部卖出，但一旦卖出完毕，总股数会再增加相应的股数。越写越想买回来😭",
-      "content": "关于 ATM 增发和盘前股价变化需要知道的几个基础知识点：<br><i class=\"emoji\"><b>1⃣</b></i>ATM 会增加总股数 <br>ATM 是公司在二级市场分批、按当时市价发行新股给投资者的过程。每卖出一股 ATM 股票，总股数（Outstanding Shares）就增加 1 股。（除非是回购抵消）<br><br><i class=\"emoji\"><b>2⃣</b></i>ATM 对 流通股数（Public Float） 的影响<br>流通股数是总股数中不被高管、机构长期锁定的部分。<br>ATM 股票卖出后，通常是直接进入市场投资者的账户，因此大多数情况会进入 流通股。<br><br><i class=\"emoji\"><b>3⃣</b></i>为什么 ATM 看起来没那么“猛”<br>一次性增发（如 PIPE、二级发行）会在公告当天直接把总股数一次性拉高，比如 +20%。<br>ATM 是边卖边增，比如每天卖 100 万股，几周或几个月才完成。所以对股数的影响是逐步累积的，市场反应可能分阶段消化。<br><br><i class=\"emoji\"><b>4⃣</b></i>BMNR 的 ATM 授权从 $2B → $4.5B → $24.5B，每次授权只是给了“最大额度”，并不代表马上全部发行。<br>真正影响总股数和流通股数的，是他们实际卖出的股数。<br><br>例如：<br>他们在 $4.5B 阶段卖了约 $4.5B 股票，如果当时股价 $50，就是发行了 9,000 万股 → 总股数 &amp; 流通股同步增加。<br>最新的 $20B ATM，还没全部卖出，但一旦卖出完毕，总股数会再增加相应的股数。<br><br>越写越想买回来<i class=\"emoji\"><b>😭</b></i>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
           "isPaid": false
         }
       ]

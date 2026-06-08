@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 675,
+    "totalPosts": 677,
     "totalPages": 34,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "589",
+      "title": "Buy back $MU",
+      "type": "text",
+      "datetime": "2026-03-25T14:59:53+00:00",
+      "tags": [],
+      "text": "Buy back $MU",
+      "content": "Buy back $MU",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "588",
+      "title": "【Fiona的日报频道】2026-03-25━━ 宏观要闻 ━━1️⃣🌟 现货黄金企稳回升，结束日线九连跌",
+      "type": "text",
+      "datetime": "2026-03-25T02:22:04+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】2026-03-25━━ 宏观要闻 ━━1️⃣🌟 现货黄金企稳回升，结束日线九连跌。世界黄金协会：受地缘政治风险推动，更多央行将增持黄金。2️⃣🌟菲律宾宣布国家能源紧急状态。3️⃣民调：特朗普支持率降至重返白宫以来最低。4️⃣消息人士称，特朗普政府预计最快于周三放宽夏季汽油法规，以抑制能源价格。欧盟推迟原定4月15日提交的永久禁止进口俄油提案。5️⃣美国拟停火1个月，15点结束伊朗冲突方案曝光。伊朗方面称“非敌对船只”可在与伊朗协调后通过霍尔木兹海峡6️⃣ 美、布两油尾盘跳水。市场交易“短期停火可能性上升”，地缘溢价出现回吐。━━ AI新闻 ━━1️⃣SK海力士：目标实现超过100万亿韩元的净现金规模。目标于2026年下半年实现美国存托凭证上市。━━ 产业新闻 ━━1️⃣SpaceX计划最早于本周提交IPO申请，拟募资超750亿美元。2️⃣贵金属、有色金属期货涨幅扩大，沪银涨超9%，铂、钯涨超7%，碳酸锂涨超5%，沪金涨超4%，沪锡、多晶硅涨超3%，沪铜、国际铜、铝合金涨超1%，沪铝、沪镍涨近1%。",
+      "content": "<b>【Fiona的日报频道】2026-03-25</b><br><b>━━ 宏观要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> 现货黄金企稳回升，结束日线九连跌。世界黄金协会：受地缘政治风险推动，更多央行将增持黄金。<br><i class=\"emoji\"><b>2️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>菲律宾宣布国家能源紧急状态。<br><i class=\"emoji\"><b>3️⃣</b></i>民调：特朗普支持率降至重返白宫以来最低。<br><i class=\"emoji\"><b>4️⃣</b></i>消息人士称，特朗普政府预计最快于周三放宽夏季汽油法规，以抑制能源价格。欧盟推迟原定4月15日提交的永久禁止进口俄油提案。<br><i class=\"emoji\"><b>5️⃣</b></i>美国拟停火1个月，15点结束伊朗冲突方案曝光。伊朗方面称“非敌对船只”可在与伊朗协调后通过霍尔木兹海峡<br><i class=\"emoji\"><b>6️⃣</b></i> 美、布两油尾盘跳水。市场交易“短期停火可能性上升”，地缘溢价出现回吐。<br><br><b>━━ AI新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>SK海力士：目标实现超过100万亿韩元的净现金规模。目标于2026年下半年实现美国存托凭证上市。<br><br><b>━━ 产业新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>SpaceX计划最早于本周提交IPO申请，拟募资超750亿美元。<br><i class=\"emoji\"><b>2️⃣</b></i>贵金属、有色金属期货涨幅扩大，沪银涨超9%，铂、钯涨超7%，碳酸锂涨超5%，沪金涨超4%，沪锡、多晶硅涨超3%，沪铜、国际铜、铝合金涨超1%，沪铝、沪镍涨近1%。",
+      "reactions": []
+    },
     {
       "id": "587",
       "title": "带着问题看财报 $MU  这次财报的关键看什么？1️⃣管理层会不会进一步量化 HBM 的订单能见度？比如 2026 年出货规模、收入占比的目标区间？会不会在 Q&A 里被分析师追问 NVDA 平台的具体进展，从而释放更多「用订单说话」的信号？2️⃣HBM的良率有重大变化么？HBM4何时量产？3️⃣下季指引比本季业绩更重要！management 对下一季 revenue / GM / supply tightness 怎么讲？4️⃣资本开支/CapEx花在了哪里？是否可以转化为收益？高强度投资还要持续多久？5️⃣HBM 是否继续 sold-out？如果 Micron 确认 2027 HBM 订单开始锁定，市场会重新定价 memory 板块",
@@ -329,53 +355,6 @@
         {
           "emoji": "❤️",
           "count": "11",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "567",
-      "title": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好",
-      "type": "text",
-      "datetime": "2026-03-11T13:50:51+00:00",
-      "tags": [],
-      "text": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。交易的需求是不变的，不管施加交易命令的是人或者是AI agent。",
-      "content": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。<br>交易的需求是不变的，不管施加交易命令的是人或者是AI agent。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "25",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "566",
-      "title": "The core CPI rose 0.22% in Feb, in line with expectations. ",
-      "type": "text",
-      "datetime": "2026-03-11T12:36:40+00:00",
-      "tags": [],
-      "text": "The core CPI rose 0.22% in Feb, in line with expectations. https://x.com/nicktimiraos/status/2031710643712036918?s=46",
-      "content": "The core CPI rose 0.22% in Feb, in line with expectations. <a href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\">https://x.com/nicktimiraos/status/2031710643712036918?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"The core CPI rose 0.22% in Feb, in line with expectations.That lowered the 12-month rate to 2.46%.Core inflation was 2.3% annualized over the previous six months. Both are the lowest readings in five years.3% annualized over the last 3 months, the…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/a35b245a1f2f407b814a5447608fe84b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Nick Timiraos (@NickTimiraos) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The core CPI rose 0.22% in Feb, in line with expectations.<br><br>That lowered the 12-month rate to 2.46%.<br><br>Core inflation was 2.3% annualized over the previous six months. <br><br>Both are the lowest readings in five years.<br><br>3% annualized over the last 3 months, the…</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "1",
           "isPaid": false
         }
       ]

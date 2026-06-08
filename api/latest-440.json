@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 675,
+    "totalPosts": 677,
     "totalPages": 34,
     "currentPage": 23,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-420.json"
   },
   "data": [
+    {
+      "id": "258",
+      "title": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k",
+      "type": "text",
+      "datetime": "2024-09-04T03:18:12+00:00",
+      "tags": [],
+      "text": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。我回复不是太想买，总体还是看空。我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。重要的其实还是美股。祝空仓的我们都能抄到底。",
+      "content": "9月3日行情小记<br>昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。<br>昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。<br>我回复不是太想买，总体还是看空。<br><br>我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。<br><br>周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。<br><br>重要的其实还是美股。<br><br>祝空仓的我们都能抄到底。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "257",
+      "title": "回看8月清仓，又一次逃顶！",
+      "type": "text",
+      "datetime": "2024-09-04T01:36:47+00:00",
+      "tags": [],
+      "text": "回看8月清仓，又一次逃顶！",
+      "content": "回看8月清仓，又一次逃顶！",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "256",
       "title": "Catizen 要来了",
@@ -360,53 +402,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "236",
-      "title": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1",
-      "type": "text",
-      "datetime": "2024-08-23T07:30:39+00:00",
-      "tags": [],
-      "text": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。可惜后来没有买回来，但是也证明了选币眼光",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/195\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了一点 AAVE 弱市场里的强势币</div>\n</small></blockquote></a>【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】<br>Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。<br>可惜后来没有买回来，但是也证明了选币眼光",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "235",
-      "title": "今早关于 $BNB 的开放性讨论（F是我）A：BNB炒作预期会不会回落下？F：我觉得BNB应该阶段性强势",
-      "type": "text",
-      "datetime": "2024-08-23T02:21:02+00:00",
-      "tags": [],
-      "text": "今早关于 $BNB 的开放性讨论（F是我）A：BNB炒作预期会不会回落下？F：我觉得BNB应该阶段性强势。我应该还是拿着B：我也还拿着A：我是觉得成败同源，尤其cz下个月释放一早皆知的事，币安目前新用户缺失也是不争事实，才引入dogs等（有点吃惊），我清了一半BNB，剩下的看情况边格局边慢慢减F：确实dogs让人困惑已知信息如上没错，但是最近bn重新开赌场上小市值 我认为是一个信号，他们会有一套组合拳来刺激流动性；包括上新币，下架，开合约。本质是流动性的整合和刺激。叠加CZ出狱，我会期待他们拉盘bnb并给bnb赋能结论：该止盈止盈，个人选择再看看保守的可以先走一半",
-      "content": "今早关于 $BNB 的开放性讨论（F是我）<br><br>A：BNB炒作预期会不会回落下？<br>F：我觉得BNB应该阶段性强势。我应该还是拿着<br>B：我也还拿着<br>A：我是觉得成败同源，尤其cz下个月释放一早皆知的事，币安目前新用户缺失也是不争事实，才引入dogs等（有点吃惊），我清了一半BNB，剩下的看情况边格局边慢慢减<br>F：确实dogs让人困惑<br>已知信息如上没错，但是最近bn重新开赌场上小市值 我认为是一个信号，他们会有一套组合拳来刺激流动性；包括上新币，下架，开合约。本质是流动性的整合和刺激。<br>叠加CZ出狱，我会期待他们拉盘bnb并给bnb赋能<br><br>结论：<br>该止盈止盈，个人选择再看看<br>保守的可以先走一半",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "30",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
           "count": "2",
           "isPaid": false
         }

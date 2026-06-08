@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 675,
+    "totalPosts": 677,
     "totalPages": 34,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "44",
+      "title": "跟牢群车 买了一起奶 赚了一起嗨 亏了一起哭Zero Silly双双起飞，抄底了COQ希望别被埋🫶",
+      "type": "text",
+      "datetime": "2023-12-22T03:13:03+00:00",
+      "tags": [],
+      "text": "跟牢群车 买了一起奶 赚了一起嗨 亏了一起哭Zero Silly双双起飞，抄底了COQ希望别被埋🫶",
+      "content": "跟牢群车 买了一起奶 赚了一起嗨 亏了一起哭<br>Zero Silly双双起飞，抄底了COQ希望别被埋<i class=\"emoji\"><b>🫶</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "title": "",
+      "type": "text",
+      "datetime": "2023-12-21T11:56:21+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1737803984570810373?s=20",
+      "content": "<a href=\"https://x.com/nft_hu/status/1737803984570810373?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1737803984570810373?s=20\">https://x.com/nft_hu/status/1737803984570810373?s=20</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "42",
       "title": "Fiona‘s daily news-12.20, 2023先说结论：最近的热点还是在BTC生态和各种铭文+DePin，从今天开始我也会放更多精力回到DePin",
@@ -270,32 +312,6 @@
       "text": "Meson挖矿教程，有手就会：https://x.com/nft_hu/status/1730143725714882953?s=20",
       "content": "Meson挖矿教程，有手就会：<br><a href=\"https://x.com/nft_hu/status/1730143725714882953?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1730143725714882953?s=20\">https://x.com/nft_hu/status/1730143725714882953?s=20</a>",
       "reactions": []
-    },
-    {
-      "id": "23",
-      "title": "Meson测试网开了可以去挖币，测试币最后映射",
-      "type": "text",
-      "datetime": "2023-11-29T10:20:07+00:00",
-      "tags": [],
-      "text": "Meson测试网开了可以去挖币，测试币最后映射。可以挖头矿了～https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju",
-      "content": "Meson测试网开了可以去挖币，测试币最后映射。可以挖头矿了～<br><a href=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\" target=\"_blank\" rel=\"noopener\" title=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\">https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju</a><a class=\"tgme_widget_message_link_preview\" href=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\" target=\"_blank\" rel=\"noopener\" title=\"Next generation Full-Stack Edge Marketplace\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">GaGaNode</div>\n  <img class=\"link_preview_image\" alt=\"GaGaNode from meson.network | Next Generation Decentralized Edge Cloud\" src=\"/static/f9caf9cf1886579b467777c00e640e65.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">GaGaNode from meson.network | Next Generation Decentralized Edge Cloud</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Next generation Full-Stack Edge Marketplace</div>\n</a>",
-      "reactions": []
-    },
-    {
-      "id": "22",
-      "title": "Fiona‘s daily news-11.26, 2023分享最近在看的项目，或许是Alpha或许是Theta～（利益披露，部分有仓位）1⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO",
-      "type": "text",
-      "datetime": "2023-11-26T05:36:05+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-11.26, 2023分享最近在看的项目，或许是Alpha或许是Theta～（利益披露，部分有仓位）1⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO。$NHUB 0成本launch90%，在Brc20上发布，非常公平，目前上线一天Auction新IDO $BSSB 利好Auction平台币若有持续造福效应即为金铲子2⃣️ $AKT  @akashnet_ IBC体系中的新星，交易量常进前三。https://x.com/akashnet_/status/1727399661571301379?s=20…云租借服务量也不断增长，11月的租借量重回ATH  3⃣️$RON原先我认为Ron仅仅是为了控制AXS通胀而产生的套娃项目，但是随着生态支持下的游戏不断发展，Ron也有了新的应用场景。Pixels 游戏DAU达到50k，应该是现在的Gamfi相关游戏中在线人数最多的游戏之一。",
-      "content": "Fiona‘s daily news-11.26, 2023<br><br>分享最近在看的项目，或许是Alpha或许是Theta～<br>（利益披露，部分有仓位）<br><br><i class=\"emoji\"><b>1⃣️</b></i>IDO related之前颇有造福效应的 <a href=\"https://twitter.com/Turtsat\" target=\"_blank\" rel=\"noopener\" title=\"@Turtsat\">@Turtsat</a>和 <a href=\"https://twitter.com/search?q=%24aution&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$aution\">$aution</a> 最近都有新的IDO。<br><a href=\"https://twitter.com/search?q=%24NHUB&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$NHUB\">$NHUB</a> 0成本launch90%，在Brc20上发布，非常公平，目前上线一天<br>Auction新IDO <a href=\"https://twitter.com/search?q=%24BSSB&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$BSSB\">$BSSB</a> 利好Auction平台币若有持续造福效应即为金铲子<br><br><i class=\"emoji\"><b>2⃣️</b></i> <a href=\"https://twitter.com/search?q=%24AKT&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$AKT\">$AKT</a>  <a href=\"https://twitter.com/akashnet_\" target=\"_blank\" rel=\"noopener\" title=\"@akashnet_\">@akashnet_</a><br> IBC体系中的新星，交易量常进前三。<br><a href=\"https://twitter.com/akashnet_/status/1727399661571301379?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/akashnet_/status/1727399661571301379?s=20…\">https://x.com/akashnet_/status/1727399661571301379?s=20…</a><br>云租借服务量也不断增长，11月的租借量重回ATH <br><br> <i class=\"emoji\"><b>3⃣️</b></i><a href=\"https://twitter.com/search?q=%24RON&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$RON\">$RON</a><br>原先我认为Ron仅仅是为了控制AXS通胀而产生的套娃项目，但是随着生态支持下的游戏不断发展，Ron也有了新的应用场景。<br>Pixels 游戏DAU达到50k，应该是现在的Gamfi相关游戏中在线人数最多的游戏之一。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }
