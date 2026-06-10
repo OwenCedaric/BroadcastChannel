@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "380",
+      "title": "验证中",
+      "type": "text",
+      "datetime": "2025-09-11T03:06:26+00:00",
+      "tags": [],
+      "text": "验证中",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/378\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了点pump</div>\n</small></blockquote></a>验证中",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "20",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "379",
       "title": "回购是真回购，盘面强势，大行情还行",
@@ -418,32 +434,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "360",
-      "title": "买了点SOL",
-      "type": "text",
-      "datetime": "2025-08-13T03:09:47+00:00",
-      "tags": [],
-      "text": "买了点SOL",
-      "content": "买了点SOL",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "3",
           "isPaid": false
         }
       ]

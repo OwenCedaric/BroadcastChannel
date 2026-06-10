@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "443",
+      "title": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了",
+      "type": "text",
+      "datetime": "2025-11-05T00:56:17+00:00",
+      "tags": [],
+      "text": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了。所有的叙事 都是有保质期的。从追逐特朗普家族买什么，到看DAT买什么，到BSC群魔乱舞，最近的隐私概念又兴起。像一层叠一层的海浪，新浪来时，旧潮退却。$BMNR 和 $SBET 的MNAV都跌在1以下了。这是底部标志之一。但我并没有任何购买欲望。在这个被抽干的水池里，做一条不乱扑腾的鱼或许可以苟活久一点。底部是一个区间，只是不知道他是一周，一个月，抑或一年。以己度人，我的信心还没有归来。信心比黄金还贵。",
+      "content": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了。<br><br>所有的叙事 都是有保质期的。从追逐特朗普家族买什么，到看DAT买什么，到BSC群魔乱舞，最近的隐私概念又兴起。<br><br>像一层叠一层的海浪，新浪来时，旧潮退却。<br><br>$BMNR 和 $SBET 的MNAV都跌在1以下了。这是底部标志之一。但我并没有任何购买欲望。在这个被抽干的水池里，做一条不乱扑腾的鱼或许可以苟活久一点。<br><br>底部是一个区间，只是不知道他是一周，一个月，抑或一年。<br><br>以己度人，我的信心还没有归来。信心比黄金还贵。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "63",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "💩",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "441",
       "title": "Gaib 算力➕机器人 ",
@@ -432,27 +468,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "422",
-      "title": "止盈了大部分 好好休息陪伴家人 中秋快乐",
-      "type": "text",
-      "datetime": "2025-10-04T15:23:56+00:00",
-      "tags": [],
-      "text": "止盈了大部分 好好休息陪伴家人 中秋快乐",
-      "content": "止盈了大部分 好好休息陪伴家人 中秋快乐",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]

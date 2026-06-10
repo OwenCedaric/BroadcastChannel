@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "527",
+      "title": "今天市场没有太多的消息，比较大的应该是SpaceX要收购XAI",
+      "type": "text",
+      "datetime": "2026-02-03T02:12:41+00:00",
+      "tags": [],
+      "text": "今天市场没有太多的消息，比较大的应该是SpaceX要收购XAI。黄金白银美股BTC都反弹了一些。由于政府停摆，美国劳工统计局1月的就业报告将推迟发布。",
+      "content": "今天市场没有太多的消息，比较大的应该是SpaceX要收购XAI。黄金白银美股BTC都反弹了一些。<br>由于政府停摆，美国劳工统计局1月的就业报告将推迟发布。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "526",
       "title": "开盘了，➕ $LITE $COHR $STX",
@@ -401,16 +422,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "507",
-      "title": "美国11月核心PCE物价指数月率 0.2%，预期0.20%",
-      "type": "text",
-      "datetime": "2026-01-22T15:16:48+00:00",
-      "tags": [],
-      "text": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。影响较小",
-      "content": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。<br>影响较小",
-      "reactions": []
     }
   ]
 }

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "279",
+      "title": "EGP 5~8 60% profit hit",
+      "type": "text",
+      "datetime": "2024-09-27T09:43:30+00:00",
+      "tags": [],
+      "text": "EGP 5~8 60% profit hit",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/273\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">可以看看（非广） https://x.com/Eigenpiexyz_io/status/1837115051389378920</div>\n</small></blockquote></a>EGP 5~8 60% profit hit",
+      "reactions": [
+        {
+          "emoji": "🥰",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "278",
       "title": "Pepe去零",
@@ -362,22 +378,6 @@
         {
           "emoji": "👍",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "259",
-      "title": "好消息是 9月29号，CZ就free了！ 坏消息是：9月5号:美国8月ADP9月6日:美联储理事沃勒就经济前景发表讲话9月6日:美国8月非农就业人数9月10日:苹果公司举行新品发布会，主题为“高光时刻”9月12日:欧洲央行公布利率决议并召开货币新闻发布会9月19日:美联储公布利率决议和经济预期摘要9月19日:美联储主席鲍威尔召开货币政策新闻发布会9月20日:日本央行公布利率决议9月20日:日本央行行长召开货币政策新闻发布会10月1日:美联储主席鲍威尔在全球商业经济协会发表讲话",
-      "type": "text",
-      "datetime": "2024-09-04T03:18:59+00:00",
-      "tags": [],
-      "text": "好消息是 9月29号，CZ就free了！ 坏消息是：9月5号:美国8月ADP9月6日:美联储理事沃勒就经济前景发表讲话9月6日:美国8月非农就业人数9月10日:苹果公司举行新品发布会，主题为“高光时刻”9月12日:欧洲央行公布利率决议并召开货币新闻发布会9月19日:美联储公布利率决议和经济预期摘要9月19日:美联储主席鲍威尔召开货币政策新闻发布会9月20日:日本央行公布利率决议9月20日:日本央行行长召开货币政策新闻发布会10月1日:美联储主席鲍威尔在全球商业经济协会发表讲话",
-      "content": "好消息是 9月29号，CZ就free了！ <br><br>坏消息是：<br>9月5号:美国8月ADP<br>9月6日:美联储理事沃勒就经济前景发表讲话<br>9月6日:美国8月非农就业人数<br>9月10日:苹果公司举行新品发布会，主题为“高光时刻”<br>9月12日:欧洲央行公布利率决议并召开货币新闻发布会<br>9月19日:美联储公布利率决议和经济预期摘要<br>9月19日:美联储主席鲍威尔召开货币政策新闻发布会<br>9月20日:日本央行公布利率决议<br>9月20日:日本央行行长召开货币政策新闻发布会<br>10月1日:美联储主席鲍威尔在全球商业经济协会发表讲话",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
           "isPaid": false
         }
       ]

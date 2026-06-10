@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "339",
+      "title": "似乎是个不错的决定，除了今天追高未平的Pengu 🥲记住了，下次追高要平的快",
+      "type": "text",
+      "datetime": "2025-07-23T13:36:17+00:00",
+      "tags": [],
+      "text": "似乎是个不错的决定，除了今天追高未平的Pengu 🥲记住了，下次追高要平的快",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/338\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">合约都平了</div>\n</small></blockquote></a>似乎是个不错的决定，除了今天追高未平的Pengu <i class=\"emoji\"><b>🥲</b></i>记住了，下次追高要平的快",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "💋",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "338",
       "title": "合约都平了",
@@ -422,32 +458,6 @@
         },
         {
           "emoji": "⚡",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "319",
-      "title": "谁会是下一个Robinhood？谁会复刻他对人性的掌握又抓住一个新兴行业（加密）的发展？ $SOFI 会是下一个传奇么？抑或只是一个昙花一现的叙事？让我们走进这家给散户投10美金给独角兽企业的机会，且会从特朗普的最新政策中受益的公司—— $SOFI ",
-      "type": "text",
-      "datetime": "2025-07-11T07:41:03+00:00",
-      "tags": [],
-      "text": "谁会是下一个Robinhood？谁会复刻他对人性的掌握又抓住一个新兴行业（加密）的发展？ $SOFI 会是下一个传奇么？抑或只是一个昙花一现的叙事？让我们走进这家给散户投10美金给独角兽企业的机会，且会从特朗普的最新政策中受益的公司—— $SOFI 。https://x.com/nft_hu/status/1943576092809531649",
-      "content": "谁会是下一个Robinhood？谁会复刻他对人性的掌握又抓住一个新兴行业（加密）的发展？<br> $SOFI 会是下一个传奇么？抑或只是一个昙花一现的叙事？<br>让我们走进这家给散户投10美金给独角兽企业的机会，且会从特朗普的最新政策中受益的公司—— $SOFI 。<a href=\"https://x.com/nft_hu/status/1943576092809531649\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1943576092809531649\">https://x.com/nft_hu/status/1943576092809531649</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "⚡",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }

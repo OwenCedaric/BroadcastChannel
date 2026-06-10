@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 13,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "464",
+      "title": "马上周一啦！复盘一下过去一周的操作：抄底了 $BTC  $GOOG  $BMNR 周五开盘买了 $NBIS $AVGO，卖了 $PLTRAlts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴",
+      "type": "text",
+      "datetime": "2025-12-21T13:31:43+00:00",
+      "tags": [],
+      "text": "马上周一啦！复盘一下过去一周的操作：抄底了 $BTC  $GOOG  $BMNR 周五开盘买了 $NBIS $AVGO，卖了 $PLTRAlts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴。接下来关注PCE（这是美联储真正关注的通胀指标），初请失业金数据，非农就业数据。",
+      "content": "马上周一啦！复盘一下过去一周的操作：<br>抄底了 $BTC  $GOOG  $BMNR <br>周五开盘买了 $NBIS $AVGO，卖了 $PLTR<br>Alts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）<br><br>相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴。<br><br>接下来关注PCE（这是美联储真正关注的通胀指标），初请失业金数据，非农就业数据。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "21",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "463",
       "title": "买了一点 $NBIS 和 $AVGO好股票，大盘不崩就没有问题",
@@ -372,42 +398,6 @@
         {
           "emoji": "❤️",
           "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "443",
-      "title": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了",
-      "type": "text",
-      "datetime": "2025-11-05T00:56:17+00:00",
-      "tags": [],
-      "text": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了。所有的叙事 都是有保质期的。从追逐特朗普家族买什么，到看DAT买什么，到BSC群魔乱舞，最近的隐私概念又兴起。像一层叠一层的海浪，新浪来时，旧潮退却。$BMNR 和 $SBET 的MNAV都跌在1以下了。这是底部标志之一。但我并没有任何购买欲望。在这个被抽干的水池里，做一条不乱扑腾的鱼或许可以苟活久一点。底部是一个区间，只是不知道他是一周，一个月，抑或一年。以己度人，我的信心还没有归来。信心比黄金还贵。",
-      "content": "很久没看财库的数据了，毕竟在我眼中这个叙事也死了有一阵子了。<br><br>所有的叙事 都是有保质期的。从追逐特朗普家族买什么，到看DAT买什么，到BSC群魔乱舞，最近的隐私概念又兴起。<br><br>像一层叠一层的海浪，新浪来时，旧潮退却。<br><br>$BMNR 和 $SBET 的MNAV都跌在1以下了。这是底部标志之一。但我并没有任何购买欲望。在这个被抽干的水池里，做一条不乱扑腾的鱼或许可以苟活久一点。<br><br>底部是一个区间，只是不知道他是一周，一个月，抑或一年。<br><br>以己度人，我的信心还没有归来。信心比黄金还贵。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "63",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "💩",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
           "isPaid": false
         }
       ]

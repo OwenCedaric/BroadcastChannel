@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "630",
+      "title": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱",
+      "type": "text",
+      "datetime": "2026-04-18T08:23:30+00:00",
+      "tags": [],
+      "text": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱。这次找到的钱贬值比较少的原因，主要是吸取了从前的经验——把不常用钱包的资金要不用ETH，要不用USDT。经历过 波卡生态归零、Arbitrum生态消失、Bearchain熄火、铭文集体归零的我终于长大了。该卖卖，拥有长期价值的事物还是稀有的。",
+      "content": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱。这次找到的钱贬值比较少的原因，主要是吸取了从前的经验——把不常用钱包的资金要不用ETH，要不用USDT。<br><br>经历过 波卡生态归零、Arbitrum生态消失、Bearchain熄火、铭文集体归零的我终于长大了。<br><br>该卖卖，拥有长期价值的事物还是稀有的。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "629",
       "title": "和Elon Musk创办SpaceX时，账户里躺着大约1亿美元的启动资金不同，Peter的账户里并没有那么多现金",
@@ -367,27 +388,6 @@
         {
           "emoji": "❤️",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "610",
-      "title": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局",
-      "type": "text",
-      "datetime": "2026-04-11T03:09:47+00:00",
-      "tags": [],
-      "text": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局。和 SpaceX 的关系核心是「卖频谱给 SpaceX，拿了一大块 SpaceX 股权」，所以现在被视为间接持有 SpaceX 的公众载体。公司仍亏损，但过去12个月仍然脱离基本面的猛烈上涨，主要也是对其持有的SpaceX股权的重新定价。这笔频谱交易换股权发生在去年9月:对价结构是现金 + SpaceX 股权；初始协议大约 85 亿现金 + 85 亿 SpaceX 股票，按 SpaceX 当时约 4000 亿美元估值算，相当于取得约 2% 左右 SpaceX 持股。也有后续补充协议说持股比例可能达到2~3%。按照现在市场给SpaceX市场传出的估值15000亿，这部分的股权定价为300到450亿美金。而现在 $SATS 的市值为370亿。基本属于自己的业务白送，只计算股权价值。SATS 被重塑成一个SpaceX 的上市“影子股”：SpaceX 估值涨 → EchoStar 资产净值涨 → 市场给 SATS 提前重估。一旦 SpaceX 真 IPO，EchoStar 可以通过部分套现或抵押来修补资产负债表、换现金和减债，故事空间更大。",
-      "content": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局。<br><br>和 SpaceX 的关系核心是「卖频谱给 SpaceX，拿了一大块 SpaceX 股权」，所以现在被视为间接持有 SpaceX 的公众载体。<br><br>公司仍亏损，但过去12个月仍然脱离基本面的猛烈上涨，主要也是对其持有的SpaceX股权的重新定价。<br><br>这笔频谱交易换股权发生在去年9月:<br>对价结构是现金 + SpaceX 股权；初始协议大约 85 亿现金 + 85 亿 SpaceX 股票，按 SpaceX 当时约 4000 亿美元估值算，相当于取得约 2% 左右 SpaceX 持股。也有后续补充协议说持股比例可能达到2~3%。<br><br>按照现在市场给SpaceX市场传出的估值15000亿，这部分的股权定价为300到450亿美金。而现在 $SATS 的市值为370亿。基本属于自己的业务白送，只计算股权价值。<br><br>SATS 被重塑成一个SpaceX 的上市“影子股”：<br>SpaceX 估值涨 → EchoStar 资产净值涨 → 市场给 SATS 提前重估。<br>一旦 SpaceX 真 IPO，EchoStar 可以通过部分套现或抵押来修补资产负债表、换现金和减债，故事空间更大。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "237",
+      "title": "鲍师傅给力！鲍威尔发出迄今为止最强烈​​的降息信号金十数据8月23日讯，据华尔街日报：美联储主席鲍威尔发出迄今为止最强烈​​的降息信号，其表示美联储打算采取行动，避免美国劳动力市场进一步疲软",
+      "type": "text",
+      "datetime": "2024-08-23T14:18:15+00:00",
+      "tags": [],
+      "text": "鲍师傅给力！鲍威尔发出迄今为止最强烈​​的降息信号金十数据8月23日讯，据华尔街日报：美联储主席鲍威尔发出迄今为止最强烈​​的降息信号，其表示美联储打算采取行动，避免美国劳动力市场进一步疲软。互换市场保持稳定，预计美联储年末前将有近100个基点的降息幅度。加仓 TLT TMFhttps://x.com/nft_hu/status/1826987118452994418?s=46",
+      "content": "鲍师傅给力！<br><br>鲍威尔发出迄今为止最强烈​​的降息信号<br>金十数据8月23日讯，据华尔街日报：美联储主席鲍威尔发出迄今为止最强烈​​的降息信号，其表示美联储打算采取行动，避免美国劳动力市场进一步疲软。<br><br>互换市场保持稳定，预计美联储年末前将有近100个基点的降息幅度。<br><br>加仓 TLT TMF<br><a href=\"https://x.com/nft_hu/status/1826987118452994418?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1826987118452994418?s=46\">https://x.com/nft_hu/status/1826987118452994418?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "236",
       "title": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1",
@@ -407,37 +428,6 @@
         },
         {
           "emoji": "💅",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "216",
-      "title": "写了一篇虎头蛇尾的文章：",
-      "type": "text",
-      "datetime": "2024-08-15T09:03:52+00:00",
-      "tags": [],
-      "text": "写了一篇虎头蛇尾的文章：https://x.com/nft_hu/status/1824008723532230965",
-      "content": "写了一篇虎头蛇尾的文章：<a href=\"https://x.com/nft_hu/status/1824008723532230965\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1824008723532230965\">https://x.com/nft_hu/status/1824008723532230965</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
           "count": "2",
           "isPaid": false
         }

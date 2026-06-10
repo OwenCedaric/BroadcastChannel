@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 677,
+    "totalPosts": 678,
     "totalPages": 34,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "360",
+      "title": "买了点SOL",
+      "type": "text",
+      "datetime": "2025-08-13T03:09:47+00:00",
+      "tags": [],
+      "text": "买了点SOL",
+      "content": "买了点SOL",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "359",
       "title": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的",
@@ -415,42 +441,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "339",
-      "title": "似乎是个不错的决定，除了今天追高未平的Pengu 🥲记住了，下次追高要平的快",
-      "type": "text",
-      "datetime": "2025-07-23T13:36:17+00:00",
-      "tags": [],
-      "text": "似乎是个不错的决定，除了今天追高未平的Pengu 🥲记住了，下次追高要平的快",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/338\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">合约都平了</div>\n</small></blockquote></a>似乎是个不错的决定，除了今天追高未平的Pengu <i class=\"emoji\"><b>🥲</b></i>记住了，下次追高要平的快",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "💋",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
-          "count": "1",
           "isPaid": false
         }
       ]
