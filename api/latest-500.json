@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 678,
+    "totalPosts": 679,
     "totalPages": 34,
     "currentPage": 26,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-480.json"
   },
   "data": [
+    {
+      "id": "195",
+      "title": "买了一点 AAVE 弱市场里的强势币",
+      "type": "text",
+      "datetime": "2024-08-03T08:57:05+00:00",
+      "tags": [],
+      "text": "买了一点 AAVE 弱市场里的强势币",
+      "content": "买了一点 AAVE 弱市场里的强势币",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "194",
       "title": "回看只能说卖的好！ 等一个好位置再抄底",
@@ -360,22 +376,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "175",
-      "title": "Fiona’s daily news 6.4💵经济1️⃣ 多只纽交所股票显示近100%下跌，纽交所称系技术问题",
-      "type": "text",
-      "datetime": "2024-06-04T15:24:07+00:00",
-      "tags": [],
-      "text": "Fiona’s daily news 6.4💵经济1️⃣ 多只纽交所股票显示近100%下跌，纽交所称系技术问题。https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/2️⃣ AMD挑战英伟达，新AI芯片性能是H200的1.3倍。 https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia3️⃣ Imec和ASML在荷兰开设高NA EUV光刻实验室，为芯片制造商提供测试版高NA EUV扫描仪。https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/🪙币圈1️⃣ 泰国证交会批准One Asset Management推出首个比特币ETF，仅限富裕和机构投资者。https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf2️⃣ Binance将从2024年6月30日起限制EEA用户使用未授权的稳定币。https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce315971213️⃣ 澳大利亚首个现货比特币ETF IBTC将于周二在Cboe Australia上市。 https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_medium=social4️⃣ CoinShares：5月加密投资产品流入20亿美元，以太坊市场情绪“转变”。https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares5️⃣ GameStop股票飙升，周一早盘上涨超75%。https://x.com/abc/status/1797881227216670820?s=466️⃣ “MEME游乐园”Pump.fun：代币发行量占Solana超七成，3人团队创造3000万美元收入。https://x.com/theblock__/status/1797948767909425566?s=467️⃣ 美国现货比特币ETF周一净流入1.0512亿美元，Fidelity的FBTC领跑。 https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion",
-      "content": "Fiona’s daily news 6.4<br><br><i class=\"emoji\"><b>💵</b></i>经济<br><i class=\"emoji\"><b>1️⃣</b></i> 多只纽交所股票显示近100%下跌，纽交所称系技术问题。<br><a href=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\">https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/</a><br><i class=\"emoji\"><b>2️⃣</b></i> AMD挑战英伟达，新AI芯片性能是H200的1.3倍。 <br><a href=\"https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia\" target=\"_blank\" rel=\"noopener\" title=\"https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia\">https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia</a><br><i class=\"emoji\"><b>3️⃣</b></i> Imec和ASML在荷兰开设高NA EUV光刻实验室，为芯片制造商提供测试版高NA EUV扫描仪。<br><a href=\"https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/\">https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/</a><br><br><i class=\"emoji\"><b>🪙</b></i>币圈<br><i class=\"emoji\"><b>1️⃣</b></i> 泰国证交会批准One Asset Management推出首个比特币ETF，仅限富裕和机构投资者。<br><a href=\"https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf\" target=\"_blank\" rel=\"noopener\" title=\"https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf\">https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf</a><br><i class=\"emoji\"><b>2️⃣</b></i> Binance将从2024年6月30日起限制EEA用户使用未授权的稳定币。<br><a href=\"https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121\" target=\"_blank\" rel=\"noopener\" title=\"https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121\">https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121</a><br><i class=\"emoji\"><b>3️⃣</b></i> 澳大利亚首个现货比特币ETF IBTC将于周二在Cboe Australia上市。 <br><a href=\"https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social\" target=\"_blank\" rel=\"noopener\" title=\"https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social\">https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social</a><br><i class=\"emoji\"><b>4️⃣</b></i> CoinShares：5月加密投资产品流入20亿美元，以太坊市场情绪“转变”。<br><a href=\"https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares\">https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares</a><br><i class=\"emoji\"><b>5️⃣</b></i> GameStop股票飙升，周一早盘上涨超75%。<br><a href=\"https://x.com/abc/status/1797881227216670820?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/abc/status/1797881227216670820?s=46\">https://x.com/abc/status/1797881227216670820?s=46</a><br><i class=\"emoji\"><b>6️⃣</b></i> “MEME游乐园”Pump.fun：代币发行量占Solana超七成，3人团队创造3000万美元收入。<br><a href=\"https://x.com/theblock__/status/1797948767909425566?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/theblock__/status/1797948767909425566?s=46\">https://x.com/theblock__/status/1797948767909425566?s=46</a><br><i class=\"emoji\"><b>7️⃣</b></i> 美国现货比特币ETF周一净流入1.0512亿美元，Fidelity的FBTC领跑。 <br><a href=\"https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion\">https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\" target=\"_blank\" rel=\"noopener\" title=\"New York Stock Exchange technical troubles cause Berkshire Hathaway shares to appear down almost 100%.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbb75d3a5ec9c9b9eaa02d745dcb018a.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">CBS News</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">NYSE glitch sends Berkshire Hathaway shares down nearly 100%</div>\n  <div class=\"link_preview_description\" dir=\"auto\">New York Stock Exchange technical troubles cause Berkshire Hathaway shares to appear down almost 100%.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
           "isPaid": false
         }
       ]

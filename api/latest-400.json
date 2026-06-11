@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 678,
+    "totalPosts": 679,
     "totalPages": 34,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "300",
+      "title": "关于Pengu 我买入的原因和项目的基本情况：",
+      "type": "text",
+      "datetime": "2024-12-26T12:37:01+00:00",
+      "tags": [],
+      "text": "关于Pengu 我买入的原因和项目的基本情况：https://x.com/nft_hu/status/1872258649697239377",
+      "content": "关于Pengu 我买入的原因和项目的基本情况：<br><a href=\"https://x.com/nft_hu/status/1872258649697239377\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1872258649697239377\">https://x.com/nft_hu/status/1872258649697239377</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🍾",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "299",
       "title": "前天感觉行情不稳，抄底的部分先撤退了",
@@ -513,32 +534,6 @@
         {
           "emoji": "🤡",
           "count": "14",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "280",
-      "title": "pepe 0.0000085-0.000011 恭喜上车的各位",
-      "type": "text",
-      "datetime": "2024-09-28T03:14:45+00:00",
-      "tags": [],
-      "text": "pepe 0.0000085-0.000011 恭喜上车的各位",
-      "content": "pepe 0.0000085-0.000011 恭喜上车的各位",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "61",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤮",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "5",
           "isPaid": false
         }
       ]

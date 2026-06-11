@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 678,
+    "totalPosts": 679,
     "totalPages": 34,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "340",
+      "title": "卖了不少美港股 准备换个新券商 手里有现金的时候适合好好思考",
+      "type": "text",
+      "datetime": "2025-07-23T13:37:09+00:00",
+      "tags": [],
+      "text": "卖了不少美港股 准备换个新券商 手里有现金的时候适合好好思考",
+      "content": "卖了不少美港股 准备换个新券商 手里有现金的时候适合好好思考",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "339",
       "title": "似乎是个不错的决定，除了今天追高未平的Pengu 🥲记住了，下次追高要平的快",
@@ -433,32 +454,6 @@
         {
           "emoji": "👍",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "320",
-      "title": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个",
-      "type": "text",
-      "datetime": "2025-07-14T10:16:53+00:00",
-      "tags": [],
-      "text": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个。上一次见到这样的架势还是 $MSTR 。截至今天，他持有的 $ETH 已经超过了 21万个，成为了仅次于以太坊的第二大持仓机构（这里是把CEX的持仓排除在外的）走进 SharpLink Gaming https://x.com/nft_hu/status/1944675614293901605",
-      "content": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个。上一次见到这样的架势还是 $MSTR 。<br>截至今天，他持有的 $ETH 已经超过了 21万个，成为了仅次于以太坊的第二大持仓机构（这里是把CEX的持仓排除在外的）<br>走进 SharpLink Gaming <a href=\"https://x.com/nft_hu/status/1944675614293901605\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1944675614293901605\">https://x.com/nft_hu/status/1944675614293901605</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "⚡",
-          "count": "1",
           "isPaid": false
         }
       ]

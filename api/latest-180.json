@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 678,
+    "totalPosts": 679,
     "totalPages": 34,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "528",
+      "title": "The 10-year Treasury Inflation-Protected Securities (TIPS) yield has been trending upward recently, reflecting market concerns over persistent inflation and Federal Reserve policy shifts under the incoming Chair Kevin Warsh. As of February 2, 2026, the yield rose to 1.95%.资金成本上升，市场流动性收紧",
+      "type": "text",
+      "datetime": "2026-02-03T14:13:22+00:00",
+      "tags": [],
+      "text": "The 10-year Treasury Inflation-Protected Securities (TIPS) yield has been trending upward recently, reflecting market concerns over persistent inflation and Federal Reserve policy shifts under the incoming Chair Kevin Warsh. As of February 2, 2026, the yield rose to 1.95%.资金成本上升，市场流动性收紧。注意风险⚠️",
+      "content": "The 10-year Treasury Inflation-Protected Securities (TIPS) yield has been trending upward recently, reflecting market concerns over persistent inflation and Federal Reserve policy shifts under the incoming Chair Kevin Warsh. As of February 2, 2026, the yield rose to 1.95%.<br><br>资金成本上升，市场流动性收紧。注意风险<i class=\"emoji\"><b>⚠️</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "527",
       "title": "今天市场没有太多的消息，比较大的应该是SpaceX要收购XAI",
@@ -397,27 +413,6 @@
         },
         {
           "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "508",
-      "title": "$INTC 关键财务数据（Q4 2025）营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元",
-      "type": "text",
-      "datetime": "2026-01-23T01:11:48+00:00",
-      "tags": [],
-      "text": "$INTC 关键财务数据（Q4 2025）营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元。毛利率36.1%，同比下降 3.1 个百分点。每股收益-0.12 美元（处于亏损状态）。Non-GAAP：0.15 美元，远超分析师预期的 0.08 美元。❗️全年表现： 2025 全年营收 529 亿美元，基本持平。尽管第四季度的营收和利润都跑赢了华尔街的预期，但英特尔股价在盘后跌幅一度超过 12%。主要原因在于以下几个“雷点”：1️⃣极其疲软的业绩指引（Outlook）这是导致大跌的最直接原因。英特尔对 2026 年 Q1 的预测远低于预期：预期营收： 117 亿至 127 亿美元（市场预期为 125.5 亿）。预期 EPS： 预计 Non-GAAP EPS 仅为 $0.00（市场预期为 0.05 美元）。2️⃣供应链“阵痛”与良率问题财报中提到 Q1 供应将处于“最低水平”。网络分析指出，虽然 18A 制程已经量产，但初期良率（Yield）可能仍未达到理想水平，导致成本高昂且出货量受限。这种“增收不增利”的担忧让投资者选择离场。3️⃣PC 市场份额流失虽然数据中心与 AI（DCAI）营收增长了 9%，但核心的客户端计算小组（CCG，即 PC 处理器）营收下降了 7%。分析师指出，在低端市场（如 Chromebook）和部分主流市场，英特尔正面临 AMD 和 MediaTek 的激烈竞争，甚至预计 2026 年 PC 市场份额可能进一步流失 10%。4️⃣财务结构的复杂性（Altera 的影响）财报提到由于 Altera 的拆分，导致同比数据难以直接对比。这种剥离带来的财务波动，掩盖了核心业务的真实成长性。5️⃣预期过高与估值回调在财报发布前的一年中，英特尔股价因“AI 转型”和“制程复苏”预期，已经上涨了近 150%。当财报指引无法支撑这么高的估值溢价时，市场便出现了剧烈的“利好出尽”式回调。",
-      "content": "$INTC 关键财务数据（Q4 2025）<br>营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元。<br>毛利率36.1%，同比下降 3.1 个百分点。<br>每股收益-0.12 美元（处于亏损状态）。<br>Non-GAAP：0.15 美元，远超分析师预期的 0.08 美元。<br><br><i class=\"emoji\"><b>❗️</b></i>全年表现： 2025 全年营收 529 亿美元，基本持平。<br><br>尽管第四季度的营收和利润都跑赢了华尔街的预期，但英特尔股价在盘后跌幅一度超过 12%。主要原因在于以下几个“雷点”：<br><br><i class=\"emoji\"><b>1️⃣</b></i>极其疲软的业绩指引（Outlook）<br>这是导致大跌的最直接原因。英特尔对 2026 年 Q1 的预测远低于预期：<br>预期营收： 117 亿至 127 亿美元（市场预期为 125.5 亿）。<br>预期 EPS： 预计 Non-GAAP EPS 仅为 $0.00（市场预期为 0.05 美元）。<br><br><i class=\"emoji\"><b>2️⃣</b></i>供应链“阵痛”与良率问题<br>财报中提到 Q1 供应将处于“最低水平”。网络分析指出，虽然 18A 制程已经量产，但初期良率（Yield）可能仍未达到理想水平，导致成本高昂且出货量受限。这种“增收不增利”的担忧让投资者选择离场。<br><br><i class=\"emoji\"><b>3️⃣</b></i>PC 市场份额流失<br>虽然数据中心与 AI（DCAI）营收增长了 9%，但核心的客户端计算小组（CCG，即 PC 处理器）营收下降了 7%。分析师指出，在低端市场（如 Chromebook）和部分主流市场，英特尔正面临 AMD 和 MediaTek 的激烈竞争，甚至预计 2026 年 PC 市场份额可能进一步流失 10%。<br><br><i class=\"emoji\"><b>4️⃣</b></i>财务结构的复杂性（Altera 的影响）<br>财报提到由于 Altera 的拆分，导致同比数据难以直接对比。这种剥离带来的财务波动，掩盖了核心业务的真实成长性。<br><br><i class=\"emoji\"><b>5️⃣</b></i>预期过高与估值回调<br>在财报发布前的一年中，英特尔股价因“AI 转型”和“制程复苏”预期，已经上涨了近 150%。当财报指引无法支撑这么高的估值溢价时，市场便出现了剧烈的“利好出尽”式回调。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
           "count": "1",
           "isPaid": false
         }

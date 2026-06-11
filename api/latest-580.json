@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 678,
+    "totalPosts": 679,
     "totalPages": 34,
     "currentPage": 30,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-560.json"
   },
   "data": [
+    {
+      "id": "115",
+      "title": "推荐参与的节点拍卖： @AethirCloud ——去中心化 GPU 云基础设施",
+      "type": "text",
+      "datetime": "2024-03-18T05:57:52+00:00",
+      "tags": [],
+      "text": "推荐参与的节点拍卖： @AethirCloud ——去中心化 GPU 云基础设施。❗️他的节点拍卖将在2天后开始，欢迎大家买的时候使用我的邀请码：Fiona使用我的邀请码可以在购买节点时获得优惠！节点销售的详细信息：https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale 在Aethir上运行节点有助于去中心化云计算，并从成为网络参与者中获得代币奖励。",
+      "content": "推荐参与的节点拍卖：<br> <br><a href=\"https://t.me/AethirCloud\" target=\"_blank\" title=\"@AethirCloud\">@AethirCloud</a> ——去中心化 GPU 云基础设施。<br><br><i class=\"emoji\"><b>❗️</b></i>他的节点拍卖将在2天后开始，欢迎大家买的时候使用我的邀请码：Fiona<br>使用我的邀请码可以在购买节点时获得优惠！<br><br>节点销售的详细信息：<br><a href=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\" target=\"_blank\" rel=\"noopener\" title=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\">https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale</a><br><br> 在Aethir上运行节点有助于去中心化云计算，并从成为网络参与者中获得代币奖励。<a class=\"tgme_widget_message_link_preview\" href=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\" target=\"_blank\" rel=\"noopener\" title=\"Aethir Announces its First Decentralized AI Node Sale\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Aethir</div>\n  <img class=\"link_preview_image\" alt=\"Aethir\" src=\"/static/30e31c19263f37b37b307989f2961196.jpg\" loading=\"lazy\">\n  \n  <div class=\"link_preview_description\" dir=\"auto\">Aethir Announces its First Decentralized AI Node Sale</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "114",
       "title": "庆祝solana 200，发一张牛牛的靓照！请牛总继续发力，500可期",
@@ -367,27 +383,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "93",
-      "title": "AR SOL CKB 加仓",
-      "type": "text",
-      "datetime": "2024-03-09T06:20:39+00:00",
-      "tags": [],
-      "text": "AR SOL CKB 加仓",
-      "content": "AR SOL CKB 加仓",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
           "isPaid": false
         }
       ]
