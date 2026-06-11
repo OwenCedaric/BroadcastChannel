@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 204,
+    "totalPosts": 205,
     "totalPages": 11,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "81",
+      "title": "还有一个潜在的风险就是ASTER如果之后币价崩盘，那么预期的收益率会骤降",
+      "type": "text",
+      "datetime": "2025-09-28T10:03:57+00:00",
+      "tags": [],
+      "text": "还有一个潜在的风险就是ASTER如果之后币价崩盘，那么预期的收益率会骤降。我预期我能拿140万美元的ASTER空投的情况下，对冲了40万美元的币。没有全对冲，毕竟1有女巫风险拿不到币 2有币价不受控暴涨风险",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-81-0\" popovertargetaction=\"show\">\n        <img src=\"/static/621553aef35ae97161b95abfc14ead7d.jpg\" alt=\"还有一个潜在的风险就是ASTER如果之后币价崩盘，那么预期的收益率会骤降\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-81-0\" popovertarget=\"modal-81-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/621553aef35ae97161b95abfc14ead7d.jpg\" alt=\"还有一个潜在的风险就是ASTER如果之后币价崩盘，那么预期的收益率会骤降\" loading=\"lazy\" />\n      </button>\n    </div>还有一个潜在的风险就是ASTER如果之后币价崩盘，那么预期的收益率会骤降。<br><br>我预期我能拿140万美元的ASTER空投的情况下，对冲了40万美元的币。<br><br>没有全对冲，毕竟1有女巫风险拿不到币 2有币价不受控暴涨风险",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "131",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "80",
       "title": "70万美元对我来说是一个可以接受100%损失了也没事的金额，任何在aster刷量的人都应该有被查女巫导致损失全部投入的心理觉悟不要盲目的FOMO进来",
@@ -878,69 +924,6 @@
         {
           "emoji": "🤔",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "60",
-      "title": "#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他",
-      "type": "text",
-      "datetime": "2025-08-24T09:11:53+00:00",
-      "tags": [
-        "黑化"
-      ],
-      "text": "#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他。我会感到开心“世界上需要有更多他这样的人才好”🙏",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-60-0\" popovertargetaction=\"show\">\n        <img src=\"/static/0fd007493c1f91b5b436117edd1042c9.jpg\" alt=\"#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-60-0\" popovertarget=\"modal-60-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/0fd007493c1f91b5b436117edd1042c9.jpg\" alt=\"#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他\" loading=\"lazy\" />\n      </button>\n    </div><a href=\"/search/%23%E9%BB%91%E5%8C%96\" title=\"#黑化\">#黑化</a><br>我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他。我会感到开心“世界上需要有更多他这样的人才好”<i class=\"emoji\"><b>🙏</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "289",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "63",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "41",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "1",
           "isPaid": false
         }
       ]

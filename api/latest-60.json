@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 204,
+    "totalPosts": 205,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "170",
+      "title": "我目前持有350万美元的SLV etf已经在币安合约上做空了116万XAG对冲还有的打算拿到明天美股开盘时段了",
+      "type": "text",
+      "datetime": "2026-02-01T10:33:09+00:00",
+      "tags": [],
+      "text": "我目前持有350万美元的SLV etf已经在币安合约上做空了116万XAG对冲还有的打算拿到明天美股开盘时段了",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-170-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e5637473cef3940f3383a7610cb09ea3.jpg\" alt=\"我目前持有350万美元的SLV etf已经在币安合约上做空了116万XAG对冲还有的打算拿到明天美股开盘时段了\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-170-0\" popovertarget=\"modal-170-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e5637473cef3940f3383a7610cb09ea3.jpg\" alt=\"我目前持有350万美元的SLV etf已经在币安合约上做空了116万XAG对冲还有的打算拿到明天美股开盘时段了\" loading=\"lazy\" />\n      </button>\n    </div>我目前持有350万美元的SLV etf<br>已经在币安合约上做空了116万XAG对冲<br><br>还有的打算拿到明天美股开盘时段了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "114",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "169",
       "title": "我喜欢在我的频道直播我的交易就像方程式新闻一样我相信人们更喜欢看实时的而不是操作完了发个pnl图说自己赚了",
@@ -1048,72 +1094,6 @@
         {
           "emoji": "🙏",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "150",
-      "title": "是的，我这种风格你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
-      "type": "text",
-      "datetime": "2026-01-02T12:10:44+00:00",
-      "tags": [],
-      "text": "是的，我这种风格你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
-      "content": "是的，我这种风格<br>你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司<br><br>但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "296",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "96",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
           "isPaid": false
         }
       ]

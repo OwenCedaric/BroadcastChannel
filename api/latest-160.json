@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 204,
+    "totalPosts": 205,
     "totalPages": 11,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,69 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "60",
+      "title": "#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他",
+      "type": "text",
+      "datetime": "2025-08-24T09:11:53+00:00",
+      "tags": [
+        "黑化"
+      ],
+      "text": "#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他。我会感到开心“世界上需要有更多他这样的人才好”🙏",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-60-0\" popovertargetaction=\"show\">\n        <img src=\"/static/0fd007493c1f91b5b436117edd1042c9.jpg\" alt=\"#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-60-0\" popovertarget=\"modal-60-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/0fd007493c1f91b5b436117edd1042c9.jpg\" alt=\"#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他\" loading=\"lazy\" />\n      </button>\n    </div><a href=\"/search/%23%E9%BB%91%E5%8C%96\" title=\"#黑化\">#黑化</a><br>我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他。我会感到开心“世界上需要有更多他这样的人才好”<i class=\"emoji\"><b>🙏</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "289",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "63",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "41",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "59",
       "title": "说说我对crypto市场的看法，现在聪明交易员们的的一致性观点是\"这轮ETH行情已经有见顶征兆\" / “这轮ETH上涨行情由币股带动，那么下轮熊市也必然是币股持仓带来抛压”所以当下的一个原则就是不应该再去抱着投资的角度去投资任何大币因为当前没有性价比- 我虽然不看多，但是我不会做空",
@@ -835,42 +898,6 @@
         {
           "emoji": "😈",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "35",
-      "title": "我绝不会碰现在华语圈子里在推的一些“去中心化美股代币”平台，- 投资美股本来就是为了分散掉你在crypto里的风险，用这种服务就毫无意义- 你无法审计这种平台的资产",
-      "type": "text",
-      "datetime": "2025-05-30T14:25:29+00:00",
-      "tags": [],
-      "text": "我绝不会碰现在华语圈子里在推的一些“去中心化美股代币”平台，- 投资美股本来就是为了分散掉你在crypto里的风险，用这种服务就毫无意义- 你无法审计这种平台的资产。像当年FTX卖给客户的很多股票代币实际上不是1:1备兑的",
-      "content": "我绝不会碰现在华语圈子里在推的一些“去中心化美股代币”平台，<br><br>- 投资美股本来就是为了分散掉你在crypto里的风险，用这种服务就毫无意义<br>- 你无法审计这种平台的资产。像当年FTX卖给客户的很多股票代币实际上不是1:1备兑的",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "245",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "32",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "3",
           "isPaid": false
         }
       ]

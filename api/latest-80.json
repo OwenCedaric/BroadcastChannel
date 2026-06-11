@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 204,
+    "totalPosts": 205,
     "totalPages": 11,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,72 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "150",
+      "title": "是的，我这种风格你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
+      "type": "text",
+      "datetime": "2026-01-02T12:10:44+00:00",
+      "tags": [],
+      "text": "是的，我这种风格你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
+      "content": "是的，我这种风格<br>你们看不到我几年成为首富、几年搞出一个billion dollar独角兽公司<br><br>但是同样你们也看不到我“看他起高楼看他宴宾客看他楼塌了”，我会一直稳稳的增值",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "296",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "96",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "149",
       "title": "在海外，真实世界里可见的套利场景还是太多了如果你的资产低于10万美元，你最好的成功路径就是搞这种商业世界里的套利/细分领域的套利/要付出时间的领域的套利，而不是来合约市场的订单簿和我这种人PVP",
@@ -1078,62 +1144,6 @@
         {
           "emoji": "🥰",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "126",
-      "title": "现在最JB烦的就是那种跑订单簿预测类型的MM：他们会检测币安合约上的bid变动 》如果你在一个超小市值的币上挂一个大金额单在bid1》他们会立马把价格推高1-2%》迫使你以更高的价格重新挂单去尝试成交不过这种王八也有利用价值：当你要退出一个小市值币的仓位的时候，你可以先挂高在当前价格的0.3-0.4%的位置然后再去bid1上挂一个超大额单，把这种王八MM给下一跳》让他们抬价格正好hit到你之前挂的limit价格",
-      "type": "text",
-      "datetime": "2025-11-21T12:43:52+00:00",
-      "tags": [],
-      "text": "现在最JB烦的就是那种跑订单簿预测类型的MM：他们会检测币安合约上的bid变动 》如果你在一个超小市值的币上挂一个大金额单在bid1》他们会立马把价格推高1-2%》迫使你以更高的价格重新挂单去尝试成交不过这种王八也有利用价值：当你要退出一个小市值币的仓位的时候，你可以先挂高在当前价格的0.3-0.4%的位置然后再去bid1上挂一个超大额单，把这种王八MM给下一跳》让他们抬价格正好hit到你之前挂的limit价格",
-      "content": "现在最JB烦的就是那种跑订单簿预测类型的MM：<br>他们会检测币安合约上的bid变动 》如果你在一个超小市值的币上挂一个大金额单在bid1》他们会立马把价格推高1-2%》迫使你以更高的价格重新挂单去尝试成交<br><br>不过这种王八也有利用价值：当你要退出一个小市值币的仓位的时候，你可以先挂高在当前价格的0.3-0.4%的位置<br>然后再去bid1上挂一个超大额单，把这种王八MM给下一跳》让他们抬价格正好hit到你之前挂的limit价格",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "187",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "104",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "40",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "1",
           "isPaid": false
         }
       ]
