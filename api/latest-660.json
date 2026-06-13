@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "26",
+      "title": "今日份买了两个新币 $AERGO 和 $PIVX ",
+      "type": "text",
+      "datetime": "2023-12-02T12:35:38+00:00",
+      "tags": [],
+      "text": "今日份买了两个新币 $AERGO 和 $PIVX 。以下是各自买的原因：$AERGO 是韩国概念，项目就无功无过。但是其同时上了upbit和Binance。而且在Upbit拥有韩元交易对，日交易量5000w美金，而在币安今天的交易量只有200万。看k线最近也在上升趋势里（这部分我很业余），目前社交媒体的讨论还很少。$PIVX 是群友土豆老师的分享。3500万的市值，今天有1100万的换手。换手充分，我买的时候发现上面的卖单很稀薄，买1w美金可以拉2个点。布局一点～",
+      "content": "今日份买了两个新币 $AERGO 和 $PIVX 。<br>以下是各自买的原因：<br><br>$AERGO 是韩国概念，项目就无功无过。但是其同时上了upbit和Binance。而且在Upbit拥有韩元交易对，日交易量5000w美金，而在币安今天的交易量只有200万。<br>看k线最近也在上升趋势里（这部分我很业余），目前社交媒体的讨论还很少。<br><br>$PIVX 是群友土豆老师的分享。3500万的市值，今天有1100万的换手。换手充分，我买的时候发现上面的卖单很稀薄，买1w美金可以拉2个点。布局一点～",
+      "reactions": []
+    },
     {
       "id": "25",
       "title": "Meson挖矿新风险提示：说一个关于meson 挖矿我今天发现的问题，因为昨天官网写着meson reward 所以我认为我挖出来的是msn测试币",

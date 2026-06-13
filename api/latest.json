@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "713",
+      "title": "恭喜我们度过了6月的第二周，在月初的风险事件排名里，我认为并不重要的非农给市场好好上了一课",
+      "type": "text",
+      "datetime": "2026-06-13T07:42:04+00:00",
+      "tags": [],
+      "text": "恭喜我们度过了6月的第二周，在月初的风险事件排名里，我认为并不重要的非农给市场好好上了一课。虽然在第n次达成协议的边缘市场给了一些反弹，但是可以明确感到目前资金还是非常犹豫。下周的fomc和四巫日，以及美光 $MU 的财报，才是市场真正要迎接的大考时间。我目前策略是不加杠杆，不追高。跌到心理价位就分批加仓。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/703\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">都说sell in May and walk away，6月2日了，我还是满仓，还是每天疯狂学习AI。依旧看好AI的未来和我的账户的未来。  但是也确实担心6月整体市场会有什么不利因素，因此在月初来梳理一下这个月的风险因子。  <i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>6月5日，【美国5月失业率】<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>非农 前值：4.30% 预期：4.30%   <i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>6月10日，【5月CPI年率】  <i class=\"emoji\" style=\"background-image:url('/static/6b280f1f7623a712029e47a7b87b7d7d.png')\"><b>3️⃣</b></i>6月12日，SpaceX 上市。  <i class=\"emoji\" style=\"background-image:url('/static/a39682d142b6581a64cd520df5e70081.png')\"><b>🌟</b></i><i class=\"emoji\" style=\"background-image:url('/static/bcd46baf053909529ab2cbbfc696ceea.png')\"><b>4️⃣</b></i>6月16-17日 换主席后的第一次FOMC利率决议，将同步更新2026-2027年利率路径预测   <i class=\"emoji\" style=\"background-image:url('/static/a39682d142b6581a64cd520df5e70081.png')\"><b>🌟</b></i><i class=\"emoji\" style=\"background-image:url('/static/b0b0f090d150b09ba131671558e2ac5e.png')\"><b>5️⃣</b></i>6月18日/19日，四巫日…</div>\n</small></blockquote></a>恭喜我们度过了6月的第二周，在月初的风险事件排名里，我认为并不重要的非农给市场好好上了一课。<br><br>虽然在第n次达成协议的边缘市场给了一些反弹，但是可以明确感到目前资金还是非常犹豫。<br><br>下周的fomc和四巫日，以及美光 $MU 的财报，才是市场真正要迎接的大考时间。<br><br>我目前策略是不加杠杆，不追高。跌到心理价位就分批加仓。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "712",
       "title": "看了 $LITE CEO的发言有一个观点非常赞同：重要的不是NPO或者CPO，而是全面光互连",
@@ -350,22 +371,6 @@
         {
           "emoji": "👍",
           "count": "16",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "693",
-      "title": "call back 一下我的HYPE",
-      "type": "text",
-      "datetime": "2026-05-15T09:09:12+00:00",
-      "tags": [],
-      "text": "call back 一下我的HYPE",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/567\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。 交易的需求是不变的，不管施加交易命令的是人或者是AI agent。</div>\n</small></blockquote></a>call back 一下我的HYPE",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 25,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-460.json"
   },
   "data": [
+    {
+      "id": "218",
+      "title": "拿著BNB 穩穩的幸福BN最近感覺賭場重新開張了~",
+      "type": "text",
+      "datetime": "2024-08-18T03:26:47+00:00",
+      "tags": [],
+      "text": "拿著BNB 穩穩的幸福BN最近感覺賭場重新開張了~",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/206\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了点BNB CZ回归在即，加上最近的价格也还可以</div>\n</small></blockquote></a>拿著BNB 穩穩的幸福<br>BN最近感覺賭場重新開張了~",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "11",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "217",
       "title": "8月的下半年展望出炉，代表此时此刻我的想法",
@@ -397,22 +413,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "196",
-      "title": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
-      "type": "text",
-      "datetime": "2024-08-04T14:21:46+00:00",
-      "tags": [],
-      "text": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
-      "content": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
           "isPaid": false
         }
       ]

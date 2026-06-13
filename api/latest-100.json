@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "612",
+      "title": "没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了",
+      "type": "text",
+      "datetime": "2026-04-12T13:53:03+00:00",
+      "tags": [],
+      "text": "没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/606\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">昨天已经卖了部分这次抄底的仓位，主要还是基于对于“停火协议”这件事情执行度的不确信。  就像在之前很多次分享中我的观点：战争一旦超出预计时间（最初设定的4-6周），战争对于不同方的意义就变得不同。美国有最大的动力去停止战争，而以色列和伊朗却可能并非如此。  这也是我之前会说 “就怕这次Taco了，也停不下来。”  但是美股其实需要的很多时候，也就是一个信号罢了。需要总统告诉大家，他想要停下，想要退出这场不该开始的战争。  但是这一切和“事实停战”是不同的，“停火协议”也不等于霍尔木兹海峡重新开放，不等于石油和LNG的运量恢复到战前。…</div>\n</small></blockquote></a>没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了。",
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "611",
       "title": "真牛，美国也开始封锁霍尔木兹海峡",
@@ -324,16 +340,6 @@
       "tags": [],
       "text": "",
       "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-593-0\" popovertargetaction=\"show\">\n        <img src=\"/static/53981d0ab41adaf626966b721f7aea26.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-593-0\" popovertarget=\"modal-593-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/53981d0ab41adaf626966b721f7aea26.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": []
-    },
-    {
-      "id": "592",
-      "title": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探",
-      "type": "text",
-      "datetime": "2026-03-30T03:06:23+00:00",
-      "tags": [],
-      "text": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探。”是的，最近32GB DDR5-6000MHz 的价格已经从接近450美金下跌到了 $370–$380 左右。有人说这才是 $MU $SDNK 等内存股回调的本质原因，而不仅仅是谷歌的论文。美光现在超过一半收入来自 DRAM，而 DRAM 里 DDR5/LPDDR5 已经是主力代际，服务器端几乎全面 DDR5 化，因此 DDR5 跌价会直接打到营收和毛利率，是一条“主线产品”的 ASP 压力。大家担心的是每次血洗内存的“周期”又要席卷而来。但是有一点和以往不同的是，这次推动内存荒的需求来自“AI+数据中心”。换句话说：如果跌的是“PC/消费级 DDR5 为主”的那一块，而“AI 服务器 DDR5 + HBM”依然长期供不应求、美光有议价权，那么公司整体 ROE 和现金流仍能被拖住。",
-      "content": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探。”<br><br>是的，最近32GB DDR5-6000MHz 的价格已经从接近450美金下跌到了 $370–$380 左右。<br><br>有人说这才是 $MU $SDNK 等内存股回调的本质原因，而不仅仅是谷歌的论文。<br><br>美光现在超过一半收入来自 DRAM，而 DRAM 里 DDR5/LPDDR5 已经是主力代际，服务器端几乎全面 DDR5 化，因此 DDR5 跌价会直接打到营收和毛利率，是一条“主线产品”的 ASP 压力。<br><br>大家担心的是每次血洗内存的“周期”又要席卷而来。<br><br>但是有一点和以往不同的是，这次推动内存荒的需求来自“AI+数据中心”。<br><br>换句话说：<br>如果跌的是“PC/消费级 DDR5 为主”的那一块，而“AI 服务器 DDR5 + HBM”依然长期供不应求、美光有议价权，那么公司整体 ROE 和现金流仍能被拖住。",
       "reactions": []
     }
   ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "592",
+      "title": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探",
+      "type": "text",
+      "datetime": "2026-03-30T03:06:23+00:00",
+      "tags": [],
+      "text": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探。”是的，最近32GB DDR5-6000MHz 的价格已经从接近450美金下跌到了 $370–$380 左右。有人说这才是 $MU $SDNK 等内存股回调的本质原因，而不仅仅是谷歌的论文。美光现在超过一半收入来自 DRAM，而 DRAM 里 DDR5/LPDDR5 已经是主力代际，服务器端几乎全面 DDR5 化，因此 DDR5 跌价会直接打到营收和毛利率，是一条“主线产品”的 ASP 压力。大家担心的是每次血洗内存的“周期”又要席卷而来。但是有一点和以往不同的是，这次推动内存荒的需求来自“AI+数据中心”。换句话说：如果跌的是“PC/消费级 DDR5 为主”的那一块，而“AI 服务器 DDR5 + HBM”依然长期供不应求、美光有议价权，那么公司整体 ROE 和现金流仍能被拖住。",
+      "content": "今天日报里有关于内存的一条新闻值得关注：“国内 DDR5 内存价格已开始下探。”<br><br>是的，最近32GB DDR5-6000MHz 的价格已经从接近450美金下跌到了 $370–$380 左右。<br><br>有人说这才是 $MU $SDNK 等内存股回调的本质原因，而不仅仅是谷歌的论文。<br><br>美光现在超过一半收入来自 DRAM，而 DRAM 里 DDR5/LPDDR5 已经是主力代际，服务器端几乎全面 DDR5 化，因此 DDR5 跌价会直接打到营收和毛利率，是一条“主线产品”的 ASP 压力。<br><br>大家担心的是每次血洗内存的“周期”又要席卷而来。<br><br>但是有一点和以往不同的是，这次推动内存荒的需求来自“AI+数据中心”。<br><br>换句话说：<br>如果跌的是“PC/消费级 DDR5 为主”的那一块，而“AI 服务器 DDR5 + HBM”依然长期供不应求、美光有议价权，那么公司整体 ROE 和现金流仍能被拖住。",
+      "reactions": []
+    },
     {
       "id": "591",
       "title": "【Fiona的日报频道】  2026-03-30——宏观新闻——1️⃣🌟周末 美国和以色列轰炸了伊朗的电厂、钢厂，作为回应，伊朗袭击了阿联酋和巴林的铝厂，导致全球铝产能受损，中东铝产能占全球9%，欧洲30%的铝进口来自中东",
@@ -353,16 +363,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "570",
-      "title": "",
-      "type": "text",
-      "datetime": "2026-03-12T12:13:53+00:00",
-      "tags": [],
-      "text": "https://x.com/HyperliquidX/status/2031994448444531053?s=20",
-      "content": "<a href=\"https://x.com/HyperliquidX/status/2031994448444531053?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/HyperliquidX/status/2031994448444531053?s=20\">https://x.com/HyperliquidX/status/2031994448444531053?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/HyperliquidX/status/2031994448444531053?s=20\" target=\"_blank\" rel=\"noopener\" title=\"Over the past 2 weeks, RWA trading on Hyperliquid has repeatedly broken records, surpassing $1.3B in open interest and $1.4B in weekend volume.When traditional markets are closed, Hyperliquid is the premier venue for 24/7 price discovery on oil, metals…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/fbfb61971cb71f6d2b39494bfc637bdb.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Hyperliquid (@HyperliquidX) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Over the past 2 weeks, RWA trading on Hyperliquid has repeatedly broken records, surpassing $1.3B in open interest and $1.4B in weekend volume.<br><br>When traditional markets are closed, Hyperliquid is the premier venue for 24/7 price discovery on oil, metals…</div>\n</a>",
-      "reactions": []
     }
   ]
 }

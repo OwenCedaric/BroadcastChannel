@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "529",
+      "title": "美股减仓了一些 准备过年🧨",
+      "type": "text",
+      "datetime": "2026-02-03T14:51:28+00:00",
+      "tags": [],
+      "text": "美股减仓了一些 准备过年🧨",
+      "content": "美股减仓了一些 准备过年<i class=\"emoji\"><b>🧨</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "20",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "528",
       "title": "The 10-year Treasury Inflation-Protected Securities (TIPS) yield has been trending upward recently, reflecting market concerns over persistent inflation and Federal Reserve policy shifts under the incoming Chair Kevin Warsh. As of February 2, 2026, the yield rose to 1.95%.资金成本上升，市场流动性收紧",
@@ -393,27 +409,6 @@
         {
           "emoji": "👍",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "509",
-      "title": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有",
-      "type": "text",
-      "datetime": "2026-01-23T01:17:30+00:00",
-      "tags": [],
-      "text": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有。昨晚又加了一些spy put，伊朗局势又有升级迹象，对冲部分风险。",
-      "content": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有。昨晚又加了一些spy put，伊朗局势又有升级迹象，对冲部分风险。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 679,
+    "totalPosts": 680,
     "totalPages": 34,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "653",
+      "title": "WTI原油向上触及102美元/桶，创4月13日以来新高",
+      "type": "text",
+      "datetime": "2026-04-28T11:20:15+00:00",
+      "tags": [],
+      "text": "WTI原油向上触及102美元/桶，创4月13日以来新高。布伦特原油现报104.27美元/桶，涨2.37%。黄金失守4600。美股盘前下跌，战争因子叠加财报和Fomc 。",
+      "content": "WTI原油向上触及102美元/桶，创4月13日以来新高。布伦特原油现报104.27美元/桶，涨2.37%。黄金失守4600。<br><br>美股盘前下跌，战争因子叠加财报和Fomc 。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "651",
       "title": "特朗普利用战时权力，签署了五份总统备忘录，依据1950年的《国防生产法》第 303 条，“宣布能源和电力基础设施是国家安全优先项目，可以动用联邦资金、担保、甚至保证收购，来加速关键设备的生产和部署",
@@ -359,16 +375,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "632",
-      "title": "",
-      "type": "text",
-      "datetime": "2026-04-18T12:49:46+00:00",
-      "tags": [],
-      "text": "https://x.com/kobeissiletter/status/2045483864873652547?s=46",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/631\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">海事情报公司：伊朗革命卫队向试图穿越霍尔木兹海峡的油轮开火  两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。伊朗方面尚未就此表态。</div>\n</small></blockquote></a><a href=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\">https://x.com/kobeissiletter/status/2045483864873652547?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\" target=\"_blank\" rel=\"noopener\" title=\"BREAKING: Iran’s military announces that they have closed the Strait of Hormuz again.There are now new reports of an oil tanker being struck near Oman.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/8d97805109ac7451a08da82c080d84fc.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">The Kobeissi Letter (@KobeissiLetter) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BREAKING: Iran’s military announces that they have closed the Strait of Hormuz again.<br><br>There are now new reports of an oil tanker being struck near Oman.</div>\n</a>",
-      "reactions": []
     }
   ]
 }
