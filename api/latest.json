@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 205,
+    "totalPosts": 206,
     "totalPages": 11,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,72 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "241",
+      "title": "平仓认输了，最终亏了6万多",
+      "type": "text",
+      "datetime": "2026-06-16T01:32:27+00:00",
+      "tags": [],
+      "text": "平仓认输了，最终亏了6万多。刚刚SpaceX一小时里跳涨了15%，已经证明了我的这笔赌博是错误的（它并不是软柿子，2T市值能在无新闻的情况下跳涨那么多，证明其流动性现在确实很低&在市场情绪好的情况下后面不确定会被squeeze成什么样）我依然觉得这公司被极度高估，只是我想找一个更好的时间窗口再考虑再执行此交易（潜在的好窗口是等员工手里的20%份额解锁）当前该收手了。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/240\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/03cf3bf34a23c64428ecfced9879bf21.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">柿子要找软的捏 裸空了点人类的未来，瞎jb赌博玩玩 计划持仓3-12个月，我内心最多可以接受在这笔交易承受10万美元的亏损  已套误跟</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-241-0\" popovertargetaction=\"show\">\n        <img src=\"/static/b6eeaa063022842069e06cf3126cf840.jpg\" alt=\"平仓认输了，最终亏了6万多\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-241-0\" popovertarget=\"modal-241-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/b6eeaa063022842069e06cf3126cf840.jpg\" alt=\"平仓认输了，最终亏了6万多\" loading=\"lazy\" />\n      </button>\n    </div>平仓认输了，最终亏了6万多。<br>刚刚SpaceX一小时里跳涨了15%，已经证明了我的这笔赌博是错误的（它并不是软柿子，2T市值能在无新闻的情况下跳涨那么多，证明其流动性现在确实很低&amp;在市场情绪好的情况下后面不确定会被squeeze成什么样）<br><br>我依然觉得这公司被极度高估，<br>只是我想找一个更好的时间窗口再考虑再执行此交易（潜在的好窗口是等员工手里的20%份额解锁）<br>当前该收手了。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "282",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "89",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "36",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "21",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "240",
       "title": "柿子要找软的捏裸空了点人类的未来，瞎jb赌博玩玩计划持仓3-12个月，我内心最多可以接受在这笔交易承受10万美元的亏损已套误跟",
@@ -1068,42 +1134,6 @@
         {
           "emoji": "🤯",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "214",
-      "title": "当时看到的时候脑子里蹦出两个想法：想法A，啥都不说，就等更便宜的价格再捡大便宜想法B，抄了然后说出来",
-      "type": "text",
-      "datetime": "2026-02-23T15:09:34+00:00",
-      "tags": [],
-      "text": "当时看到的时候脑子里蹦出两个想法：想法A，啥都不说，就等更便宜的价格再捡大便宜想法B，抄了然后说出来。选择执行B是因为我去和一群英文交易员们聊关于USD1，发现他们都很诧异，他们不知道为什么脱锚了，然后我和他们说是因为华人鲸鱼们因为EricTrump删了几条关于WLFI的推文而恐慌抛售。他们都很兴高采烈，希望华人鲸鱼多卖一些。所以我就选择了执行想法B，不想华人们单方面的因为信息差而被猎杀。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/212\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/2c40a1cce6470d31908305e60321591e.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">哪来的大傻春砸盘USD1呢？ - 欧美法系和中国完全不同，就算真的“有事”，那也不是直接抓人冻资产，而是和众多加密案一样的和监管机构拉扯 - USD1是完全合规的100%抵押资产，又不是算法稳定币  懒得打太多字了，喜欢有人送钱</div>\n</small></blockquote></a>当时看到的时候脑子里蹦出两个想法：<br>想法A，啥都不说，就等更便宜的价格再捡大便宜<br>想法B，抄了然后说出来。<br><br>选择执行B是因为我去和一群英文交易员们聊关于USD1，发现他们都很诧异，他们不知道为什么脱锚了，<br>然后我和他们说是因为华人鲸鱼们因为EricTrump删了几条关于WLFI的推文而恐慌抛售。<br>他们都很兴高采烈，希望华人鲸鱼多卖一些。<br><br>所以我就选择了执行想法B，不想华人们单方面的因为信息差而被猎杀。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "226",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "79",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "20",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "9",
           "isPaid": false
         }
       ]

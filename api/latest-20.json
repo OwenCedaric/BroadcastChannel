@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 205,
+    "totalPosts": 206,
     "totalPages": 11,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "214",
+      "title": "当时看到的时候脑子里蹦出两个想法：想法A，啥都不说，就等更便宜的价格再捡大便宜想法B，抄了然后说出来",
+      "type": "text",
+      "datetime": "2026-02-23T15:09:34+00:00",
+      "tags": [],
+      "text": "当时看到的时候脑子里蹦出两个想法：想法A，啥都不说，就等更便宜的价格再捡大便宜想法B，抄了然后说出来。选择执行B是因为我去和一群英文交易员们聊关于USD1，发现他们都很诧异，他们不知道为什么脱锚了，然后我和他们说是因为华人鲸鱼们因为EricTrump删了几条关于WLFI的推文而恐慌抛售。他们都很兴高采烈，希望华人鲸鱼多卖一些。所以我就选择了执行想法B，不想华人们单方面的因为信息差而被猎杀。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/212\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/2c40a1cce6470d31908305e60321591e.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">哪来的大傻春砸盘USD1呢？ - 欧美法系和中国完全不同，就算真的“有事”，那也不是直接抓人冻资产，而是和众多加密案一样的和监管机构拉扯 - USD1是完全合规的100%抵押资产，又不是算法稳定币  懒得打太多字了，喜欢有人送钱</div>\n</small></blockquote></a>当时看到的时候脑子里蹦出两个想法：<br>想法A，啥都不说，就等更便宜的价格再捡大便宜<br>想法B，抄了然后说出来。<br><br>选择执行B是因为我去和一群英文交易员们聊关于USD1，发现他们都很诧异，他们不知道为什么脱锚了，<br>然后我和他们说是因为华人鲸鱼们因为EricTrump删了几条关于WLFI的推文而恐慌抛售。<br>他们都很兴高采烈，希望华人鲸鱼多卖一些。<br><br>所以我就选择了执行想法B，不想华人们单方面的因为信息差而被猎杀。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "226",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "79",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "212",
       "title": "哪来的大傻春砸盘USD1呢？- 欧美法系和中国完全不同，就算真的“有事”，那也不是直接抓人冻资产，而是和众多加密案一样的和监管机构拉扯- USD1是完全合规的100%抵押资产，又不是算法稳定币懒得打太多字了，喜欢有人送钱哪来的大傻春砸盘USD1呢？- 欧美法系和中国完全不同，就算真的“有事”，那也不是直接抓人冻资产，而是和众多加密案一样的和监管机构拉扯- USD1是完全合规的100%抵押资产，又不是算法稳定币懒得打太多字了，喜欢有人送钱",
@@ -978,62 +1014,6 @@
         {
           "emoji": "👍",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "193",
-      "title": "没啥好怕的 这都是小场面",
-      "type": "text",
-      "datetime": "2026-02-05T21:06:58+00:00",
-      "tags": [],
-      "text": "没啥好怕的 这都是小场面",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-193-0\" popovertargetaction=\"show\">\n        <img src=\"/static/31d39e4ecc6ef7e41f1eec3476787188.jpg\" alt=\"没啥好怕的 这都是小场面\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-193-0\" popovertarget=\"modal-193-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/31d39e4ecc6ef7e41f1eec3476787188.jpg\" alt=\"没啥好怕的 这都是小场面\" loading=\"lazy\" />\n      </button>\n    </div>没啥好怕的 这都是小场面",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "112",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "1",
           "isPaid": false
         }
       ]

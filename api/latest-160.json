@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 205,
+    "totalPosts": 206,
     "totalPages": 11,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,47 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "61",
+      "title": "昨天做这批账户的时候，真已经很累很困了当时一个号只有1万U额度，但是我一想到做一个号=800-1000美元，就打起精神",
+      "type": "text",
+      "datetime": "2025-08-29T10:25:19+00:00",
+      "tags": [],
+      "text": "昨天做这批账户的时候，真已经很累很困了当时一个号只有1万U额度，但是我一想到做一个号=800-1000美元，就打起精神。结果今天下午币安把单号额度改成5万刀了，这样的话存一个号=4-5千刀利润，我把我120个号都塞满了人生中真的每隔一段时间就会随机发生一次“天上掉馅饼”的好事，但是等那个时刻来临时，你得撸起袖子加油干加油捡https://x.com/Vida_BWE/status/1961327381559611479",
+      "content": "昨天做这批账户的时候，真已经很累很困了<br>当时一个号只有1万U额度，但是我一想到做一个号=800-1000美元，就打起精神。<br>结果今天下午币安把单号额度改成5万刀了，这样的话存一个号=4-5千刀利润，我把我120个号都塞满了<br><br>人生中真的每隔一段时间就会随机发生一次“天上掉馅饼”的好事，但是等那个时刻来临时，你得撸起袖子加油干加油捡<br><br><a href=\"https://x.com/Vida_BWE/status/1961327381559611479\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Vida_BWE/status/1961327381559611479\">https://x.com/Vida_BWE/status/1961327381559611479</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "156",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "65",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "60",
       "title": "#黑化我现在一个很大的心理变化是：当我看到一个人愚笨时（比如相信WLFI会涨到10刀这种），我不会去教化他",
@@ -832,72 +873,6 @@
         {
           "emoji": "😢",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "36",
-      "title": "已退出这笔交易亏损6千美元😂",
-      "type": "text",
-      "datetime": "2025-06-05T15:59:34+00:00",
-      "tags": [],
-      "text": "已退出这笔交易亏损6千美元😂",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/34\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/ee017966fffaf1c289715ee76721b707.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">抱着投机的心态，我买入了美国股市里市值最小的top10股票（每只少量持仓，合计不到总资产 0.1%）。理由：最近一些加密机构去美股收购这种小市值公司，然后推出”公司的加密货币投资策略“，使驱动股价上涨。  ————————  我的判断极可能错误，因此我只投入了可承受亏损的金额。若完全归零也属于事先心理预期范围。  <i class=\"emoji\" style=\"background-image:url('/static/6567c2561de5544cd50aed7e4bbc373a.png')\"><b>👆</b></i>上述仅为本人描述自己的心理心态，记录自己的交易记录，而非推荐任何人购买，不构成财务建议</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-36-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f1738df2d1ff0e46aebd5c2ec782c40a.jpg\" alt=\"已退出这笔交易亏损6千美元😂\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-36-0\" popovertarget=\"modal-36-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f1738df2d1ff0e46aebd5c2ec782c40a.jpg\" alt=\"已退出这笔交易亏损6千美元😂\" loading=\"lazy\" />\n      </button>\n    </div>已退出这笔交易<br>亏损6千美元<i class=\"emoji\"><b>😂</b></i>",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "99",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "20",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "2",
           "isPaid": false
         }
       ]
