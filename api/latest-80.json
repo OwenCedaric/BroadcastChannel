@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 680,
-    "totalPages": 34,
+    "totalPosts": 681,
+    "totalPages": 35,
     "currentPage": 5,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "633",
+      "title": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议",
+      "type": "text",
+      "datetime": "2026-04-19T01:19:07+00:00",
+      "tags": [],
+      "text": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议。现在被盗的 $rsETH 流入了包括AaveV3, CompoundV3, Euler换出了大量的 $WETHs ，目前的金额已经超过2亿美金。孙哥也提出了他存在AAVE的53665个 $ETH",
+      "content": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议。现在被盗的 $rsETH 流入了包括AaveV3, CompoundV3, Euler换出了大量的 $WETHs ，目前的金额已经超过2亿美金。<br><br>孙哥也提出了他存在AAVE的53665个 $ETH",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "632",
       "title": "",
@@ -385,16 +401,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "613",
-      "title": "距离建仓 $MRVL 盈利37%，下跌期间也加仓了",
-      "type": "text",
-      "datetime": "2026-04-13T08:13:04+00:00",
-      "tags": [],
-      "text": "距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/563\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">仓位还是集中在内存和光通讯，因为韩股权重大，对能源价格敏感，所以还是谨慎持有中。 新增持有了 $MRVL 财报利好<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>这波下跌相对强势<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>GTC将近</div>\n</small></blockquote></a>距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
-      "reactions": []
     }
   ]
 }

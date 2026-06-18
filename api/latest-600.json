@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 680,
-    "totalPages": 34,
+    "totalPosts": 681,
+    "totalPages": 35,
     "currentPage": 31,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "95",
+      "title": "Pixel和Ron舒服了，今天买了一点MKR",
+      "type": "text",
+      "datetime": "2024-03-10T03:47:43+00:00",
+      "tags": [],
+      "text": "Pixel和Ron舒服了，今天买了一点MKR",
+      "content": "Pixel和Ron舒服了，今天买了一点MKR",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "94",
       "title": "",
@@ -356,22 +372,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "74",
-      "title": "今天想说说 $PIXEL 作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局",
-      "type": "text",
-      "datetime": "2024-02-09T05:29:46+00:00",
-      "tags": [],
-      "text": "今天想说说 $PIXEL 作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局。所以 $Pixel和 $Ron一定是这一轮周期，最应该大力参与的项目之一一。大约在去年7月，我开始玩Pixel这款游戏，虽然是个游戏白痴，但是我也可以清楚的感受到这款游戏的用心和精妙。之前认为 $Berry 会简单重复多数in-game token的路径，无限增发无限贬值。而Pixel团队直接取消了这一代币，我相信他们在下一盘更大的棋。我现在用berry兑换了大约20w个Pixel，我觉得应该兑换更多。从兑换的成本计算，一个Pixel的价格是0.23u左右，对应的MC大约是1.77亿美金，这并不低，但是相比较他的潜力和无限可能性而言，也绝对不高。Ronin更像 Pixel的基石，他养大了Pixel，也将孕育下一个惊人的游戏。So，dive in~ 参与这场游戏！",
-      "content": "今天想说说 $PIXEL <br>作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局。所以 $Pixel和 $Ron一定是这一轮周期，最应该大力参与的项目之一一。<br><br>大约在去年7月，我开始玩Pixel这款游戏，虽然是个游戏白痴，但是我也可以清楚的感受到这款游戏的用心和精妙。之前认为 $Berry 会简单重复多数in-game token的路径，无限增发无限贬值。而Pixel团队直接取消了这一代币，我相信他们在下一盘更大的棋。<br><br>我现在用berry兑换了大约20w个Pixel，我觉得应该兑换更多。从兑换的成本计算，一个Pixel的价格是0.23u左右，对应的MC大约是1.77亿美金，这并不低，但是相比较他的潜力和无限可能性而言，也绝对不高。Ronin更像 Pixel的基石，他养大了Pixel，也将孕育下一个惊人的游戏。So，dive in~ 参与这场游戏！",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
           "isPaid": false
         }
       ]
