@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 681,
+    "totalPosts": 682,
     "totalPages": 35,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "447",
+      "title": "关于circle $CRCL 客观说，他真的让我想起了之前的Coinbase，同样的IPO后冲高，腰斩再腰斩",
+      "type": "text",
+      "datetime": "2025-11-29T07:15:37+00:00",
+      "tags": [],
+      "text": "关于circle $CRCL 客观说，他真的让我想起了之前的Coinbase，同样的IPO后冲高，腰斩再腰斩。同样的美国合规护城河和有力的市场竞争对手共存。既看到眼下无数亟待解决的问题，也相信未来的星辰大海。问题只是买入的价格和持有的周期。多少买的下手？又能拿住多久？",
+      "content": "关于circle $CRCL <br>客观说，他真的让我想起了之前的Coinbase，同样的IPO后冲高，腰斩再腰斩。<br>同样的美国合规护城河和有力的市场竞争对手共存。<br><br>既看到眼下无数亟待解决的问题，也相信未来的星辰大海。<br>问题只是买入的价格和持有的周期。多少买的下手？又能拿住多久？",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "26",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "446",
       "title": "休息结束🔚",
@@ -452,27 +468,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "426",
-      "title": "铜选股～看多铜价",
-      "type": "text",
-      "datetime": "2025-10-07T14:18:38+00:00",
-      "tags": [],
-      "text": "铜选股～看多铜价",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-426-0\" popovertargetaction=\"show\">\n        <img src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-426-0\" popovertarget=\"modal-426-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n    </div>铜选股～看多铜价",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "4",
           "isPaid": false
         }
       ]

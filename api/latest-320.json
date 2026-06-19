@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 681,
+    "totalPosts": 682,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "384",
+      "title": "highlight 防御",
+      "type": "text",
+      "datetime": "2025-09-11T13:17:39+00:00",
+      "tags": [],
+      "text": "highlight 防御",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/383\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">现在还有的仓位 BTC ETH SOL HYPE 防御时间</div>\n</small></blockquote></a>highlight 防御",
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "383",
       "title": "现在还有的仓位 BTC ETH SOL HYPE 防御时间",
@@ -408,27 +444,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "364",
-      "title": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近",
-      "type": "text",
-      "datetime": "2025-08-22T05:17:37+00:00",
-      "tags": [],
-      "text": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
-      "content": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 681,
+    "totalPosts": 682,
     "totalPages": 35,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "695",
+      "title": "今天是英伟达财报日，盘后公布",
+      "type": "text",
+      "datetime": "2026-05-20T02:18:53+00:00",
+      "tags": [],
+      "text": "今天是英伟达财报日，盘后公布。但也别忘了和你的爱人说一句 “520快乐”❤️Love those who love you, and may you always be loved.",
+      "content": "今天是英伟达财报日，盘后公布。<br><br>但也别忘了和你的爱人说一句 “520快乐”<i class=\"emoji\"><b>❤️</b></i><br><br>Love those who love you, and may you always be loved.",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "694",
       "title": "过去半年，我重仓过这些票：$MU $INTC $RKLB $SKHYNIX $GOOG $NVDA $COHR $LITE 不是多数跟风的马后炮，在AI存储生态还没被大多数人讲烂之前，我就在看内存、看HBM、看CPU、看光互联",
@@ -387,24 +408,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "675",
-      "title": "不知不觉，过去2周写了很多关于Google #TPU 的文章，既有技术干货也有商业思考，整理TPU系列文章如下1️⃣谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络",
-      "type": "text",
-      "datetime": "2026-05-04T03:51:56+00:00",
-      "tags": [
-        "TPU"
-      ],
-      "text": "不知不觉，过去2周写了很多关于Google #TPU 的文章，既有技术干货也有商业思考，整理TPU系列文章如下1️⃣谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络。https://x.com/nft_hu/status/2047656097948065892?s=202️⃣300万片TPU背后的产业链：https://x.com/nft_hu/status/2050935449653485779?s=20https://x.com/nft_hu/status/2047661338680340923?s=203️⃣为了适应模型发展，第八代TPU设计中，谷歌的软硬件和网络解决方案：https://x.com/nft_hu/status/2051144981587579022?s=204️⃣Anthropic 订购TPU，他和谷歌的股权投资历史https://x.com/nft_hu/status/2049034246191493239?s=205️⃣Google TPU 8t和英伟达GB300机架级性能对比https://x.com/nft_hu/status/2047657781944349125?s=206️⃣TPU封装https://x.com/nft_hu/status/2050150704137093503?s=207️⃣TPU对英伟达的冲击https://x.com/nft_hu/status/2050085265201570207?s=208️⃣TPU对谷歌财报未来贡献https://x.com/nft_hu/status/2049593747869229252?s=20",
-      "content": "不知不觉，过去2周写了很多关于Google <a href=\"/search/%23TPU\" title=\"#TPU\">#TPU</a> 的文章，既有技术干货也有商业思考，整理TPU系列文章如下<br><br><i class=\"emoji\"><b>1️⃣</b></i>谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络。<br><a href=\"https://x.com/nft_hu/status/2047656097948065892?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047656097948065892?s=20\">https://x.com/nft_hu/status/2047656097948065892?s=20</a><br><br><i class=\"emoji\"><b>2️⃣</b></i>300万片TPU背后的产业链：<br><a href=\"https://x.com/nft_hu/status/2050935449653485779?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050935449653485779?s=20\">https://x.com/nft_hu/status/2050935449653485779?s=20</a><br><a href=\"https://x.com/nft_hu/status/2047661338680340923?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047661338680340923?s=20\">https://x.com/nft_hu/status/2047661338680340923?s=20</a><br><br><i class=\"emoji\"><b>3️⃣</b></i>为了适应模型发展，第八代TPU设计中，谷歌的软硬件和网络解决方案：<br><a href=\"https://x.com/nft_hu/status/2051144981587579022?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2051144981587579022?s=20\">https://x.com/nft_hu/status/2051144981587579022?s=20</a><br><br><i class=\"emoji\"><b>4️⃣</b></i>Anthropic 订购TPU，他和谷歌的股权投资历史<br><a href=\"https://x.com/nft_hu/status/2049034246191493239?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049034246191493239?s=20\">https://x.com/nft_hu/status/2049034246191493239?s=20</a><br><i class=\"emoji\"><b>5️⃣</b></i>Google TPU 8t和英伟达GB300机架级性能对比<br><a href=\"https://x.com/nft_hu/status/2047657781944349125?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047657781944349125?s=20\">https://x.com/nft_hu/status/2047657781944349125?s=20</a><br><i class=\"emoji\"><b>6️⃣</b></i>TPU封装<br><a href=\"https://x.com/nft_hu/status/2050150704137093503?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050150704137093503?s=20\">https://x.com/nft_hu/status/2050150704137093503?s=20</a><br><i class=\"emoji\"><b>7️⃣</b></i>TPU对英伟达的冲击<br><a href=\"https://x.com/nft_hu/status/2050085265201570207?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050085265201570207?s=20\">https://x.com/nft_hu/status/2050085265201570207?s=20</a><br><i class=\"emoji\"><b>8️⃣</b></i>TPU对谷歌财报未来贡献<br><a href=\"https://x.com/nft_hu/status/2049593747869229252?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049593747869229252?s=20\">https://x.com/nft_hu/status/2049593747869229252?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2047656097948065892?s=20\" target=\"_blank\" rel=\"noopener\" title=\"最近 Google 有两项重要产品更新，分别是 专用于训练的TPU 8t芯片以及Virgo 网络。此前已经介绍过TPU芯片，是是 Google 自研的 AI 芯片，专门为矩阵运算和深度学习优化，是 Nvidia GPU 的直接竞争对手。这次Google推出的TPU芯片对此做了进一步的分工：TPU 8t（t = training，训练专用）TPU 8i（i\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbb27e5259b2e52ea7071b966c782c12.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">最近 Google 有两项重要产品更新，分别是 专用于训练的TPU 8t芯片以及Virgo 网络。<br><br>此前已经介绍过TPU芯片，是是 Google 自研的 AI 芯片，专门为矩阵运算和深度学习优化，是 Nvidia GPU 的直接竞争对手。<br><br>这次Google推出的TPU芯片对此做了进一步的分工：<br>TPU 8t（t = training，训练专用）<br>TPU 8i（i</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
           "isPaid": false
         }
       ]

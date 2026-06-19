@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 681,
+    "totalPosts": 682,
     "totalPages": 35,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "303",
+      "title": "hello 大家好久不见",
+      "type": "text",
+      "datetime": "2025-03-25T06:49:28+00:00",
+      "tags": [],
+      "text": "hello 大家好久不见。久违的打开了TG，发现真的真的很久没聊了。其实消失很久也代表了我的看法，对后市不那么看好。唯一的行情：meme还是有比较感人的波动，波动代表机会，有人亏钱，有人赚钱，但是这对于我的吸引力有限。现在处于半退圈状态，最近对于港股和机器人概念比较感兴趣。加密的仓位只剩下BTC了，5成仓。加密对我而言只有BTC有长期价值，在港股重新建立起一定的仓位。",
+      "content": "hello 大家好久不见。久违的打开了TG，发现真的真的很久没聊了。<br>其实消失很久也代表了我的看法，对后市不那么看好。<br>唯一的行情：meme还是有比较感人的波动，波动代表机会，有人亏钱，有人赚钱，但是这对于我的吸引力有限。<br>现在处于半退圈状态，最近对于港股和机器人概念比较感兴趣。<br>加密的仓位只剩下BTC了，5成仓。加密对我而言只有BTC有长期价值，在港股重新建立起一定的仓位。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "55",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "23",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "302",
       "title": "眨眼2025年也已经3月了，大家过的还好么？过去3个月唯一庆幸的就是自己管住了手，没有乱操作，好好躺平",
@@ -513,32 +534,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "283",
-      "title": "开始回调了",
-      "type": "text",
-      "datetime": "2024-09-30T02:09:58+00:00",
-      "tags": [],
-      "text": "开始回调了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/281\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又卖了一些</div>\n</small></blockquote></a>开始回调了",
-      "reactions": [
-        {
-          "emoji": "🥰",
-          "count": "39",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙊",
-          "count": "3",
           "isPaid": false
         }
       ]

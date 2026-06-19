@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 681,
+    "totalPosts": 682,
     "totalPages": 35,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "426",
+      "title": "铜选股～看多铜价",
+      "type": "text",
+      "datetime": "2025-10-07T14:18:38+00:00",
+      "tags": [],
+      "text": "铜选股～看多铜价",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-426-0\" popovertargetaction=\"show\">\n        <img src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-426-0\" popovertarget=\"modal-426-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n    </div>铜选股～看多铜价",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "425",
       "title": "MNT冲刺继续",
@@ -402,22 +423,6 @@
         {
           "emoji": "🤮",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "405",
-      "title": "周六买了点 $WLFI k线走势+回购消息，仓位不大",
-      "type": "text",
-      "datetime": "2025-09-21T06:59:59+00:00",
-      "tags": [],
-      "text": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
-      "content": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
           "isPaid": false
         }
       ]
