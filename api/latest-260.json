@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 682,
+    "totalPosts": 683,
     "totalPages": 35,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "449",
+      "title": "Circle能不够讲好这个故事其实有两个前提：1️⃣稳定币的故事边际在哪里？如何把这个市场的想象力打开？2️⃣作为目前万年老二的circle，如何保住自己的老二地位，并且赚钱",
+      "type": "text",
+      "datetime": "2025-11-29T09:39:08+00:00",
+      "tags": [],
+      "text": "Circle能不够讲好这个故事其实有两个前提：1️⃣稳定币的故事边际在哪里？如何把这个市场的想象力打开？2️⃣作为目前万年老二的circle，如何保住自己的老二地位，并且赚钱。这里说的赚钱是提高自己的利润率，现在各种渠道推广费用太高，算下来，circle净利润率实在太低了。我不认为稳定币只是加密货币的故事，我觉得他更应该是金融范式变革、AI交易兴起的受惠者和核心参与者。前阵子看到一篇文章，里面提到随着“代理式商业”（agentic commerce）的兴起，AI开发者对稳定币青睐有加。“他们喜欢稳定币。为什么？因为它是一种编程语言，非常简单……对程序员和开发者非常友好。”这可能使稳定币成为未来自动化经济系统中的首选货币形式。饼可以很大，但是现在需要给大家看到的是如何一步步落地的苗头和希望",
+      "content": "Circle能不够讲好这个故事其实有两个前提：<br><i class=\"emoji\"><b>1️⃣</b></i>稳定币的故事边际在哪里？如何把这个市场的想象力打开？<br><i class=\"emoji\"><b>2️⃣</b></i>作为目前万年老二的circle，如何保住自己的老二地位，并且赚钱。这里说的赚钱是提高自己的利润率，现在各种渠道推广费用太高，算下来，circle净利润率实在太低了。<br><br>我不认为稳定币只是加密货币的故事，我觉得他更应该是金融范式变革、AI交易兴起的受惠者和核心参与者。<br><br>前阵子看到一篇文章，里面提到随着“代理式商业”（agentic commerce）的兴起，AI开发者对稳定币青睐有加。<br>“他们喜欢稳定币。为什么？因为它是一种编程语言，非常简单……对程序员和开发者非常友好。”这可能使稳定币成为未来自动化经济系统中的首选货币形式。<br><br>饼可以很大，但是现在需要给大家看到的是如何一步步落地的苗头和希望",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "447",
       "title": "关于circle $CRCL 客观说，他真的让我想起了之前的Coinbase，同样的IPO后冲高，腰斩再腰斩",
@@ -447,27 +468,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "427",
-      "title": "表扬一下 紫金黄金，随着黄金突破4000，他的股价也是一冲不回头",
-      "type": "text",
-      "datetime": "2025-10-08T03:38:47+00:00",
-      "tags": [],
-      "text": "表扬一下 紫金黄金，随着黄金突破4000，他的股价也是一冲不回头",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-427-0\" popovertargetaction=\"show\">\n        <img src=\"/static/92b3aebd90c46ce5090ad215a472ade7.jpg\" alt=\"表扬一下 紫金黄金，随着黄金突破4000，他的股价也是一冲不回头\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-427-0\" popovertarget=\"modal-427-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/92b3aebd90c46ce5090ad215a472ade7.jpg\" alt=\"表扬一下 紫金黄金，随着黄金突破4000，他的股价也是一冲不回头\" loading=\"lazy\" />\n      </button>\n    </div>表扬一下 紫金黄金，随着黄金突破4000，他的股价也是一冲不回头",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

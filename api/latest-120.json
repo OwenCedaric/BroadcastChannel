@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 682,
+    "totalPosts": 683,
     "totalPages": 35,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "595",
+      "title": "市场总是在最好到最差之间横跳",
+      "type": "text",
+      "datetime": "2026-04-01T01:37:48+00:00",
+      "tags": [],
+      "text": "市场总是在最好到最差之间横跳。最近无论是股市的表现，亦或是对内存股的态度似乎都证明了这一点。让我想起很久之前看过的一张图，股票的基本面是不变的，但是价格却随着市场情绪的变化反复横跳。最近内存股跌的很惨，很多贴文开始说内存是一场骗局，和很多盘子/meme一样。我觉得这种说法很可笑。以美光为例，最新一季的财报收入是238亿美金。SK和三星的单季收入也达到了200-300+亿美金。这是真金白银，世界上能在一个季度赚这么多钱的公司屈指可数。这也是骗局？也是meme？跌下来或许就是原罪。内存的需求是真的，周期是存在的，但是这一轮的周期驱动力已经从曾经的消费电子更多转移到了企业级数据中心AI需求。当然这个需求也是有周期的。只是我们可以从各家的Capex看到，周期还是疯狂投入的增长期。更多的担忧反而是对AI，各家现金流的压缩，战争对于市场的扰动，油价的巨幅波动，中东资金的撤出。但我还是下注未来，如果AI是真的，AI是蓬勃的未来，那我仍相信今年的内存股。个人决策，非投资建议。",
+      "content": "市场总是在最好到最差之间横跳。最近无论是股市的表现，亦或是对内存股的态度似乎都证明了这一点。让我想起很久之前看过的一张图，股票的基本面是不变的，但是价格却随着市场情绪的变化反复横跳。<br><br>最近内存股跌的很惨，很多贴文开始说内存是一场骗局，和很多盘子/meme一样。我觉得这种说法很可笑。以美光为例，最新一季的财报收入是238亿美金。SK和三星的单季收入也达到了200-300+亿美金。这是真金白银，世界上能在一个季度赚这么多钱的公司屈指可数。这也是骗局？也是meme？<br>跌下来或许就是原罪。<br><br>内存的需求是真的，周期是存在的，但是这一轮的周期驱动力已经从曾经的消费电子更多转移到了企业级数据中心AI需求。当然这个需求也是有周期的。只是我们可以从各家的Capex看到，周期还是疯狂投入的增长期。<br><br>更多的担忧反而是对AI，各家现金流的压缩，战争对于市场的扰动，油价的巨幅波动，中东资金的撤出。<br><br>但我还是下注未来，如果AI是真的，AI是蓬勃的未来，那我仍相信今年的内存股。个人决策，非投资建议。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "594",
       "title": "每次我觉得最痛苦的时刻，一般就是底部了",
@@ -352,16 +368,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "573",
-      "title": "Citrini Effect和 $HIMX 拥挤的光学交易也说明了市场欣欣向荣？但这是否已经是顶点了呢？$HIMX 会是下一个光学黑马么？“纳米压印光刻制造光纤阵列”是否会带领他走出旧周期，走进新时代呢？",
-      "type": "text",
-      "datetime": "2026-03-13T07:05:15+00:00",
-      "tags": [],
-      "text": "Citrini Effect和 $HIMX 拥挤的光学交易也说明了市场欣欣向荣？但这是否已经是顶点了呢？$HIMX 会是下一个光学黑马么？“纳米压印光刻制造光纤阵列”是否会带领他走出旧周期，走进新时代呢？https://hntrbrk.com/himax/",
-      "content": "Citrini Effect和 $HIMX <br>拥挤的光学交易也说明了市场欣欣向荣？但这是否已经是顶点了呢？<br>$HIMX 会是下一个光学黑马么？“纳米压印光刻制造光纤阵列”是否会带领他走出旧周期，走进新时代呢？<br><a href=\"https://hntrbrk.com/himax/\" target=\"_blank\" rel=\"noopener\" title=\"https://hntrbrk.com/himax/\">https://hntrbrk.com/himax/</a><a class=\"tgme_widget_message_link_preview\" href=\"https://hntrbrk.com/himax/\" target=\"_blank\" rel=\"noopener\" title=\"Clues indicate it may be supplying Apple's new smart glasses, too.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">HUNTERBROOK</div>\n  <img class=\"link_preview_image\" alt=\"Himax: Stealth Supplier for Nvidia's Optics Revolution\" src=\"/static/1687ceb08a5cf4e80982670a342fc9d8.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Himax: Stealth Supplier for Nvidia's Optics Revolution</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Clues indicate it may be supplying Apple's new smart glasses, too.</div>\n</a>",
-      "reactions": []
     }
   ]
 }

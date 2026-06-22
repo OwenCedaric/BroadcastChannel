@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 682,
+    "totalPosts": 683,
     "totalPages": 35,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "284",
+      "title": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下",
+      "type": "text",
+      "datetime": "2024-10-04T09:52:45+00:00",
+      "tags": [],
+      "text": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。欢迎使用我的邀请链接：https://testnet.humanity.org/login?ref=fionact关于项目的介绍可以看：https://x.com/nft_hu/status/1760078920387621263?lang=enHumanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、",
+      "content": "对标 WLD 的一个掌纹识别项目：<br>主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。<br><br>欢迎使用我的邀请链接：<br><a href=\"https://testnet.humanity.org/login?ref=fionact\" target=\"_blank\" rel=\"noopener\" title=\"https://testnet.humanity.org/login?ref=fionact\">https://testnet.humanity.org/login?ref=fionact</a><br><br>关于项目的介绍可以看：<a href=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\">https://x.com/nft_hu/status/1760078920387621263?lang=en</a><br><br>Humanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、<a class=\"tgme_widget_message_link_preview\" href=\"https://testnet.humanity.org/login?ref=nasowilliam\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">app.humanity.org</div>\n  <img class=\"link_preview_image\" alt=\"Humanity Protocol\" src=\"/static/7b835a2fc3156bb74c317822ffef66fb.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Humanity Protocol</div>\n  \n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "283",
       "title": "开始回调了",
@@ -397,27 +418,6 @@
         {
           "emoji": "🤣",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "264",
-      "title": "早上好，今天市场反弹了一点",
-      "type": "text",
-      "datetime": "2024-09-10T01:05:23+00:00",
-      "tags": [],
-      "text": "早上好，今天市场反弹了一点。个人维持原判，单一上涨趋势还没有出现，上蹿下跳的猴市。不过我适当调高了抄底的价格，44000到52000阶梯式挂单。左侧的风险会大很多，所以也建议大家如果参考尽量现货。普通人还是更适合有出现单一趋势再右侧交易https://t.me/c/1848288130/107095",
-      "content": "早上好，今天市场反弹了一点。个人维持原判，单一上涨趋势还没有出现，上蹿下跳的猴市。<br><br>不过我适当调高了抄底的价格，44000到52000阶梯式挂单。左侧的风险会大很多，所以也建议大家如果参考尽量现货。<br><br>普通人还是更适合有出现单一趋势再右侧交易<a href=\"https://t.me/c/1848288130/107095\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/c/1848288130/107095\">https://t.me/c/1848288130/107095</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "4",
           "isPaid": false
         }
       ]
