@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 683,
+    "totalPosts": 684,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "386",
+      "title": "如我所料 加仓的钱还在路上，阿里股价已经一支青云箭",
+      "type": "text",
+      "datetime": "2025-09-12T01:20:37+00:00",
+      "tags": [],
+      "text": "如我所料 加仓的钱还在路上，阿里股价已经一支青云箭。盘面阿里非常强势，新动作频频。基本面有了芯片和高德扫街新动作。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/376\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">某种意义上，现在的阿里我仍然觉得属于低估。 买了，但是总觉得自己买少了。</div>\n</small></blockquote></a>如我所料 加仓的钱还在路上，阿里股价已经一支青云箭。盘面阿里非常强势，新动作频频。基本面有了芯片和高德扫街新动作。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "385",
       "title": "阿里阿里阿里巴巴 希望可以买更多！",
@@ -417,32 +433,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "366",
-      "title": "18.7买入SBET 重新建仓一点",
-      "type": "text",
-      "datetime": "2025-08-22T14:09:58+00:00",
-      "tags": [],
-      "text": "18.7买入SBET 重新建仓一点",
-      "content": "18.7买入SBET 重新建仓一点",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
           "count": "1",
           "isPaid": false
         },

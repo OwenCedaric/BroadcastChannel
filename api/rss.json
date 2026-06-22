@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/717",
+      "title": "这是我今年参加的讲最多话的一次访谈",
+      "description": "",
+      "date_published": "2026-06-22T12:52:43.000Z",
+      "tags": [],
+      "content_html": "这是我今年参加的讲最多话的一次访谈。真的很感谢 <br><a href=\"https://t.me/168MrZ\" target=\"_blank\" title=\"@168MrZ\">@168MrZ</a> 准备的所有问题和记录的文档。是对我过去6个月美股投资很完整的一份总结。<br><br>从为什么看好内存，偶然与必然，从交易日股的逻辑，对光互连未来的信心，以及功率半导体的最近，真的知无不言言无不尽了。<br><br>从如何建立我的投资逻辑，币圈的交易风格与美股的不同。会好好收藏这篇文章，也用来勉励和提醒自己。保持学习，保持思考，知行合一。<a href=\"https://x.com/168X_Fortune/status/2069027843015684315?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/168X_Fortune/status/2069027843015684315?s=20\">https://x.com/168X_Fortune/status/2069027843015684315?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/168X_Fortune/status/2069027843015684315?s=20\" target=\"_blank\" rel=\"noopener\" title=\"美日韩台 28 只持股，Fiona 如何押注 AI 下半场？从 MLCC、800V、光互连到存储\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4ef34f46960aab8d6078f11d2e0b122c.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">168X (@168X_Fortune) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">美日韩台 28 只持股，Fiona 如何押注 AI 下半场？从 MLCC、800V、光互连到存储</div>\n</a>"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/716",
       "title": "美光财报“数字共识”前瞻本周最大的关注点之一就是美光 $MU 的财报，看是否给已经如此火热的内存行情火上浇油？美光预定在 6 月 24 日公布 2026 财年Q3财报，华尔街一致预期营收约 343–344 亿美元、EPS 约 19.7 美元，同比分别暴增约 270% 与 900% 以上",
       "description": "",
@@ -397,14 +405,6 @@
       "date_published": "2026-05-01T05:31:32.000Z",
       "tags": [],
       "content_html": "我有个内部对冲仓位： $GOOG和 $NVDA，像是跷跷板的两端。昨晚，涨了Google就得跌英伟达。<br><br>背后的逻辑可能是：<b>Google在AI训练方面也正成为英伟达的有力挑战者。</b><br><br><b>那事实是这样么？回答只能给一个冷酷的YES！</b><br>————————————————————<br>事实上，英伟达的市场份额一直在缩减。<br><br>AI芯片分别有用在训练和推理上。<b>在训练领域，英伟达份额超过 90%；在推理领域，由于定制芯片和CPU的竞争，份额仅有 60–75%。</b> <br><br>但是今年以来有两个结构性转变同时出现了：<br><i class=\"emoji\"><b>1️⃣</b></i>推理需求大增，推理在数据中心收入中首次超过训练；<br><i class=\"emoji\"><b>2️⃣</b></i>Google的TPU在训练上被Anthropic采用，第一次有人在训练上对英伟达产生了可能的威胁。<br>————————————————————<br><i class=\"emoji\"><b>🧩</b></i>趋势背后的原因：<br>其实我们可以用更经济学的观点来拆解份额下降的原因。今天各家一直被诟病的CapEx其实很多还是花在了芯片上。<br><b>对于每年花500–1000亿美元购买AI基础设施的超大规模云厂商来说，哪怕把推理工作负载的20–30%迁移到自研芯片，每年就能节省数百亿美元。</b><br><br>这个经济账，正在驱动Google和亚马逊接受更慢的产品迭代周期，换取架构上的独立性。<br><br>——————————————————————<br><b>新趋势：ASIC定制芯片需求大增</b><br><br>TrendForce预测，2026年GPU类AI服务器将占出货量的 69.7%，而ASIC类服务器将上升至 27.8%。<br><br>事实上，从2025年底起，推理需求就以极快的速度增长。Agent时代的到来更是把“低延迟交互、更高灵活性、适配不同任务”的优先级大大提高。<br>Counterpoint Research做出预测，到2028年，定制芯片出货量将超过GPU，成为第一大AI服务器算力形态。他并不是唯一一个这么认为的。多家研究机构认为，<b>模型进入生产环境后，推理会成为生命周期成本的大头。<br></b><br>财报季的数据也证明了这一点：<br>Broadcom 的AI ASIC业务在单季度（FY2026 Q2）就达到 84亿美元，同比增长106%，且有730亿美元的订单积压可见度延伸至2027年中。 <br>——————————————————————<br>Google，Game Changer<br>更可怕的是，一个超强的对手 Google，也带着他的TPU芯片杀入了这场战争。<br><br>之前已经提了很多次，“Anthropic开始规模采用TPU”，这才是对 英伟达产生最大冲击的事件。<br><br>事实上除了GPU，<b>CUDA生态是英伟达最大的护城河。</b><br>英伟达向vLLM、Triton、SGLang等框架大量贡献优化代码，新兴的RL训练框架也率先在CUDA生态出现。 <br><br><b>但现在Anthropic跑在TPU上意味着：未来他们的优化经验、工程积累、底层调度都将沉淀在JAX/XLA体系里，而不是CUDA里。时间一长，不同AI公司会说不同的\"硬件方言\"。</b><br><br>TPU也在迅速迭代，并把训练/推理功能做了拆分。如果TPU在推理市场份额达到30–40%，英伟达将面临两难选择：要么大降价，要么看着收入蒸发。<br>——————————————————————<br><b>市场是残忍的，现实的，市场交易的是预期。<br></b><br>毋庸置疑，英伟达仍然是绝对的王者。但是王者第一次露出了明显的漏洞，资金已经开始为“预期”下注。"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/667",
-      "title": "4月是一个大丰收的月份",
-      "description": "",
-      "date_published": "2026-05-01T02:47:15.000Z",
-      "tags": [],
-      "content_html": "4月是一个大丰收的月份。<br><br>复盘一下这次的收益和亏损，反思一下交易。<br>前期主要是来自抄底——包括了内存股 $MUU $MU 07747  $KORU, <br>以及光通讯的  $AXTI $MRVL $CRDO<br>中间追了 $AEHR<br>港股打新赚了 胜宏和 Manycore<br>后期主要是价值股和长线股爆发： $GOOG $INTC属于一直持有，财报前挪了一些内存光通讯的仓位去加。<br><br>亏损主要fomo了 $POET 垃圾股还是不要去做交易。<br><br>拖累资金机会成本的主要是港股，在矿产热的时候买的铜矿股，基本属于震荡区间，阿里、优必选对整个仓位的贡献也是偏负面的。<br><br>比较失败的还是卖飞了很多 $MUU $KORU，几乎买在了最低点，但是缺少耐心等待，一路卖飞上来，对于 群核又贪心没有卖在最疯狂的位置。<br><br>抄底的决心强又没有那么强。其实当时还有2成不到点的现金，但大概是币圈给我的几次冲击都太大了，总想为最差情况留着生活现金。Google 270的时候喊朋友抄底，自己却买的不够多。知行不合一。<br><br>这篇比较碎碎念。4月大致感觉交易的不错，但是仔细复盘下，瑕疵还是很多。<br><br>希望继续修行，卖飞不哭，该抄底则抄底，相信美股都会给我们美好的未来。"
     }
   ]
 }

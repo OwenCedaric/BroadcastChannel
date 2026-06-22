@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 683,
+    "totalPosts": 684,
     "totalPages": 35,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "180",
+      "title": "买了最后10u 大家记得查zk ，做了交互的感觉大概率是有的",
+      "type": "text",
+      "datetime": "2024-06-11T10:29:13+00:00",
+      "tags": [],
+      "text": "买了最后10u 大家记得查zk ，做了交互的感觉大概率是有的",
+      "content": "买了最后10u 大家记得查zk ，做了交互的感觉大概率是有的",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "⚡",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "179",
       "title": "回调这一波又加仓了，越跌越买，相信牛市",
@@ -337,27 +358,6 @@
         {
           "emoji": "👏",
           "count": "8",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "160",
-      "title": "感觉 $ETH ETF真的会被通过哎，就算不是明天，也是在不远的未来",
-      "type": "text",
-      "datetime": "2024-05-23T07:20:54+00:00",
-      "tags": [],
-      "text": "感觉 $ETH ETF真的会被通过哎，就算不是明天，也是在不远的未来。就在刚刚，BlackRock、Grayscale、Bitwise提交更新的19B表格，争抢以太坊ETF，三家提交的新表格内容删除了关于以太坊质押的条款。这一变化可能是为了避免监管障碍。质押在加密世界中被视为一种被动收入形式。所有以太坊ETF的申请者现在都在等待预计周四的批准或拒绝决定之前提交了修改提案。因此，存管信托与结算公司（DTCC）已经开始在其网站上以ETHV作为股票代码列出VanEck的以太坊ETF，这被一些人视为积极信号。",
-      "content": "感觉 $ETH ETF真的会被通过哎，就算不是明天，也是在不远的未来。<br><br>就在刚刚，BlackRock、Grayscale、Bitwise提交更新的19B表格，争抢以太坊ETF，三家提交的新表格内容删除了关于以太坊质押的条款。<br>这一变化可能是为了避免监管障碍。质押在加密世界中被视为一种被动收入形式。<br><br>所有以太坊ETF的申请者现在都在等待预计周四的批准或拒绝决定之前提交了修改提案。<br><br>因此，存管信托与结算公司（DTCC）已经开始在其网站上以ETHV作为股票代码列出VanEck的以太坊ETF，这被一些人视为积极信号。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
           "isPaid": false
         }
       ]

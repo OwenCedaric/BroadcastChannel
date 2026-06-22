@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 683,
+    "totalPosts": 684,
     "totalPages": 35,
     "currentPage": 35,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-660.json"
   },
   "data": [
+    {
+      "id": "7",
+      "title": "Fiona‘s daily news-10.28, 2023News：1-Folki新币token昨晚开盘，Bitget上线价格低于链上",
+      "type": "text",
+      "datetime": "2023-10-28T02:09:12+00:00",
+      "tags": [],
+      "text": "Fiona‘s daily news-10.28, 2023News：1-Folki新币token昨晚开盘，Bitget上线价格低于链上。不少人大赚10倍+个人理解这也是BG的一次宣传活动，真金白银+韭菜追高造成部分人的大赚。也更多关注bitget之后的新币2-11.6 OPEN AI 大会，AI标的活跃：WLD，AGIX，FET，RNDR，都保持强势。3-Aptos 公布新加坡黑客松 14 个获胜项目https://x.com/Aptos_Network/status/1717625723790532656?s=204-CoinFLEX 债权人起诉 CoinFLEX 首席执行官，称 OPNX 并未得到董事会或债权人授权5-Memetoken上线Binance launch-poolhttps://x.com/nft_hu/status/1718080520410759201?s=206-SBF：很早就开始以 0.20 美元的单价购买 SOL，资金来源为 Alameda 营业利润及第三方贷款7-dYdX 基金会：未来几日投资者和团队成员持有的锁定 ethDYDX 代币会出现大规模内部移动8-SBF 否认挪用客户资金和欺诈https://x.com/BitMEXResearch/status/1718042092226658330?s=20行情资讯：1.近日强推三大币走的基本都不错：LINK，TRB， INJ，换INJ强势2.群友推荐banana走势良好3.群车袋熊token先暴涨再腰斩，已经销毁90%链上信息：0xSUN：0x3e57efEf507b4db7aCFa2eE79CeCA6B19e18D106",
+      "content": "<b>Fiona‘s daily news-10.28, 2023<br></b><br><b>News：</b><br>1-<b>Folki新币token昨晚开盘，Bitget上线价格低于链上。不少人大赚10倍+</b><br>个人理解这也是BG的一次宣传活动，真金白银+韭菜追高造成部分人的大赚。也更多关注bitget之后的新币<br>2-<b>11.6 OPEN AI 大会，AI标的活跃：WLD，AGIX，FET，RNDR，都保持强势</b>。<br>3-<b>Aptos 公布新加坡黑客松 14 个获胜项目</b><br><a href=\"https://x.com/Aptos_Network/status/1717625723790532656?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Aptos_Network/status/1717625723790532656?s=20\">https://x.com/Aptos_Network/status/1717625723790532656?s=20</a><br>4-<b>CoinFLEX 债权人起诉 CoinFLEX 首席执行官，称 OPNX 并未得到董事会或债权人授权</b><br>5-Memetoken上线Binance launch-pool<br><a href=\"https://x.com/nft_hu/status/1718080520410759201?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1718080520410759201?s=20\">https://x.com/nft_hu/status/1718080520410759201?s=20</a><br>6-SBF：很早就开始以 0.20 美元的单价购买 SOL，资金来源为 Alameda 营业利润及第三方贷款<br>7-<b>dYdX 基金会：未来几日投资者和团队成员持有的锁定 ethDYDX 代币会出现大规模内部移动</b><br>8-<b>SBF 否认挪用客户资金和欺诈</b><br><a href=\"https://x.com/BitMEXResearch/status/1718042092226658330?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/BitMEXResearch/status/1718042092226658330?s=20\">https://x.com/BitMEXResearch/status/1718042092226658330?s=20</a><br><br><b>行情资讯：</b><br><b>1.</b>近日强推三大币走的基本都不错：<b>LINK，TRB， INJ</b>，换INJ强势<br>2.<b>群友推荐banana走势良好</b><br>3.群车袋熊token先暴涨再腰斩，已经销毁90%<br><br><br><b>链上信息：</b><br>0xSUN：0x3e57efEf507b4db7aCFa2eE79CeCA6B19e18D106",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "6",
       "title": "最近FTX动作频频，包括转币去交易所和法庭精彩瞬间等等",

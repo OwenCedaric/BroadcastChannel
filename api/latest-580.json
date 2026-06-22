@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 683,
+    "totalPosts": 684,
     "totalPages": 35,
     "currentPage": 30,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-560.json"
   },
   "data": [
+    {
+      "id": "120",
+      "title": "我的现货也今天回撤不少 哪怕主要是sol btc之类的",
+      "type": "text",
+      "datetime": "2024-03-19T15:32:26+00:00",
+      "tags": [],
+      "text": "我的现货也今天回撤不少 哪怕主要是sol btc之类的。但是我相信7w不是终点，倒车接人要记得上车。在车上的也不担心，只要确定你上对了车🚗～",
+      "content": "我的现货也今天回撤不少 哪怕主要是sol btc之类的。<br>但是我相信7w不是终点，倒车接人要记得上车。<br>在车上的也不担心，只要确定你上对了车<i class=\"emoji\"><b>🚗</b></i>～",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "119",
       "title": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了",
@@ -389,22 +410,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "98",
-      "title": "XAI LFG",
-      "type": "text",
-      "datetime": "2024-03-11T08:44:50+00:00",
-      "tags": [],
-      "text": "XAI LFG",
-      "content": "XAI LFG",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
           "isPaid": false
         }
       ]

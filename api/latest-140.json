@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 683,
+    "totalPosts": 684,
     "totalPages": 35,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "574",
+      "title": "感觉美光大概率会有超预期财报 $MU",
+      "type": "text",
+      "datetime": "2026-03-13T14:25:48+00:00",
+      "tags": [],
+      "text": "感觉美光大概率会有超预期财报 $MU",
+      "content": "感觉美光大概率会有超预期财报 $MU",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "573",
       "title": "Citrini Effect和 $HIMX 拥挤的光学交易也说明了市场欣欣向荣？但这是否已经是顶点了呢？$HIMX 会是下一个光学黑马么？“纳米压印光刻制造光纤阵列”是否会带领他走出旧周期，走进新时代呢？",
@@ -386,22 +402,6 @@
         {
           "emoji": "😁",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "554",
-      "title": "补几条新信息:1️⃣ KOSPI 200指数期货下跌5%，程序化交易暂停5分钟2️⃣ 特朗普：没必要对伊朗采取地面军事行动",
-      "type": "text",
-      "datetime": "2026-03-03T03:18:17+00:00",
-      "tags": [],
-      "text": "补几条新信息:1️⃣ KOSPI 200指数期货下跌5%，程序化交易暂停5分钟2️⃣ 特朗普：没必要对伊朗采取地面军事行动",
-      "content": "补几条新信息:<br><i class=\"emoji\"><b>1️⃣</b></i> KOSPI 200指数期货下跌5%，程序化交易暂停5分钟<br><i class=\"emoji\"><b>2️⃣</b></i> 特朗普：没必要对伊朗采取地面军事行动",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]
