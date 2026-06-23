@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 684,
+    "totalPosts": 685,
     "totalPages": 35,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "55",
+      "title": "大家可以一起加入我们的群组战队，在notcoin menu加战队的界面搜索🔍",
+      "type": "text",
+      "datetime": "2024-01-02T02:24:45+00:00",
+      "tags": [],
+      "text": "大家可以一起加入我们的群组战队，在notcoin menu加战队的界面搜索🔍https://t.me/degenalphafiona 最后的空投我用一半用于群内抽奖🎟️",
+      "content": "大家可以一起加入我们的群组战队，在notcoin menu加战队的界面搜索<i class=\"emoji\"><b>🔍</b></i><a href=\"https://t.me/degenalphafiona\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/degenalphafiona\">https://t.me/degenalphafiona</a> 最后的空投我用一半用于群内抽奖<i class=\"emoji\"><b>🎟️</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "53",
       "title": "年底的仓位总结来了：",
@@ -348,16 +364,6 @@
       "tags": [],
       "text": "",
       "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-33-0\" popovertargetaction=\"show\">\n        <img src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-33-0\" popovertarget=\"modal-33-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/b61ba3abb22b10a3224d470fd6916b74.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": []
-    },
-    {
-      "id": "31",
-      "title": "2⃣当下看好，进进出出$FTTFTX的赔付方案和重组方案应该都会在近期迎来结果",
-      "type": "text",
-      "datetime": "2023-12-05T07:15:44+00:00",
-      "tags": [],
-      "text": "2⃣当下看好，进进出出$FTTFTX的赔付方案和重组方案应该都会在近期迎来结果。从1u到4u一直默默买FTT，希望可以获得超额收益。FTT的利好之前说了太多次，也补充一个利空吧。新交易所重启但是换币/股权，后面的故事与FTT无关。这样FTT就成为一个纯粹的Memecoin了。$MUBI 、 $auction $turt @Turtsat 此前已经多次提过这三个紧密相关的金铲子。币圈最需要的就是造福能力，而这三者已经在近两个月来贡献了无数的惊喜。我会非常期待他们的正螺旋。（最近价格较高，谨慎）$shrap @playSHRAPNEL Shrapnel 也是机缘巧合下发现的Gamefi。从他上线CEX以来就买入持有并介绍这个项目，12月会迎来游戏的正式上线。目前已经获得3倍收益，从他目前透露的游戏画面和体验来看，是我最期待的射击游戏之一。$LUNA $LUNC $USTC这个系列的出现和近期 mint cash 的出现有着极强的关系。源自于对Terra社区曾经强大生命力的了解和认知，我非常期待这次的重启计划。$STX $RIF 非常惭愧，一直说看好，一直拿不住就是这俩。BTC生态的崛起的直接获益者。BRC的资金外溢也必然会有所受益。近期可以关注到STX上的应用也极快发展起来。",
-      "content": "<i class=\"emoji\"><b>2⃣</b></i>当下看好，进进出出<br>$FTT<br>FTX的赔付方案和重组方案应该都会在近期迎来结果。从1u到4u一直默默买FTT，希望可以获得超额收益。<br>FTT的利好之前说了太多次，也补充一个利空吧。新交易所重启但是换币/股权，后面的故事与FTT无关。这样FTT就成为一个纯粹的Memecoin了。<br><br>$MUBI 、 $auction $turt <br><a href=\"https://t.me/Turtsat\" target=\"_blank\" title=\"@Turtsat\">@Turtsat</a><br> <br>此前已经多次提过这三个紧密相关的金铲子。币圈最需要的就是造福能力，而这三者已经在近两个月来贡献了无数的惊喜。我会非常期待他们的正螺旋。<br>（最近价格较高，谨慎）<br><br>$shrap <br><a href=\"https://t.me/playSHRAPNEL\" target=\"_blank\" title=\"@playSHRAPNEL\">@playSHRAPNEL</a><br> <br>Shrapnel 也是机缘巧合下发现的Gamefi。从他上线CEX以来就买入持有并介绍这个项目，12月会迎来游戏的正式上线。目前已经获得3倍收益，从他目前透露的游戏画面和体验来看，是我最期待的射击游戏之一。<br><br>$LUNA $LUNC $USTC<br>这个系列的出现和近期 mint cash 的出现有着极强的关系。源自于对Terra社区曾经强大生命力的了解和认知，我非常期待这次的重启计划。<br><br>$STX $RIF <br>非常惭愧，一直说看好，一直拿不住就是这俩。BTC生态的崛起的直接获益者。BRC的资金外溢也必然会有所受益。近期可以关注到STX上的应用也极快发展起来。",
       "reactions": []
     }
   ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 684,
+    "totalPosts": 685,
     "totalPages": 35,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "451",
+      "title": "AI数据中心的万亿大基建时代 ",
+      "type": "text",
+      "datetime": "2025-11-29T23:43:26+00:00",
+      "tags": [],
+      "text": "AI数据中心的万亿大基建时代 https://x.com/nft_hu/status/1994914826783789081?s=20",
+      "content": "AI数据中心的万亿大基建时代 <a href=\"https://x.com/nft_hu/status/1994914826783789081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1994914826783789081?s=20\">https://x.com/nft_hu/status/1994914826783789081?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1994914826783789081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"听了很值得听的一期播客《硅谷101｜AI数据中心的万亿大基建时代：美国GDP增长全靠它》。因为播客很长，所以分享一下自己记录的一些要点，整理了其中提到的和电力、算力相关的一些标的。如果有时间还是可以听一听完整版本。观点部分：\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/ebdb81e83909357bb29779da2bbeb2ca.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">听了很值得听的一期播客《硅谷101｜AI数据中心的万亿大基建时代：美国GDP增长全靠它》。<br><br>因为播客很长，所以分享一下自己记录的一些要点，整理了其中提到的和电力、算力相关的一些标的。如果有时间还是可以听一听完整版本。<br><br>观点部分：</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "450",
       "title": "稳定币系列第一篇：Circle为什么把看似一本万利的生意做成了费力不讨好的苦生意",
@@ -452,22 +473,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "429",
-      "title": "MNT 彻底舒服",
-      "type": "text",
-      "datetime": "2025-10-09T00:53:11+00:00",
-      "tags": [],
-      "text": "MNT 彻底舒服",
-      "content": "MNT 彻底舒服",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "19",
           "isPaid": false
         }
       ]

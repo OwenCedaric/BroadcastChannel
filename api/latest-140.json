@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 684,
+    "totalPosts": 685,
     "totalPages": 35,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "577",
+      "title": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些欢迎阅读⬇️ ",
+      "type": "text",
+      "datetime": "2026-03-14T10:24:41+00:00",
+      "tags": [],
+      "text": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些欢迎阅读⬇️ https://x.com/nft_hu/status/2032754546766999673?s=46",
+      "content": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些<br>欢迎阅读<i class=\"emoji\"><b>⬇️</b></i> <a href=\"https://x.com/nft_hu/status/2032754546766999673?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2032754546766999673?s=46\">https://x.com/nft_hu/status/2032754546766999673?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "574",
       "title": "感觉美光大概率会有超预期财报 $MU",
@@ -381,27 +397,6 @@
         {
           "emoji": "😁",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "555",
-      "title": "关于 $EWY: AI说的，非投资建议",
-      "type": "text",
-      "datetime": "2026-03-03T11:57:36+00:00",
-      "tags": [],
-      "text": "关于 $EWY: AI说的，非投资建议。2026 年不同于2022年。2022 年是在下行周期中叠加能源成本上涨。而2026年AI 对存储器的需求前所未有，三星 / SK 海力士再次上调 DRAM 价格。$SNDK 的 NAND 需求已经高到需要提前三年锁定产能预订。目前看不到需求终点。AI军备竞赛中，大家对价格不敏感，更优先确保拿到产能。但是仍然需要考虑地缘风险的尾部概率：如果霍尔木兹真的出问题：油破100，LNG高价持续几个月，那整个股市还有系统性风险。分批抄底了，希望可以蒙对。",
-      "content": "关于 $EWY: AI说的，非投资建议。<br><br>2026 年不同于2022年。<br>2022 年是在下行周期中叠加能源成本上涨。<br>而2026年AI 对存储器的需求前所未有，三星 / SK 海力士再次上调 DRAM 价格。$SNDK 的 NAND 需求已经高到需要提前三年锁定产能预订。目前看不到需求终点。<br><br>AI军备竞赛中，大家对价格不敏感，更优先确保拿到产能。<br><br>但是仍然需要考虑地缘风险的尾部概率：如果霍尔木兹真的出问题：油破100，LNG高价持续几个月，那整个股市还有系统性风险。<br><br>分批抄底了，希望可以蒙对。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "2",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 684,
+    "totalPosts": 685,
     "totalPages": 35,
     "currentPage": 23,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-420.json"
   },
   "data": [
+    {
+      "id": "266",
+      "title": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 @BroLeonAus @tyw1984 @_0xSea_ 1⃣️什么是 $FB 经济模型又如何：",
+      "type": "text",
+      "datetime": "2024-09-12T13:55:14+00:00",
+      "tags": [],
+      "text": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 @BroLeonAus @tyw1984 @_0xSea_ 1⃣️什么是 $FB 经济模型又如何：https://x.com/BroLeonAus/status/18341080196318744432⃣️如果没有空投，又想购买，如何操作：https://x.com/tyw1984/status/18337931660733567243⃣️FB生态里有什么值得关注的？maybe Cat，Cat本身也是推高 $FB 的一种策略https://x.com/_0xSea_/status/18340281894355273114⃣️划重点，关于经济模型：经济模型和当前流通 $FB 一共总量 2.1 亿枚，其中 80% 分配给社区， 20% 分配给团队和贡献者，POW 挖矿 50%。 10% 的社区激励。",
+      "content": "最近很火的一些关于 $FB 的使用指南和来龙去脉，内容来源 感谢 <a href=\"https://t.me/BroLeonAus\" target=\"_blank\" title=\"@BroLeonAus\">@BroLeonAus</a> <a href=\"https://t.me/tyw1984\" target=\"_blank\" title=\"@tyw1984\">@tyw1984</a> <a href=\"https://t.me/_0xSea_\" target=\"_blank\" title=\"@_0xSea_\">@_0xSea_</a> <br><i class=\"emoji\"><b>1⃣️</b></i>什么是 $FB 经济模型又如何：<br><a href=\"https://x.com/BroLeonAus/status/1834108019631874443\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/BroLeonAus/status/1834108019631874443\">https://x.com/BroLeonAus/status/1834108019631874443</a><br><i class=\"emoji\"><b>2⃣️</b></i>如果没有空投，又想购买，如何操作：<br><a href=\"https://x.com/tyw1984/status/1833793166073356724\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/tyw1984/status/1833793166073356724\">https://x.com/tyw1984/status/1833793166073356724</a><br><i class=\"emoji\"><b>3⃣️</b></i>FB生态里有什么值得关注的？<br>maybe Cat，Cat本身也是推高 $FB 的一种策略<br><a href=\"https://x.com/_0xSea_/status/1834028189435527311\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/_0xSea_/status/1834028189435527311\">https://x.com/_0xSea_/status/1834028189435527311</a><br><i class=\"emoji\"><b>4⃣️</b></i>划重点，关于经济模型：<br>经济模型和当前流通 $FB 一共总量 2.1 亿枚，其中 80% 分配给社区， 20% 分配给团队和贡献者，POW 挖矿 50%。 10% 的社区激励。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "265",
       "title": "今日份meme，上车在山顶的我",
@@ -367,27 +383,6 @@
         {
           "emoji": "🔥",
           "count": "11",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "245",
-      "title": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY",
-      "type": "text",
-      "datetime": "2024-08-27T12:38:45+00:00",
-      "tags": [],
-      "text": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY。 看了下有点算变相拆分MKR，作为更名的一部分，Maker 将全球最大的去中心化稳定币 Dai（DAI）更名为 USDS。该协议还推出了 Sky（SKY）原生治理代币，MakerDAO 联合创始人 Rune Christensen 称此次更名是迎接「DeFi 下一次进化」的一步。MKR 持有者可以将其 MKR 升级为 SKY，SKY 也可以转换回 MKR。升级是可选的。用户在升级时每枚 MKR 可以换得 24,000 枚 SKY",
-      "content": "Maker品牌重塑为Sky Protocol，并将推出原生治理代币SKY。 看了下有点算变相拆分MKR，作为更名的一部分，Maker 将全球最大的去中心化稳定币 Dai（DAI）更名为 USDS。<br><br>该协议还推出了 Sky（SKY）原生治理代币，MakerDAO 联合创始人 Rune Christensen 称此次更名是迎接「DeFi 下一次进化」的一步。MKR 持有者可以将其 MKR 升级为 SKY，SKY 也可以转换回 MKR。升级是可选的。用户在升级时每枚 MKR 可以换得 24,000 枚 SKY",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "1",
           "isPaid": false
         }
       ]

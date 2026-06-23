@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 684,
+    "totalPosts": 685,
     "totalPages": 35,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "597",
+      "title": "本次抄底的所有標的都水上了，謝謝朋友們的關心",
+      "type": "text",
+      "datetime": "2026-04-01T16:09:30+00:00",
+      "tags": [],
+      "text": "本次抄底的所有標的都水上了，謝謝朋友們的關心。左側還是挺不習慣，畢竟專注右側交易。跌破位的時候說不心慌是假的，還好之前寫研報看了又看，理性和信心還是在的。還是要深入研究自己的標的，有信仰才拿得住",
+      "content": "本次抄底的所有標的都水上了，謝謝朋友們的關心。<br>左側還是挺不習慣，畢竟專注右側交易。<br>跌破位的時候說不心慌是假的，還好之前寫研報看了又看，理性和信心還是在的。<br><br>還是要深入研究自己的標的，有信仰才拿得住",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "596",
       "title": "【Fiona的日报频道】2026-04-01━━ 宏观要闻 ━━1️⃣🌟特朗普对于停止战争的渴望一下子刺激了市场",
@@ -343,22 +359,6 @@
         {
           "emoji": "😁",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "577",
-      "title": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些欢迎阅读⬇️ ",
-      "type": "text",
-      "datetime": "2026-03-14T10:24:41+00:00",
-      "tags": [],
-      "text": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些欢迎阅读⬇️ https://x.com/nft_hu/status/2032754546766999673?s=46",
-      "content": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些<br>欢迎阅读<i class=\"emoji\"><b>⬇️</b></i> <a href=\"https://x.com/nft_hu/status/2032754546766999673?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2032754546766999673?s=46\">https://x.com/nft_hu/status/2032754546766999673?s=46</a>",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "5",
           "isPaid": false
         }
       ]
