@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 685,
+    "totalPosts": 687,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "389",
+      "title": "蚊子肉项目：",
+      "type": "text",
+      "datetime": "2025-09-12T06:38:20+00:00",
+      "tags": [],
+      "text": "蚊子肉项目：https://x.com/nft_hu/status/1966390144661074168",
+      "content": "蚊子肉项目：<a href=\"https://x.com/nft_hu/status/1966390144661074168\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1966390144661074168\">https://x.com/nft_hu/status/1966390144661074168</a>",
+      "reactions": []
+    },
+    {
+      "id": "388",
+      "title": "PUMP买回来了，右侧",
+      "type": "text",
+      "datetime": "2025-09-12T03:58:11+00:00",
+      "tags": [],
+      "text": "PUMP买回来了，右侧",
+      "content": "PUMP买回来了，右侧",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "387",
       "title": "早安！醒来又是莫名其妙的上涨，不过不错！还有很多仓位",
@@ -402,53 +433,6 @@
         {
           "emoji": "😱",
           "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "369",
-      "title": "短期对BTC ETH 的观察和数据：最近这次的波动明显可以感觉到 $BTC 的势能和动能比$ETH 差很多",
-      "type": "text",
-      "datetime": "2025-08-25T01:52:19+00:00",
-      "tags": [],
-      "text": "短期对BTC ETH 的观察和数据：最近这次的波动明显可以感觉到 $BTC 的势能和动能比$ETH 差很多。Jackson Hole 后， 比特币快速上涨 3%–5%，价格回升至 116K–117K 美元区间，并清除短线空头仓，盘中短线跳涨到 ~$117,300。以太坊则表现更强劲，一度上涨 11%–15%，达到高点 4,789–4,882 美元，部分记录显示创新高（接近历史高位）。所以如果我们BTC/ETH的汇率对，周五之后是下跌的。在今天的下跌行情中，BTC更显弱势。最近在思考一个问题，ETH国库的建立短期内是否会对BTC造成冲击，BTC是否涨不动了。 $MSTR 似乎买不动了。7月以来，$BMNR 目前买了150w颗ETH， $SBET 买了74w颗以太坊， $MSTR 买了多少比特币呢？7月增持了31466颗，8月仅增持155颗。微策略似乎买不动了。而ETF的情况更明晰，7 月：加密 ETF 市场迎来爆发式增长，ETH ETF 流入速度超过 BTC，显示机构对以太坊的实用性与收益偏好提升。8 月：ETF 市场出现短期震荡。值得关注的是 ETH ETF 的交易量仍高。短期的未来，我更关注ETH 和SOL。BTC的最大买主和增长或许已经告一段落。",
-      "content": "短期对BTC ETH 的观察和数据：<br>最近这次的波动明显可以感觉到 $BTC 的势能和动能比$ETH 差很多。<br><br>Jackson Hole 后， 比特币快速上涨 3%–5%，价格回升至 116K–117K 美元区间，并清除短线空头仓，盘中短线跳涨到 ~$117,300。<br>以太坊则表现更强劲，一度上涨 11%–15%，达到高点 4,789–4,882 美元，部分记录显示创新高（接近历史高位）。<br><br>所以如果我们BTC/ETH的汇率对，周五之后是下跌的。在今天的下跌行情中，BTC更显弱势。<br><br>最近在思考一个问题，ETH国库的建立短期内是否会对BTC造成冲击，BTC是否涨不动了。 $MSTR 似乎买不动了。<br>7月以来，$BMNR 目前买了150w颗ETH， $SBET 买了74w颗以太坊， $MSTR 买了多少比特币呢？7月增持了31466颗，8月仅增持155颗。微策略似乎买不动了。<br><br>而ETF的情况更明晰，7 月：加密 ETF 市场迎来爆发式增长，ETH ETF 流入速度超过 BTC，显示机构对以太坊的实用性与收益偏好提升。8 月：ETF 市场出现短期震荡。值得关注的是 ETH ETF 的交易量仍高。<br>短期的未来，我更关注ETH 和SOL。BTC的最大买主和增长或许已经告一段落。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "29",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "368",
-      "title": "sol 重新冲锋，止盈已挂好 这次不贪心了",
-      "type": "text",
-      "datetime": "2025-08-23T05:35:10+00:00",
-      "tags": [],
-      "text": "sol 重新冲锋，止盈已挂好 这次不贪心了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/362\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">So far $SOL good</div>\n</small></blockquote></a>sol 重新冲锋，止盈已挂好 这次不贪心了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
           "isPaid": false
         }
       ]

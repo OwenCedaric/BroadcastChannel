@@ -5,6 +5,22 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/720",
+      "title": "关于先进制程的溢出效应：台积电产能有限，成熟制程外溢",
+      "description": "",
+      "date_published": "2026-06-25T03:01:47.000Z",
+      "tags": [],
+      "content_html": "关于先进制程的溢出效应：<br>台积电产能有限，成熟制程外溢。受益者联华电子、世界先进。产能利用率同步明显回升。"
+    },
+    {
+      "url": "https://fiona.ceda.is/posts/719",
+      "title": "其实 $MU的高利润率也是一把双刃剑",
+      "description": "",
+      "date_published": "2026-06-25T03:01:33.000Z",
+      "tags": [],
+      "content_html": "其实 $MU的高利润率也是一把双刃剑。<br>所有的Capex中的大头，不可避免地落入了内存厂商的口袋里，那么绕开内存墙/内存税的紧迫性也就会越高。<br><br>一些目前探讨研发中的解法/优化协议：<br><i class=\"emoji\"><b>1️⃣</b></i>Nand的局部替代  <br><i class=\"emoji\"><b>2️⃣</b></i>CXL协议 $ALAB<br><i class=\"emoji\"><b>3️⃣</b></i>HBF $SNDK<br><i class=\"emoji\"><b>4️⃣</b></i>模型的优化<br><br>值得持续关注"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/718",
       "title": "又是心理按摩时间",
       "description": "",
@@ -389,22 +405,6 @@
       "date_published": "2026-05-02T00:30:19.000Z",
       "tags": [],
       "content_html": "昨晚的账户里的尖子生：<br>$PS +40% （35% 盘中+5%盘后）<br>$AXTI +23%<br>$RDDT +13%<br>$LITX +10%<br><br>比较失望的还是：<br>$RKLB -4.48%<br><br>不过总体，很美好的周六清晨打开模式 <i class=\"emoji\"><b>❤️</b></i>"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/670",
-      "title": "日报其实还是有价值的",
-      "description": "",
-      "date_published": "2026-05-02T00:20:56.000Z",
-      "tags": [],
-      "content_html": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/662\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">【Fiona日报】2026-04-30 周四  ━━ 今日最重要一件事 ━━ 四大科技巨头财报普遍超预期，这次的cpaex回报如何？  Alphabet财报后大涨，Amazon、Microsoft后来翻绿； 唯独Meta暴跌约7%——不是因为营收差（+33% YoY、$56.3B）， 因为全年资本支出指引上调至$1,250-$1,450亿，远超市场预期的$1,226亿。 \"烧钱换未来\"只在增长高于预期时成立。  <i class=\"emoji\" style=\"background-image:url('/static/ceffef382f90b7b409b79c10897985b6.png')\"><b>📊</b></i> 大宗商品（4月29日收盘） WTI原油    $106.88/桶   ▲ +7%（特朗普确认无限期封锁）…</div>\n</small></blockquote></a>日报其实还是有价值的。<br><br>那天抓到了PS的IPO首日下跌"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/669",
-      "title": "‼️最近我评论区的骗子又变多了，我不发私人策略，不会私信你",
-      "description": "",
-      "date_published": "2026-05-01T13:23:00.000Z",
-      "tags": [],
-      "content_html": "<i class=\"emoji\"><b>‼️</b></i>最近我评论区的骗子又变多了，我不发私人策略，不会私信你。大家注意安全"
     }
   ]
 }

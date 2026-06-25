@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 685,
+    "totalPosts": 687,
     "totalPages": 35,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,78 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "288",
+      "title": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：",
+      "type": "text",
+      "datetime": "2024-10-19T15:42:06+00:00",
+      "tags": [],
+      "text": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：https://moonshot.money/?ref=dO9ogRo7p4为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。同时，和http://pump.fun 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。快一起来玩吧～",
+      "content": "最近被安利到一个很牛的新meme发行/交易平台 <br><a href=\"https://t.me/usemoonshot\" target=\"_blank\" title=\"@usemoonshot\">@usemoonshot</a><br> （非广）<br>下载链接：<br><a href=\"https://moonshot.money/?ref=dO9ogRo7p4\" target=\"_blank\" rel=\"noopener\" title=\"https://moonshot.money/?ref=dO9ogRo7p4\">https://moonshot.money/?ref=dO9ogRo7p4</a><br><br>为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。<br><br>这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。<br><br>同时，和<a href=\"http://pump.fun/\" target=\"_blank\" rel=\"noopener\" title=\"http://pump.fun\">http://pump.fun</a> 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。<br><br>快一起来玩吧～",
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💩",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "😍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "最近两周交易复盘",
+      "type": "text",
+      "datetime": "2024-10-14T14:22:11+00:00",
+      "tags": [],
+      "text": "最近两周交易复盘https://x.com/nft_hu/status/1845831951027954032?s=46",
+      "content": "最近两周交易复盘<a href=\"https://x.com/nft_hu/status/1845831951027954032?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1845831951027954032?s=46\">https://x.com/nft_hu/status/1845831951027954032?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "286",
       "title": "写在 Sui 新高的时刻，投资其实是一件很单的事",
@@ -425,37 +497,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "268",
-      "title": "目前Sui 1.5成仓位",
-      "type": "text",
-      "datetime": "2024-09-17T07:26:03+00:00",
-      "tags": [],
-      "text": "目前Sui 1.5成仓位",
-      "content": "目前Sui 1.5成仓位",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "26",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "267",
-      "title": "和 $mao币的日子",
-      "type": "text",
-      "datetime": "2024-09-13T07:40:13+00:00",
-      "tags": [],
-      "text": "和 $mao币的日子https://x.com/nft_hu/status/1834261505313059201?s=46",
-      "content": "和 $mao币的日子<a href=\"https://x.com/nft_hu/status/1834261505313059201?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1834261505313059201?s=46\">https://x.com/nft_hu/status/1834261505313059201?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1834261505313059201?s=46\" target=\"_blank\" rel=\"noopener\" title=\"这只磨人的小猫猫 $MAO关注很久了这个项目，算是关注人群很优质的早期项目，包括DWF各位大大和一些早期链上玩家都有关注的项目。1️⃣冲开盘被套前天晚上开盘合约一出来我发到群里的同时手动买入，果不其然手动挡买在了最高点。均价FDV18m买入2️⃣割肉还是加仓\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b5338ad9e3c5015f1770119810f2d8f6.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">这只磨人的小猫猫 $MAO<br>关注很久了这个项目，算是关注人群很优质的早期项目，包括DWF各位大大和一些早期链上玩家都有关注的项目。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>冲开盘被套<br>前天晚上开盘合约一出来我发到群里的同时手动买入，果不其然手动挡买在了最高点。均价FDV18m买入<br><br><i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>割肉还是加仓</div>\n</a>",
-      "reactions": []
     }
   ]
 }

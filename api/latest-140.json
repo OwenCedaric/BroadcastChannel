@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 685,
+    "totalPosts": 687,
     "totalPages": 35,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "579",
+      "title": "虽然减仓了，但是起码选对了板块",
+      "type": "text",
+      "datetime": "2026-03-16T14:06:11+00:00",
+      "tags": [],
+      "text": "虽然减仓了，但是起码选对了板块",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/563\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">仓位还是集中在内存和光通讯，因为韩股权重大，对能源价格敏感，所以还是谨慎持有中。 新增持有了 $MRVL 财报利好<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>这波下跌相对强势<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>GTC将近</div>\n</small></blockquote></a>虽然减仓了，但是起码选对了板块",
+      "reactions": []
+    },
+    {
+      "id": "578",
+      "title": "全面暴涨发生中！韩股内存光 $HYPE 冲！",
+      "type": "text",
+      "datetime": "2026-03-16T14:03:49+00:00",
+      "tags": [],
+      "text": "全面暴涨发生中！韩股内存光 $HYPE 冲！",
+      "content": "全面暴涨发生中！韩股内存光 $HYPE 冲！",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "577",
       "title": "美光财报前瞻 polymarket显示财报超预期概率98%，那财报还有什么看点？多空博弈又有哪些欢迎阅读⬇️ ",
@@ -350,53 +381,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "557",
-      "title": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底",
-      "type": "text",
-      "datetime": "2026-03-04T02:03:48+00:00",
-      "tags": [],
-      "text": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底。买不在最低点，但是买在更安全的位置。最怕的是战争变数，毕竟一旦开打，就不再是特朗普一个人说了算。我认为伊拉克的教训还在眼前，美国会竭尽全力避免卷入长期战争。但是战争局势确实瞬息万变。",
-      "content": "其实现在回想，更稳妥地姿态应该是等形式好转，止跌点出现，再进一步抄底。买不在最低点，但是买在更安全的位置。<br><br>最怕的是战争变数，毕竟一旦开打，就不再是特朗普一个人说了算。我认为伊拉克的教训还在眼前，美国会竭尽全力避免卷入长期战争。但是战争局势确实瞬息万变。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "556",
-      "title": "相信最近炒股的朋友都过的有点痛苦，我也同样",
-      "type": "text",
-      "datetime": "2026-03-04T01:57:43+00:00",
-      "tags": [],
-      "text": "相信最近炒股的朋友都过的有点痛苦，我也同样。估计特朗普也怕原油过于失控而引发更大危机，祭出了大杀器“护航+保险“。油价确实暂时下去了，但是亚洲股市开盘还是继续下跌了。不觉得战争可以很快结束，但是希望金融市场的失序可以尽快止住，跌一星期的也就差不多了。再多就真的承受不住了😭这周晚上盯美股，白天看亚盘，看看哪边有希望能够先出现一个支撑。依旧是在痛苦抄底中。",
-      "content": "相信最近炒股的朋友都过的有点痛苦，我也同样。估计特朗普也怕原油过于失控而引发更大危机，祭出了大杀器“护航+保险“。油价确实暂时下去了，但是亚洲股市开盘还是继续下跌了。<br><br>不觉得战争可以很快结束，但是希望金融市场的失序可以尽快止住，跌一星期的也就差不多了。再多就真的承受不住了<i class=\"emoji\"><b>😭</b></i><br><br>这周晚上盯美股，白天看亚盘，看看哪边有希望能够先出现一个支撑。依旧是在痛苦抄底中。",
-      "reactions": [
-        {
-          "emoji": "😭",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
           "isPaid": false
         }
       ]

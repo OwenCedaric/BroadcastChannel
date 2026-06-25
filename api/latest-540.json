@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 685,
+    "totalPosts": 687,
     "totalPages": 35,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "163",
+      "title": "Ondo 不错，SOL目前打不过ETH，接下来会定投一点ETH",
+      "type": "text",
+      "datetime": "2024-05-28T08:24:50+00:00",
+      "tags": [],
+      "text": "Ondo 不错，SOL目前打不过ETH，接下来会定投一点ETH。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/155\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">Fiona’s Daily News 5.17 先简单说一下我对后市的看法：最近4天的BTC ETF终于呈现净流入，刚好也对应了这几天的反弹。随着反弹我稍微减了一点仓，一部分原因也是因为之前买到了100%，导致操作缺少灵活性。  我个人不会再这个阶段再像之前那么盲目看多。我倾向于还会有一个新高（最后一浪或者两浪），但是没有那么快到来，中间会有“漫长”的过渡期。所以我会在我认为不错的价格适度减仓，增加操作的灵活性。  仍然持有的主要仓位：BTC，SOL（最大仓位）AIOZ， RON作为我Gamfi和AI的主要敞口，MKR和ONDO…</div>\n</small></blockquote></a>Ondo 不错，SOL目前打不过ETH，接下来会定投一点ETH。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "title": "ETH ETF一定是长期利好，只是利好发生需要时间",
+      "type": "text",
+      "datetime": "2024-05-25T04:51:50+00:00",
+      "tags": [],
+      "text": "ETH ETF一定是长期利好，只是利好发生需要时间。容我刻舟求剑一下，4年一届，2025年牛市来临。不是不涨，时候未到",
+      "content": "ETH ETF一定是长期利好，只是利好发生需要时间。容我刻舟求剑一下，4年一届，2025年牛市来临。不是不涨，时候未到",
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "161",
       "title": "关注UNI，下周五投票🗳️",
@@ -389,53 +421,6 @@
         },
         {
           "emoji": "✍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "143",
-      "title": "挂0.5的w又接到了一点，逆势买真的很痛苦",
-      "type": "text",
-      "datetime": "2024-04-13T20:12:49+00:00",
-      "tags": [],
-      "text": "挂0.5的w又接到了一点，逆势买真的很痛苦。但是相信这一切还没有结束🫡 以色列和伊朗的战争还在扩大化，还有很多不确定性风险，大家合约千万要小心。",
-      "content": "挂0.5的w又接到了一点，逆势买真的很痛苦。但是相信这一切还没有结束<i class=\"emoji\"><b>🫡</b></i> 以色列和伊朗的战争还在扩大化，还有很多不确定性风险，大家合约千万要小心。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "142",
-      "title": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "type": "text",
-      "datetime": "2024-04-13T04:56:16+00:00",
-      "tags": [],
-      "text": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "content": "虽然痛苦 但是买了点w 到我的第一目标价位",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }

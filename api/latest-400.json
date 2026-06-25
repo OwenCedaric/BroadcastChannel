@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 685,
+    "totalPosts": 687,
     "totalPages": 35,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "308",
+      "title": "继续看多 特朗普软了口吻",
+      "type": "text",
+      "datetime": "2025-04-13T03:41:34+00:00",
+      "tags": [],
+      "text": "继续看多 特朗普软了口吻",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/306\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买。  先买<i class=\"emoji\" style=\"background-image:url('/static/6f1f9f0deec57b3356fbb157f989b474.png')\"><b>🤏</b></i>BTC</div>\n</small></blockquote></a>继续看多 特朗普软了口吻",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "25",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "307",
+      "title": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了",
+      "type": "text",
+      "datetime": "2025-04-07T01:39:32+00:00",
+      "tags": [],
+      "text": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。也算某种我自以为是的对冲",
+      "content": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。<br>也算某种我自以为是的对冲",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "18",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "306",
       "title": "鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买",
@@ -437,78 +469,6 @@
         {
           "emoji": "❤️",
           "count": "21",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "288",
-      "title": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：",
-      "type": "text",
-      "datetime": "2024-10-19T15:42:06+00:00",
-      "tags": [],
-      "text": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：https://moonshot.money/?ref=dO9ogRo7p4为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。同时，和http://pump.fun 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。快一起来玩吧～",
-      "content": "最近被安利到一个很牛的新meme发行/交易平台 <br><a href=\"https://t.me/usemoonshot\" target=\"_blank\" title=\"@usemoonshot\">@usemoonshot</a><br> （非广）<br>下载链接：<br><a href=\"https://moonshot.money/?ref=dO9ogRo7p4\" target=\"_blank\" rel=\"noopener\" title=\"https://moonshot.money/?ref=dO9ogRo7p4\">https://moonshot.money/?ref=dO9ogRo7p4</a><br><br>为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。<br><br>这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。<br><br>同时，和<a href=\"http://pump.fun/\" target=\"_blank\" rel=\"noopener\" title=\"http://pump.fun\">http://pump.fun</a> 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。<br><br>快一起来玩吧～",
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💩",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤡",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "😍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "287",
-      "title": "最近两周交易复盘",
-      "type": "text",
-      "datetime": "2024-10-14T14:22:11+00:00",
-      "tags": [],
-      "text": "最近两周交易复盘https://x.com/nft_hu/status/1845831951027954032?s=46",
-      "content": "最近两周交易复盘<a href=\"https://x.com/nft_hu/status/1845831951027954032?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1845831951027954032?s=46\">https://x.com/nft_hu/status/1845831951027954032?s=46</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
-          "count": "1",
           "isPaid": false
         }
       ]
