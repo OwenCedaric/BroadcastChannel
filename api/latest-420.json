@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "289",
+      "title": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来",
+      "type": "text",
+      "datetime": "2024-10-19T17:50:40+00:00",
+      "tags": [],
+      "text": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下最近还是比特币为主，加U，还没看到下一个显著的强势币",
+      "content": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下<br><br>最近还是比特币为主，加U，还没看到下一个显著的强势币",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "21",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "288",
       "title": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：",
@@ -478,22 +494,6 @@
         {
           "emoji": "👍",
           "count": "34",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "269",
-      "title": "Oh Sui",
-      "type": "text",
-      "datetime": "2024-09-19T00:58:43+00:00",
-      "tags": [],
-      "text": "Oh Sui",
-      "content": "Oh Sui",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "15",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "661",
+      "title": "四家发布财报后，只有 $GOOG是涨的，这个含金量已经无需多言了",
+      "type": "text",
+      "datetime": "2026-04-30T00:11:14+00:00",
+      "tags": [],
+      "text": "四家发布财报后，只有 $GOOG是涨的，这个含金量已经无需多言了。作为超大公司，营收超出预期近30亿美元，EPS几乎是华尔街预期的两倍Cloud 持续爆发式增长：Google Cloud 营收达 $200 亿，增速63%，较上季度的48%大幅加速，云业务积压订单近乎翻倍至超过 4,600亿美元。 AI 付费订阅突破：这是史上最强的消费者AI订阅季度，由 Gemini 应用驱动，付费订阅总数达到 3.5亿，YouTube 和 Google One 是主要贡献者。优秀，全方位的优秀！还有没有计价的投资/深度绑定 Anthropic，这对于Google Cloud的利好也是持续的。TPU的收入也算在cloud里",
+      "content": "<b>四家发布财报后，只有 $GOOG是涨的，这个含金量已经无需多言了。</b><br><br>作为超大公司，营收超出预期近30亿美元，EPS几乎是华尔街预期的两倍<br><br><b>Cloud 持续爆发式增长：Google Cloud 营收达 $200 亿，增速63%，较上季度的48%大幅加速，云业务积压订单近乎翻倍至超过 4,600亿美元</b>。 <br><br>AI 付费订阅突破：这是史上最强的消费者AI订阅季度，由 Gemini 应用驱动，付费订阅总数达到 3.5亿，YouTube 和 Google One 是主要贡献者。<br><br>优秀，全方位的优秀！<br><br><b>还有没有计价的投资/深度绑定 Anthropic，这对于Google Cloud的利好也是持续的。</b>TPU的收入也算在cloud里",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🐳",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "660",
       "title": "刚好趁着财报公布来说一下 $FORM，感谢财报",
@@ -378,22 +399,6 @@
       "tags": [],
       "text": "美股转跌感觉除了伊朗没有准信儿，还有美联储主席提名人沃什的讲话。巴基斯坦部长称仍在等待伊朗对参加会谈的正式回应。Investinglive分析师表示，这可不是个好兆头。我几乎不会持有任何金融资产了。沃什和特朗普划清界限，表达美联储需要改革。当然涨久了涨不动要跌也是常有的事",
       "content": "美股转跌感觉除了伊朗没有准信儿，还有美联储主席提名人沃什的讲话。<br><br>巴基斯坦部长称仍在等待伊朗对参加会谈的正式回应。Investinglive分析师表示，这可不是个好兆头。我几乎不会持有任何金融资产了。<br><br>沃什和特朗普划清界限，表达美联储需要改革。<br><br>当然涨久了涨不动要跌也是常有的事",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "640",
-      "title": "减仓落袋ing",
-      "type": "text",
-      "datetime": "2026-04-21T15:04:32+00:00",
-      "tags": [],
-      "text": "减仓落袋ing",
-      "content": "减仓落袋ing",
       "reactions": [
         {
           "emoji": "❤️",

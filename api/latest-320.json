@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "391",
+      "title": "Will GLXY be next BMNR?",
+      "type": "text",
+      "datetime": "2025-09-12T08:30:57+00:00",
+      "tags": [],
+      "text": "Will GLXY be next BMNR?",
+      "content": "Will GLXY be next BMNR?",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "389",
       "title": "蚊子肉项目：",
@@ -417,22 +443,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "370",
-      "title": "今晚感觉有大消息",
-      "type": "text",
-      "datetime": "2025-09-02T12:58:04+00:00",
-      "tags": [],
-      "text": "今晚感觉有大消息。VIX盘前暴涨，总统还好么？",
-      "content": "今晚感觉有大消息。VIX盘前暴涨，总统还好么？",
-      "reactions": [
-        {
-          "emoji": "😱",
-          "count": "9",
           "isPaid": false
         }
       ]

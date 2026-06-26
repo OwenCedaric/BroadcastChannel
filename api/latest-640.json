@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "58",
+      "title": "Tia质押的金铲子作用日益体现，如何质押看 ",
+      "type": "text",
+      "datetime": "2024-01-02T14:29:28+00:00",
+      "tags": [],
+      "text": "Tia质押的金铲子作用日益体现，如何质押看 https://x.com/odailychina/status/1734861645263057098?s=46",
+      "content": "Tia质押的金铲子作用日益体现，如何质押看 <a href=\"https://x.com/odailychina/status/1734861645263057098?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/odailychina/status/1734861645263057098?s=46\">https://x.com/odailychina/status/1734861645263057098?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/odailychina/status/1734861645263057098?s=46\" target=\"_blank\" rel=\"noopener\" title=\"💸质押 $TIA 还能获得哪些潜在空投机会？（附TIA质押教程）Celestia @CelestiaOrg  作为 #Cosmos 生态的主流项目，肯定也不会抛弃质押赚取空投的模式。随着Cosmos生态热度上升，社区中也出现讨论质押 TIA 的声音，并表示Celestia生态的项目未来将会给 TIA 质押发放空投。https://t.co/n5OXs3Z0FR\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Odaily@ChinaCryptoNews (@OdailyChina) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('/static/38273bbe94a86f4fa7d8c86b8ae44eec.png')\"><b>💸</b></i>质押 $TIA 还能获得哪些潜在空投机会？（附TIA质押教程）<br><br>Celestia @CelestiaOrg  作为 #Cosmos 生态的主流项目，肯定也不会抛弃质押赚取空投的模式。<br><br>随着Cosmos生态热度上升，社区中也出现讨论质押 TIA 的声音，并表示Celestia生态的项目未来将会给 TIA 质押发放空投。<br><br>https://t.co/n5OXs3Z0FR</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "57",
       "title": "Fiona‘s daily news-1.2, 2024大家新年好！最近的项目每天都参加的到应接不暇，希望新年一起发财！MEME的更替速度也更快，玩Meme一定要注意节奏",
@@ -356,16 +372,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "35",
-      "title": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议",
-      "type": "text",
-      "datetime": "2023-12-07T12:55:53+00:00",
-      "tags": [],
-      "text": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。https://x.com/nft_hu/status/1732744748845445548?s=20",
-      "content": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。<br><a href=\"https://x.com/nft_hu/status/1732744748845445548?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1732744748845445548?s=20\">https://x.com/nft_hu/status/1732744748845445548?s=20</a>",
-      "reactions": []
     }
   ]
 }

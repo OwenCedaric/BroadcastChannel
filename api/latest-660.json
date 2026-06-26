@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "35",
+      "title": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议",
+      "type": "text",
+      "datetime": "2023-12-07T12:55:53+00:00",
+      "tags": [],
+      "text": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。https://x.com/nft_hu/status/1732744748845445548?s=20",
+      "content": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。<br><a href=\"https://x.com/nft_hu/status/1732744748845445548?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1732744748845445548?s=20\">https://x.com/nft_hu/status/1732744748845445548?s=20</a>",
+      "reactions": []
+    },
     {
       "id": "34",
       "title": "$Shrap 距离本频道初次介绍，正式四倍🙇‍♀️",
@@ -264,27 +274,6 @@
       "text": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉。不过总体互动率还可以；YOUTUBE经营的还不错代币：11.8号上线CEX，目前流动性不佳NFT：地板0.12e  https://opensea.io/collection/shrapnel-operators-collection",
       "content": "新项目介绍 <a href=\"/search/%23Gamfi\" title=\"#Gamfi\">#Gamfi</a><br>- <b>**SHRAPNEL**</b><br><br>AVAX 上的射击游戏<br><br>2023.12上线epic games，发行方Neon Machine<br><br>游戏：做的还不错，目前透露的画面看起来是标准射击游戏<br><br>社群：推特粉丝146k，看互动率应该有50%<i class=\"emoji\"><b>➕</b></i>是假粉。不过总体互动率还可以；YOUTUBE经营的还不错<br><br>代币：11.8号上线CEX，目前流动性不佳<br><br>NFT：地板0.12e  <a href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"https://opensea.io/collection/shrapnel-operators-collection\">https://opensea.io/collection/shrapnel-operators-collection</a><a class=\"tgme_widget_message_link_preview\" href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">opensea.io</div>\n  <img class=\"link_preview_image\" alt=\"Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea\" src=\"/static/4e11abd6f4c3c74e90290ffb51e5448b.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "11",
-      "title": "Fiona‘s daily news-11.6, 2023本周解锁关注🔓：",
-      "type": "text",
-      "datetime": "2023-11-06T02:20:18+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-11.6, 2023本周解锁关注🔓：https://token.unlocks.app/1- GLMR 将于 11 月 7 日 解锁 304 万枚（约 68.8 万美元），占流通供应量的 0.39%；2-HFT 将于 11 月 7 日 解锁 1.6 亿枚（约 4166 万美元），占流通供应量的 73.74%；「早期投资者」与「核心团队」部分将于本周开始解锁；3-1inch 代币 1INCH 将于 11 月 9 日 解锁 1.5 万枚（约 4980 美元）4-Aptos 代币 APT 将于 11 月 12 日 解锁 2484 万枚（约 1.72 亿美元），占流通供应量的 10%，「投资者」与「核心贡献者」部分将于本周开始解锁。（关注APT）News：1- 马斯克将集成XAI到社交平台 $TSLAhttps://www.reuters.com/technology/musk-integrate-xai-with-social-media-platform-x-2023-11-05/2-Vanguard CEO Tim Buckley says no plan to pursue bitcoin ETFhttps://internationalfinance.com/currency/vanguard-ceo-tim-buckley-says-no-plan-pursue-bitcoin-etf/项目消息：1-周末meme：Grok（马斯克AI概念）MC冲高17m后回落10m2-Synthetix V3 允许开发者选择任意链上预言机https://x.com/synthetix_io/status/1721074408272613462?s=203-LayerZero似乎空投在即，基金会注册https://x.com/Airdrop_Guard/status/1720742500665802752?s=204-Curve 创始人发起「在以太坊主网上部署 Venus Protocol」的提案https://community.venus.io/t/vrc-deploy-venus-protocol-on-ethereum-mainnet/38855-Cake周边项目https://twitter.com/cakepiexyz_io行情资讯：1-昨天Biance系币种大涨，BNB推土机，关注https://x.com/nft_hu/status/1721183700145279126?s=202-强者恒强 LINK INJ SOL旧的群车继续3-新强势币CAKE， NEAR ，NEO&GAS ，BNB4-某巨鲸在过去 5 小时花费价值 380 万美元加密资产买入约 31 万枚 LINKhttps://t.me/foresightnews/331955-Prisma Finance 社区发起「将债务利率从 1% 提升到 2%」提案BTC生态：1.周末全员打4D map中，现在已经打完。5D难度激增",
-      "content": "Fiona‘s daily news-11.6, 2023<br><br>本周解锁关注<i class=\"emoji\"><b>🔓</b></i>：<br><a href=\"https://token.unlocks.app/\" target=\"_blank\" rel=\"noopener\" title=\"https://token.unlocks.app/\">https://token.unlocks.app/</a><br>1- GLMR 将于 11 月 7 日 解锁 304 万枚（约 68.8 万美元），占流通供应量的 0.39%；<br>2-HFT 将于 11 月 7 日 解锁 1.6 亿枚（约 4166 万美元），占流通供应量的 73.74%；「早期投资者」与「核心团队」部分将于本周开始解锁；<br>3-1inch 代币 1INCH 将于 11 月 9 日 解锁 1.5 万枚（约 4980 美元）<br>4-Aptos 代币 APT 将于 11 月 12 日 解锁 2484 万枚（约 1.72 亿美元），占流通供应量的 10%，「投资者」与「核心贡献者」部分将于本周开始解锁。<br>（关注APT）<br><br><br>News：<br>1- 马斯克将集成XAI到社交平台 $TSLA<br><a href=\"https://www.reuters.com/technology/musk-integrate-xai-with-social-media-platform-x-2023-11-05/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.reuters.com/technology/musk-integrate-xai-with-social-media-platform-x-2023-11-05/\">https://www.reuters.com/technology/musk-integrate-xai-with-social-media-platform-x-2023-11-05/</a><br>2-Vanguard CEO Tim Buckley says no plan to pursue bitcoin ETF<br><a href=\"https://internationalfinance.com/currency/vanguard-ceo-tim-buckley-says-no-plan-pursue-bitcoin-etf/\" target=\"_blank\" rel=\"noopener\" title=\"https://internationalfinance.com/currency/vanguard-ceo-tim-buckley-says-no-plan-pursue-bitcoin-etf/\">https://internationalfinance.com/currency/vanguard-ceo-tim-buckley-says-no-plan-pursue-bitcoin-etf/</a><br><br><br>项目消息：<br>1-周末meme：Grok（马斯克AI概念）MC冲高17m后回落10m<br>2-Synthetix V3 允许开发者选择任意链上预言机<br><a href=\"https://x.com/synthetix_io/status/1721074408272613462?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/synthetix_io/status/1721074408272613462?s=20\">https://x.com/synthetix_io/status/1721074408272613462?s=20</a><br>3-LayerZero似乎空投在即，基金会注册<br><a href=\"https://x.com/Airdrop_Guard/status/1720742500665802752?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Airdrop_Guard/status/1720742500665802752?s=20\">https://x.com/Airdrop_Guard/status/1720742500665802752?s=20</a><br>4-Curve 创始人发起「在以太坊主网上部署 Venus Protocol」的提案<br><a href=\"https://community.venus.io/t/vrc-deploy-venus-protocol-on-ethereum-mainnet/3885\" target=\"_blank\" rel=\"noopener\" title=\"https://community.venus.io/t/vrc-deploy-venus-protocol-on-ethereum-mainnet/3885\">https://community.venus.io/t/vrc-deploy-venus-protocol-on-ethereum-mainnet/3885</a><br>5-Cake周边项目<br><a href=\"https://twitter.com/cakepiexyz_io\" target=\"_blank\" rel=\"noopener\" title=\"https://twitter.com/cakepiexyz_io\">https://twitter.com/cakepiexyz_io</a><br><br><br>行情资讯：<br>1-昨天Biance系币种大涨，BNB推土机，关注<br><a href=\"https://x.com/nft_hu/status/1721183700145279126?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1721183700145279126?s=20\">https://x.com/nft_hu/status/1721183700145279126?s=20</a><br>2-强者恒强 LINK INJ SOL旧的群车继续<br>3-新强势币CAKE， NEAR ，NEO&amp;GAS ，BNB<br>4-某巨鲸在过去 5 小时花费价值 380 万美元加密资产买入约 31 万枚 LINK<br><a href=\"https://t.me/foresightnews/33195\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/foresightnews/33195\">https://t.me/foresightnews/33195</a><br>5-Prisma Finance 社区发起「将债务利率从 1% 提升到 2%」提案<br><br>BTC生态：<br>1.周末全员打4D map中，现在已经打完。5D难度激增",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

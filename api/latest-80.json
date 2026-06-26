@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 687,
+    "totalPosts": 688,
     "totalPages": 35,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "640",
+      "title": "减仓落袋ing",
+      "type": "text",
+      "datetime": "2026-04-21T15:04:32+00:00",
+      "tags": [],
+      "text": "减仓落袋ing",
+      "content": "减仓落袋ing",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "639",
       "title": "在3个月后，真正被市场认识到CPU缺乏，进一步推高了包括：$AMD $INTC $ARM 的股价",
@@ -324,32 +340,6 @@
         },
         {
           "emoji": "🎅",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "620",
-      "title": "前不久人人都说美光不行了，还是好好买入持有了眨眼美光已经回到460",
-      "type": "text",
-      "datetime": "2026-04-14T23:35:05+00:00",
-      "tags": [],
-      "text": "前不久人人都说美光不行了，还是好好买入持有了眨眼美光已经回到460。无须多言 $MU",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/589\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">Buy back $MU</div>\n</small></blockquote></a>前不久人人都说美光不行了，还是好好买入持有了<br>眨眼美光已经回到460。<br><br>无须多言 $MU",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎅",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }
