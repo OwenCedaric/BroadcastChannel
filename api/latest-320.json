@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 688,
+    "totalPosts": 689,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "392",
+      "title": "不得不说，开的位置有点差了，被FOMO在了0.006",
+      "type": "text",
+      "datetime": "2025-09-12T15:22:38+00:00",
+      "tags": [],
+      "text": "不得不说，开的位置有点差了，被FOMO在了0.006。如果行情或者强势不能持续，这一单会止损",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/388\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">PUMP买回来了，右侧</div>\n</small></blockquote></a>不得不说，开的位置有点差了，被FOMO在了0.006。如果行情或者强势不能持续，这一单会止损",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "👌",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "391",
       "title": "Will GLXY be next BMNR?",
@@ -422,27 +458,6 @@
         {
           "emoji": "❤️",
           "count": "14",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "371",
-      "title": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论",
-      "type": "text",
-      "datetime": "2025-09-05T12:11:44+00:00",
-      "tags": [],
-      "text": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论。机器人有几个核心部件，是不可或缺的：1️⃣芯片:  $NVDA $TSM2️⃣软件:  Google  Meta $ORCL3️⃣电池: 宁德时代4️⃣整合厂商：基本上是大型互联网企业或者车企，这个赛道比较拥挤，诸如比亚迪 阿里巴巴 特斯拉 小鹏，现代，丰田 小米等均是此外还有专职从事机器人研发的企业：Figure，宇树，优必选，Boston Dynamics...",
-      "content": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论。<br><br>机器人有几个核心部件，是不可或缺的：<br><i class=\"emoji\"><b>1️⃣</b></i>芯片:  $NVDA $TSM<br><i class=\"emoji\"><b>2️⃣</b></i>软件:  Google  Meta $ORCL<br><i class=\"emoji\"><b>3️⃣</b></i>电池: 宁德时代<br><i class=\"emoji\"><b>4️⃣</b></i>整合厂商：基本上是大型互联网企业或者车企，这个赛道比较拥挤，诸如比亚迪 阿里巴巴 特斯拉 小鹏，现代，丰田 小米等均是<br><br>此外还有专职从事机器人研发的企业：Figure，宇树，优必选，Boston Dynamics...",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "1",
           "isPaid": false
         }
       ]

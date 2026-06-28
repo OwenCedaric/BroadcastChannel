@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 688,
+    "totalPosts": 689,
     "totalPages": 35,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "641",
+      "title": "美股转跌感觉除了伊朗没有准信儿，还有美联储主席提名人沃什的讲话",
+      "type": "text",
+      "datetime": "2026-04-21T15:11:37+00:00",
+      "tags": [],
+      "text": "美股转跌感觉除了伊朗没有准信儿，还有美联储主席提名人沃什的讲话。巴基斯坦部长称仍在等待伊朗对参加会谈的正式回应。Investinglive分析师表示，这可不是个好兆头。我几乎不会持有任何金融资产了。沃什和特朗普划清界限，表达美联储需要改革。当然涨久了涨不动要跌也是常有的事",
+      "content": "美股转跌感觉除了伊朗没有准信儿，还有美联储主席提名人沃什的讲话。<br><br>巴基斯坦部长称仍在等待伊朗对参加会谈的正式回应。Investinglive分析师表示，这可不是个好兆头。我几乎不会持有任何金融资产了。<br><br>沃什和特朗普划清界限，表达美联储需要改革。<br><br>当然涨久了涨不动要跌也是常有的事",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "640",
       "title": "减仓落袋ing",
@@ -320,27 +336,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "621",
-      "title": "涨势太猛，按计划继续落袋了一些",
-      "type": "text",
-      "datetime": "2026-04-15T03:26:35+00:00",
-      "tags": [],
-      "text": "涨势太猛，按计划继续落袋了一些。现在努力锻炼卖飞不心疼的定力。",
-      "content": "涨势太猛，按计划继续落袋了一些。现在努力锻炼卖飞不心疼的定力。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎅",
-          "count": "1",
           "isPaid": false
         }
       ]

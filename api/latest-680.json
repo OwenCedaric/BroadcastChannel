@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 688,
+    "totalPosts": 689,
     "totalPages": 35,
     "currentPage": 35,
     "pageSize": 20,
@@ -13,6 +13,18 @@
     "prevPageUrl": "latest-660.json"
   },
   "data": [
+    {
+      "id": "13",
+      "title": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉",
+      "type": "text",
+      "datetime": "2023-11-12T10:56:14+00:00",
+      "tags": [
+        "Gamfi"
+      ],
+      "text": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉。不过总体互动率还可以；YOUTUBE经营的还不错代币：11.8号上线CEX，目前流动性不佳NFT：地板0.12e  https://opensea.io/collection/shrapnel-operators-collection",
+      "content": "新项目介绍 <a href=\"/search/%23Gamfi\" title=\"#Gamfi\">#Gamfi</a><br>- <b>**SHRAPNEL**</b><br><br>AVAX 上的射击游戏<br><br>2023.12上线epic games，发行方Neon Machine<br><br>游戏：做的还不错，目前透露的画面看起来是标准射击游戏<br><br>社群：推特粉丝146k，看互动率应该有50%<i class=\"emoji\"><b>➕</b></i>是假粉。不过总体互动率还可以；YOUTUBE经营的还不错<br><br>代币：11.8号上线CEX，目前流动性不佳<br><br>NFT：地板0.12e  <a href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"https://opensea.io/collection/shrapnel-operators-collection\">https://opensea.io/collection/shrapnel-operators-collection</a><a class=\"tgme_widget_message_link_preview\" href=\"https://opensea.io/collection/shrapnel-operators-collection\" target=\"_blank\" rel=\"noopener\" title=\"Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">opensea.io</div>\n  <img class=\"link_preview_image\" alt=\"Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea\" src=\"/static/4e11abd6f4c3c74e90290ffb51e5448b.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Shrapnel Operators Collection 0.007 ETH - Collection | OpenSea</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Operators represent the 5 characters in Shrapnel's upcoming comic book series based on the video game in development. Each character has their own story told in one of the comic books currently in production. Collect each Operator to get access to the comic…</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "11",
       "title": "Fiona‘s daily news-11.6, 2023本周解锁关注🔓：",
