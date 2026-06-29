@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "643",
+      "title": "昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金",
+      "type": "text",
+      "datetime": "2026-04-22T01:38:53+00:00",
+      "tags": [],
+      "text": "昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金。因为最近的反弹非常惊人，不少股票估值都在历史高位。我倾向于牛市没有结束。但是接下来密集的财报季、美联储主席更替和新一轮的议息会议，增加一点现金水位让操作更有灵活度。多点现金也更平静理性地思考。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/640\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">减仓落袋ing</div>\n</small></blockquote></a>昨晚稍微减了一点仓，现在大概现货持仓6.5成，剩下的是现金。<br><br>因为最近的反弹非常惊人，不少股票估值都在历史高位。我倾向于牛市没有结束。<br><br>但是接下来密集的财报季、美联储主席更替和新一轮的议息会议，增加一点现金水位让操作更有灵活度。<br><br>多点现金也更平静理性地思考。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "642",
       "title": "【Fiona日报】2026-04-22 周三━━ 今日最重要一件事 ━━伊朗停火协议悬而未决，但尾部风险正在被定价",
@@ -320,22 +351,6 @@
         {
           "emoji": "❤️",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "623",
-      "title": "For now, $NOW pumped from 84-93",
-      "type": "text",
-      "datetime": "2026-04-15T15:24:22+00:00",
-      "tags": [],
-      "text": "For now, $NOW pumped from 84-93",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>For now, $NOW pumped from 84-93",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "2",
           "isPaid": false
         }
       ]

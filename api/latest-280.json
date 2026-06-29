@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "435",
+      "title": "抱抱自己也抱抱朋友",
+      "type": "text",
+      "datetime": "2025-10-10T23:13:02+00:00",
+      "tags": [],
+      "text": "抱抱自己也抱抱朋友",
+      "content": "抱抱自己也抱抱朋友",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "46",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "434",
       "title": "极限行情，下跌的幅度和上涨的幅度都会超过你的想象",
@@ -401,22 +427,6 @@
         {
           "emoji": "💔",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "415",
-      "title": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子",
-      "type": "text",
-      "datetime": "2025-09-29T02:24:15+00:00",
-      "tags": [],
-      "text": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
-      "content": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "10",
           "isPaid": false
         }
       ]

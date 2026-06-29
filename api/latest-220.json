@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "500",
+      "title": "美光也继续冲锋",
+      "type": "text",
+      "datetime": "2026-01-20T14:53:02+00:00",
+      "tags": [],
+      "text": "美光也继续冲锋",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>美光也继续冲锋",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "499",
       "title": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
@@ -352,22 +368,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "480",
-      "title": "美国经济12月新增5万个就业岗位，低于预期的6.6万个",
-      "type": "text",
-      "datetime": "2026-01-09T13:32:23+00:00",
-      "tags": [],
-      "text": "美国经济12月新增5万个就业岗位，低于预期的6.6万个。失业率降至4.4%，低于预期的4.5%。11月份的失业率也被从4.6%下修至4.5%。美联储将暂停降息。",
-      "content": "美国经济12月新增5万个就业岗位，低于预期的6.6万个。<br>失业率降至4.4%，低于预期的4.5%。<br>11月份的失业率也被从4.6%下修至4.5%。<br><br>美联储将暂停降息。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
           "isPaid": false
         }
       ]

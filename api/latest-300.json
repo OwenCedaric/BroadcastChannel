@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 16,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-280.json"
   },
   "data": [
+    {
+      "id": "415",
+      "title": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子",
+      "type": "text",
+      "datetime": "2025-09-29T02:24:15+00:00",
+      "tags": [],
+      "text": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
+      "content": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "414",
       "title": "优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与天奇股份正式签订采购合同",
@@ -412,27 +428,6 @@
         {
           "emoji": "🫡",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "394",
-      "title": "对pump的看法没变，但是交易的执行还是有一些问题",
-      "type": "text",
-      "datetime": "2025-09-12T15:47:26+00:00",
-      "tags": [],
-      "text": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记🫡",
-      "content": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记<i class=\"emoji\"><b>🫡</b></i>",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "7",
           "isPaid": false
         }
       ]

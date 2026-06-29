@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "623",
+      "title": "For now, $NOW pumped from 84-93",
+      "type": "text",
+      "datetime": "2026-04-15T15:24:22+00:00",
+      "tags": [],
+      "text": "For now, $NOW pumped from 84-93",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>For now, $NOW pumped from 84-93",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "622",
       "title": "刷过zkSync Lite的朋友记得查一下余额，该链5月4号永久结束，之后资产都会取不出",
@@ -375,22 +391,6 @@
         },
         {
           "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "603",
-      "title": "Taco了，舒服了",
-      "type": "text",
-      "datetime": "2026-04-08T01:33:18+00:00",
-      "tags": [],
-      "text": "Taco了，舒服了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/597\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">本次抄底的所有標的都水上了，謝謝朋友們的關心。 左側還是挺不習慣，畢竟專注右側交易。 跌破位的時候說不心慌是假的，還好之前寫研報看了又看，理性和信心還是在的。  還是要深入研究自己的標的，有信仰才拿得住</div>\n</small></blockquote></a>Taco了，舒服了",
-      "reactions": [
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }

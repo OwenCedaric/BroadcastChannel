@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "252",
+      "title": "欢迎大家来到9月，今年的9月还会是糟糕行情么？",
+      "type": "text",
+      "datetime": "2024-08-31T15:47:14+00:00",
+      "tags": [],
+      "text": "欢迎大家来到9月，今年的9月还会是糟糕行情么？https://x.com/nft_hu/status/1828422337735340460?s=46",
+      "content": "欢迎大家来到9月，今年的9月还会是糟糕行情么？<br><br><a href=\"https://x.com/nft_hu/status/1828422337735340460?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1828422337735340460?s=46\">https://x.com/nft_hu/status/1828422337735340460?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1828422337735340460?s=46\" target=\"_blank\" rel=\"noopener\" title=\"为何我最近几天有点风吹草动就卖卖卖，因为时间已经8月27，逼近9月。个人最近的操作目标不是收益最大化，而是最大化保全胜利果实，尽量不会撤。出于对9月魔咒🪄的敬畏之心，我卖了。什么是九月魔咒？逢九月就跌是真的么？这背后的原因又是如何呢？今年还会9月魔咒么？\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/dda799389bc8930d80fe0488fbc1e689.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">为何我最近几天有点风吹草动就卖卖卖，因为时间已经8月27，逼近9月。个人最近的操作目标不是收益最大化，而是最大化保全胜利果实，尽量不会撤。<br><br>出于对9月魔咒<i class=\"emoji\" style=\"background-image:url('/static/6aeacda8ec3d54f15505be04c9e96bb1.png')\"><b>🪄</b></i>的敬畏之心，我卖了。<br><br>什么是九月魔咒？逢九月就跌是真的么？这背后的原因又是如何呢？今年还会9月魔咒么？</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "251",
       "title": "值得一读，TG收入的40%来自于加密业务，他们持有的Ton的价值超过了他们持有的现金",
@@ -428,27 +449,6 @@
         {
           "emoji": "👍",
           "count": "11",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "229",
-      "title": "front 0.72-0.86 ☺️个人觉得还没到头",
-      "type": "text",
-      "datetime": "2024-08-22T02:42:40+00:00",
-      "tags": [],
-      "text": "front 0.72-0.86 ☺️个人觉得还没到头",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/224\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">今日份彩票front，换币概念</div>\n</small></blockquote></a>front 0.72-0.86 <i class=\"emoji\"><b>☺️</b></i>个人觉得还没到头",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

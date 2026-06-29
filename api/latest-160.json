@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "561",
+      "title": "今日伊朗新闻： 双方都表示自己很厉害，并不准备停战，继续互射飞弹",
+      "type": "text",
+      "datetime": "2026-03-07T13:59:26+00:00",
+      "tags": [],
+      "text": "今日伊朗新闻： 双方都表示自己很厉害，并不准备停战，继续互射飞弹。邻居崩溃，纷纷减产石油。1️⃣据福克斯新闻：美国已击沉43艘伊朗海军舰艇。2️⃣伊朗革命卫队：在霍尔木兹海峡击中一艘马绍尔群岛籍油轮3️⃣伊朗向巴林发射了弹道导弹和无人机。4️⃣ 伊朗总统佩泽希齐扬：伊朗寻求与地区国家建立友好关系，但这并不否认伊朗有权自卫，抵御来自美国和以色列的“侵略”。",
+      "content": "今日伊朗新闻： 双方都表示自己很厉害，并不准备停战，继续互射飞弹。邻居崩溃，纷纷减产石油。<br><br><i class=\"emoji\"><b>1️⃣</b></i>据福克斯新闻：美国已击沉43艘伊朗海军舰艇。<br><i class=\"emoji\"><b>2️⃣</b></i>伊朗革命卫队：在霍尔木兹海峡击中一艘马绍尔群岛籍油轮<br><i class=\"emoji\"><b>3️⃣</b></i>伊朗向巴林发射了弹道导弹和无人机。<br><i class=\"emoji\"><b>4️⃣</b></i> 伊朗总统佩泽希齐扬：伊朗寻求与地区国家建立友好关系，但这并不否认伊朗有权自卫，抵御来自美国和以色列的“侵略”。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "560",
       "title": "GTC 可能带动的五大交易主题，非投资建议1️⃣ HBM继续紧缺→ $MU / SK Hynix/ Samsung 2️⃣ 光模块→ $LITE / $COHR / $AAOI3️⃣ AI电力→ $VRT / $ETN4️⃣ AI网络→ $AVGO / $MRVL5️⃣ GPU生态→ $NVDA / $SMCI",
@@ -387,37 +408,6 @@
         {
           "emoji": "👏",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "540",
-      "title": "本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50",
-      "type": "text",
-      "datetime": "2026-02-07T13:44:06+00:00",
-      "tags": [],
-      "text": "本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50。最近Intel有哪些进展/消息呢？1️⃣GPU方向Intel CEO Lip-Bu Tan 在 Cisco AI Summit 表示：“Intel 正在组建 新的 GPU 计划，由新聘请的首席 GPU 架构师 Eric Demers 领导，数据中心老将 Kevork Kechichian 参与。”这表明：Intel 希望重新进入由 Nvidia 和 AMD 主导的 加速计算领域。市场对这一消息反响积极。但我们也清楚：从“宣布”到“有竞争力”，中间往往是多年差距。这里补充说一下陈立武非常看重的“梦之队”，他表示说服这位“大神”（首席架构师：Eric Demers）加盟，Intel 费了很大的周旋。他已于 2026 年 1 月正式入职。此前他是Qualcomm（高通） 的工程高级副总裁，负责 GPU 架构超过 13 年。2️⃣中国市场与Intel周五的反弹中，Intel 股价在盘中上涨约 4%，跑赢整体芯片板块。根据Reuters 报道：🌟Intel 在中国市场的部分服务器 CPU交期被拉长至最长 6 个月🌟服务器 CPU 价格上涨超过 10%🌟中国占 Intel 总营收 20% 以上，英特尔的第四代和第五代 Xeon 服务器 CPU 目前供应尤为紧张。两位知情人士表示，英特尔已经开始对出货进行配给（rationing）$AMD 也已向客户通报存在供应受限的情况。第三位消息人士称，部分 AMD 产品的交付周期已被推迟至 8 至 10 周。推荐阅读：https://www.reuters.com/world/china/intel-amd-notify-customers-china-lengthy-waits-cpus-2026-02-06/",
-      "content": "本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50。<br><br>最近Intel有哪些进展/消息呢？<br><br><i class=\"emoji\"><b>1️⃣</b></i>GPU方向<br>Intel CEO Lip-Bu Tan 在 Cisco AI Summit 表示：<br>“Intel 正在组建 新的 GPU 计划，由新聘请的首席 GPU 架构师 Eric Demers 领导，数据中心老将 Kevork Kechichian 参与。”<br>这表明：Intel 希望重新进入由 Nvidia 和 AMD 主导的 加速计算领域。<br>市场对这一消息反响积极。但我们也清楚：从“宣布”到“有竞争力”，中间往往是多年差距。<br><br>这里补充说一下陈立武非常看重的“梦之队”，他表示说服这位“大神”（首席架构师：Eric Demers）加盟，Intel 费了很大的周旋。他已于 2026 年 1 月正式入职。此前他是Qualcomm（高通） 的工程高级副总裁，负责 GPU 架构超过 13 年。<br><br><i class=\"emoji\"><b>2️⃣</b></i>中国市场与Intel<br>周五的反弹中，Intel 股价在盘中上涨约 4%，跑赢整体芯片板块。<br>根据Reuters 报道：<br><i class=\"emoji\"><b>🌟</b></i>Intel 在中国市场的部分服务器 CPU交期被拉长至最长 6 个月<br><i class=\"emoji\"><b>🌟</b></i>服务器 CPU 价格上涨超过 10%<br><i class=\"emoji\"><b>🌟</b></i>中国占 Intel 总营收 20% 以上，英特尔的第四代和第五代 Xeon 服务器 CPU 目前供应尤为紧张。两位知情人士表示，英特尔已经开始对出货进行配给（rationing）<br><br>$AMD 也已向客户通报存在供应受限的情况。第三位消息人士称，部分 AMD 产品的交付周期已被推迟至 8 至 10 周。<br><br>推荐阅读：<a href=\"https://www.reuters.com/world/china/intel-amd-notify-customers-china-lengthy-waits-cpus-2026-02-06/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.reuters.com/world/china/intel-amd-notify-customers-china-lengthy-waits-cpus-2026-02-06/\">https://www.reuters.com/world/china/intel-amd-notify-customers-china-lengthy-waits-cpus-2026-02-06/</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.reuters.com/world/china/intel-amd-notify-customers-china-lengthy-waits-cpus-2026-02-06/\" target=\"_blank\" rel=\"noopener\" title=\"Intel and AMD have notified Chinese customers of supply shortages for server central processing units, with Intel warning of delivery lead times of up to six months, people with knowledge of the delays said.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Reuters</div>\n  <img class=\"link_preview_image\" alt=\"Exclusive: Intel, AMD notify customers in China of lengthy waits for CPUs\" src=\"/static/fdf442b107465e9b252b1f3dae508bbc.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Exclusive: Intel, AMD notify customers in China of lengthy waits for CPUs</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Intel and AMD have notified Chinese customers of supply shortages for server central processing units, with Intel warning of delivery lead times of up to six months, people with knowledge of the delays said.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "603",
+      "title": "Taco了，舒服了",
+      "type": "text",
+      "datetime": "2026-04-08T01:33:18+00:00",
+      "tags": [],
+      "text": "Taco了，舒服了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/597\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">本次抄底的所有標的都水上了，謝謝朋友們的關心。 左側還是挺不習慣，畢竟專注右側交易。 跌破位的時候說不心慌是假的，還好之前寫研報看了又看，理性和信心還是在的。  還是要深入研究自己的標的，有信仰才拿得住</div>\n</small></blockquote></a>Taco了，舒服了",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "602",
       "title": "【Fiona的日报频道】2026-04-07━━ 宏观要闻 ━━1️⃣🌟 IMF 警告全球进入“高通胀、低增长”通道，滞胀风险再起",
@@ -316,22 +332,6 @@
         {
           "emoji": "👍",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "583",
-      "title": "卖出了",
-      "type": "text",
-      "datetime": "2026-03-17T16:10:22+00:00",
-      "tags": [],
-      "text": "卖出了。光太弱，转移去了能源股",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/581\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">接到了LITE 。</div>\n</small></blockquote></a>卖出了。光太弱，转移去了能源股",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "1",
           "isPaid": false
         }
       ]

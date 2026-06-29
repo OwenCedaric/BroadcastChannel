@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "373",
+      "title": "看到了最新的新闻，觉得和之前的pengu有点像",
+      "type": "text",
+      "datetime": "2025-09-08T12:49:03+00:00",
+      "tags": [],
+      "text": "看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/372\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">新增观察标的 WLD</div>\n</small></blockquote></a>看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "27",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "372",
       "title": "新增观察标的 WLD",
@@ -404,16 +420,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "353",
-      "title": "卖完一直涨 哭了",
-      "type": "text",
-      "datetime": "2025-08-12T12:32:49+00:00",
-      "tags": [],
-      "text": "卖完一直涨 哭了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/352\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">清仓 BMNR 等新增发</div>\n</small></blockquote></a>卖完一直涨 哭了",
-      "reactions": []
     }
   ]
 }

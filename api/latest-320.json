@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 690,
+    "totalPosts": 691,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "394",
+      "title": "对pump的看法没变，但是交易的执行还是有一些问题",
+      "type": "text",
+      "datetime": "2025-09-12T15:47:26+00:00",
+      "tags": [],
+      "text": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记🫡",
+      "content": "对pump的看法没变，但是交易的执行还是有一些问题。右侧最难的就是如果真的买突破，买到假突破，就会被挂在山顶。 或许还会再买回来，不过等那时候再看吧。失败的交易也要铭记<i class=\"emoji\"><b>🫡</b></i>",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "393",
       "title": "止损了",
@@ -452,22 +473,6 @@
         {
           "emoji": "👍",
           "count": "19",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "373",
-      "title": "看到了最新的新闻，觉得和之前的pengu有点像",
-      "type": "text",
-      "datetime": "2025-09-08T12:49:03+00:00",
-      "tags": [],
-      "text": "看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/372\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">新增观察标的 WLD</div>\n</small></blockquote></a>看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "27",
           "isPaid": false
         }
       ]
