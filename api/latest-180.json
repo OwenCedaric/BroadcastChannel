@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 689,
+    "totalPosts": 690,
     "totalPages": 35,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "539",
+      "title": "跨年时写了一篇文章，《不要在垃圾场里掘金》",
+      "type": "text",
+      "datetime": "2026-02-07T07:21:55+00:00",
+      "tags": [],
+      "text": "跨年时写了一篇文章，《不要在垃圾场里掘金》。10月11日之后，转战美股，目前整体收益表现不错。前几天的暴跌中也抄底了包括 $GOOG $RKLB $MU $INTC 等等....最近 Matrixport 也上线了美股交易产品。1️⃣ 注册：身份证可以直接注册（国人友好）2️⃣ 出入金：USDC/USDT可以直接出入金3️⃣交易：流动性好和手续费低自己试过才给大家推荐，欢迎使用我的link：https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN",
+      "content": "跨年时写了一篇文章，《不要在垃圾场里掘金》。<br>10月11日之后，转战美股，目前整体收益表现不错。前几天的暴跌中也抄底了包括 $GOOG $RKLB $MU $INTC 等等....<br><br>最近 Matrixport 也上线了美股交易产品。<br><i class=\"emoji\"><b>1️⃣</b></i> 注册：身份证可以直接注册（国人友好）<br><i class=\"emoji\"><b>2️⃣</b></i> 出入金：USDC/USDT可以直接出入金<br><i class=\"emoji\"><b>3️⃣</b></i>交易：流动性好和手续费低<br><br>自己试过才给大家推荐，欢迎使用我的link：<a href=\"https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN\" target=\"_blank\" rel=\"noopener\" title=\"https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN\">https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "11",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "538",
       "title": "開心了",
@@ -393,37 +409,6 @@
         {
           "emoji": "🥰",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "519",
-      "title": "看了深潮的文章说几句",
-      "type": "text",
-      "datetime": "2026-01-29T20:35:09+00:00",
-      "tags": [],
-      "text": "看了深潮的文章说几句。我不觉得只是因为熊市需要一个宣泄出口，CZ才会招骂。底层逻辑还是 “天下苦秦久矣”。秦的暴政才是错，他造成了民不聊生的世道，大家才会揭竿而起。这个熊市币安需要负多少责任？作为行业第一得操守看不到，骚操作却比比皆是。10月10号说清楚了么？这一天的伤痛还一直提醒着我们。一直上币从本就流动性干枯的市场里抽血，最差的时候我甚至想，如果FTX还在会不会比较好。用水军和舔狗撑起来的太平盛世的假面不持久，是空中楼阁，一戳就破。醒醒吧，看看世界的真相。2026应该是出发下一站的时候了！不在垃圾场里挖金子。",
-      "content": "看了深潮的文章说几句。我不觉得只是因为熊市需要一个宣泄出口，CZ才会招骂。<br><br>底层逻辑还是 “天下苦秦久矣”。秦的暴政才是错，他造成了民不聊生的世道，大家才会揭竿而起。<br><br>这个熊市币安需要负多少责任？作为行业第一得操守看不到，骚操作却比比皆是。10月10号说清楚了么？这一天的伤痛还一直提醒着我们。<br>一直上币从本就流动性干枯的市场里抽血，最差的时候我甚至想，如果FTX还在会不会比较好。<br><br>用水军和舔狗撑起来的太平盛世的假面不持久，是空中楼阁，一戳就破。<br><br>醒醒吧，看看世界的真相。2026应该是出发下一站的时候了！不在垃圾场里挖金子。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "49",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "24",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
           "isPaid": false
         }
       ]

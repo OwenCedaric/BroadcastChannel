@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 689,
+    "totalPosts": 690,
     "totalPages": 35,
     "currentPage": 13,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "479",
+      "title": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代",
+      "type": "text",
+      "datetime": "2026-01-09T12:17:09+00:00",
+      "tags": [],
+      "text": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。2️⃣ 生产力与安全 Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。3️⃣ 物理 AI 与工业落地 (Physical AI)奔驰 CLA 级首发 Alpamayo 自驾推理模型。JLR (捷豹路虎) & Lucid  $LCID : 紧随其后的自驾技术合作伙伴。Siemens (http://SIE.DE): 投入数百名专家，深度集成工业 AI 与数字孪生。Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。",
+      "content": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：<br><br><i class=\"emoji\"><b>1️⃣</b></i> 企业级智能体 <br>-Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。<br>-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。<br>-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。<br>NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。<br>Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。<br><br><i class=\"emoji\"><b>2️⃣</b></i> 生产力与安全 <br>Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。<br>CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、<br>CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。<br>Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。<br><br><i class=\"emoji\"><b>3️⃣</b></i> 物理 AI 与工业落地 (Physical AI)<br>奔驰 CLA 级首发 Alpamayo 自驾推理模型。<br>JLR (捷豹路虎) &amp; Lucid  $LCID : 紧随其后的自驾技术合作伙伴。<br>Siemens (<a href=\"http://SIE.DE/\" target=\"_blank\" rel=\"noopener\" title=\"http://SIE.DE\">http://SIE.DE</a>): 投入数百名专家，深度集成工业 AI 与数字孪生。<br>Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。<a class=\"tgme_widget_message_link_preview\" href=\"http://sie.de/\" target=\"_blank\" rel=\"noopener\" title=\"BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">brigitte.de</div>\n  <img class=\"link_preview_image\" alt=\"BRIGITTE: Dein Leben. Dein Weg.\" src=\"/static/821ae8fcfb3b35c387caf2aaa0371172.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">BRIGITTE: Dein Leben. Dein Weg.</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "478",
       "title": "有一个很简单但是很本质的选股逻辑，你的生活里被什么包围，你在用什么且觉得好用离不开，那就买什么？$BABA 承包了我的购物$GOOG 承包了日常、出行、工作$AAPL 承担了我的电子设备全家桶",
@@ -436,27 +457,6 @@
       "text": "光通讯 知识点复习 https://x.com/nft_hu/status/1988075814794260886?s=46",
       "content": "光通讯 知识点复习 <a href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1988075814794260886?s=46\">https://x.com/nft_hu/status/1988075814794260886?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。1️⃣什么是光通讯？他和传统的通讯有什么不同？光通讯通常依靠光纤来传输数据，速度快、损耗小。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7061b26b183f393488bd8e87d6b97167.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>什么是光通讯？他和传统的通讯有什么不同？<br>光通讯通常依靠光纤来传输数据，速度快、损耗小。</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "456",
-      "title": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得",
-      "type": "text",
-      "datetime": "2025-12-06T13:05:44+00:00",
-      "tags": [],
-      "text": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得。慢慢出产深度文的同时，本文列举一下相关标的：$FLNC 仅此于Tesla 的储能巨头，近一周表现极其强势。$EOSE 同样是储能板块，但与传统“锂电池 + BESS”供应商不同，它主打 锌基 (zinc‑based) 储能解决方案。$CEG 北美最大的清洁能源发电运营商，也是最大的核能运营商：包含核能、水电、风电、太阳能、天然气发电等方式。$NEE 同样是绿电，近期与 与 Google 签署协议，将重启爱荷华州的 Duane Arnold Energy Center（615 MW）核电厂。$VRT 液冷的龙头企业。它提供数据中心用电、供电模块 (PDUs)、UPS／不间断电源、冷却系统、机房基础设施等综合解决方案。$ETN 斥资95亿美元收购Boyd Thermal。此举使伊顿从单一的电力设备供应商，转变为AI数据中心集成热能与电力管理解决方案提供商。$ABB 近期与 Nvidia 合作，为其推动的“800 VDC 供电架构 + 未来吉瓦数据中心” 提供高效率电力基础设备 /基础架构解决方案。提供电力 /能源 /自动化 /电网 /配电 /变电 /供电设备 /工控系统。$GEV 与 Amazon 签订合作，为其大规模数据中心扩展／新建提供电力连接 /基础设施建设支持。也有军工航天的部分。$OKLO 核能公司, 采取小型模组化反应炉 (SMR)，功率范围从 15 兆瓦到 50 兆瓦不等，旨在以更少的燃料产生更大功率。燃料策略计划使用回收核废料（用过的核燃料）进行发电，以减少核废料问题。",
-      "content": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得。<br><br>慢慢出产深度文的同时，本文列举一下相关标的：<br>$FLNC 仅此于Tesla 的储能巨头，近一周表现极其强势。<br>$EOSE 同样是储能板块，但与传统“锂电池 + BESS”供应商不同，它主打 锌基 (zinc‑based) 储能解决方案。<br>$CEG 北美最大的清洁能源发电运营商，也是最大的核能运营商：包含核能、水电、风电、太阳能、天然气发电等方式。<br>$NEE 同样是绿电，近期与 与 Google 签署协议，将重启爱荷华州的 Duane Arnold Energy Center（615 MW）核电厂。<br>$VRT 液冷的龙头企业。它提供数据中心用电、供电模块 (PDUs)、UPS／不间断电源、冷却系统、机房基础设施等综合解决方案。<br>$ETN 斥资95亿美元收购Boyd Thermal。此举使伊顿从单一的电力设备供应商，转变为AI数据中心集成热能与电力管理解决方案提供商。<br>$ABB 近期与 Nvidia 合作，为其推动的“800 VDC 供电架构 + 未来吉瓦数据中心” 提供高效率电力基础设备 /基础架构解决方案。提供电力 /能源 /自动化 /电网 /配电 /变电 /供电设备 /工控系统。<br>$GEV 与 Amazon 签订合作，为其大规模数据中心扩展／新建提供电力连接 /基础设施建设支持。也有军工航天的部分。<br>$OKLO 核能公司, 采取小型模组化反应炉 (SMR)，功率范围从 15 兆瓦到 50 兆瓦不等，旨在以更少的燃料产生更大功率。燃料策略计划使用回收核废料（用过的核燃料）进行发电，以减少核废料问题。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "10",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

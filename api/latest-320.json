@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 689,
+    "totalPosts": 690,
     "totalPages": 35,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "393",
+      "title": "止损了",
+      "type": "text",
+      "datetime": "2025-09-12T15:41:49+00:00",
+      "tags": [],
+      "text": "止损了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/392\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">不得不说，开的位置有点差了，被FOMO在了0.006。如果行情或者强势不能持续，这一单会止损</div>\n</small></blockquote></a>止损了",
+      "reactions": [
+        {
+          "emoji": "👌",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "392",
       "title": "不得不说，开的位置有点差了，被FOMO在了0.006",
@@ -442,22 +468,6 @@
         {
           "emoji": "👍",
           "count": "27",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "372",
-      "title": "新增观察标的 WLD",
-      "type": "text",
-      "datetime": "2025-09-08T12:43:55+00:00",
-      "tags": [],
-      "text": "新增观察标的 WLD",
-      "content": "新增观察标的 WLD",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "14",
           "isPaid": false
         }
       ]

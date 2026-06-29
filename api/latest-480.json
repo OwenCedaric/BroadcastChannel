@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 689,
+    "totalPosts": 690,
     "totalPages": 35,
     "currentPage": 25,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-460.json"
   },
   "data": [
+    {
+      "id": "228",
+      "title": "Bybit的羊毛活動大家試試看這個新的連結：",
+      "type": "text",
+      "datetime": "2024-08-21T15:14:12+00:00",
+      "tags": [],
+      "text": "Bybit的羊毛活動大家試試看這個新的連結：https://www.bybit.com/en/exclusive-user-campaign/?campaign_id=15409&affiliate_id=89886",
+      "content": "Bybit的羊毛活動大家試試看這個新的連結：<a href=\"https://www.bybit.com/en/exclusive-user-campaign/?campaign_id=15409&amp;affiliate_id=89886\" target=\"_blank\" rel=\"noopener\" title=\"https://www.bybit.com/en/exclusive-user-campaign/?campaign_id=15409&amp;affiliate_id=89886\">https://www.bybit.com/en/exclusive-user-campaign/?campaign_id=15409&amp;affiliate_id=89886</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.bybit.com/en/exclusive-user-campaign/?campaign_id=15409&amp;affiliate_id=89886\" target=\"_blank\" rel=\"noopener\" title=\"Claim this exclusive, limited-time reward when you sign up through our Bybit Partners.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Bybit</div>\n  <img class=\"link_preview_image\" alt=\"Limited-Time Exclusive Reward | Bybit\" src=\"/static/fa5e075ff7ef23c424ceab5290d2787a.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Limited-Time Exclusive Reward | Bybit</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Claim this exclusive, limited-time reward when you sign up through our Bybit Partners.</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "227",
       "title": "推一個可以薅羊毛的小活動： 存100得300Bybit合作推出了一个与 $DOGS 有关的活动1️⃣通过下方链接",
@@ -378,22 +388,6 @@
         {
           "emoji": "👎",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "206",
-      "title": "买了点BNB CZ回归在即，加上最近的价格也还可以",
-      "type": "text",
-      "datetime": "2024-08-08T12:59:35+00:00",
-      "tags": [],
-      "text": "买了点BNB CZ回归在即，加上最近的价格也还可以",
-      "content": "买了点BNB CZ回归在即，加上最近的价格也还可以",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
           "isPaid": false
         }
       ]

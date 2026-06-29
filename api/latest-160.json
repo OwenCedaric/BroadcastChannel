@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 689,
+    "totalPosts": 690,
     "totalPages": 35,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "560",
+      "title": "GTC 可能带动的五大交易主题，非投资建议1️⃣ HBM继续紧缺→ $MU / SK Hynix/ Samsung 2️⃣ 光模块→ $LITE / $COHR / $AAOI3️⃣ AI电力→ $VRT / $ETN4️⃣ AI网络→ $AVGO / $MRVL5️⃣ GPU生态→ $NVDA / $SMCI",
+      "type": "text",
+      "datetime": "2026-03-06T08:21:03+00:00",
+      "tags": [],
+      "text": "GTC 可能带动的五大交易主题，非投资建议1️⃣ HBM继续紧缺→ $MU / SK Hynix/ Samsung 2️⃣ 光模块→ $LITE / $COHR / $AAOI3️⃣ AI电力→ $VRT / $ETN4️⃣ AI网络→ $AVGO / $MRVL5️⃣ GPU生态→ $NVDA / $SMCI",
+      "content": "GTC 可能带动的五大交易主题，非投资建议<br><br><i class=\"emoji\"><b>1️⃣</b></i> HBM继续紧缺<br>→ $MU / SK Hynix/ Samsung <br><br><i class=\"emoji\"><b>2️⃣</b></i> 光模块<br>→ $LITE / $COHR / $AAOI<br><br><i class=\"emoji\"><b>3️⃣</b></i> AI电力<br>→ $VRT / $ETN<br><br><i class=\"emoji\"><b>4️⃣</b></i> AI网络<br>→ $AVGO / $MRVL<br><br><i class=\"emoji\"><b>5️⃣</b></i> GPU生态<br>→ $NVDA / $SMCI",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "559",
       "title": "【Fiona的日报频道】2026-03-05（周四）━━ 宏观要闻 ━━📌评语：风险偏好在“战争通胀”与“缓和信号”之间来回切换，市场对利率路径更敏感",
@@ -392,22 +418,6 @@
         {
           "emoji": "😁",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "539",
-      "title": "跨年时写了一篇文章，《不要在垃圾场里掘金》",
-      "type": "text",
-      "datetime": "2026-02-07T07:21:55+00:00",
-      "tags": [],
-      "text": "跨年时写了一篇文章，《不要在垃圾场里掘金》。10月11日之后，转战美股，目前整体收益表现不错。前几天的暴跌中也抄底了包括 $GOOG $RKLB $MU $INTC 等等....最近 Matrixport 也上线了美股交易产品。1️⃣ 注册：身份证可以直接注册（国人友好）2️⃣ 出入金：USDC/USDT可以直接出入金3️⃣交易：流动性好和手续费低自己试过才给大家推荐，欢迎使用我的link：https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN",
-      "content": "跨年时写了一篇文章，《不要在垃圾场里掘金》。<br>10月11日之后，转战美股，目前整体收益表现不错。前几天的暴跌中也抄底了包括 $GOOG $RKLB $MU $INTC 等等....<br><br>最近 Matrixport 也上线了美股交易产品。<br><i class=\"emoji\"><b>1️⃣</b></i> 注册：身份证可以直接注册（国人友好）<br><i class=\"emoji\"><b>2️⃣</b></i> 出入金：USDC/USDT可以直接出入金<br><i class=\"emoji\"><b>3️⃣</b></i>交易：流动性好和手续费低<br><br>自己试过才给大家推荐，欢迎使用我的link：<a href=\"https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN\" target=\"_blank\" rel=\"noopener\" title=\"https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN\">https://invest.matrixport.com/downloadPage/cn?invite_code=S2NDDN</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "11",
           "isPaid": false
         }
       ]
