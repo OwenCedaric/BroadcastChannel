@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 14,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "458",
+      "title": "终于写了火箭第一股 Rocket Lab！持有很久且逢低加仓中",
+      "type": "text",
+      "datetime": "2025-12-10T08:35:20+00:00",
+      "tags": [],
+      "text": "终于写了火箭第一股 Rocket Lab！持有很久且逢低加仓中。完整文章请看：https://x.com/nft_hu/status/1998672508007100835?s=20",
+      "content": "终于写了火箭第一股 Rocket Lab！<br>持有很久且逢低加仓中。完整文章请看：<br><a href=\"https://x.com/nft_hu/status/1998672508007100835?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1998672508007100835?s=20\">https://x.com/nft_hu/status/1998672508007100835?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1998672508007100835?s=20\" target=\"_blank\" rel=\"noopener\" title=\"SpaceX的新融资消息带动了美股太空股的起飞，之前加仓的 $RKLB 也长势喜人。今天来介绍一下这一支和Space X同处火箭赛道的美股Rocket Lab。本文非投资建议，如有错误欢迎评论指正。（一）一句话来介绍Rocket Lab $RKLB 是什么？ta是全球第二大商用发射公司（排在 SpaceX 之后），\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/35b38eb24dc6b74126d9ad7261fc0b05.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">SpaceX的新融资消息带动了美股太空股的起飞，之前加仓的 $RKLB 也长势喜人。<br>今天来介绍一下这一支和Space X同处火箭赛道的美股Rocket Lab。本文非投资建议，如有错误欢迎评论指正。<br><br>（一）一句话来介绍Rocket Lab $RKLB 是什么？<br>ta是全球第二大商用发射公司（排在 SpaceX 之后），</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "457",
       "title": "光通讯 知识点复习 ",
@@ -412,42 +428,6 @@
         {
           "emoji": "🎉",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "436",
-      "title": "爆仓了一次，上一次爆仓是FTX了",
-      "type": "text",
-      "datetime": "2025-10-10T23:24:26+00:00",
-      "tags": [],
-      "text": "爆仓了一次，上一次爆仓是FTX了。我甚至一直认为我的两倍三倍杠杆基本等于现货，没啥爆仓风险。好久没被市场教育了，已经几乎忘了曾经有多疼。这次清算规模之大，针之深，我想很多像我一样低杠杆的交易员也很难幸免。在可能的极限行情下，空仓或者现货是最好的选择。唯一庆幸的是狡兔三窟，每个地方都留了一点钱，还可以重新出发。消化情绪，解决问题。活着就问题不大。",
-      "content": "爆仓了一次，上一次爆仓是FTX了。<br>我甚至一直认为我的两倍三倍杠杆基本等于现货，没啥爆仓风险。好久没被市场教育了，已经几乎忘了曾经有多疼。这次清算规模之大，针之深，我想很多像我一样低杠杆的交易员也很难幸免。<br>在可能的极限行情下，空仓或者现货是最好的选择。<br>唯一庆幸的是狡兔三窟，每个地方都留了一点钱，还可以重新出发。<br>消化情绪，解决问题。活着就问题不大。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "118",
-          "isPaid": false
-        },
-        {
-          "emoji": "😭",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "5",
           "isPaid": false
         }
       ]

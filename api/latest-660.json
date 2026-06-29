@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "39",
+      "title": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕",
+      "type": "text",
+      "datetime": "2023-12-16T13:09:20+00:00",
+      "tags": [],
+      "text": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹2⃣ $Zero @analysoor 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero 3⃣Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）4⃣铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
+      "content": "Fiona 今日观察<i class=\"emoji\"><b>👀</b></i>：（12月16日）<br><br><i class=\"emoji\"><b>1⃣</b></i>ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹<br><br><i class=\"emoji\"><b>2⃣</b></i> $Zero <br><a href=\"https://t.me/analysoor\" target=\"_blank\" title=\"@analysoor\">@analysoor</a><br> 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero <br><br><i class=\"emoji\"><b>3⃣</b></i>Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）<br><br><i class=\"emoji\"><b>4⃣</b></i>铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "38",
       "title": "一切都在新高中！MubiMiceFoox",
@@ -260,22 +276,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "title": "⚠️关于BTC生态你必须知道的事： ",
-      "type": "text",
-      "datetime": "2023-11-18T00:50:54+00:00",
-      "tags": [],
-      "text": "⚠️关于BTC生态你必须知道的事： https://x.com/nft_hu/status/1725677178497704060?s=20",
-      "content": "<i class=\"emoji\"><b>⚠️</b></i>关于BTC生态你必须知道的事： <a href=\"https://x.com/nft_hu/status/1725677178497704060?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1725677178497704060?s=20\">https://x.com/nft_hu/status/1725677178497704060?s=20</a>",
-      "reactions": [
-        {
-          "emoji": "👏",
-          "count": "3",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "354",
+      "title": "买eth啦",
+      "type": "text",
+      "datetime": "2025-08-12T12:33:03+00:00",
+      "tags": [],
+      "text": "买eth啦",
+      "content": "买eth啦",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "353",
       "title": "卖完一直涨 哭了",
@@ -467,37 +483,6 @@
         {
           "emoji": "😭",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "333",
-      "title": "Hype减仓 加仓ETH",
-      "type": "text",
-      "datetime": "2025-07-18T01:22:31+00:00",
-      "tags": [],
-      "text": "Hype减仓 加仓ETH",
-      "content": "Hype减仓 加仓ETH",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🐳",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

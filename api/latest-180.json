@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "541",
+      "title": "第二个消息事实上是一个非常典型的“短多长空”且带有结构性风险的消息",
+      "type": "text",
+      "datetime": "2026-02-07T13:50:02+00:00",
+      "tags": [],
+      "text": "第二个消息事实上是一个非常典型的“短多长空”且带有结构性风险的消息。1️⃣为什么说是“短期利好”？（财务层面）定价权回归： 价格上涨 10% 以上，意味着在当前的“钱荒”和“物价涨”背景下，Intel 拥有极强的定价权（Pricing Power）。这会直接拉升其第一季度的毛利率（Gross Margin）。存货价值重估： 如果交期拉长到 6 个月，现有的库存就变成了“硬通货”。在流动性紧缺的市场，谁手里有现货，谁就是爷。财务报表好看： 20% 以上的营收占比加上 10% 的涨价，对 Intel 这种正处于“化债”关键期的公司来说，是极好的现金流入。2️⃣为什么说是“长期利空”？制度可信度崩塌： 6 个月的交期意味着 Intel 在中国这个核心市场的“功能性丧失”。当一个市场发现你无法稳定供货时，私人部门（如阿里、腾讯等）将不再愿意为你承担“久期风险”，他们会加速转向国产替代。不可能三角的挤压：Intel 依赖中国市场的现金流来支撑代工（Foundry）的巨额投入。政治约束： 出口许可限制导致有货卖不出，或由于供应链断裂导致交期过长。这迫使 Intel 进入一种“自杀式经营”：虽然单价涨了，但出货量（Volume）受限，且在永久性地丢掉市场份额。竞争对手的喘息机会： 6 个月的真空期，足够让竞争对手完成从软件生态到硬件部署的迁移。一旦客户完成了架构迁移，Intel 再想拿回这 20% 的营收占比将极度困难。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/540\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50。  最近Intel有哪些进展/消息呢？  <i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>GPU方向 Intel CEO Lip-Bu Tan 在 Cisco AI Summit 表示： “Intel 正在组建 新的 GPU 计划，由新聘请的首席 GPU 架构师 Eric Demers 领导，数据中心老将 Kevork Kechichian 参与。” 这表明：Intel 希望重新进入由 Nvidia…</div>\n</small></blockquote></a><b>第二个消息事实上是一个非常典型的“短多长空”且带有结构性风险的消息。</b><br><br><i class=\"emoji\"><b>1️⃣</b></i>为什么说是“短期利好”？（财务层面）<br>定价权回归： 价格上涨 10% 以上，意味着在当前的“钱荒”和“物价涨”背景下，Intel 拥有极强的定价权（Pricing Power）。这会直接拉升其第一季度的毛利率（Gross Margin）。<br><br>存货价值重估： 如果交期拉长到 6 个月，现有的库存就变成了“硬通货”。在流动性紧缺的市场，谁手里有现货，谁就是爷。<br><br>财务报表好看： 20% 以上的营收占比加上 10% 的涨价，对 Intel 这种正处于“化债”关键期的公司来说，是极好的现金流入。<br><br><i class=\"emoji\"><b>2️⃣</b></i>为什么说是“长期利空”？<br><br>制度可信度崩塌： 6 个月的交期意味着 Intel 在中国这个核心市场的“功能性丧失”。当一个市场发现你无法稳定供货时，私人部门（如阿里、腾讯等）将不再愿意为你承担“久期风险”，他们会加速转向国产替代。<br><br>不可能三角的挤压：Intel 依赖中国市场的现金流来支撑代工（Foundry）的巨额投入。<br><br>政治约束： 出口许可限制导致有货卖不出，或由于供应链断裂导致交期过长。<br><br>这迫使 Intel 进入一种“自杀式经营”：虽然单价涨了，但出货量（Volume）受限，且在永久性地丢掉市场份额。<br><br>竞争对手的喘息机会： 6 个月的真空期，足够让竞争对手完成从软件生态到硬件部署的迁移。一旦客户完成了架构迁移，Intel 再想拿回这 20% 的营收占比将极度困难。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "540",
       "title": "本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50",
@@ -388,27 +409,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "521",
-      "title": "$COHR 持仓体验很好，会轮到光通讯么？",
-      "type": "text",
-      "datetime": "2026-01-30T14:35:17+00:00",
-      "tags": [],
-      "text": "$COHR 持仓体验很好，会轮到光通讯么？",
-      "content": "$COHR 持仓体验很好，会轮到光通讯么？",
-      "reactions": [
-        {
-          "emoji": "⚡",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "💊",
-          "count": "2",
           "isPaid": false
         }
       ]

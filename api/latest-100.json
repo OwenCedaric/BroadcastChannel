@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "624",
+      "title": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "type": "text",
+      "datetime": "2026-04-15T15:27:02+00:00",
+      "tags": [],
+      "text": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "content": "资金在分流，今天我账户里还在涨的是之前买的苹果的期权，$CRDO $INTC $NOW $RDDT",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "623",
       "title": "For now, $NOW pumped from 84-93",
@@ -371,27 +387,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "604",
-      "title": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
-      "type": "text",
-      "datetime": "2026-04-08T13:17:36+00:00",
-      "tags": [],
-      "text": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
-      "content": "简单复盘这次成功抄底历程，后来发现可以简单概括为：<br><br>抄底<i class=\"emoji\"><b>➡️</b></i>下跌<i class=\"emoji\"><b>➡️</b></i>继续抄底<i class=\"emoji\"><b>➡️</b></i>跌破位套牢<i class=\"emoji\"><b>➡️</b></i><br>不敢抄了选择祈祷<i class=\"emoji\"><b>➡️</b></i>祈祷无效转移注意<i class=\"emoji\"><b>➡️</b></i>反弹第一波回本<i class=\"emoji\"><b>➡️</b></i>taco反弹第二波大赚<br><br>很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气<i class=\"emoji\"><b>🍀</b></i><br><br>但我坚持做到了！",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "1",
           "isPaid": false
         }
       ]

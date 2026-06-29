@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "253",
+      "title": "项目联合交易所作恶，$SLF 代幣增發",
+      "type": "text",
+      "datetime": "2024-09-01T05:58:46+00:00",
+      "tags": [],
+      "text": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。https://x.com/nft_hu/status/1830122392812994791?s=46",
+      "content": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。<a href=\"https://x.com/nft_hu/status/1830122392812994791?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1830122392812994791?s=46\">https://x.com/nft_hu/status/1830122392812994791?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "252",
       "title": "欢迎大家来到9月，今年的9月还会是糟糕行情么？",
@@ -433,22 +449,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "230",
-      "title": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "type": "text",
-      "datetime": "2024-08-22T02:45:55+00:00",
-      "tags": [],
-      "text": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "content": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "11",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 23,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-420.json"
   },
   "data": [
+    {
+      "id": "273",
+      "title": "可以看看（非广） ",
+      "type": "text",
+      "datetime": "2024-09-21T14:23:53+00:00",
+      "tags": [],
+      "text": "可以看看（非广） https://x.com/Eigenpiexyz_io/status/1837115051389378920",
+      "content": "可以看看（非广） <a href=\"https://x.com/Eigenpiexyz_io/status/1837115051389378920\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Eigenpiexyz_io/status/1837115051389378920\">https://x.com/Eigenpiexyz_io/status/1837115051389378920</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/Eigenpiexyz_io/status/1837115051389378920\" target=\"_blank\" rel=\"noopener\" title=\"The $EGP IDO is officially LIVE on the @magpiexyz_io Launchpad.🎬Users who are part of the Eigenpie Priority Access can now commit $USDT to buy $EGP through @arbitrum.💸Enter now:⬇️https://t.co/P3c4Vh7ME6https://t.co/8EyzMJA2F9\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/5857e1f54f4aba84130f639ea466f875.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Eigenpie (@Eigenpiexyz_io) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The $EGP IDO is officially LIVE on the @magpiexyz_io Launchpad.<i class=\"emoji\" style=\"background-image:url('/static/79a77256d0023adabfd6007901a02fec.png')\"><b>🎬</b></i><br><br>Users who are part of the Eigenpie Priority Access can now commit $USDT to buy $EGP through @arbitrum.<i class=\"emoji\" style=\"background-image:url('/static/38273bbe94a86f4fa7d8c86b8ae44eec.png')\"><b>💸</b></i><br><br>Enter now:<i class=\"emoji\" style=\"background-image:url('/static/241a4ad4328374cc58629196b0fa911d.png')\"><b>⬇️</b></i><br>https://t.co/P3c4Vh7ME6<br><br>https://t.co/8EyzMJA2F9</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "272",
       "title": "SUI的买入原因 ：",
@@ -361,22 +377,6 @@
         {
           "emoji": "🔥",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "253",
-      "title": "项目联合交易所作恶，$SLF 代幣增發",
-      "type": "text",
-      "datetime": "2024-09-01T05:58:46+00:00",
-      "tags": [],
-      "text": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。https://x.com/nft_hu/status/1830122392812994791?s=46",
-      "content": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。<a href=\"https://x.com/nft_hu/status/1830122392812994791?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1830122392812994791?s=46\">https://x.com/nft_hu/status/1830122392812994791?s=46</a>",
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1",
           "isPaid": false
         }
       ]

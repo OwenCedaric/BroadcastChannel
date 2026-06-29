@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "374",
+      "title": "目前很对味 已经加仓了一些 均价1.27",
+      "type": "text",
+      "datetime": "2025-09-08T14:23:03+00:00",
+      "tags": [],
+      "text": "目前很对味 已经加仓了一些 均价1.27",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/373\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">看到了最新的新闻，觉得和之前的pengu有点像。不确定有怎么样的持续性，所以还是看买盘和势能。小仓位建了</div>\n</small></blockquote></a>目前很对味 已经加仓了一些 均价1.27",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "373",
       "title": "看到了最新的新闻，觉得和之前的pengu有点像",
@@ -404,22 +420,6 @@
       "text": "BMNR新公告：https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm",
       "content": "BMNR新公告：<a href=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\" target=\"_blank\" rel=\"noopener\" title=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\">https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm</a>",
       "reactions": []
-    },
-    {
-      "id": "354",
-      "title": "买eth啦",
-      "type": "text",
-      "datetime": "2025-08-12T12:33:03+00:00",
-      "tags": [],
-      "text": "买eth啦",
-      "content": "买eth啦",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "8",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

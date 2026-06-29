@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 691,
+    "totalPosts": 692,
     "totalPages": 35,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "604",
+      "title": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
+      "type": "text",
+      "datetime": "2026-04-08T13:17:36+00:00",
+      "tags": [],
+      "text": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
+      "content": "简单复盘这次成功抄底历程，后来发现可以简单概括为：<br><br>抄底<i class=\"emoji\"><b>➡️</b></i>下跌<i class=\"emoji\"><b>➡️</b></i>继续抄底<i class=\"emoji\"><b>➡️</b></i>跌破位套牢<i class=\"emoji\"><b>➡️</b></i><br>不敢抄了选择祈祷<i class=\"emoji\"><b>➡️</b></i>祈祷无效转移注意<i class=\"emoji\"><b>➡️</b></i>反弹第一波回本<i class=\"emoji\"><b>➡️</b></i>taco反弹第二波大赚<br><br>很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气<i class=\"emoji\"><b>🍀</b></i><br><br>但我坚持做到了！",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "603",
       "title": "Taco了，舒服了",
@@ -316,22 +337,6 @@
         {
           "emoji": "🎄",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "584",
-      "title": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争",
-      "type": "text",
-      "datetime": "2026-03-17T16:19:05+00:00",
-      "tags": [],
-      "text": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争。内部的裂痕也在扩大。https://x.com/adam65207241/status/2033905924021071894?s=46",
-      "content": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争。内部的裂痕也在扩大。<br><br><a href=\"https://x.com/adam65207241/status/2033905924021071894?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/adam65207241/status/2033905924021071894?s=46\">https://x.com/adam65207241/status/2033905924021071894?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/adam65207241/status/2033905924021071894?s=46\" target=\"_blank\" rel=\"noopener\" title=\"Joe Kent 作为特朗普亲自提拔、2026年初好不容易确认上任的“自己人”，而且本身是反干涉主义（anti-interventionist）阵营的代表人物，突然以这么直白、几乎是“指名道姓”的方式辞职，等于公开在特朗普政府内部捅了一刀。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/33524ccc6b25260981bf8c8c2fbe2f2d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Adam <i class=\"emoji\" style=\"background-image:url('/static/a7182be56a99bfffa27154da5643574a.png')\"><b>🇬🇧</b></i><i class=\"emoji\" style=\"background-image:url('/static/75de82a3d1a8f7fedbbd0c584cdb896e.png')\"><b>🇺🇦</b></i> (@Adam65207241) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Joe Kent 作为特朗普亲自提拔、2026年初好不容易确认上任的“自己人”，而且本身是反干涉主义（anti-interventionist）阵营的代表人物，突然以这么直白、几乎是“指名道姓”的方式辞职，等于公开在特朗普政府内部捅了一刀。</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]
