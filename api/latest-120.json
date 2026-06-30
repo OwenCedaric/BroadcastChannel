@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 692,
+    "totalPosts": 693,
     "totalPages": 35,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "605",
+      "title": "事实证明，市场经常是非理性的",
+      "type": "text",
+      "datetime": "2026-04-08T13:23:04+00:00",
+      "tags": [],
+      "text": "事实证明，市场经常是非理性的。非理性的上涨，上涨的时候你的一切都是对的都是好的，好消息接踵而来。非理性的下跌，下跌就是原罪，所有的利空突然出现。但是有一些东西是真实的，财报是真实的，数据是真实的，产品是真实的。感受情绪的同时保持理性和真实。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/595\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">市场总是在最好到最差之间横跳。最近无论是股市的表现，亦或是对内存股的态度似乎都证明了这一点。让我想起很久之前看过的一张图，股票的基本面是不变的，但是价格却随着市场情绪的变化反复横跳。  最近内存股跌的很惨，很多贴文开始说内存是一场骗局，和很多盘子/meme一样。我觉得这种说法很可笑。以美光为例，最新一季的财报收入是238亿美金。SK和三星的单季收入也达到了200-300+亿美金。这是真金白银，世界上能在一个季度赚这么多钱的公司屈指可数。这也是骗局？也是meme？ 跌下来或许就是原罪。  内存的需求是真的，…</div>\n</small></blockquote></a>事实证明，市场经常是非理性的。<br><br>非理性的上涨，上涨的时候你的一切都是对的都是好的，好消息接踵而来。<br><br>非理性的下跌，下跌就是原罪，所有的利空突然出现。<br><br>但是有一些东西是真实的，财报是真实的，数据是真实的，产品是真实的。<br><br>感受情绪的同时保持理性和真实。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "604",
       "title": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
@@ -311,32 +332,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "585",
-      "title": "最近比较成功的交易 $HYPE 35-42 📈20%$MUU 150-245 📈63%下次还有抄底机会记得多买点",
-      "type": "text",
-      "datetime": "2026-03-18T03:55:13+00:00",
-      "tags": [],
-      "text": "最近比较成功的交易 $HYPE 35-42 📈20%$MUU 150-245 📈63%下次还有抄底机会记得多买点",
-      "content": "最近比较成功的交易 <br>$HYPE 35-42 <i class=\"emoji\"><b>📈</b></i>20%<br>$MUU 150-245 <i class=\"emoji\"><b>📈</b></i>63%<br>下次还有抄底机会记得多买点",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎄",
-          "count": "1",
           "isPaid": false
         }
       ]

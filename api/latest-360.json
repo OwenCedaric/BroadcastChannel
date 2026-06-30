@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 692,
+    "totalPosts": 693,
     "totalPages": 35,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "355",
+      "title": "BMNR新公告：",
+      "type": "text",
+      "datetime": "2025-08-12T12:37:36+00:00",
+      "tags": [],
+      "text": "BMNR新公告：https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm",
+      "content": "BMNR新公告：<a href=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\" target=\"_blank\" rel=\"noopener\" title=\"https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm\">https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/form424b5.htm</a>",
+      "reactions": []
+    },
     {
       "id": "354",
       "title": "买eth啦",
@@ -451,37 +461,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "334",
-      "title": "周末行情萎靡，平多了一些仓位",
-      "type": "text",
-      "datetime": "2025-07-19T14:41:08+00:00",
-      "tags": [],
-      "text": "周末行情萎靡，平多了一些仓位",
-      "content": "周末行情萎靡，平多了一些仓位",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😭",
           "count": "2",
           "isPaid": false
         }

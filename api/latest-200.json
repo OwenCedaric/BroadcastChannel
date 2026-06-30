@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 692,
+    "totalPosts": 693,
     "totalPages": 35,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "522",
+      "title": "比特币插针到了75000，以太坊插针到了2200",
+      "type": "text",
+      "datetime": "2026-02-01T00:50:48+00:00",
+      "tags": [],
+      "text": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH这个位置到了很多机构/大户的成本线之下: 1️⃣ $MSTR 平均比特币买入成本760372️⃣ $BMNR 均价3000附近，深深水下了Garret Bullish 在 Hyperliquid 上的仓位爆仓。最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "content": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH<br><br>这个位置到了很多机构/大户的成本线之下: <br><i class=\"emoji\"><b>1️⃣</b></i> $MSTR 平均比特币买入成本76037<br><i class=\"emoji\"><b>2️⃣</b></i> $BMNR 均价3000附近，深深水下了<br><br>Garret Bullish 在 Hyperliquid 上的仓位爆仓。<br><br>最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。<br><br>但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。<br><br>近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。<br><br>而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "521",
       "title": "$COHR 持仓体验很好，会轮到光通讯么？",
@@ -386,27 +407,6 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "502",
-      "title": "买了点BTC SPOT",
-      "type": "text",
-      "datetime": "2026-01-20T15:24:34+00:00",
-      "tags": [],
-      "text": "买了点BTC SPOT",
-      "content": "买了点BTC SPOT",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
           "count": "3",
           "isPaid": false
         }

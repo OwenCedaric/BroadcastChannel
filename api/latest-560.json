@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 692,
+    "totalPosts": 693,
     "totalPages": 35,
     "currentPage": 29,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-540.json"
   },
   "data": [
+    {
+      "id": "149",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-04-26T08:42:34+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1783776720023322934?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1783776720023322934?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1783776720023322934?s=46\">https://x.com/nft_hu/status/1783776720023322934?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "148",
       "title": "滴滴 很久没有写日报了Daily News 2024.4.241⃣️ Renzo 在昨天公布上 #Binance 的好消息后，今天情况大反转",
@@ -392,32 +408,6 @@
       "text": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
       "content": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
       "reactions": []
-    },
-    {
-      "id": "129",
-      "title": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "type": "text",
-      "datetime": "2024-03-27T11:06:04+00:00",
-      "tags": [],
-      "text": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "content": "AI 板块我认为的龙头 : AR NEAR AIOZ",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "34",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "💔",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

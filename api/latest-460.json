@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 692,
+    "totalPosts": 693,
     "totalPages": 35,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "254",
+      "title": "9月如预期下跌，等待好的机会",
+      "type": "text",
+      "datetime": "2024-09-02T02:31:10+00:00",
+      "tags": [],
+      "text": "9月如预期下跌，等待好的机会",
+      "content": "9月如预期下跌，等待好的机会",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "253",
       "title": "项目联合交易所作恶，$SLF 代幣增發",
@@ -428,27 +454,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "231",
-      "title": "BNB to 580 巨大的勝利✌️",
-      "type": "text",
-      "datetime": "2024-08-22T11:53:34+00:00",
-      "tags": [],
-      "text": "BNB to 580 巨大的勝利✌️",
-      "content": "BNB to 580 巨大的勝利<i class=\"emoji\"><b>✌️</b></i>",
-      "reactions": [
-        {
-          "emoji": "🎉",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]
