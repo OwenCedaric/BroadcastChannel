@@ -1,5 +1,57 @@
 [
   {
+    "id": "731",
+    "title": "继续",
+    "type": "text",
+    "datetime": "2026-07-01T15:29:21+00:00",
+    "tags": [],
+    "text": "继续",
+    "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/726\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又到了买的很痛苦但是要买的时候</div>\n</small></blockquote></a>继续",
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "count": "4",
+        "isPaid": false
+      }
+    ]
+  },
+  {
+    "id": "730",
+    "title": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的",
+    "type": "text",
+    "datetime": "2026-07-01T15:23:42+00:00",
+    "tags": [],
+    "text": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的。软件股现在成避险资产了😂",
+    "content": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD <br>$RDDT 多邻国 这种之前跌多了的。<br><br>软件股现在成避险资产了<i class=\"emoji\"><b>😂</b></i>",
+    "reactions": []
+  },
+  {
+    "id": "729",
+    "title": "今晚最大的利空消息，Meta正构建云业务，出售过剩的AI计算能力Meta正在制定一项云基础设施业务计划，旨在出售AI计算能力和模型的使用权，从而与亚马逊云服务(AWS)、微软Azure和谷歌云等行业领导者展开新的竞争",
+    "type": "text",
+    "datetime": "2026-07-01T13:23:57+00:00",
+    "tags": [],
+    "text": "今晚最大的利空消息，Meta正构建云业务，出售过剩的AI计算能力Meta正在制定一项云基础设施业务计划，旨在出售AI计算能力和模型的使用权，从而与亚马逊云服务(AWS)、微软Azure和谷歌云等行业领导者展开新的竞争。里面有两个细节值得推敲:1️⃣过剩算力投多了么？AI需求放缓了么？算力过剩了么？2️⃣capex又增变量增加capex对META不好，但是这个创收的举动对整个AI生态不好。是不是要开始缩减支出了么？大盘的下跌和Meta的反弹，市场如果奖励开源节流的公司，那投资浪潮会停滞么？我的感受，长期影响不大，短期市场影响。但是确实给疯狂投资的公司敲了一个警钟，一味增加投资如何把钱赚回来，是越来越需要思考的问题了。随着更多企业直接间接成为云供应商，是否会有价格战压缩利润，还是市场做大，大家一起赚钱？",
+    "content": "今晚最大的利空消息，Meta正构建云业务，出售过剩的AI计算能力<br><br>Meta正在制定一项云基础设施业务计划，旨在出售AI计算能力和模型的使用权，从而与亚马逊云服务(AWS)、微软Azure和谷歌云等行业领导者展开新的竞争。<br><br>里面有两个细节值得推敲:<br><i class=\"emoji\"><b>1️⃣</b></i>过剩算力<br>投多了么？AI需求放缓了么？算力过剩了么？<br><i class=\"emoji\"><b>2️⃣</b></i>capex又增变量<br>增加capex对META不好，但是这个创收的举动对整个AI生态不好。是不是要开始缩减支出了么？<br><br>大盘的下跌和Meta的反弹，市场如果奖励开源节流的公司，那投资浪潮会停滞么？<br><br>我的感受，长期影响不大，短期市场影响。<br><br>但是确实给疯狂投资的公司敲了一个警钟，一味增加投资如何把钱赚回来，是越来越需要思考的问题了。<br><br>随着更多企业直接间接成为云供应商，是否会有价格战压缩利润，还是市场做大，大家一起赚钱？",
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "count": "13",
+        "isPaid": false
+      }
+    ]
+  },
+  {
+    "id": "728",
+    "title": "Claude Fable 5 将于明天全球重新上线",
+    "type": "text",
+    "datetime": "2026-07-01T13:22:14+00:00",
+    "tags": [],
+    "text": "Claude Fable 5 将于明天全球重新上线。",
+    "content": "Claude Fable 5 将于明天全球重新上线。",
+    "reactions": []
+  },
+  {
     "id": "727",
     "title": "半导体设备五大厂商 ",
     "type": "text",

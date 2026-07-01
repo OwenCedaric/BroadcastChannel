@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 693,
+    "totalPosts": 697,
     "totalPages": 35,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,74 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "258",
+      "title": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k",
+      "type": "text",
+      "datetime": "2024-09-04T03:18:12+00:00",
+      "tags": [],
+      "text": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。我回复不是太想买，总体还是看空。我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。重要的其实还是美股。祝空仓的我们都能抄到底。",
+      "content": "9月3日行情小记<br>昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。<br>昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。<br>我回复不是太想买，总体还是看空。<br><br>我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。<br><br>周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。<br><br>重要的其实还是美股。<br><br>祝空仓的我们都能抄到底。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "257",
+      "title": "回看8月清仓，又一次逃顶！",
+      "type": "text",
+      "datetime": "2024-09-04T01:36:47+00:00",
+      "tags": [],
+      "text": "回看8月清仓，又一次逃顶！",
+      "content": "回看8月清仓，又一次逃顶！",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "256",
+      "title": "Catizen 要来了",
+      "type": "text",
+      "datetime": "2024-09-03T13:09:01+00:00",
+      "tags": [],
+      "text": "Catizen 要来了",
+      "content": "Catizen 要来了",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "255",
+      "title": "Count down 18 days. ",
+      "type": "text",
+      "datetime": "2024-09-03T13:08:44+00:00",
+      "tags": [],
+      "text": "Count down 18 days. ",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-255-0\" popovertargetaction=\"show\">\n        <img src=\"/static/a42632a3a0da34a028187a337285fa26.jpg\" alt=\"Count down 18 days. \" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-255-0\" popovertarget=\"modal-255-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/a42632a3a0da34a028187a337285fa26.jpg\" alt=\"Count down 18 days. \" loading=\"lazy\" />\n      </button>\n    </div>Count down 18 days. <img class=\"tg-emoji\" src=\"/static/a7329fd542f2592e6666db28362fdb01.webp\" alt=\"\" loading=\"lazy\">",
+      "reactions": []
+    },
     {
       "id": "254",
       "title": "9月如预期下跌，等待好的机会",
@@ -335,125 +403,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "236",
-      "title": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1",
-      "type": "text",
-      "datetime": "2024-08-23T07:30:39+00:00",
-      "tags": [],
-      "text": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。可惜后来没有买回来，但是也证明了选币眼光",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/195\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了一点 AAVE 弱市场里的强势币</div>\n</small></blockquote></a>【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】<br>Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。<br>可惜后来没有买回来，但是也证明了选币眼光",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "235",
-      "title": "今早关于 $BNB 的开放性讨论（F是我）A：BNB炒作预期会不会回落下？F：我觉得BNB应该阶段性强势",
-      "type": "text",
-      "datetime": "2024-08-23T02:21:02+00:00",
-      "tags": [],
-      "text": "今早关于 $BNB 的开放性讨论（F是我）A：BNB炒作预期会不会回落下？F：我觉得BNB应该阶段性强势。我应该还是拿着B：我也还拿着A：我是觉得成败同源，尤其cz下个月释放一早皆知的事，币安目前新用户缺失也是不争事实，才引入dogs等（有点吃惊），我清了一半BNB，剩下的看情况边格局边慢慢减F：确实dogs让人困惑已知信息如上没错，但是最近bn重新开赌场上小市值 我认为是一个信号，他们会有一套组合拳来刺激流动性；包括上新币，下架，开合约。本质是流动性的整合和刺激。叠加CZ出狱，我会期待他们拉盘bnb并给bnb赋能结论：该止盈止盈，个人选择再看看保守的可以先走一半",
-      "content": "今早关于 $BNB 的开放性讨论（F是我）<br><br>A：BNB炒作预期会不会回落下？<br>F：我觉得BNB应该阶段性强势。我应该还是拿着<br>B：我也还拿着<br>A：我是觉得成败同源，尤其cz下个月释放一早皆知的事，币安目前新用户缺失也是不争事实，才引入dogs等（有点吃惊），我清了一半BNB，剩下的看情况边格局边慢慢减<br>F：确实dogs让人困惑<br>已知信息如上没错，但是最近bn重新开赌场上小市值 我认为是一个信号，他们会有一套组合拳来刺激流动性；包括上新币，下架，开合约。本质是流动性的整合和刺激。<br>叠加CZ出狱，我会期待他们拉盘bnb并给bnb赋能<br><br>结论：<br>该止盈止盈，个人选择再看看<br>保守的可以先走一半",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "30",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "234",
-      "title": "看了下大家的評論表情，其實覺得心情複雜",
-      "type": "text",
-      "datetime": "2024-08-22T16:24:14+00:00",
-      "tags": [],
-      "text": "看了下大家的評論表情，其實覺得心情複雜。過去一年在本頻道，我一直免費的做信息分享。以過去一個月的所有分享舉例，幾乎所有的內容都是賺錢的。有跟上的朋友也都可以賺不少，不知道為什麼，有人就把這樣無私的分享視作理所應當。如果本來我只是嘗試想做這樣的事情，那現在更堅定了我的選擇。是否願意為知識和信息付費，這個原則本身就是一種篩選。對於負面情緒爆表的人，建議取關本頻道，對於支持的朋友，我還是會繼續分享我認為有價值的信息。",
-      "content": "看了下大家的評論表情，其實覺得心情複雜。<br><br>過去一年在本頻道，我一直免費的做信息分享。以過去一個月的所有分享舉例，幾乎所有的內容都是賺錢的。<br><br>有跟上的朋友也都可以賺不少，不知道為什麼，有人就把這樣無私的分享視作理所應當。<br><br>如果本來我只是嘗試想做這樣的事情，那現在更堅定了我的選擇。<br><br>是否願意為知識和信息付費，這個原則本身就是一種篩選。<br><br>對於負面情緒爆表的人，建議取關本頻道，對於支持的朋友，我還是會繼續分享我認為有價值的信息。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "88",
-          "isPaid": false
-        },
-        {
-          "emoji": "💩",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🐳",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "233",
-      "title": "Up*Movement手機的退款信息:UpMobile预购及退款流程亲爱的社区成员，我们想就UpMobile预购和正在进行的退款流程提供一些重要更新",
-      "type": "text",
-      "datetime": "2024-08-22T16:17:38+00:00",
-      "tags": [],
-      "text": "Up*Movement手機的退款信息:UpMobile预购及退款流程亲爱的社区成员，我们想就UpMobile预购和正在进行的退款流程提供一些重要更新。1. 确认电子邮件已发送UP Network团队已向所有在Beanco完成UpMobile订单的用户发送了确认电子邮件。请确保检查您的收件箱以确认收件。2. 合作伙伴关系公告Beanco团队自豪地宣布，Beanco成为UP Network的首个战略合作伙伴。您可以在此查看公告👉https://x.com/upnetworkhq/status/18265406008561173043. 预购详情公布UP Network已在其网站上正式公布了即将到来的预购详情。您可以在UP Network网站上查看完整公告👉https://www.upnetwork.xyz/预购活动将于2024年9月2日13:00（UTC）开始。将有15,000台设备可供购买，每台售价为999美元。4. 退款支持为响应近期的请求，Beanco正在积极支持退款流程。我们承诺协助那些希望申请退款的用户。5. 退款申请期限退款申请将于2024年8月22日10:00（UTC）至2024年8月24日10:00（UTC）之间收集。所有退款将在2024年8月26日10:00（UTC）之前处理并完成。请注意，8月24日之后将不再提供退款服务。6. 退款申请：要启动退款流程，请填写此处提供的Google表单👉https://forms.gle/NHkZqGwidBH2HYHe9",
-      "content": "Up*Movement手機的退款信息:<br><br>UpMobile预购及退款流程<br><br>亲爱的社区成员，<br><br>我们想就UpMobile预购和正在进行的退款流程提供一些重要更新。<br><br>1. 确认电子邮件已发送<br>UP Network团队已向所有在Beanco完成UpMobile订单的用户发送了确认电子邮件。请确保检查您的收件箱以确认收件。<br><br>2. 合作伙伴关系公告<br>Beanco团队自豪地宣布，Beanco成为UP Network的首个战略合作伙伴。您可以在此查看公告<br><br><i class=\"emoji\"><b>👉</b></i><a href=\"https://x.com/upnetworkhq/status/1826540600856117304\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/upnetworkhq/status/1826540600856117304\">https://x.com/upnetworkhq/status/1826540600856117304</a><br><br>3. 预购详情公布<br>UP Network已在其网站上正式公布了即将到来的预购详情。您可以在UP Network网站上查看完整公告<br><br><i class=\"emoji\"><b>👉</b></i><a href=\"https://www.upnetwork.xyz/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.upnetwork.xyz/\">https://www.upnetwork.xyz/</a><br><br>预购活动将于2024年9月2日13:00（UTC）开始。将有15,000台设备可供购买，每台售价为999美元。<br><br>4. 退款支持<br>为响应近期的请求，Beanco正在积极支持退款流程。我们承诺协助那些希望申请退款的用户。<br><br>5. 退款申请期限<br>退款申请将于2024年8月22日10:00（UTC）至2024年8月24日10:00（UTC）之间收集。所有退款将在2024年8月26日10:00（UTC）之前处理并完成。请注意，8月24日之后将不再提供退款服务。<br><br>6. 退款申请：<br>要启动退款流程，请填写此处提供的Google表单<br><br><i class=\"emoji\"><b>👉</b></i><a href=\"https://forms.gle/NHkZqGwidBH2HYHe9\" target=\"_blank\" rel=\"noopener\" title=\"https://forms.gle/NHkZqGwidBH2HYHe9\">https://forms.gle/NHkZqGwidBH2HYHe9</a><a class=\"tgme_widget_message_link_preview\" href=\"https://upnetwork.xyz/\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7e4f4cbdecb01042b488b5c4fbeb2f5a.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">upnetwork.xyz</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Up Network</div>\n  \n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "1",
           "isPaid": false
         }
       ]

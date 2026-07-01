@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 693,
+    "totalPosts": 697,
     "totalPages": 35,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,75 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "670",
+      "title": "日报其实还是有价值的",
+      "type": "text",
+      "datetime": "2026-05-02T00:20:56+00:00",
+      "tags": [],
+      "text": "日报其实还是有价值的。那天抓到了PS的IPO首日下跌",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/662\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">【Fiona日报】2026-04-30 周四  ━━ 今日最重要一件事 ━━ 四大科技巨头财报普遍超预期，这次的cpaex回报如何？  Alphabet财报后大涨，Amazon、Microsoft后来翻绿； 唯独Meta暴跌约7%——不是因为营收差（+33% YoY、$56.3B）， 因为全年资本支出指引上调至$1,250-$1,450亿，远超市场预期的$1,226亿。 \"烧钱换未来\"只在增长高于预期时成立。  <i class=\"emoji\" style=\"background-image:url('/static/ceffef382f90b7b409b79c10897985b6.png')\"><b>📊</b></i> 大宗商品（4月29日收盘） WTI原油    $106.88/桶   ▲ +7%（特朗普确认无限期封锁）…</div>\n</small></blockquote></a>日报其实还是有价值的。<br><br>那天抓到了PS的IPO首日下跌",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "669",
+      "title": "‼️最近我评论区的骗子又变多了，我不发私人策略，不会私信你",
+      "type": "text",
+      "datetime": "2026-05-01T13:23:00+00:00",
+      "tags": [],
+      "text": "‼️最近我评论区的骗子又变多了，我不发私人策略，不会私信你。大家注意安全",
+      "content": "<i class=\"emoji\"><b>‼️</b></i>最近我评论区的骗子又变多了，我不发私人策略，不会私信你。大家注意安全",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "668",
+      "title": "我有个内部对冲仓位： $GOOG和 $NVDA，像是跷跷板的两端",
+      "type": "text",
+      "datetime": "2026-05-01T05:31:32+00:00",
+      "tags": [],
+      "text": "我有个内部对冲仓位： $GOOG和 $NVDA，像是跷跷板的两端。昨晚，涨了Google就得跌英伟达。背后的逻辑可能是：Google在AI训练方面也正成为英伟达的有力挑战者。那事实是这样么？回答只能给一个冷酷的YES！————————————————————事实上，英伟达的市场份额一直在缩减。AI芯片分别有用在训练和推理上。在训练领域，英伟达份额超过 90%；在推理领域，由于定制芯片和CPU的竞争，份额仅有 60–75%。 但是今年以来有两个结构性转变同时出现了：1️⃣推理需求大增，推理在数据中心收入中首次超过训练；2️⃣Google的TPU在训练上被Anthropic采用，第一次有人在训练上对英伟达产生了可能的威胁。————————————————————🧩趋势背后的原因：其实我们可以用更经济学的观点来拆解份额下降的原因。今天各家一直被诟病的CapEx其实很多还是花在了芯片上。对于每年花500–1000亿美元购买AI基础设施的超大规模云厂商来说，哪怕把推理工作负载的20–30%迁移到自研芯片，每年就能节省数百亿美元。这个经济账，正在驱动Google和亚马逊接受更慢的产品迭代周期，换取架构上的独立性。——————————————————————新趋势：ASIC定制芯片需求大增TrendForce预测，2026年GPU类AI服务器将占出货量的 69.7%，而ASIC类服务器将上升至 27.8%。事实上，从2025年底起，推理需求就以极快的速度增长。Agent时代的到来更是把“低延迟交互、更高灵活性、适配不同任务”的优先级大大提高。Counterpoint Research做出预测，到2028年，定制芯片出货量将超过GPU，成为第一大AI服务器算力形态。他并不是唯一一个这么认为的。多家研究机构认为，模型进入生产环境后，推理会成为生命周期成本的大头。财报季的数据也证明了这一点：Broadcom 的AI ASIC业务在单季度（FY2026 Q2）就达到 84亿美元，同比增长106%，且有730亿美元的订单积压可见度延伸至2027年中。 ——————————————————————Google，Game Changer更可怕的是，一个超强的对手 Google，也带着他的TPU芯片杀入了这场战争。之前已经提了很多次，“Anthropic开始规模采用TPU”，这才是对 英伟达产生最大冲击的事件。事实上除了GPU，CUDA生态是英伟达最大的护城河。英伟达向vLLM、Triton、SGLang等框架大量贡献优化代码，新兴的RL训练框架也率先在CUDA生态出现。 但现在Anthropic跑在TPU上意味着：未来他们的优化经验、工程积累、底层调度都将沉淀在JAX/XLA体系里，而不是CUDA里。时间一长，不同AI公司会说不同的\"硬件方言\"。TPU也在迅速迭代，并把训练/推理功能做了拆分。如果TPU在推理市场份额达到30–40%，英伟达将面临两难选择：要么大降价，要么看着收入蒸发。——————————————————————市场是残忍的，现实的，市场交易的是预期。毋庸置疑，英伟达仍然是绝对的王者。但是王者第一次露出了明显的漏洞，资金已经开始为“预期”下注。",
+      "content": "我有个内部对冲仓位： $GOOG和 $NVDA，像是跷跷板的两端。昨晚，涨了Google就得跌英伟达。<br><br>背后的逻辑可能是：<b>Google在AI训练方面也正成为英伟达的有力挑战者。</b><br><br><b>那事实是这样么？回答只能给一个冷酷的YES！</b><br>————————————————————<br>事实上，英伟达的市场份额一直在缩减。<br><br>AI芯片分别有用在训练和推理上。<b>在训练领域，英伟达份额超过 90%；在推理领域，由于定制芯片和CPU的竞争，份额仅有 60–75%。</b> <br><br>但是今年以来有两个结构性转变同时出现了：<br><i class=\"emoji\"><b>1️⃣</b></i>推理需求大增，推理在数据中心收入中首次超过训练；<br><i class=\"emoji\"><b>2️⃣</b></i>Google的TPU在训练上被Anthropic采用，第一次有人在训练上对英伟达产生了可能的威胁。<br>————————————————————<br><i class=\"emoji\"><b>🧩</b></i>趋势背后的原因：<br>其实我们可以用更经济学的观点来拆解份额下降的原因。今天各家一直被诟病的CapEx其实很多还是花在了芯片上。<br><b>对于每年花500–1000亿美元购买AI基础设施的超大规模云厂商来说，哪怕把推理工作负载的20–30%迁移到自研芯片，每年就能节省数百亿美元。</b><br><br>这个经济账，正在驱动Google和亚马逊接受更慢的产品迭代周期，换取架构上的独立性。<br><br>——————————————————————<br><b>新趋势：ASIC定制芯片需求大增</b><br><br>TrendForce预测，2026年GPU类AI服务器将占出货量的 69.7%，而ASIC类服务器将上升至 27.8%。<br><br>事实上，从2025年底起，推理需求就以极快的速度增长。Agent时代的到来更是把“低延迟交互、更高灵活性、适配不同任务”的优先级大大提高。<br>Counterpoint Research做出预测，到2028年，定制芯片出货量将超过GPU，成为第一大AI服务器算力形态。他并不是唯一一个这么认为的。多家研究机构认为，<b>模型进入生产环境后，推理会成为生命周期成本的大头。<br></b><br>财报季的数据也证明了这一点：<br>Broadcom 的AI ASIC业务在单季度（FY2026 Q2）就达到 84亿美元，同比增长106%，且有730亿美元的订单积压可见度延伸至2027年中。 <br>——————————————————————<br>Google，Game Changer<br>更可怕的是，一个超强的对手 Google，也带着他的TPU芯片杀入了这场战争。<br><br>之前已经提了很多次，“Anthropic开始规模采用TPU”，这才是对 英伟达产生最大冲击的事件。<br><br>事实上除了GPU，<b>CUDA生态是英伟达最大的护城河。</b><br>英伟达向vLLM、Triton、SGLang等框架大量贡献优化代码，新兴的RL训练框架也率先在CUDA生态出现。 <br><br><b>但现在Anthropic跑在TPU上意味着：未来他们的优化经验、工程积累、底层调度都将沉淀在JAX/XLA体系里，而不是CUDA里。时间一长，不同AI公司会说不同的\"硬件方言\"。</b><br><br>TPU也在迅速迭代，并把训练/推理功能做了拆分。如果TPU在推理市场份额达到30–40%，英伟达将面临两难选择：要么大降价，要么看着收入蒸发。<br>——————————————————————<br><b>市场是残忍的，现实的，市场交易的是预期。<br></b><br>毋庸置疑，英伟达仍然是绝对的王者。但是王者第一次露出了明显的漏洞，资金已经开始为“预期”下注。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "667",
+      "title": "4月是一个大丰收的月份",
+      "type": "text",
+      "datetime": "2026-05-01T02:47:15+00:00",
+      "tags": [],
+      "text": "4月是一个大丰收的月份。复盘一下这次的收益和亏损，反思一下交易。前期主要是来自抄底——包括了内存股 $MUU $MU 07747  $KORU, 以及光通讯的  $AXTI $MRVL $CRDO中间追了 $AEHR港股打新赚了 胜宏和 Manycore后期主要是价值股和长线股爆发： $GOOG $INTC属于一直持有，财报前挪了一些内存光通讯的仓位去加。亏损主要fomo了 $POET 垃圾股还是不要去做交易。拖累资金机会成本的主要是港股，在矿产热的时候买的铜矿股，基本属于震荡区间，阿里、优必选对整个仓位的贡献也是偏负面的。比较失败的还是卖飞了很多 $MUU $KORU，几乎买在了最低点，但是缺少耐心等待，一路卖飞上来，对于 群核又贪心没有卖在最疯狂的位置。抄底的决心强又没有那么强。其实当时还有2成不到点的现金，但大概是币圈给我的几次冲击都太大了，总想为最差情况留着生活现金。Google 270的时候喊朋友抄底，自己却买的不够多。知行不合一。这篇比较碎碎念。4月大致感觉交易的不错，但是仔细复盘下，瑕疵还是很多。希望继续修行，卖飞不哭，该抄底则抄底，相信美股都会给我们美好的未来。",
+      "content": "4月是一个大丰收的月份。<br><br>复盘一下这次的收益和亏损，反思一下交易。<br>前期主要是来自抄底——包括了内存股 $MUU $MU 07747  $KORU, <br>以及光通讯的  $AXTI $MRVL $CRDO<br>中间追了 $AEHR<br>港股打新赚了 胜宏和 Manycore<br>后期主要是价值股和长线股爆发： $GOOG $INTC属于一直持有，财报前挪了一些内存光通讯的仓位去加。<br><br>亏损主要fomo了 $POET 垃圾股还是不要去做交易。<br><br>拖累资金机会成本的主要是港股，在矿产热的时候买的铜矿股，基本属于震荡区间，阿里、优必选对整个仓位的贡献也是偏负面的。<br><br>比较失败的还是卖飞了很多 $MUU $KORU，几乎买在了最低点，但是缺少耐心等待，一路卖飞上来，对于 群核又贪心没有卖在最疯狂的位置。<br><br>抄底的决心强又没有那么强。其实当时还有2成不到点的现金，但大概是币圈给我的几次冲击都太大了，总想为最差情况留着生活现金。Google 270的时候喊朋友抄底，自己却买的不够多。知行不合一。<br><br>这篇比较碎碎念。4月大致感觉交易的不错，但是仔细复盘下，瑕疵还是很多。<br><br>希望继续修行，卖飞不哭，该抄底则抄底，相信美股都会给我们美好的未来。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "666",
       "title": "【Fiona日报】2026-05-01 周五━━ 今日最重要一件事 ━━S&P 500创历史新高，4月收官涨幅逾10%——但驱动这波行情的逻辑，已经悄悄换了一套",
@@ -324,100 +393,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "649",
-      "title": "接下来一个月值得关注的日子📅:⚡ 4月30日是超级财报日 — 微软、Alphabet、Meta、亚马逊四家公司同一天收盘后发布财报，而同日下午美联储还会宣布利率决定，市场要同时消化Fed声明和四家巨头财报⚡️5月1日，伊朗战争《战争权力法》60天截止日",
-      "type": "text",
-      "datetime": "2026-04-24T14:45:09+00:00",
-      "tags": [],
-      "text": "接下来一个月值得关注的日子📅:⚡ 4月30日是超级财报日 — 微软、Alphabet、Meta、亚马逊四家公司同一天收盘后发布财报，而同日下午美联储还会宣布利率决定，市场要同时消化Fed声明和四家巨头财报⚡️5月1日，伊朗战争《战争权力法》60天截止日。但是如果特朗普书面认证需要更多时间撤军，可额外延长30天——即最多延至5月31日。 ⚡️ 5月15日，鲍威尔的美联储主席任期结束，但是因为诉讼的问题，这个日期也面临延后的可能。⚡️5月20日，英伟达财报发布。基本决定整个AI板块的情绪走向。",
-      "content": "接下来一个月值得关注的日子<i class=\"emoji\"><b>📅</b></i>:<br><i class=\"emoji\"><b>⚡</b></i> 4月30日是超级财报日 — 微软、Alphabet、Meta、亚马逊四家公司同一天收盘后发布财报，而同日下午美联储还会宣布利率决定，市场要同时消化Fed声明和四家巨头财报<br><br><i class=\"emoji\"><b>⚡️</b></i>5月1日，伊朗战争《战争权力法》60天截止日。但是如果特朗普书面认证需要更多时间撤军，可额外延长30天——即最多延至5月31日。 <br><br><i class=\"emoji\"><b>⚡️</b></i> 5月15日，鲍威尔的美联储主席任期结束，但是因为诉讼的问题，这个日期也面临延后的可能。<br><br><i class=\"emoji\"><b>⚡️</b></i>5月20日，英伟达财报发布。基本决定整个AI板块的情绪走向。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "13",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "648",
-      "title": "最近以来买到的牛股基本还是紧紧扣着AI，毕竟几千亿的CapEx都要找到去处：1️⃣存储股：$MU $SK 以及相对的两倍做多 $MUU 07709，两倍做多适合单边行情启动之时，震荡期拿着磨损有点心疼",
-      "type": "text",
-      "datetime": "2026-04-24T00:57:41+00:00",
-      "tags": [],
-      "text": "最近以来买到的牛股基本还是紧紧扣着AI，毕竟几千亿的CapEx都要找到去处：1️⃣存储股：$MU $SK 以及相对的两倍做多 $MUU 07709，两倍做多适合单边行情启动之时，震荡期拿着磨损有点心疼。不过都吃到了翻倍，给到一个夯。2️⃣光通讯前期重仓 $COHR 但是吃了几波大涨就全卖飞了，后期选择了 $MRVL $CRDO $AEHR $AXTI 基本也都翻倍或者接近翻倍，因为涨的加速度很快，给到一个夯。3️⃣CPU单吊一个 $INTC 也吃到了翻倍，但是整体持仓体验不如前两个板块，给一个人上人。4️⃣港股板块港股买的很杂，打新股和一些概念股轮流买卖，操作非常不理想有赚有亏，给一个NPC。真的赚到钱的之后07709和宁德时代。剩下的小打小闹，重点批评 优必选和阿里，今年实在拉爆了。5️⃣火箭板块$RKLB $ASTS $SATS 除了小火箭因为良好的几次加仓行为，吃了一个70%的涨幅之外，其他两都没贡献什么收益。整个板块目前NPC，希望接下来会有更好的表现。6️⃣ 时代弃子股这个板块基本属于目前的垃圾回收，基本都是涨过一波但是现在跌的不敢认的。已经介入抄底。目前主要回收了 $CRCL $DUOL $MSTR $NOW $AAPL的远期期权 $RDDT 。目前水上但不多，给一个NPC。",
-      "content": "最近以来买到的牛股基本还是紧紧扣着AI，毕竟几千亿的CapEx都要找到去处：<br><br><i class=\"emoji\"><b>1️⃣</b></i>存储股：<br>$MU $SK 以及相对的两倍做多 $MUU 07709，两倍做多适合单边行情启动之时，震荡期拿着磨损有点心疼。不过都吃到了翻倍，给到一个夯。<br><i class=\"emoji\"><b>2️⃣</b></i>光通讯<br>前期重仓 $COHR 但是吃了几波大涨就全卖飞了，后期选择了 $MRVL $CRDO $AEHR $AXTI 基本也都翻倍或者接近翻倍，因为涨的加速度很快，给到一个夯。<br><i class=\"emoji\"><b>3️⃣</b></i>CPU<br>单吊一个 $INTC 也吃到了翻倍，但是整体持仓体验不如前两个板块，给一个人上人。<br><i class=\"emoji\"><b>4️⃣</b></i>港股板块<br>港股买的很杂，打新股和一些概念股轮流买卖，操作非常不理想有赚有亏，给一个NPC。真的赚到钱的之后07709和宁德时代。剩下的小打小闹，重点批评 优必选和阿里，今年实在拉爆了。<br><i class=\"emoji\"><b>5️⃣</b></i>火箭板块<br>$RKLB $ASTS $SATS 除了小火箭因为良好的几次加仓行为，吃了一个70%的涨幅之外，其他两都没贡献什么收益。整个板块目前NPC，希望接下来会有更好的表现。<br><i class=\"emoji\"><b>6️⃣</b></i> 时代弃子股<br>这个板块基本属于目前的垃圾回收，基本都是涨过一波但是现在跌的不敢认的。已经介入抄底。<br>目前主要回收了 $CRCL $DUOL $MSTR $NOW $AAPL的远期期权 $RDDT 。目前水上但不多，给一个NPC。",
-      "reactions": [
-        {
-          "emoji": "🥰",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎅",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "647",
-      "title": "股价不涨的时候，写再多利好都没人看",
-      "type": "text",
-      "datetime": "2026-04-24T00:57:11+00:00",
-      "tags": [],
-      "text": "股价不涨的时候，写再多利好都没人看。但是现在 $INTC 走到你们面前了，是否可以回顾一下这些帖文：1️⃣2025年5月13日，陈立武确认任命INTEL CEO，但是股价刚突破20+https://x.com/nft_hu/status/1900155606302154948?s=202️⃣2026年1月21日，长文写2026年会是INTC爆发关键年，但是股价40附近https://x.com/nft_hu/status/2013914221558571021?s=203️⃣2026年1月23日，财报后回调但依然看多逻辑https://x.com/nft_hu/status/2014687839368454541?s=204️⃣2026年1月30日，Intel 的 Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%https://x.com/nft_hu/status/2017236150361178597?s=205️⃣2月7日，陈立武组建梦之队，中国市场CPU缺货，交货期推迟https://x.com/nft_hu/status/2020131083917103391?s=20我老公经常和我说，我写的调研根本没人看。其实看了眼这些帖文确实流量惨淡，不过那是我的来时路，是我的逻辑和思考。投资和记录的快乐或许就在于，在无人问津时买入，在人声鼎沸时回看自己的逻辑，这种成就感和自我证明的快乐是难以言喻的。",
-      "content": "股价不涨的时候，写再多利好都没人看。但是现在 $INTC 走到你们面前了，是否可以回顾一下这些帖文：<br><br><i class=\"emoji\"><b>1️⃣</b></i>2025年5月13日，陈立武确认任命INTEL CEO，但是股价刚突破20+<br><a href=\"https://x.com/nft_hu/status/1900155606302154948?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1900155606302154948?s=20\">https://x.com/nft_hu/status/1900155606302154948?s=20</a><br><i class=\"emoji\"><b>2️⃣</b></i>2026年1月21日，长文写2026年会是INTC爆发关键年，但是股价40附近<br><a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><br><i class=\"emoji\"><b>3️⃣</b></i>2026年1月23日，财报后回调但依然看多逻辑<br><a href=\"https://x.com/nft_hu/status/2014687839368454541?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2014687839368454541?s=20\">https://x.com/nft_hu/status/2014687839368454541?s=20</a><br><i class=\"emoji\"><b>4️⃣</b></i>2026年1月30日，Intel 的 Panther Lake 芯片在多核性能上比 Apple 的 M5 高出 33%<br><a href=\"https://x.com/nft_hu/status/2017236150361178597?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2017236150361178597?s=20\">https://x.com/nft_hu/status/2017236150361178597?s=20</a><br><i class=\"emoji\"><b>5️⃣</b></i>2月7日，陈立武组建梦之队，中国市场CPU缺货，交货期推迟<br><a href=\"https://x.com/nft_hu/status/2020131083917103391?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2020131083917103391?s=20\">https://x.com/nft_hu/status/2020131083917103391?s=20</a><br><br>我老公经常和我说，我写的调研根本没人看。其实看了眼这些帖文确实流量惨淡，不过那是我的来时路，是我的逻辑和思考。<br><br>投资和记录的快乐或许就在于，在无人问津时买入，在人声鼎沸时回看自己的逻辑，这种成就感和自我证明的快乐是难以言喻的。<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1900155606302154948?s=20\" target=\"_blank\" rel=\"noopener\" title=\"陈立武确认任命INTEL CEO，这一消息提振了股价 INTC上涨超过10%987年，陈立武创立了风险投资公司华登国际专注于半导体、清洁能源、软件及通讯等领域的投资。他被誉为“芯片创投教父”，在全球范围内投资了超过500家企业，其中138家成功上市。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f6aeab3556011b41368079b5533953d3.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">陈立武确认任命INTEL CEO，这一消息提振了股价 INTC上涨超过10%<br><br>987年，陈立武创立了风险投资公司华登国际专注于半导体、清洁能源、软件及通讯等领域的投资。他被誉为“芯片创投教父”，在全球范围内投资了超过500家企业，其中138家成功上市。</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "646",
-      "title": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金",
-      "type": "text",
-      "datetime": "2026-04-23T23:45:59+00:00",
-      "tags": [],
-      "text": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金。2026年似乎所有的机会都被英特尔抓住，当时写在尾声：“CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风；外部资本与政策支持，为它争取了时间窗口；而组织、资本纪律与战略聚焦的调整，则决定了它是否有能力把风接住。”那我想4个月后，我可以给出初步的判断，Intel完美地完成了这场大考。https://x.com/nft_hu/status/2013914221558571021?s=20",
-      "content": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金。<br><br>2026年似乎所有的机会都被英特尔抓住，当时写在尾声：<br>“CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风；外部资本与政策支持，为它争取了时间窗口；而组织、资本纪律与战略聚焦的调整，则决定了它是否有能力把风接住。”<br><br>那我想4个月后，我可以给出初步的判断，Intel完美地完成了这场大考。<br><a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"当计算范式改变，2026年的Intel 等到了它的“风”\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/0cf5d993abd2a43a302457cc51705f0f.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">当计算范式改变，2026年的Intel 等到了它的“风”</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
-          "count": "1",
           "isPaid": false
         }
       ]

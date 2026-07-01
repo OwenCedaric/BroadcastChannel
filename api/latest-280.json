@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 693,
+    "totalPosts": 697,
     "totalPages": 35,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,90 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "441",
+      "title": "Gaib 算力➕机器人 ",
+      "type": "text",
+      "datetime": "2025-10-17T09:59:55+00:00",
+      "tags": [],
+      "text": "Gaib 算力➕机器人 https://x.com/nft_hu/status/1978640897140314263?s=46",
+      "content": "Gaib 算力<i class=\"emoji\"><b>➕</b></i>机器人 <a href=\"https://x.com/nft_hu/status/1978640897140314263?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1978640897140314263?s=46\">https://x.com/nft_hu/status/1978640897140314263?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1978640897140314263?s=46\" target=\"_blank\" rel=\"noopener\" title=\"写人形机器人一年了，之前港股写过关联的很多股票（类似优必选，宁德时代）涨疯了。当然大行情好也是很大的一个原因。“具身智能（Embodied AI）”是AI最火的新方向，也是资金不断流入的赛道。Embodied AI指的是将AI\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/31b227fc7abfa2817caeefba81a2cfca.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">写人形机器人一年了，之前港股写过关联的很多股票（类似优必选，宁德时代）涨疯了。当然大行情好也是很大的一个原因。<br><br>“具身智能（Embodied AI）”是AI最火的新方向，也是资金不断流入的赛道。Embodied AI指的是将AI</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "440",
+      "title": "最近关于铜价的看法 ",
+      "type": "text",
+      "datetime": "2025-10-17T00:11:02+00:00",
+      "tags": [],
+      "text": "最近关于铜价的看法 https://x.com/nft_hu/status/1978969333213663443?s=46",
+      "content": "最近关于铜价的看法 <a href=\"https://x.com/nft_hu/status/1978969333213663443?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1978969333213663443?s=46\">https://x.com/nft_hu/status/1978969333213663443?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1978969333213663443?s=46\" target=\"_blank\" rel=\"noopener\" title=\"现在对铜价走势也是分歧很大。有说供大于求，高价铜中国买家马上不买了; 也有持续看好认为新能源 AI电网都离不开铜，铜不够会涨破11000美元每吨🧐\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f73354123d87c21e0cc9371f30ecccac.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">现在对铜价走势也是分歧很大。<br>有说供大于求，高价铜中国买家马上不买了; 也有持续看好认为新能源 AI电网都离不开铜，铜不够会涨破11000美元每吨<i class=\"emoji\" style=\"background-image:url('/static/7ae7000e41d4bbfcb3e45c2b050b22aa.png')\"><b>🧐</b></i></div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "439",
+      "title": "今日数据：1️⃣华尔街恐惧与贪婪指数跌至23，为4月末以来首次跌至极度恐惧区域，美盘初为35",
+      "type": "text",
+      "datetime": "2025-10-16T20:53:08+00:00",
+      "tags": [],
+      "text": "今日数据：1️⃣华尔街恐惧与贪婪指数跌至23，为4月末以来首次跌至极度恐惧区域，美盘初为35。2️⃣VIX收于25.31，创4月24日以来最高收盘水平。3️⃣三大股指集体收跌 金龙指数跌近1%4️⃣纽约期金日内大涨3.00%，现报4328.00美元/盎司。5️⃣美国10年期国债收益率跌穿4%整数心理关口，为4月以来首次",
+      "content": "今日数据：<br><i class=\"emoji\"><b>1️⃣</b></i>华尔街恐惧与贪婪指数跌至23，为4月末以来首次跌至极度恐惧区域，美盘初为35。<br><i class=\"emoji\"><b>2️⃣</b></i>VIX收于25.31，创4月24日以来最高收盘水平。<br><i class=\"emoji\"><b>3️⃣</b></i>三大股指集体收跌 金龙指数跌近1%<br><i class=\"emoji\"><b>4️⃣</b></i>纽约期金日内大涨3.00%，现报4328.00美元/盎司。<br><i class=\"emoji\"><b>5️⃣</b></i>美国10年期国债收益率跌穿4%整数心理关口，为4月以来首次",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "438",
+      "title": "随着比特币又一次轻松的跌破了11w关口，和我近日缓和的情绪之下的思考，分享我对于当下行情的一点感受",
+      "type": "text",
+      "datetime": "2025-10-16T20:22:06+00:00",
+      "tags": [],
+      "text": "随着比特币又一次轻松的跌破了11w关口，和我近日缓和的情绪之下的思考，分享我对于当下行情的一点感受。首先，短期不看大反弹。10月11日的极限插针和大额爆仓除了让少数机构和人赚到了钱，对于整个市场的伤害是巨大的。从机构到个人，都被血洗。大家除了资金蒙受相当大的损失，心气的损伤更为致命。对于山寨和CEX，最后一层遮羞布也撕下了。今年以来，一个疑问一直萦绕在我脑海中：“币圈的风险和收益似真的还成正相关么？”。 信心是金，流动性也是金，而短期内，这两点似乎都消失了。这种情况下保持现有价格震荡就很不错了，更有可能的是，脆弱的盘面随着某个/些风险事件而击穿。DAT的故事讲到尽头。6月开启的新叙事也讲到结尾了。Tom Lee 作为核心DAT概念人物，在最近的发言中，也表示了： DATs泡沫“已破”警告。他认为以持有大额加密资产（如 ETH /BTC）作为公司国库资产的模式，其估值逻辑正受到严重怀疑。部分这类公司现在的市值甚至低于其所持加密资产价值。他把这称为一个清晰的信号：这种“把加密资产当国库资产”的游戏开始崩裂了。虽然他还是奶了一下自己的bag $ETH 会到新高，但是懂得都懂。宏观的干扰因素也不少：美国政府关门，美中关系紧张，世界多地仍深陷战争泥潭，美股高位的回调隐忧。而唯一确定的利好只有降息。盘面是脆弱的，而世界是走向动荡和分裂的。",
+      "content": "随着比特币又一次轻松的跌破了11w关口，和我近日缓和的情绪之下的思考，分享我对于当下行情的一点感受。<br><br>首先，短期不看大反弹。10月11日的极限插针和大额爆仓除了让少数机构和人赚到了钱，对于整个市场的伤害是巨大的。从机构到个人，都被血洗。大家除了资金蒙受相当大的损失，心气的损伤更为致命。对于山寨和CEX，最后一层遮羞布也撕下了。<br><br>今年以来，一个疑问一直萦绕在我脑海中：“币圈的风险和收益似真的还成正相关么？”。 信心是金，流动性也是金，而短期内，这两点似乎都消失了。<br><br>这种情况下保持现有价格震荡就很不错了，更有可能的是，脆弱的盘面随着某个/些风险事件而击穿。<br><br>DAT的故事讲到尽头。6月开启的新叙事也讲到结尾了。Tom Lee 作为核心DAT概念人物，在最近的发言中，也表示了： DATs泡沫“已破”警告。<br><br>他认为以持有大额加密资产（如 ETH /BTC）作为公司国库资产的模式，其估值逻辑正受到严重怀疑。部分这类公司现在的市值甚至低于其所持加密资产价值。<br>他把这称为一个清晰的信号：这种“把加密资产当国库资产”的游戏开始崩裂了。<br><br>虽然他还是奶了一下自己的bag $ETH 会到新高，但是懂得都懂。<br><br>宏观的干扰因素也不少：美国政府关门，美中关系紧张，世界多地仍深陷战争泥潭，美股高位的回调隐忧。而唯一确定的利好只有降息。盘面是脆弱的，而世界是走向动荡和分裂的。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "34",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "437",
       "title": "目前的计划:1️⃣出金 场内的钱特别容易买回去，留2成现金给生活",
@@ -369,90 +453,6 @@
         {
           "emoji": "👍",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "421",
-      "title": "算是抄到底了！很少做左侧交易，做起来真的心里没底",
-      "type": "text",
-      "datetime": "2025-10-02T02:26:00+00:00",
-      "tags": [],
-      "text": "算是抄到底了！很少做左侧交易，做起来真的心里没底。很幸运的是这次还是如期反弹了。最近既给朋友做了心理按摩，又找人做了心理按摩，最后还好拿住了。行情好起来或许会有不少交易机会，但我应该还是主流➕一个Hype为主。希望大家都能赚到！",
-      "content": "算是抄到底了！<br>很少做左侧交易，做起来真的心里没底。<br>很幸运的是这次还是如期反弹了。<br><br>最近既给朋友做了心理按摩，又找人做了心理按摩，最后还好拿住了。<br><br>行情好起来或许会有不少交易机会，但我应该还是主流<i class=\"emoji\"><b>➕</b></i>一个Hype为主。<br><br>希望大家都能赚到！",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "48",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "420",
-      "title": "宁德时代600hit 阿里巴巴180hit很好的持仓体验",
-      "type": "text",
-      "datetime": "2025-10-02T01:27:01+00:00",
-      "tags": [],
-      "text": "宁德时代600hit 阿里巴巴180hit很好的持仓体验",
-      "content": "宁德时代600hit <br>阿里巴巴180hit<br>很好的持仓体验",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "419",
-      "title": "大阳线 终于等到你",
-      "type": "text",
-      "datetime": "2025-10-01T09:18:45+00:00",
-      "tags": [],
-      "text": "大阳线 终于等到你",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/413\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">早安，目前所有的抄底单，除了doge都盈利了。不过周一才刚开始也不想太早乐观。关注本周非农 失业率。</div>\n</small></blockquote></a>大阳线 终于等到你",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "418",
-      "title": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”",
-      "type": "text",
-      "datetime": "2025-10-01T06:11:27+00:00",
-      "tags": [],
-      "text": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”。当地时间30日晚，白宫管理和预算办公室（OMB）主任沃特发布备忘录，指示各政府机构开始执行其“有序停摆”的预案。不受影响的部门包括军方、联邦调查局和国土安全部等执法部门、联邦航空管理局和邮政局等。",
-      "content": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”。当地时间30日晚，白宫管理和预算办公室（OMB）主任沃特发布备忘录，指示各政府机构开始执行其“有序停摆”的预案。不受影响的部门包括军方、联邦调查局和国土安全部等执法部门、联邦航空管理局和邮政局等。",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "6",
           "isPaid": false
         }
       ]
