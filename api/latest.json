@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 698,
+    "totalPosts": 699,
     "totalPages": 35,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "733",
+      "title": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人",
+      "type": "text",
+      "datetime": "2026-07-02T12:36:14+00:00",
+      "tags": [],
+      "text": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人。(来自金十数据APP)",
+      "content": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人。<br>(来自金十数据APP)",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "11",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "732",
       "title": "从我自己痛苦的程度来感知，我们在最底部附近了，相信反转即将到来",
@@ -356,27 +372,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "712",
-      "title": "看了 $LITE CEO的发言有一个观点非常赞同：重要的不是NPO或者CPO，而是全面光互连",
-      "type": "text",
-      "datetime": "2026-06-11T12:55:34+00:00",
-      "tags": [],
-      "text": "看了 $LITE CEO的发言有一个观点非常赞同：重要的不是NPO或者CPO，而是全面光互连。过于纠结于无关紧要的细节，会让你错过整个光互连变革带来的机遇。",
-      "content": "看了 $LITE CEO的发言有一个观点非常赞同：<br>重要的不是NPO或者CPO，而是全面光互连。<br><br>过于纠结于无关紧要的细节，会让你错过整个光互连变革带来的机遇。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "7",
           "isPaid": false
         }
       ]

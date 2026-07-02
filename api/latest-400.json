@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 698,
+    "totalPosts": 699,
     "totalPages": 35,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "320",
+      "title": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个",
+      "type": "text",
+      "datetime": "2025-07-14T10:16:53+00:00",
+      "tags": [],
+      "text": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个。上一次见到这样的架势还是 $MSTR 。截至今天，他持有的 $ETH 已经超过了 21万个，成为了仅次于以太坊的第二大持仓机构（这里是把CEX的持仓排除在外的）走进 SharpLink Gaming https://x.com/nft_hu/status/1944675614293901605",
+      "content": "最近有一家公司，每天像东北人买白菜似的不要钱地买 $ETH ，今天买个1w来个，明天买个1w来个。上一次见到这样的架势还是 $MSTR 。<br>截至今天，他持有的 $ETH 已经超过了 21万个，成为了仅次于以太坊的第二大持仓机构（这里是把CEX的持仓排除在外的）<br>走进 SharpLink Gaming <a href=\"https://x.com/nft_hu/status/1944675614293901605\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1944675614293901605\">https://x.com/nft_hu/status/1944675614293901605</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "⚡",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "319",
       "title": "谁会是下一个Robinhood？谁会复刻他对人性的掌握又抓住一个新兴行业（加密）的发展？ $SOFI 会是下一个传奇么？抑或只是一个昙花一现的叙事？让我们走进这家给散户投10美金给独角兽企业的机会，且会从特朗普的最新政策中受益的公司—— $SOFI ",
@@ -421,27 +447,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "300",
-      "title": "关于Pengu 我买入的原因和项目的基本情况：",
-      "type": "text",
-      "datetime": "2024-12-26T12:37:01+00:00",
-      "tags": [],
-      "text": "关于Pengu 我买入的原因和项目的基本情况：https://x.com/nft_hu/status/1872258649697239377",
-      "content": "关于Pengu 我买入的原因和项目的基本情况：<br><a href=\"https://x.com/nft_hu/status/1872258649697239377\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1872258649697239377\">https://x.com/nft_hu/status/1872258649697239377</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🍾",
           "count": "1",
           "isPaid": false
         }

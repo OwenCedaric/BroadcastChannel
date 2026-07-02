@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 698,
+    "totalPosts": 699,
     "totalPages": 35,
     "currentPage": 30,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-560.json"
   },
   "data": [
+    {
+      "id": "135",
+      "title": "W vs AXL 全链通信层: ",
+      "type": "text",
+      "datetime": "2024-04-03T11:03:28+00:00",
+      "tags": [],
+      "text": "W vs AXL 全链通信层: https://x.com/nft_hu/status/1775474635745972713?s=46",
+      "content": "W vs AXL 全链通信层: <a href=\"https://x.com/nft_hu/status/1775474635745972713?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1775474635745972713?s=46\">https://x.com/nft_hu/status/1775474635745972713?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1775474635745972713?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今晚萬眾期待的 @wormhole 蟲洞項目就終於要上線了。一文導覽關於蟲洞是什麼？Wormhole 是一種去中心化的通用訊息傳遞協議，使跨鏈應用程式的開發人員和使用者能夠利用多個生態系統的優勢。“橋”是他的表現形式之一，但是更本質的 Wormhole\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f156653f4ff2f5f3cee4487abb7bc362.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今晚萬眾期待的 @wormhole 蟲洞項目就終於要上線了。一文導覽關於蟲洞是什麼？<br>Wormhole 是一種去中心化的通用訊息傳遞協議，使跨鏈應用程式的開發人員和使用者能夠利用多個生態系統的優勢。<br>“橋”是他的表現形式之一，但是更本質的 Wormhole</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "134",
       "title": "Bome继续冲冲",
@@ -398,22 +408,6 @@
         {
           "emoji": "🔥",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "115",
-      "title": "推荐参与的节点拍卖： @AethirCloud ——去中心化 GPU 云基础设施",
-      "type": "text",
-      "datetime": "2024-03-18T05:57:52+00:00",
-      "tags": [],
-      "text": "推荐参与的节点拍卖： @AethirCloud ——去中心化 GPU 云基础设施。❗️他的节点拍卖将在2天后开始，欢迎大家买的时候使用我的邀请码：Fiona使用我的邀请码可以在购买节点时获得优惠！节点销售的详细信息：https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale 在Aethir上运行节点有助于去中心化云计算，并从成为网络参与者中获得代币奖励。",
-      "content": "推荐参与的节点拍卖：<br> <br><a href=\"https://t.me/AethirCloud\" target=\"_blank\" title=\"@AethirCloud\">@AethirCloud</a> ——去中心化 GPU 云基础设施。<br><br><i class=\"emoji\"><b>❗️</b></i>他的节点拍卖将在2天后开始，欢迎大家买的时候使用我的邀请码：Fiona<br>使用我的邀请码可以在购买节点时获得优惠！<br><br>节点销售的详细信息：<br><a href=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\" target=\"_blank\" rel=\"noopener\" title=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\">https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale</a><br><br> 在Aethir上运行节点有助于去中心化云计算，并从成为网络参与者中获得代币奖励。<a class=\"tgme_widget_message_link_preview\" href=\"https://aethir.com/blog-posts/aethir-announces-its-first-decentralized-ai-node-sale\" target=\"_blank\" rel=\"noopener\" title=\"Aethir Announces its First Decentralized AI Node Sale\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Aethir</div>\n  <img class=\"link_preview_image\" alt=\"Aethir\" src=\"/static/30e31c19263f37b37b307989f2961196.jpg\" loading=\"lazy\">\n  \n  <div class=\"link_preview_description\" dir=\"auto\">Aethir Announces its First Decentralized AI Node Sale</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
           "isPaid": false
         }
       ]
