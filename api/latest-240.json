@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 697,
+    "totalPosts": 698,
     "totalPages": 35,
     "currentPage": 13,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "487",
+      "title": "静心等待今晚的CPI",
+      "type": "text",
+      "datetime": "2026-01-13T09:57:11+00:00",
+      "tags": [],
+      "text": "静心等待今晚的CPI",
+      "content": "静心等待今晚的CPI",
+      "reactions": []
+    },
     {
       "id": "486",
       "title": "阿里巴巴 等了很久的突破感觉真的要来了",
@@ -433,32 +443,6 @@
         },
         {
           "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "464",
-      "title": "马上周一啦！复盘一下过去一周的操作：抄底了 $BTC  $GOOG  $BMNR 周五开盘买了 $NBIS $AVGO，卖了 $PLTRAlts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴",
-      "type": "text",
-      "datetime": "2025-12-21T13:31:43+00:00",
-      "tags": [],
-      "text": "马上周一啦！复盘一下过去一周的操作：抄底了 $BTC  $GOOG  $BMNR 周五开盘买了 $NBIS $AVGO，卖了 $PLTRAlts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴。接下来关注PCE（这是美联储真正关注的通胀指标），初请失业金数据，非农就业数据。",
-      "content": "马上周一啦！复盘一下过去一周的操作：<br>抄底了 $BTC  $GOOG  $BMNR <br>周五开盘买了 $NBIS $AVGO，卖了 $PLTR<br>Alts短期内不会买了，准备用BMNR来代替我的山寨持仓（更高波动率）<br><br>相信AI叙事没有结束，且Google会占据优势地位，同样也看好阿里巴巴。<br><br>接下来关注PCE（这是美联储真正关注的通胀指标），初请失业金数据，非农就业数据。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
           "count": "1",
           "isPaid": false
         }

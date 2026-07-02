@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 697,
+    "totalPosts": 698,
     "totalPages": 35,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "69",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-02-02T13:37:51+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1753411558926168430?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1753411558926168430?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1753411558926168430?s=46\">https://x.com/nft_hu/status/1753411558926168430?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1753411558926168430?s=46\" target=\"_blank\" rel=\"noopener\" title=\"相信大家都被 NAVI 刷屏了！那今天也跟风来发一个推特抽奖 抽取5个C类WL@navi_protocol 拥有极好的投资人阵容：OKX Ventures,Hashed &amp; Dao5基金投资，是Sui生态借贷+流动性质押 如何参与：1⃣️关注 @navi_protocol 和 @nft_hu 2⃣️转发本推明天北京时间 18点公布中奖名单！欢迎大家参与\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">相信大家都被 NAVI 刷屏了！那今天也跟风来发一个推特抽奖 抽取5个C类WL<br>@navi_protocol 拥有极好的投资人阵容：OKX Ventures,Hashed &amp; Dao5基金投资，是Sui生态借贷+流动性质押 <br><br>如何参与：<br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1⃣️</b></i>关注 @navi_protocol 和 @nft_hu <br><i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2⃣️</b></i>转发本推<br>明天北京时间 18点公布中奖名单！欢迎大家参与</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "68",
       "title": "Puffer link 来了！欢迎群友们加入：",
@@ -348,22 +358,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "45",
-      "title": "昨天抽奖的B2盒子白单大家今晚6点再去查询，eth/btc地址只会有一个显示白单，辛苦大家都试试",
-      "type": "text",
-      "datetime": "2023-12-24T03:26:03+00:00",
-      "tags": [],
-      "text": "昨天抽奖的B2盒子白单大家今晚6点再去查询，eth/btc地址只会有一个显示白单，辛苦大家都试试。有问题再随时联系我～",
-      "content": "昨天抽奖的B2盒子白单大家今晚6点再去查询，eth/btc地址只会有一个显示白单，辛苦大家都试试。有问题再随时联系我～",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "3",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 697,
+    "totalPosts": 698,
     "totalPages": 35,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "174",
+      "title": "Fiona’s daily news🌏 政治1️⃣ 特朗普被定罪当天政治捐款激增",
+      "type": "text",
+      "datetime": "2024-06-03T12:07:24+00:00",
+      "tags": [],
+      "text": "Fiona’s daily news🌏 政治1️⃣ 特朗普被定罪当天政治捐款激增。2️⃣ 4月美国个人消费支出（PCE）物价指数同比上涨2.7%，核心PCE同比增长2.8%。总体通胀依然顽固。💵 经济1️⃣ Nvidia发布下一代AI芯片，市值增加3500亿美元。2️⃣ 香港公布新法规下17家申请加密交易平台名单。3️⃣ 中国和阿联酋肯定央行数字货币（CBDC）在跨境贸易中的作用。🪙 币圈1️⃣ 自ETF获批以来，超30亿美元ETH从交易所提现。2️⃣ Term Structure固定收益协议在以太坊上线。3️⃣ Notcoin 24小时交易额达46.73亿美元。4️⃣ 美国海军寻找合作伙伴开发区块链安全系统。5️⃣ GameStop（GME）因“Roaring Kitty”重返Reddit股价飙升。6️⃣ Binance账户因下载KOL推广的谷歌插件Aggr被黑，用户曝光100万美元被盗。",
+      "content": "Fiona’s daily news<br><br><i class=\"emoji\"><b>🌏</b></i> 政治<br><i class=\"emoji\"><b>1️⃣</b></i> 特朗普被定罪当天政治捐款激增。<br><i class=\"emoji\"><b>2️⃣</b></i> 4月美国个人消费支出（PCE）物价指数同比上涨2.7%，核心PCE同比增长2.8%。总体通胀依然顽固。<br><br><i class=\"emoji\"><b>💵</b></i> 经济<br><i class=\"emoji\"><b>1️⃣</b></i> Nvidia发布下一代AI芯片，市值增加3500亿美元。<br><i class=\"emoji\"><b>2️⃣</b></i> 香港公布新法规下17家申请加密交易平台名单。<br><i class=\"emoji\"><b>3️⃣</b></i> 中国和阿联酋肯定央行数字货币（CBDC）在跨境贸易中的作用。<br><br><i class=\"emoji\"><b>🪙</b></i> 币圈<br><i class=\"emoji\"><b>1️⃣</b></i> 自ETF获批以来，超30亿美元ETH从交易所提现。<br><i class=\"emoji\"><b>2️⃣</b></i> Term Structure固定收益协议在以太坊上线。<br><i class=\"emoji\"><b>3️⃣</b></i> Notcoin 24小时交易额达46.73亿美元。<br><i class=\"emoji\"><b>4️⃣</b></i> 美国海军寻找合作伙伴开发区块链安全系统。<br><i class=\"emoji\"><b>5️⃣</b></i> GameStop（GME）因“Roaring Kitty”重返Reddit股价飙升。<br><i class=\"emoji\"><b>6️⃣</b></i> Binance账户因下载KOL推广的谷歌插件Aggr被黑，用户曝光100万美元被盗。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "173",
       "title": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
@@ -347,32 +363,6 @@
         },
         {
           "emoji": "👏",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "154",
-      "title": "今天减仓了一些 大概还剩7成现货",
-      "type": "text",
-      "datetime": "2024-05-16T12:49:57+00:00",
-      "tags": [],
-      "text": "今天减仓了一些 大概还剩7成现货",
-      "content": "今天减仓了一些 大概还剩7成现货",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥱",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }

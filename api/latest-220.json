@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 697,
+    "totalPosts": 698,
     "totalPages": 35,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "507",
+      "title": "美国11月核心PCE物价指数月率 0.2%，预期0.20%",
+      "type": "text",
+      "datetime": "2026-01-22T15:16:48+00:00",
+      "tags": [],
+      "text": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。影响较小",
+      "content": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。<br>影响较小",
+      "reactions": []
+    },
     {
       "id": "506",
       "title": "400hit 年内翻倍期待一下",
@@ -361,16 +371,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "487",
-      "title": "静心等待今晚的CPI",
-      "type": "text",
-      "datetime": "2026-01-13T09:57:11+00:00",
-      "tags": [],
-      "text": "静心等待今晚的CPI",
-      "content": "静心等待今晚的CPI",
-      "reactions": []
     }
   ]
 }
