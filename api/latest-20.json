@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 206,
+    "totalPosts": 208,
     "totalPages": 11,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,133 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "220",
+      "title": "祝愿伊朗人民自此之后过上幸福快乐的生活，像邻居沙特和阿联酋一样踏踏实实发大财",
+      "type": "text",
+      "datetime": "2026-02-28T23:00:25+00:00",
+      "tags": [],
+      "text": "祝愿伊朗人民自此之后过上幸福快乐的生活，像邻居沙特和阿联酋一样踏踏实实发大财。从此走向繁荣富",
+      "content": "祝愿伊朗人民自此之后过上幸福快乐的生活，像邻居沙特和阿联酋一样踏踏实实发大财。从此走向繁荣富",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "474",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "113",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "43",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "title": "非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟",
+      "type": "text",
+      "datetime": "2026-02-26T17:15:03+00:00",
+      "tags": [],
+      "text": "非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟。原因：-  Lighter.xyz上开大量OI操纵ARC的那个庄家昨天被lighter官方给干了，导致ARC币价暴跌。而历史上Hyperliquid操纵JELLYJELLY的那个也被干了，证明了这些“perp dex”也是在LP可能受损的情况下有中心化权限去拉闸某个币的。- 而PIPPIN在我看来是放大版的另一个ARC。目前PIPPIN庄家的操纵主战场目前是在Aster上，至于在Aster上操盘的原因也很简单：币安现在打击操纵市场，所以直接在币安用多账户操纵现在会被封号，而Aster不管，但Aster会搬运币安流动性。所以在Aster开仓操盘=币安去中心化不封号版proxy。目前Aster上PIPPIN的持仓是8000万U，是目前Aster上持仓量top4的币，而币安是1亿U。source:https://www.asterdex.com/zh-TW/trade/pro/futures/PIPPINUSDT- 犹如ARC之于Lighter，PIPPIN何时收网完全取决于Aster交易所什么时候对它进行制裁，目前Aster已经对PIPPIN加强限制，只允许1x杠杆开仓。所以Aster显然是意识到问题了的。- 我分享出这笔交易的原因很简单，我想给它火上浇点小油，给它打一颗照明弹照亮夜空，而不是让你们来乱跟单。做空庄币是很危险的事情，越多人做空=给庄送燃料=风险越高，吃瓜看戏就好。我只是拿非常小一点钱来乱玩玩，验证我的thesis做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟。原因：-  Lighter.xyz上开大量OI操纵ARC的那个庄家昨天被lighter官方给干了，导致ARC币价暴跌。而历史上Hyperliquid操纵JELLYJELLY的那个也被干了，证明了这些“perp dex”也是在LP可能受损的情况下有中心化权限去拉闸某个币的。- 而PIPPIN在我看来是放大版的另一个ARC。目前PIPPIN庄家的操纵主战场目前是在Aster上，至于在Aster上操盘的原因也很简单：币安现在打击操纵市场，所以直接在币安用多账户操纵现在会被封号，而Aster不管，但Aster会搬运币安流动性。所以在Aster开仓操盘=币安去中心化不封号版proxy。目前Aster上PIPPIN的持仓是8000万U，是目前Aster上持仓量top4的币，而币安是1亿U。source:https://www.asterdex.com/zh-TW/trade/pro/futures/PIPPINUSDT- 犹如ARC之于Lighter，PIPPIN何时收网完全取决于Aster交易所什么时候对它进行制裁，目前Aster已经对PIPPIN加强限制，只允许1x杠杆开仓。所以Aster显然是意识到问题了的。- 我分享出这笔交易的原因很简单，我想给它火上浇点小油，给它打一颗照明弹照亮夜空，而不是让你们来乱跟单。做空庄币是很危险的事情，越多人做空=给庄送燃料=风险越高，吃瓜看戏就好。我只是拿非常小一点钱来乱玩玩，验证我的thesis做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。做空庄币是高风险操作，我是瞎几把玩玩，千万别跟。",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-215-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c1a46aa9552acc3e5b9d9d429ce00540.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-215-0\" popovertarget=\"modal-215-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c1a46aa9552acc3e5b9d9d429ce00540.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n    \n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-215-1\" popovertargetaction=\"show\">\n        <img src=\"/static/d4e611de9a4037bb7f42f032f752750d.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-215-1\" popovertarget=\"modal-215-1\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/d4e611de9a4037bb7f42f032f752750d.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n    \n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-215-2\" popovertargetaction=\"show\">\n        <img src=\"/static/388c9882826657b37e0113b6e0f861c1.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-215-2\" popovertarget=\"modal-215-2\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/388c9882826657b37e0113b6e0f861c1.jpg\" alt=\"非常危险的一笔交易我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟\" loading=\"lazy\" />\n      </button>\n    </div><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>非常危险的一笔交易</b><br><b>我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟</b>。<br><br>原因：<br>-  Lighter.xyz上开大量OI操纵ARC的那个庄家昨天被lighter官方给干了，导致ARC币价暴跌。而历史上Hyperliquid操纵JELLYJELLY的那个也被干了，证明了这些“perp dex”也是在LP可能受损的情况下有中心化权限去拉闸某个币的。<br><br>- 而PIPPIN在我看来是放大版的另一个ARC。目前PIPPIN庄家的操纵主战场目前是在Aster上，至于在Aster上操盘的原因也很简单：币安现在打击操纵市场，所以直接在币安用多账户操纵现在会被封号，而Aster不管，但Aster会搬运币安流动性。所以在Aster开仓操盘=币安去中心化不封号版proxy。<br>目前Aster上PIPPIN的持仓是8000万U，是目前Aster上持仓量top4的币，而币安是1亿U。<br>source:<br><pre><code class=\"language-yaml\">https<span class=\"token punctuation\">:</span>//www.asterdex.com/zh<span class=\"token punctuation\">-</span>TW/trade/pro/futures/PIPPINUSDT</code></pre><br><br>- 犹如ARC之于Lighter，PIPPIN何时收网完全取决于Aster交易所什么时候对它进行制裁，目前Aster已经对PIPPIN加强限制，只允许1x杠杆开仓。所以Aster显然是意识到问题了的。<br><br>- 我分享出这笔交易的原因很简单，我想给它火上浇点小油，<b>给它打一颗照明弹照亮夜空，而不是让你们来乱跟单。做空庄币是很危险的事情，越多人做空=给庄送燃料=风险越高，吃瓜看戏就好。</b>我只是拿非常小一点钱来乱玩玩，验证我的thesis<br><br><b>做空庄币是高风险操作，我是瞎几把玩玩，千万别跟</b>。<br><b>做空庄币是高风险操作，我是瞎几把玩玩，千万别跟</b>。<br><b>做空庄币是高风险操作，我是瞎几把玩玩，千万别跟</b>。</div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "346",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "139",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "214",
       "title": "当时看到的时候脑子里蹦出两个想法：想法A，啥都不说，就等更便宜的价格再捡大便宜想法B，抄了然后说出来",
@@ -917,103 +1044,6 @@
         {
           "emoji": "💯",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "195",
-      "title": "子弹多的情况下你只会觉得这是上天的恩赐天上下金子雨的感觉继续加仓了6个BTC",
-      "type": "text",
-      "datetime": "2026-02-05T21:33:52+00:00",
-      "tags": [],
-      "text": "子弹多的情况下你只会觉得这是上天的恩赐天上下金子雨的感觉继续加仓了6个BTC",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-195-0\" popovertargetaction=\"show\">\n        <img src=\"/static/52baa768f297ce892c6ba17bbabe774e.jpg\" alt=\"子弹多的情况下你只会觉得这是上天的恩赐天上下金子雨的感觉继续加仓了6个BTC\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-195-0\" popovertarget=\"modal-195-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/52baa768f297ce892c6ba17bbabe774e.jpg\" alt=\"子弹多的情况下你只会觉得这是上天的恩赐天上下金子雨的感觉继续加仓了6个BTC\" loading=\"lazy\" />\n      </button>\n    </div>子弹多的情况下<br>你只会觉得这是上天的恩赐<br><br>天上下金子雨的感觉<br>继续加仓了6个BTC",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "105",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "194",
-      "title": "我记得2021年也就是我入圈1年的时候我第一次面对2021.5.19这种级别的跌幅，BTC日内跌了30%当时是人脑袋懵逼也不知道干啥所以今天这真的是小场面，完全没什么好怕的",
-      "type": "text",
-      "datetime": "2026-02-05T21:08:49+00:00",
-      "tags": [],
-      "text": "我记得2021年也就是我入圈1年的时候我第一次面对2021.5.19这种级别的跌幅，BTC日内跌了30%当时是人脑袋懵逼也不知道干啥所以今天这真的是小场面，完全没什么好怕的",
-      "content": "我记得2021年也就是我入圈1年的时候我第一次面对2021.5.19这种级别的跌幅，BTC日内跌了30%<br>当时是人脑袋懵逼也不知道干啥<br><br>所以今天这真的是小场面，完全没什么好怕的",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "133",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]

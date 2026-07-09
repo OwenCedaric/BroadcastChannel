@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 206,
+    "totalPosts": 208,
     "totalPages": 11,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,113 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "129",
+      "title": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛刚刚的金融消费占身价的0.2%市场越跌我就越兴奋真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
+      "type": "text",
+      "datetime": "2025-11-21T13:11:37+00:00",
+      "tags": [],
+      "text": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛刚刚的金融消费占身价的0.2%市场越跌我就越兴奋真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
+      "content": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，<br>刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛<br>刚刚的金融消费占身价的0.2%<br><br>市场越跌我就越兴奋<br>真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "164",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "48",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "title": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的现在唯一美中不足就是美股可能回调还没到位",
+      "type": "text",
+      "datetime": "2025-11-21T13:08:58+00:00",
+      "tags": [],
+      "text": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的现在唯一美中不足就是美股可能回调还没到位",
+      "content": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感<br>山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的<br><br>现在唯一美中不足就是美股可能回调还没到位",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "193",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "127",
       "title": "这也就是很多大户在超小市值的币上下单时感觉：为什么我明明没成交多少金额，订单簿就在我挂了单之后又抬升了那么多的原因就是因为这些狗日的跟庄MM在跑这种类型的策略",
@@ -1072,138 +1179,6 @@
         {
           "emoji": "🤬",
           "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "108",
-      "title": "当你有X个亿的现金，现金类资产占总资产比例90%，且全球金融市场在打折甩卖时be like",
-      "type": "text",
-      "datetime": "2025-10-17T07:56:46+00:00",
-      "tags": [],
-      "text": "当你有X个亿的现金，现金类资产占总资产比例90%，且全球金融市场在打折甩卖时be like",
-      "content": "<video src=\"/static/defd3c2b989f27d95071766595d8908e.mp4\" class=\"tgme_widget_message_video js-message_video\" width=\"100%\" height=\"100%\" preload=\"metadata\" muted=\"\" autoplay=\"\" loop=\"\" playsinline=\"true\" controls=\"true\" webkit-playsinline=\"true\"></video>当你有X个亿的现金，现金类资产占总资产比例90%，且全球金融市场在打折甩卖时be like",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "331",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "106",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "63",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "107",
-      "title": "说个暴论，资本主义社会的经济危机大概是10年一次198720002008202020？？（我个人猜测是2028-2030）所以我一直在为这一天做着准备，香港首富之一的刘銮雄好几次财富超级大跃进就是抓住了1997东南亚金融危机、2008金融危机，大把抄底优质资产，一波身价翻好几倍的",
-      "type": "text",
-      "datetime": "2025-10-14T11:26:49+00:00",
-      "tags": [],
-      "text": "说个暴论，资本主义社会的经济危机大概是10年一次198720002008202020？？（我个人猜测是2028-2030）所以我一直在为这一天做着准备，香港首富之一的刘銮雄好几次财富超级大跃进就是抓住了1997东南亚金融危机、2008金融危机，大把抄底优质资产，一波身价翻好几倍的。",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-107-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e5d10f8a8fa11cb586ea5ca71830c941.jpg\" alt=\"说个暴论，资本主义社会的经济危机大概是10年一次198720002008202020？？（我个人猜测是2028-2030）所以我一直在为这一天做着准备，香港首富之一的刘銮雄好几次财富超级大跃进就是抓住了1997东南亚金融危机、2008金融危机，大把抄底优质资产，一波身价翻好几倍的\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-107-0\" popovertarget=\"modal-107-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e5d10f8a8fa11cb586ea5ca71830c941.jpg\" alt=\"说个暴论，资本主义社会的经济危机大概是10年一次198720002008202020？？（我个人猜测是2028-2030）所以我一直在为这一天做着准备，香港首富之一的刘銮雄好几次财富超级大跃进就是抓住了1997东南亚金融危机、2008金融危机，大把抄底优质资产，一波身价翻好几倍的\" loading=\"lazy\" />\n      </button>\n    </div>说个暴论，资本主义社会的经济危机大概是10年一次<br><br>1987<br>2000<br>2008<br>2020<br>20？？（我个人猜测是2028-2030）<br><br>所以我一直在为这一天做着准备，香港首富之一的刘銮雄好几次财富超级大跃进就是抓住了1997东南亚金融危机、2008金融危机，大把抄底优质资产，一波身价翻好几倍的。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "593",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "95",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "32",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "1",
           "isPaid": false
         }
       ]

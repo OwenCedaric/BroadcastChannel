@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 206,
+    "totalPosts": 208,
     "totalPages": 11,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,118 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "85",
+      "title": "我还100%对冲了我的SOL现货我之前持有SOL就是看中它的meme链、西方年轻人更认可的属性但现在来看SOL的meme链护城河似乎没那么强，已经被BNB抢去了",
+      "type": "text",
+      "datetime": "2025-10-08T08:05:18+00:00",
+      "tags": [],
+      "text": "我还100%对冲了我的SOL现货我之前持有SOL就是看中它的meme链、西方年轻人更认可的属性但现在来看SOL的meme链护城河似乎没那么强，已经被BNB抢去了。",
+      "content": "我还100%对冲了我的SOL现货<br>我之前持有SOL就是看中它的meme链、西方年轻人更认可的属性<br><br>但现在来看SOL的meme链护城河似乎没那么强，已经被BNB抢去了。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "137",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "36",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "title": "卖出了我80%的AMD头寸、100%的BABA、明天计划把之前建仓的日本股票100%抛售这波大减仓相当于减去了我一半的总股票exposure，因为我比较有信心我能在未来1-2年内以比现在更低的价格买回来",
+      "type": "text",
+      "datetime": "2025-10-07T19:51:20+00:00",
+      "tags": [],
+      "text": "卖出了我80%的AMD头寸、100%的BABA、明天计划把之前建仓的日本股票100%抛售这波大减仓相当于减去了我一半的总股票exposure，因为我比较有信心我能在未来1-2年内以比现在更低的价格买回来。现在还比较重毫无减仓的仓位是$NET、$GOOG这两个我愿意长期持有，短期波动没事的公司另外我的A股仓位暂时还不打算减仓，因为中国股市饥渴太久，好不容易来次牛市，群众们理论上会比其他更疯狂一些。我想以更高的价格掏他们的钱包。（至少沪深300回21年前高吧）",
+      "content": "卖出了我80%的AMD头寸、100%的BABA、明天计划把之前建仓的日本股票100%抛售<br><br>这波大减仓相当于减去了我一半的总股票exposure，因为我比较有信心我能在未来1-2年内以比现在更低的价格买回来。<br><br>现在还比较重毫无减仓的仓位是$NET、$GOOG这两个我愿意长期持有，短期波动没事的公司<br><br><br>另外我的A股仓位暂时还不打算减仓，因为中国股市饥渴太久，好不容易来次牛市，群众们理论上会比其他更疯狂一些。我想以更高的价格掏他们的钱包。（至少沪深300回21年前高吧）",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "170",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "40",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "82",
       "title": "已把紧急我的farm程序停机按照Aster目前新规则，只能拿到一半的空投我目前为止刷了90万U手续费进去，我的这次投机预计会+-10万U 收益/损失等过几天告知具体分配量就能知道结果",
@@ -857,88 +969,6 @@
         {
           "emoji": "👏",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "63",
-      "title": "再安利个软件吧，1password是一个密码管理器软件能够跨平台的安全同步你的密码，如果你现在还在用Chrome/edge自带的密码管理功能那么最好换成1password因为Chrome自带的密码管理器万一你电脑中个小恶意程序，就被获取了，很容易就能被全破解而1password有自身一道加密所以没那么容易被获取要像爱护钱包助记词那样爱护你的1password恢复密钥另外我有一个习惯就是不会把交易所的登录密码存进任何密码管理器 + 2fa谷歌验证器只放在iphone手机上",
-      "type": "text",
-      "datetime": "2025-08-30T11:19:09+00:00",
-      "tags": [],
-      "text": "再安利个软件吧，1password是一个密码管理器软件能够跨平台的安全同步你的密码，如果你现在还在用Chrome/edge自带的密码管理功能那么最好换成1password因为Chrome自带的密码管理器万一你电脑中个小恶意程序，就被获取了，很容易就能被全破解而1password有自身一道加密所以没那么容易被获取要像爱护钱包助记词那样爱护你的1password恢复密钥另外我有一个习惯就是不会把交易所的登录密码存进任何密码管理器 + 2fa谷歌验证器只放在iphone手机上",
-      "content": "再安利个软件吧，1password<br>是一个密码管理器软件<br>能够跨平台的安全同步你的密码，如果你现在还在用Chrome/edge自带的密码管理功能那么最好换成1password<br><br>因为Chrome自带的密码管理器万一你电脑中个小恶意程序，就被获取了，很容易就能被全破解<br>而1password有自身一道加密所以没那么容易被获取<br><br>要像爱护钱包助记词那样爱护你的1password恢复密钥<br><br>另外我有一个习惯就是不会把交易所的登录密码存进任何密码管理器 + 2fa谷歌验证器只放在iphone手机上",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "162",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "41",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "62",
-      "title": "还有一个生活中的小trick，像Bybit这种交易所是不限制人脸数量的，意味着你有多少个id就能注册多少个bybit账户然后Bybit根据不同的VIP等级有不同的返现额度，VIP5的话是反8%，月400u限额我持有4个bybit账户，每个都是VIP5且都办理了Bybit card相当于每个月可以薅Bybit 1600刀虽然这钱不多，但是就是有一种得了便宜的爽感，每次购物都能省8%的快感我喜欢捡天上掉的馅饼",
-      "type": "text",
-      "datetime": "2025-08-30T10:51:14+00:00",
-      "tags": [],
-      "text": "还有一个生活中的小trick，像Bybit这种交易所是不限制人脸数量的，意味着你有多少个id就能注册多少个bybit账户然后Bybit根据不同的VIP等级有不同的返现额度，VIP5的话是反8%，月400u限额我持有4个bybit账户，每个都是VIP5且都办理了Bybit card相当于每个月可以薅Bybit 1600刀虽然这钱不多，但是就是有一种得了便宜的爽感，每次购物都能省8%的快感我喜欢捡天上掉的馅饼",
-      "content": "还有一个生活中的小trick，像Bybit这种交易所是不限制人脸数量的，意味着你有多少个id就能注册多少个bybit账户<br>然后Bybit根据不同的VIP等级有不同的返现额度，VIP5的话是反8%，月400u限额<br><br>我持有4个bybit账户，每个都是VIP5且都办理了Bybit card<br>相当于每个月可以薅Bybit 1600刀<br><br>虽然这钱不多，但是就是有一种得了便宜的爽感，每次购物都能省8%的快感<br>我喜欢捡天上掉的馅饼",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "169",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "41",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "5",
           "isPaid": false
         }
       ]

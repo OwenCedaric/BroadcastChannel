@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 206,
+    "totalPosts": 208,
     "totalPages": 11,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,123 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "153",
+      "title": "如果你尝试一个商业点子的代价就只是你损失一些时间和精力或面子，那就大胆的尝试吧",
+      "type": "text",
+      "datetime": "2026-01-04T18:28:37+00:00",
+      "tags": [],
+      "text": "如果你尝试一个商业点子的代价就只是你损失一些时间和精力或面子，那就大胆的尝试吧。不用听任何人对你说的No，年轻人就应该多折腾但如果你尝试一个商业点子的失败的代价是你要亏损金钱/人脉/身体健康这些不可再生稀缺资源，则慎重慎重再慎重。只拿很少的资源投入试错",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-153-0\" popovertargetaction=\"show\">\n        <img src=\"/static/574432a8b65d092b7f452c25fb61bede.jpg\" alt=\"如果你尝试一个商业点子的代价就只是你损失一些时间和精力或面子，那就大胆的尝试吧\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-153-0\" popovertarget=\"modal-153-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/574432a8b65d092b7f452c25fb61bede.jpg\" alt=\"如果你尝试一个商业点子的代价就只是你损失一些时间和精力或面子，那就大胆的尝试吧\" loading=\"lazy\" />\n      </button>\n    </div>如果你尝试一个商业点子的代价就只是你损失一些时间和精力或面子，那就大胆的尝试吧。不用听任何人对你说的No，年轻人就应该多折腾<br><br>但如果你尝试一个商业点子的失败的代价是你要亏损金钱/人脉/身体健康这些不可再生稀缺资源，则慎重慎重再慎重。只拿很少的资源投入试错",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "539",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "88",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "title": "我自己也偶尔看一些情商、与官打交道的知识，因为我知道即使我不喜欢，我人生中也必然会用到这类知识",
+      "type": "text",
+      "datetime": "2026-01-03T11:43:39+00:00",
+      "tags": [],
+      "text": "我自己也偶尔看一些情商、与官打交道的知识，因为我知道即使我不喜欢，我人生中也必然会用到这类知识。我可以掌握的不熟练，但绝不能不会。我的目标是30-50年后成为华人top20首富之一，那么这辈子必然会和政治打交道、必然有很多与人打交道的过程。我做不到很好，但至少我不会愚笨到让重要人脉讨厌你会发现我很爱骂人，但骂人归骂人骂的都是影响不到我前途的人",
+      "content": "我自己也偶尔看一些情商、与官打交道的知识，因为我知道即使我不喜欢，我人生中也必然会用到这类知识。我可以掌握的不熟练，但绝不能不会。<br><br>我的目标是30-50年后成为华人top20首富之一，那么这辈子必然会和政治打交道、必然有很多与人打交道的过程。我做不到很好，但至少我不会愚笨到让重要人脉讨厌<br><br>你会发现我很爱骂人，但骂人归骂人<br>骂的都是影响不到我前途的人",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "404",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "107",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "63",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "151",
       "title": "有很多人，尤其是技术型人，会看不起嗯哼，但是我挺欣赏嗯哼的，佩服的是他能19岁时就想到在crypto市场上想到并执行的是在华人社会有效了几千年的套利策略",
@@ -1057,113 +1174,6 @@
         {
           "emoji": "🥰",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "129",
-      "title": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛刚刚的金融消费占身价的0.2%市场越跌我就越兴奋真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
-      "type": "text",
-      "datetime": "2025-11-21T13:11:37+00:00",
-      "tags": [],
-      "text": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛刚刚的金融消费占身价的0.2%市场越跌我就越兴奋真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
-      "content": "我正在对一些市值特别小且有流动性价值的币进行逐步的DCA，<br>刚刚抱怨做市商就是因为我在建仓一个I开头的市值特别小的币而被他们薅了一把羊毛<br>刚刚的金融消费占身价的0.2%<br><br>市场越跌我就越兴奋<br>真的遇到这一个星期内BTC闪崩到77000这样的位子我会直接梭5%的身价配置BTC",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "164",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "48",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "128",
-      "title": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的现在唯一美中不足就是美股可能回调还没到位",
-      "type": "text",
-      "datetime": "2025-11-21T13:08:58+00:00",
-      "tags": [],
-      "text": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的现在唯一美中不足就是美股可能回调还没到位",
-      "content": "加密市场越跌我就越乐观，下跌的市场让我有一种遍地黄金的快感<br>山寨币哪怕是一坨屎，屎跌破了其当肥料的价值时也是可以捡便宜的<br><br>现在唯一美中不足就是美股可能回调还没到位",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "193",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "37",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "2",
           "isPaid": false
         }
       ]
