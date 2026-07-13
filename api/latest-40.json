@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 208,
+    "totalPosts": 209,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,47 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "196",
+      "title": "目前打了300万美元子弹 总计45BTC现货头寸 均价66k还有1700万美元子弹",
+      "type": "text",
+      "datetime": "2026-02-05T21:46:56+00:00",
+      "tags": [],
+      "text": "目前打了300万美元子弹 总计45BTC现货头寸 均价66k还有1700万美元子弹",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-196-0\" popovertargetaction=\"show\">\n        <img src=\"/static/5ce909362d7d2d37761090e0b692e927.jpg\" alt=\"目前打了300万美元子弹 总计45BTC现货头寸 均价66k还有1700万美元子弹\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-196-0\" popovertarget=\"modal-196-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/5ce909362d7d2d37761090e0b692e927.jpg\" alt=\"目前打了300万美元子弹 总计45BTC现货头寸 均价66k还有1700万美元子弹\" loading=\"lazy\" />\n      </button>\n    </div>目前打了300万美元子弹 总计45BTC现货头寸 均价66k<br>还有1700万美元子弹",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "112",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "26",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "195",
       "title": "子弹多的情况下你只会觉得这是上天的恩赐天上下金子雨的感觉继续加仓了6个BTC",
@@ -993,52 +1034,6 @@
         {
           "emoji": "😁",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "176",
-      "title": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难",
-      "type": "text",
-      "datetime": "2026-02-02T10:46:24+00:00",
-      "tags": [],
-      "text": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难。- 我的一个美国朋友即使在海外注册了bvi公司，但是他作为董事是美国人，所以不能在币安开户。只要涉及到美国国籍，那就是cex们绝对的红线- 我的日本/英国朋友为了保他们的币安/bybit账户，得弄泰国驾照/帕劳id+帕劳地址总之对于99%的欧美用户来说基本上无法使用任何离岸cex交易永续合约，至于Coinbase Advanced/Kraken永续合约？这种反人类的产品基本上没人使用。自2024年监管铁拳敲打各个离岸cex之后只有Hyperliquid能解决他们的需求所以现在英文ct把Hyperliquid Jeff捧成神了",
-      "content": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难。<br><br>- 我的一个美国朋友即使在海外注册了bvi公司，但是他作为董事是美国人，所以不能在币安开户。只要涉及到美国国籍，那就是cex们绝对的红线<br>- 我的日本/英国朋友为了保他们的币安/bybit账户，得弄泰国驾照/帕劳id+帕劳地址<br><br>总之对于99%的欧美用户来说基本上无法使用任何离岸cex交易永续合约，至于Coinbase Advanced/Kraken永续合约？这种反人类的产品基本上没人使用。<br><br>自2024年监管铁拳敲打各个离岸cex之后只有Hyperliquid能解决他们的需求<br>所以现在英文ct把Hyperliquid Jeff捧成神了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "252",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "40",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "1",
           "isPaid": false
         }
       ]

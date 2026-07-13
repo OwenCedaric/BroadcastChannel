@@ -5,6 +5,14 @@
   "home_page_url": "https://vida.ceda.is/",
   "items": [
     {
+      "url": "https://vida.ceda.is/posts/247",
+      "title": "捐赠了1万U做慈善，大部分网络渠道捐给韩红基金会了，还有一小部分会用作现实世界里的慈善",
+      "description": "",
+      "date_published": "2026-07-13T11:12:45.000Z",
+      "tags": [],
+      "content_html": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-247-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f340b5501e9bace9a56341ebbd9ad766.jpg\" alt=\"捐赠了1万U做慈善，大部分网络渠道捐给韩红基金会了，还有一小部分会用作现实世界里的慈善\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-247-0\" popovertarget=\"modal-247-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f340b5501e9bace9a56341ebbd9ad766.jpg\" alt=\"捐赠了1万U做慈善，大部分网络渠道捐给韩红基金会了，还有一小部分会用作现实世界里的慈善\" loading=\"lazy\" />\n      </button>\n    </div>捐赠了1万U做慈善，大部分网络渠道捐给韩红基金会了，还有一小部分会用作现实世界里的慈善。<br><br>LBANK交易所2024年的时候因为我一个账户赚的太多而把我号给冻结了，还好我有定时提现的习惯，被封号的时候账户里只剩2万U，客服说“您的资金只能交易不能提现”。<br><br>但就前几天我突然想起这事情登录账户一看发现居然解冻了，遂提现之并捐赠一半给慈善事业。<br><br>———可以说本文由Lbank赞助了<i class=\"emoji\"><b>😂</b></i>"
+    },
+    {
       "url": "https://vida.ceda.is/posts/245",
       "title": "claude随随便便规划一下自己的人生就能省掉多少麻烦&多少滑点损失啊claude随随便便规划一下自己的人生就能省掉多少麻烦&多少滑点损失啊",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-02-05T11:45:59.000Z",
       "tags": [],
       "content_html": "算了 就不做长期投资承诺了<br>现在我只是觉得超跌了<br><br>所以做个scalping"
-    },
-    {
-      "url": "https://vida.ceda.is/posts/186",
-      "title": "买了15BTC@70500",
-      "description": "",
-      "date_published": "2026-02-05T11:45:09.000Z",
-      "tags": [],
-      "content_html": "买了15BTC@70500"
     }
   ]
 }

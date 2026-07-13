@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 208,
+    "totalPosts": 209,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "176",
+      "title": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难",
+      "type": "text",
+      "datetime": "2026-02-02T10:46:24+00:00",
+      "tags": [],
+      "text": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难。- 我的一个美国朋友即使在海外注册了bvi公司，但是他作为董事是美国人，所以不能在币安开户。只要涉及到美国国籍，那就是cex们绝对的红线- 我的日本/英国朋友为了保他们的币安/bybit账户，得弄泰国驾照/帕劳id+帕劳地址总之对于99%的欧美用户来说基本上无法使用任何离岸cex交易永续合约，至于Coinbase Advanced/Kraken永续合约？这种反人类的产品基本上没人使用。自2024年监管铁拳敲打各个离岸cex之后只有Hyperliquid能解决他们的需求所以现在英文ct把Hyperliquid Jeff捧成神了",
+      "content": "华人们可能无法理解欧美人想在cex开个能交易永续合约的账户有多难。<br><br>- 我的一个美国朋友即使在海外注册了bvi公司，但是他作为董事是美国人，所以不能在币安开户。只要涉及到美国国籍，那就是cex们绝对的红线<br>- 我的日本/英国朋友为了保他们的币安/bybit账户，得弄泰国驾照/帕劳id+帕劳地址<br><br>总之对于99%的欧美用户来说基本上无法使用任何离岸cex交易永续合约，至于Coinbase Advanced/Kraken永续合约？这种反人类的产品基本上没人使用。<br><br>自2024年监管铁拳敲打各个离岸cex之后只有Hyperliquid能解决他们的需求<br>所以现在英文ct把Hyperliquid Jeff捧成神了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "252",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "40",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "175",
       "title": "说个在推特上不能说的话我认为Hyperliquid依然有无限潜力&未来也是唯一能跑出来的perp dex（所以币安也视Hyperliquid为最重要的竞争对手）因为它把去中心化无监管永续合约交易提供给了全球用户，且随着HIP3上线越来越多资产可被做成永续合约给人投机赌博",
@@ -998,72 +1044,6 @@
         {
           "emoji": "🤯",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "154",
-      "title": "前段时间干了一件大蠢事：因为币安最近开始收USDE/USDT交易对的手续费了，所以我想着省点手续费，把USDE转到依然是0手续费的Bybit交易所换成USDT结果偷鸡不成蚀把米，眼睛不注意选择了USDT充值地址，不小心：把一百多万个USDE从币安交易所走了一个尚不支持的evm网络转入了Bybit交易所（这是真肉疼了...）由于Bybit交易所还不支持此网络的USDE充值，无法入账于是只能联系Bybit交易所帮我把币转回来，操作了15天终于把币拿回来了",
-      "type": "text",
-      "datetime": "2026-01-11T10:47:30+00:00",
-      "tags": [],
-      "text": "前段时间干了一件大蠢事：因为币安最近开始收USDE/USDT交易对的手续费了，所以我想着省点手续费，把USDE转到依然是0手续费的Bybit交易所换成USDT结果偷鸡不成蚀把米，眼睛不注意选择了USDT充值地址，不小心：把一百多万个USDE从币安交易所走了一个尚不支持的evm网络转入了Bybit交易所（这是真肉疼了...）由于Bybit交易所还不支持此网络的USDE充值，无法入账于是只能联系Bybit交易所帮我把币转回来，操作了15天终于把币拿回来了。得感谢一波Bybit交易所我虽然有核对地址完整性的习惯，但没有交易所之间大额转账之前测试转账的习惯。吃一堑长一智，下次大额转账之前一定先小额测试能到账。",
-      "content": "前段时间干了一件大蠢事：<br><br>因为币安最近开始收USDE/USDT交易对的手续费了，所以我想着省点手续费，把USDE转到依然是0手续费的Bybit交易所换成USDT<br>结果偷鸡不成蚀把米，眼睛不注意选择了USDT充值地址，不小心：把一百多万个USDE从币安交易所走了一个尚不支持的evm网络转入了Bybit交易所（这是真肉疼了...）<br>由于Bybit交易所还不支持此网络的USDE充值，无法入账<br><br>于是只能联系Bybit交易所帮我把币转回来，操作了15天终于把币拿回来了。<br>得感谢一波Bybit交易所<br><br>我虽然有核对地址完整性的习惯，但没有交易所之间大额转账之前测试转账的习惯。吃一堑长一智，下次大额转账之前一定先小额测试能到账。",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "359",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "147",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "40",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

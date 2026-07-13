@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 208,
+    "totalPosts": 209,
     "totalPages": 11,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "64",
+      "title": "查理芒格/沃伦巴菲特，这两个教科书人物带给观众最大的价值是教会人《人生的防御之道》/《保守打法》1. “只投资在自己优势圈里的公司” / “如果你在能力圈之外投资，那等于是在赌博",
+      "type": "text",
+      "datetime": "2025-08-30T17:24:58+00:00",
+      "tags": [],
+      "text": "查理芒格/沃伦巴菲特，这两个教科书人物带给观众最大的价值是教会人《人生的防御之道》/《保守打法》1. “只投资在自己优势圈里的公司” / “如果你在能力圈之外投资，那等于是在赌博。”我学到了从来不会去投资不在我能力圈内的任何实业/任何其他生意，哪怕别人说的再天花乱坠我都不会感兴趣，因为到了别人的地盘，强龙就变成了青虫2. “我只想知道我会在哪里死去，这样我就永远不去那里”我经常会看各种历史上/历史商业案例/实时案例，但是我格外的喜欢看一个人物是如何失败的。那我不去碰它，我就不会变成那种经典悲伤故事的主角。那币圈的那些悲伤故事的主角无非也就是这些： 1. 开杠杆被爆 2. 因为内部或外部原因导致资金被盗 3. 存资金用的交易所/项目爆雷 4. 到后期觉得自己”天下无敌 无所不能“然后All In了一个大烂摊子然后崩溃3. “人类通过模仿学习，所以选择你模仿的对象极其重要”选择学习对象非常的重要，我会尽可能的和优秀的人搞好关系，学习他们。这里面其实名气和谈吐风格也扮演着一些作用，因为强者都是天然慕强，强者听过你的故事或者看过你的文笔，知道你厉害，就对你更亲切。我2023年加上GCR的discord的时候，他的第三句话是和我说”我听过很多关于你的事迹“",
+      "content": "查理芒格/沃伦巴菲特，这两个教科书人物带给观众最大的价值是教会人《人生的防御之道》/《保守打法》<br>1. “只投资在自己优势圈里的公司” / “如果你在能力圈之外投资，那等于是在赌博。”<br>我学到了从来不会去投资不在我能力圈内的任何实业/任何其他生意，哪怕别人说的再天花乱坠我都不会感兴趣，因为到了别人的地盘，强龙就变成了青虫<br><br>2. “我只想知道我会在哪里死去，这样我就永远不去那里”<br>我经常会看各种历史上/历史商业案例/实时案例，但是我格外的喜欢看一个人物是如何失败的。那我不去碰它，我就不会变成那种经典悲伤故事的主角。<br>那币圈的那些悲伤故事的主角无非也就是这些： 1. 开杠杆被爆 2. 因为内部或外部原因导致资金被盗 3. 存资金用的交易所/项目爆雷 4. 到后期觉得自己”天下无敌 无所不能“然后All In了一个大烂摊子然后崩溃<br><br>3. “人类通过模仿学习，所以选择你模仿的对象极其重要”<br>选择学习对象非常的重要，我会尽可能的和优秀的人搞好关系，学习他们。<br>这里面其实名气和谈吐风格也扮演着一些作用，因为强者都是天然慕强，强者听过你的故事或者看过你的文笔，知道你厉害，就对你更亲切。<br>我2023年加上GCR的discord的时候，他的第三句话是和我说”我听过很多关于你的事迹“",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "240",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "52",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "63",
       "title": "再安利个软件吧，1password是一个密码管理器软件能够跨平台的安全同步你的密码，如果你现在还在用Chrome/edge自带的密码管理功能那么最好换成1password因为Chrome自带的密码管理器万一你电脑中个小恶意程序，就被获取了，很容易就能被全破解而1password有自身一道加密所以没那么容易被获取要像爱护钱包助记词那样爱护你的1password恢复密钥另外我有一个习惯就是不会把交易所的登录密码存进任何密码管理器 + 2fa谷歌验证器只放在iphone手机上",
@@ -782,52 +818,6 @@
         {
           "emoji": "🌭",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "40",
-      "title": "建仓了一些GOOG作为长期投资原因：- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者",
-      "type": "text",
-      "datetime": "2025-06-24T13:37:28+00:00",
-      "tags": [],
-      "text": "建仓了一些GOOG作为长期投资原因：- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者。Google搜索最近也推出了gemini辅助功能（终于是慢吞吞的反应过来了）",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-40-0\" popovertargetaction=\"show\">\n        <img src=\"/static/707898cce80fec7fce159bd31a4d5dcd.jpg\" alt=\"建仓了一些GOOG作为长期投资原因：- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-40-0\" popovertarget=\"modal-40-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/707898cce80fec7fce159bd31a4d5dcd.jpg\" alt=\"建仓了一些GOOG作为长期投资原因：- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者\" loading=\"lazy\" />\n      </button>\n    </div>建仓了一些GOOG作为长期投资<br>原因：<br>- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵<br>- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者。Google搜索最近也推出了gemini辅助功能（终于是慢吞吞的反应过来了）",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "101",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "30",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "1",
           "isPaid": false
         }
       ]

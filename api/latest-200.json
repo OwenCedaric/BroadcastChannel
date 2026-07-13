@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 208,
+    "totalPosts": 209,
     "totalPages": 11,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "17",
+      "title": "有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "type": "text",
+      "datetime": "2025-05-03T14:24:24+00:00",
+      "tags": [],
+      "text": "有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/14\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">这篇隐学文章只有搞quant做量化尤其是做低延迟套利、做市的人能看懂  发现一个好玩的策略，现在市场里做市商们都很鸡贼，为了防御或者说是跟单“信息知情交易者”，当他们监测到币安现货/币安合约市场出现一个大单直接把价格拉升超过大概3%的水平且bid1还挂着几十-几百万刀买单后，他们会 1. 跟着买入部分金额 2. 把订单簿大幅调薄 你下大概3%滑点的订单最终能驱动价格上涨个6%+  知道他们这个特性就可以故意找一个市值比较小且在多个交易所有合约的币这么操作，先提前大概5毫秒在其他交易所下单，5毫秒之后在币安现货和合约同一时间下单建仓。…</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-17-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e7796545928c18165417921b18c2c2d6.jpg\" alt=\"有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-17-0\" popovertarget=\"modal-17-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e7796545928c18165417921b18c2c2d6.jpg\" alt=\"有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%\" loading=\"lazy\" />\n      </button>\n    </div>有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "115",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "16",
       "title": "这是我认为对于【企业家】来说最好的人生Alpha & 最值得订阅的Youtube频道",
