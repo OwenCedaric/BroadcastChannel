@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 699,
+    "totalPosts": 700,
     "totalPages": 35,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "196",
+      "title": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "type": "text",
+      "datetime": "2024-08-04T14:21:46+00:00",
+      "tags": [],
+      "text": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "content": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "195",
       "title": "买了一点 AAVE 弱市场里的强势币",
@@ -363,22 +379,6 @@
       "text": "Fiona’s daily news 6.6🌏政治1️⃣众议院共和党发起针对总统拜登的弹劾调查，已向司法部提交了詹姆斯和亨特·拜登的刑事移送。💵经济1️⃣欧洲央行迎来首次降息2️⃣加拿大成为七国集团中首个降息的国家。3️⃣AI芯片制造商Nvidia市值突破3万亿美元，超过苹果成为美国第二大上市公司。4️⃣医疗科技公司Tempus AI计划通过IPO筹集4亿美元。5️⃣美国监管机构将对微软、OpenAI和Nvidia展开反垄断调查。🪙币圈1️⃣币安新币池推出 IO.NET (IO)！通过质押 BNB 和 FDUSD 挖矿 IO。2️⃣Paxos International 推出 Lift Dollar (USDL) - 首个在监管下为持有者提供每日收益的稳定币。3️⃣Zand Bank 与 MANTRA 签署阿联酋 RWA 合规谅解备忘录。4️⃣Robinhood 同意以2亿美元现金收购总部位于英国的加密货币交易所Bitstamp。",
       "content": "Fiona’s daily news 6.6<br><br><i class=\"emoji\"><b>🌏</b></i>政治<br><i class=\"emoji\"><b>1️⃣</b></i>众议院共和党发起针对总统拜登的弹劾调查，已向司法部提交了詹姆斯和亨特·拜登的刑事移送。<br><br><i class=\"emoji\"><b>💵</b></i>经济<br><i class=\"emoji\"><b>1️⃣</b></i>欧洲央行迎来首次降息<br><i class=\"emoji\"><b>2️⃣</b></i>加拿大成为七国集团中首个降息的国家。<br><i class=\"emoji\"><b>3️⃣</b></i>AI芯片制造商Nvidia市值突破3万亿美元，超过苹果成为美国第二大上市公司。<br><i class=\"emoji\"><b>4️⃣</b></i>医疗科技公司Tempus AI计划通过IPO筹集4亿美元。<br><i class=\"emoji\"><b>5️⃣</b></i>美国监管机构将对微软、OpenAI和Nvidia展开反垄断调查。<br><br><br><i class=\"emoji\"><b>🪙</b></i>币圈<br><i class=\"emoji\"><b>1️⃣</b></i>币安新币池推出 <a href=\"http://IO.NET/\" target=\"_blank\" rel=\"noopener\" title=\"IO.NET\">IO.NET</a> (IO)！通过质押 BNB 和 FDUSD 挖矿 IO。<br><i class=\"emoji\"><b>2️⃣</b></i>Paxos International 推出 Lift Dollar (USDL) - 首个在监管下为持有者提供每日收益的稳定币。<br><i class=\"emoji\"><b>3️⃣</b></i>Zand Bank 与 MANTRA 签署阿联酋 RWA 合规谅解备忘录。<br><i class=\"emoji\"><b>4️⃣</b></i>Robinhood 同意以2亿美元现金收购总部位于英国的加密货币交易所Bitstamp。",
       "reactions": []
-    },
-    {
-      "id": "176",
-      "title": "Rez 冲起来了！加仓策略成功🏆",
-      "type": "text",
-      "datetime": "2024-06-06T03:15:47+00:00",
-      "tags": [],
-      "text": "Rez 冲起来了！加仓策略成功🏆",
-      "content": "Rez 冲起来了！加仓策略成功<i class=\"emoji\"><b>🏆</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

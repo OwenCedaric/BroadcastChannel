@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 699,
+    "totalPosts": 700,
     "totalPages": 35,
     "currentPage": 30,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-560.json"
   },
   "data": [
+    {
+      "id": "136",
+      "title": "买了 $LEVER",
+      "type": "text",
+      "datetime": "2024-04-03T15:26:06+00:00",
+      "tags": [],
+      "text": "买了 $LEVER",
+      "content": "买了 $LEVER",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "135",
       "title": "W vs AXL 全链通信层: ",
@@ -385,29 +401,6 @@
         {
           "emoji": "🆒",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "116",
-      "title": "昨天有在群里发白，请不要浪费哦关于这次 #Aethir 节点拍卖：1⃣使用邀请码：Fiona    来获取购买折扣2⃣节点总量：10w个 ，分层定价（越到后面越贵）3⃣拍卖时间：3 月 20 日 18:00 在 Aethir 官网公售4⃣起拍价格：每个节点起售价为 0.1259 ETH5⃣网络： Arbitrum 网络上使用 wETH 购买，可购数量没有上限",
-      "type": "text",
-      "datetime": "2024-03-18T06:05:06+00:00",
-      "tags": [
-        "Aethir"
-      ],
-      "text": "昨天有在群里发白，请不要浪费哦关于这次 #Aethir 节点拍卖：1⃣使用邀请码：Fiona    来获取购买折扣2⃣节点总量：10w个 ，分层定价（越到后面越贵）3⃣拍卖时间：3 月 20 日 18:00 在 Aethir 官网公售4⃣起拍价格：每个节点起售价为 0.1259 ETH5⃣网络： Arbitrum 网络上使用 wETH 购买，可购数量没有上限。6⃣WL机制：Aethir 社区、合作伙伴和 KOL 将获得预留白名单，剩余限量节点以先到先得方式面向公众开放购买。7⃣其他：2024 年第二季度可以安装并运行 Checker 节点。",
-      "content": "昨天有在群里发白，请不要浪费哦<br><br>关于这次 <a href=\"/search/%23Aethir\" title=\"#Aethir\">#Aethir</a> 节点拍卖：<br><i class=\"emoji\"><b>1⃣</b></i>使用邀请码：Fiona    来获取购买折扣<br><i class=\"emoji\"><b>2⃣</b></i>节点总量：10w个 ，分层定价（越到后面越贵）<br><i class=\"emoji\"><b>3⃣</b></i>拍卖时间：3 月 20 日 18:00 在 Aethir 官网公售<br><i class=\"emoji\"><b>4⃣</b></i>起拍价格：每个节点起售价为 0.1259 ETH<br><i class=\"emoji\"><b>5⃣</b></i>网络： Arbitrum 网络上使用 wETH 购买，可购数量没有上限。<br><i class=\"emoji\"><b>6⃣</b></i>WL机制：Aethir 社区、合作伙伴和 KOL 将获得预留白名单，剩余限量节点以先到先得方式面向公众开放购买。<br><i class=\"emoji\"><b>7⃣</b></i>其他：2024 年第二季度可以安装并运行 Checker 节点。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

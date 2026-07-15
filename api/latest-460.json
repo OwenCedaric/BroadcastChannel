@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 699,
+    "totalPosts": 700,
     "totalPages": 35,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "261",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-09-06T14:25:59+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-261-0\" popovertargetaction=\"show\">\n        <img src=\"/static/eeb2943d2980589821b223a0bfc1c179.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-261-0\" popovertarget=\"modal-261-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/eeb2943d2980589821b223a0bfc1c179.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "260",
       "title": "巴菲特的现金水位，一直想写的一篇文",
@@ -367,22 +388,6 @@
         {
           "emoji": "❤️",
           "count": "18",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "240",
-      "title": "降息周期之下，美股会怎么走？让我们来回看一下历史：",
-      "type": "text",
-      "datetime": "2024-08-24T14:08:54+00:00",
-      "tags": [],
-      "text": "降息周期之下，美股会怎么走？让我们来回看一下历史：https://x.com/nft_hu/status/1827344848997044362",
-      "content": "降息周期之下，美股会怎么走？让我们来回看一下历史：<br><a href=\"https://x.com/nft_hu/status/1827344848997044362\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1827344848997044362\">https://x.com/nft_hu/status/1827344848997044362</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "11",
           "isPaid": false
         }
       ]

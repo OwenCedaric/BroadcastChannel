@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 699,
+    "totalPosts": 700,
     "totalPages": 35,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "445",
+      "title": "存储进入超级周期？NAND大爆发之夜 ",
+      "type": "text",
+      "datetime": "2025-11-12T09:28:02+00:00",
+      "tags": [],
+      "text": "存储进入超级周期？NAND大爆发之夜 https://x.com/nft_hu/status/1988539054997295258",
+      "content": "存储进入超级周期？NAND大爆发之夜 <a href=\"https://x.com/nft_hu/status/1988539054997295258\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1988539054997295258\">https://x.com/nft_hu/status/1988539054997295258</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1988539054997295258\" target=\"_blank\" rel=\"noopener\" title=\"芯片狂潮向存储蔓延，美光新高，闪迪暴涨，NAND涨价...等接连占据新闻头条。虽然太多太多人鼓吹记忆体超级牛市通常是顶部标志，虽然确实有很多行业冥灯买入记忆体股票。但是作为一个永远在学习的平民，了解一下“记忆体”是什么？ NAND Flash和DRAM 又究竟都是什么？最近说的减产涨价又是为什么？\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4dcae8eb269816f655817799f86992eb.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">芯片狂潮向存储蔓延，美光新高，闪迪暴涨，NAND涨价...等接连占据新闻头条。<br><br>虽然太多太多人鼓吹记忆体超级牛市通常是顶部标志，虽然确实有很多行业冥灯买入记忆体股票。但是作为一个永远在学习的平民，了解一下“记忆体”是什么？ NAND Flash和DRAM 又究竟都是什么？最近说的减产涨价又是为什么？</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "444",
       "title": "光通讯第一篇 ",
@@ -447,22 +463,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "424",
-      "title": "持仓体验尚可",
-      "type": "text",
-      "datetime": "2025-10-06T06:55:36+00:00",
-      "tags": [],
-      "text": "持仓体验尚可",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-424-0\" popovertargetaction=\"show\">\n        <img src=\"/static/5166559bca16093d31fd9e500afcaee9.jpg\" alt=\"持仓体验尚可\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-424-0\" popovertarget=\"modal-424-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/5166559bca16093d31fd9e500afcaee9.jpg\" alt=\"持仓体验尚可\" loading=\"lazy\" />\n      </button>\n    </div>持仓体验尚可",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "14",
           "isPaid": false
         }
       ]

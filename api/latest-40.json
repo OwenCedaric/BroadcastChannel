@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 699,
+    "totalPosts": 700,
     "totalPages": 35,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "693",
+      "title": "call back 一下我的HYPE",
+      "type": "text",
+      "datetime": "2026-05-15T09:09:12+00:00",
+      "tags": [],
+      "text": "call back 一下我的HYPE",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/567\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。 交易的需求是不变的，不管施加交易命令的是人或者是AI agent。</div>\n</small></blockquote></a>call back 一下我的HYPE",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "692",
       "title": "其实大多数领导会面不谈太多事，毕竟又欢迎仪式又晚宴的，真正能谈事的时间太少了，要谈的事又太多太重要",
@@ -384,22 +400,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "673",
-      "title": "周末聊一聊太空🚀",
-      "type": "text",
-      "datetime": "2026-05-02T14:33:50+00:00",
-      "tags": [],
-      "text": "周末聊一聊太空🚀。本周零零碎碎也发生了不少事。事件1️⃣主要先说说FCC频谱新规（4月30日）“美国联邦通讯委员会（FCC）于4月30日更新低地球轨道卫星频谱分配规则，取代1990年代的旧框架，新规允许以现代技术标准协调干扰，可解锁最多7倍的太空宽频容量。”事件2️⃣ $ASTS获FCC批准额外部署223颗卫星，但BlueBird-7发射出现异常，公司已转向Block-2卫星生产，BlueBird 8-10预计近期可出货，目标2026年底前将45-60颗卫星送入轨道。事件3️⃣Rocket Lab本周完成两次发射，分别来自不同发射场，48小时内完成，任务对象包括美国国防测试与日本JAXA。即将于5月22日执行Synspective地球影像星座「Viva La StriX」任务。下周他的财报公布日：5月7日。事件4️⃣亚马逊加持亚马逊CEO Andy Jassy在法说会上指出手机直连卫星需求「非常庞大」，AT&T CEO亦确认美国市场足以支持多家LEO星座运营商共存，不会赢者全拿。",
-      "content": "周末聊一聊太空<i class=\"emoji\"><b>🚀</b></i>。本周零零碎碎也发生了不少事。<br><br>事件<i class=\"emoji\"><b>1️⃣</b></i><br>主要先说说FCC频谱新规（4月30日）<br>“美国联邦通讯委员会（FCC）于4月30日更新低地球轨道卫星频谱分配规则，取代1990年代的旧框架，新规允许以现代技术标准协调干扰，可解锁最多7倍的太空宽频容量。”<br><br>事件<i class=\"emoji\"><b>2️⃣</b></i> <br>$ASTS获FCC批准额外部署223颗卫星，但BlueBird-7发射出现异常，公司已转向Block-2卫星生产，BlueBird 8-10预计近期可出货，目标2026年底前将45-60颗卫星送入轨道。<br><br>事件<i class=\"emoji\"><b>3️⃣</b></i><br>Rocket Lab本周完成两次发射，分别来自不同发射场，48小时内完成，任务对象包括美国国防测试与日本JAXA。即将于5月22日执行Synspective地球影像星座「Viva La StriX」任务。<br>下周他的财报公布日：5月7日。<br><br>事件<i class=\"emoji\"><b>4️⃣</b></i><br>亚马逊加持亚马逊CEO Andy Jassy在法说会上指出手机直连卫星需求「非常庞大」，AT&amp;T CEO亦确认美国市场足以支持多家LEO星座运营商共存，不会赢者全拿。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
           "isPaid": false
         }
       ]
