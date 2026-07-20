@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 12,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "510",
+      "title": "Intel 的仓位我不会动，逻辑是：Intel是处在美国国家半导体生态中的关键位置",
+      "type": "text",
+      "datetime": "2026-01-23T13:23:08+00:00",
+      "tags": [],
+      "text": "Intel 的仓位我不会动，逻辑是：Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软因、苹果等。$INTC $NVDA",
+      "content": "Intel 的仓位我不会动，逻辑是：<br>Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。<br><br>美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软因、苹果等。<br><br>$INTC $NVDA",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "509",
       "title": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有",
@@ -352,22 +368,6 @@
         {
           "emoji": "👍",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "490",
-      "title": "买了些put对冲战争风险",
-      "type": "text",
-      "datetime": "2026-01-14T15:31:58+00:00",
-      "tags": [],
-      "text": "买了些put对冲战争风险",
-      "content": "买了些put对冲战争风险",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "8",
           "isPaid": false
         }
       ]

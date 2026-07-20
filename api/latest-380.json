@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 20,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "343",
+      "title": "醒来看到 $BMNR 暴跌，查了一下，主要是新通知里允许PIPE投资者 卖股票，他们的成本为4.5美金",
+      "type": "text",
+      "datetime": "2025-07-29T00:56:25+00:00",
+      "tags": [],
+      "text": "醒来看到 $BMNR 暴跌，查了一下，主要是新通知里允许PIPE投资者 卖股票，他们的成本为4.5美金https://sec.gov/Archives/edgar/data/1829311/000164117225021194/forms-3asr.htm最大的卖盘支撑来自45,113,714 股的PIPE普通股。",
+      "content": "醒来看到 $BMNR 暴跌，查了一下，主要是新通知里允许PIPE投资者 卖股票，他们的成本为4.5美金<br><a href=\"https://sec.gov/Archives/edgar/data/1829311/000164117225021194/forms-3asr.htm\" target=\"_blank\" rel=\"noopener\" title=\"https://sec.gov/Archives/edgar/data/1829311/000164117225021194/forms-3asr.htm\">https://sec.gov/Archives/edgar/data/1829311/000164117225021194/forms-3asr.htm</a><br><br>最大的卖盘支撑来自45,113,714 股的PIPE普通股。",
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "342",
       "title": "SEBT减仓，现在大头是BMNR",
@@ -433,27 +454,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "322",
-      "title": "Pengu企鹅🐧出游戏了",
-      "type": "text",
-      "datetime": "2025-07-15T05:40:36+00:00",
-      "tags": [],
-      "text": "Pengu企鹅🐧出游戏了",
-      "content": "Pengu企鹅<i class=\"emoji\"><b>🐧</b></i>出游戏了",
-      "reactions": [
-        {
-          "emoji": "🤔",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤨",
-          "count": "1",
           "isPaid": false
         }
       ]

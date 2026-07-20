@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 16,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-280.json"
   },
   "data": [
+    {
+      "id": "425",
+      "title": "MNT冲刺继续",
+      "type": "text",
+      "datetime": "2025-10-06T11:49:54+00:00",
+      "tags": [],
+      "text": "MNT冲刺继续",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/423\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">BTC 突破 追回来了。首次买入 MNT</div>\n</small></blockquote></a>MNT冲刺继续",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "424",
       "title": "持仓体验尚可",
@@ -397,27 +418,6 @@
         {
           "emoji": "❤️",
           "count": "15",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "404",
-      "title": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
-      "type": "text",
-      "datetime": "2025-09-21T06:58:49+00:00",
-      "tags": [],
-      "text": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
-      "content": "听大哥的 稍微买了点 $THE<br>低估值，YZI 投资，Perp概念<br>NFA",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤮",
-          "count": "3",
           "isPaid": false
         }
       ]

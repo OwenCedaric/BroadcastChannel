@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 14,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-240.json"
   },
   "data": [
+    {
+      "id": "467",
+      "title": "Blackrock在2025展望中提到了稳定币，从一种加密货币领域的原生工具，演变为连接数字金融与传统金融的桥梁",
+      "type": "text",
+      "datetime": "2025-12-25T04:04:20+00:00",
+      "tags": [],
+      "text": "Blackrock在2025展望中提到了稳定币，从一种加密货币领域的原生工具，演变为连接数字金融与传统金融的桥梁。 https://x.com/nft_hu/status/2004040346158952555?s=20",
+      "content": "Blackrock在2025展望中提到了稳定币，从一种加密货币领域的原生工具，演变为连接数字金融与传统金融的桥梁。 <a href=\"https://x.com/nft_hu/status/2004040346158952555?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2004040346158952555?s=20\">https://x.com/nft_hu/status/2004040346158952555?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2004040346158952555?s=20\" target=\"_blank\" rel=\"noopener\" title=\"Blackrock在2025展望中提到了稳定币，从一种加密货币领域的原生工具，演变为连接数字金融与传统金融的桥梁。根据 Coingecko 的数据，截至 11 月 27 日，稳定币的市场价值已突破 2500 亿美元，这反映了其在支付领域的更广泛应用，涵盖了从加密货币交易结算到跨境转账的各种场景。《2025 Genius\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/ba6d5b86a48b0b1b547af8b6b5253017.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Blackrock在2025展望中提到了稳定币，从一种加密货币领域的原生工具，演变为连接数字金融与传统金融的桥梁。<br><br>根据 Coingecko 的数据，截至 11 月 27 日，稳定币的市场价值已突破 2500 亿美元，这反映了其在支付领域的更广泛应用，涵盖了从加密货币交易结算到跨境转账的各种场景。<br><br>《2025 Genius</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "466",
       "title": "转战美股1个月，感觉不错",
@@ -393,37 +414,6 @@
         {
           "emoji": "👍",
           "count": "26",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "446",
-      "title": "休息结束🔚",
-      "type": "text",
-      "datetime": "2025-11-27T12:47:40+00:00",
-      "tags": [],
-      "text": "休息结束🔚",
-      "content": "休息结束<i class=\"emoji\"><b>🔚</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "54",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "4",
           "isPaid": false
         }
       ]

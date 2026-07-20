@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 5,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "654",
+      "title": "这是阿联酋加入OPEC的第59年，而从5月1号来时，他就正式退出",
+      "type": "text",
+      "datetime": "2026-04-28T12:48:43+00:00",
+      "tags": [],
+      "text": "这是阿联酋加入OPEC的第59年，而从5月1号来时，他就正式退出。而他退出的消息一出，布油先跌为敬。市场正在Price In——石油减产可能到头了。伊朗之战是最大的动因和导火索。在这次战争之中，阿联酋可以说是处于持续的防空作战状态，总计已拦截来自伊朗的1342架无人机、8枚巡弋飞弹和221枚弹道飞弹。 阿联酋的经济也受到了极大的冲击。他高度依赖石油，金融、航空、贸易、旅游、房地产全因这次战争受到了毁灭性的打击。而OPEC的另一巨头沙特的日子好过的多。因为有备用路线可以继续出口石油，经济受冲击程度远低于阿联酋。阿联酋的退出也意味着：1️⃣石油的供应量会增加。阿联酋退出后，不再受欧佩克配额约束，可以自由增产。阿联酋石油产量占全球总量约4.3%，原油出口量的全球占比更高达8.1%，是OPEC第四大产油国。 2️⃣ OPEC的影响力和协调能力也会下降甚至瓦解——其他成员国可能效仿，减产协议约束力进一步下降。 3️⃣阿联酋战略上进一步和美国靠拢。特朗普将美国对海湾地区的军事支持与油价问题挂钩，对阿联酋而言，在伊朗战争威胁背景下，美国的军事保护比OPEC的油价协调更加重要。退出本身是向特朗普政府释放的明确政治信号。",
+      "content": "这是阿联酋加入OPEC的第59年，而从5月1号来时，他就正式退出。<br>而他退出的消息一出，布油先跌为敬。市场正在Price In——石油减产可能到头了。<br><br>伊朗之战是最大的动因和导火索。在这次战争之中，阿联酋可以说是处于持续的防空作战状态，总计已拦截来自伊朗的1342架无人机、8枚巡弋飞弹和221枚弹道飞弹。 <br><br>阿联酋的经济也受到了极大的冲击。他高度依赖石油，金融、航空、贸易、旅游、房地产全因这次战争受到了毁灭性的打击。<br><br>而OPEC的另一巨头沙特的日子好过的多。因为有备用路线可以继续出口石油，经济受冲击程度远低于阿联酋。<br><br>阿联酋的退出也意味着：<br><i class=\"emoji\"><b>1️⃣</b></i>石油的供应量会增加。阿联酋退出后，不再受欧佩克配额约束，可以自由增产。阿联酋石油产量占全球总量约4.3%，原油出口量的全球占比更高达8.1%，是OPEC第四大产油国。 <br><br><i class=\"emoji\"><b>2️⃣</b></i> OPEC的影响力和协调能力也会下降甚至瓦解——其他成员国可能效仿，减产协议约束力进一步下降。 <br><br><i class=\"emoji\"><b>3️⃣</b></i>阿联酋战略上进一步和美国靠拢。特朗普将美国对海湾地区的军事支持与油价问题挂钩，对阿联酋而言，在伊朗战争威胁背景下，美国的军事保护比OPEC的油价协调更加重要。退出本身是向特朗普政府释放的明确政治信号。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "653",
       "title": "WTI原油向上触及102美元/桶，创4月13日以来新高",
@@ -359,22 +375,6 @@
       "text": "大大要求开海峡https://x.com/zerohedge/status/2046180730976264343?s=20",
       "content": "大大要求开海峡<br><a href=\"https://x.com/zerohedge/status/2046180730976264343?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/zerohedge/status/2046180730976264343?s=20\">https://x.com/zerohedge/status/2046180730976264343?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/zerohedge/status/2046180730976264343?s=20\" target=\"_blank\" rel=\"noopener\" title=\"Xi Jinping says Strait of Hormuz should be open in call to Saudi Crown Prince\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/6058204fde2e312d6d9082058598bc85.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">zerohedge (@zerohedge) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Xi Jinping says Strait of Hormuz should be open in call to Saudi Crown Prince</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "633",
-      "title": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议",
-      "type": "text",
-      "datetime": "2026-04-19T01:19:07+00:00",
-      "tags": [],
-      "text": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议。现在被盗的 $rsETH 流入了包括AaveV3, CompoundV3, Euler换出了大量的 $WETHs ，目前的金额已经超过2亿美金。孙哥也提出了他存在AAVE的53665个 $ETH",
-      "content": "Kelp Dao被盗 $rsETH ，这件事情在不断扩大影响到更多的借贷流动性协议。现在被盗的 $rsETH 流入了包括AaveV3, CompoundV3, Euler换出了大量的 $WETHs ，目前的金额已经超过2亿美金。<br><br>孙哥也提出了他存在AAVE的53665个 $ETH",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

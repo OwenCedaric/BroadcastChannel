@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 7,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "613",
+      "title": "距离建仓 $MRVL 盈利37%，下跌期间也加仓了",
+      "type": "text",
+      "datetime": "2026-04-13T08:13:04+00:00",
+      "tags": [],
+      "text": "距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/563\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">仓位还是集中在内存和光通讯，因为韩股权重大，对能源价格敏感，所以还是谨慎持有中。 新增持有了 $MRVL 财报利好<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>这波下跌相对强势<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>GTC将近</div>\n</small></blockquote></a>距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
+      "reactions": []
+    },
     {
       "id": "612",
       "title": "没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了",
@@ -331,16 +341,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "593",
-      "title": "",
-      "type": "text",
-      "datetime": "2026-03-30T03:06:30+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-593-0\" popovertargetaction=\"show\">\n        <img src=\"/static/53981d0ab41adaf626966b721f7aea26.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-593-0\" popovertarget=\"modal-593-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/53981d0ab41adaf626966b721f7aea26.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": []
     }
   ]
 }

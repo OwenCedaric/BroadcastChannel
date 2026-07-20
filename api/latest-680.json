@@ -3,16 +3,26 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 700,
-    "totalPages": 35,
+    "totalPosts": 701,
+    "totalPages": 36,
     "currentPage": 35,
     "pageSize": 20,
-    "hasNextPage": false,
+    "hasNextPage": true,
     "hasPrevPage": true,
-    "nextPageUrl": null,
+    "nextPageUrl": "latest-700.json",
     "prevPageUrl": "latest-660.json"
   },
   "data": [
+    {
+      "id": "27",
+      "title": "",
+      "type": "text",
+      "datetime": "2023-12-03T08:57:00+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1731235676862169122?s=20有时间的朋友希望可以三连这条推特，一起参与 $Portal",
+      "content": "<a href=\"https://x.com/nft_hu/status/1731235676862169122?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1731235676862169122?s=20\">https://x.com/nft_hu/status/1731235676862169122?s=20</a><br><br>有时间的朋友希望可以三连这条推特，一起参与 $Portal<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1731235676862169122?s=20\" target=\"_blank\" rel=\"noopener\" title=\"一篇关于@Portalcoin 的简单教学：Portal 在一级非常火热，获得了大额的超额认购，我摒弃之前把它和tip简单划等号的方式，保持开放心态参与。如之前把我们当👩‍🌾的 #Memecoin 和散布广告的 #tipcoin 一样，\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f99b39278c0b971ee6f7234b7cd8a334.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">一篇关于@Portalcoin 的简单教学：<br>Portal 在一级非常火热，获得了大额的超额认购，我摒弃之前把它和tip简单划等号的方式，保持开放心态参与。<br><br>如之前把我们当<i class=\"emoji\" style=\"background-image:url('/static/278f0ef3f799f6998d7b8f757c1aec20.png')\"><b>👩‍🌾</b></i>的 #Memecoin 和散布广告的 #tipcoin 一样，</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "26",
       "title": "今日份买了两个新币 $AERGO 和 $PIVX ",
@@ -268,22 +278,6 @@
       "text": "Fiona‘s daily news-10.25, 2023News：1-DTCC 上出现BTC  ETF代码再消失再出现，BTC从31k上涨到34k。截至本推发出前查了下又出现了。个人感觉这不再是一个点无需过度关注DTCC官网： https://www.dtcc.com/products/cs/exchange_traded_funds_plain_new.php倪大科普DTCC：https://x.com/Phyrex_Ni/status/1716540970270097814?s=202-11.6 OPEN AI 大会，AI标的活跃：WLD，AGIX，FET3-PEPE销毁5.5m代币后，价格暴涨4-Galaxy Research reports that Bitcoin ETF inflows are expected to reach $14 billion in the first year after the launch of the Bitcoin spot ETF, rising to $27 billion in the second year and $39 billion in the third year.5-FTX和潜在买家洽谈重启可能性：https://www.bloomberg.com/news/articles/2023-10-24/ftx-is-negotiating-with-three-bidders-to-restart-crypto-exchange6-Celestia很快启动Mainnet Beta行情资讯：1.近日强推三大币走的基本都不错：LINK，TRB， INJ，今天TRB尤其强。继续看好ing2.群友推荐POWR PK3R 虽说回调买入，但是强到没有回调3.dydx解锁在即，价格突破箱体区间4.群车Banana，RLB做多绕过买卖税链上信息：1.ETH做空地址追踪 https://watcher.synthetix.io/0x586db03b0bb5b8dfd7378efeac19339706eabe642.FTX-related addresses transferred more than $10.49 million in cryptocurrency to Wintermute's Binance and Coinbase deposit addresses in the past 8 hours, including 2,904 ETH ($5.18 million), 1,341 MKR ($2.02 million), 198,000 LINK (  2.26 million US dollars), 12,000 AAVE (1.03 million US dollars)https://platform.arkhamintelligence.com/explorer/address/0xde9A61c2b776e2F4C6ddB0C9Ad5cCfCfC15B0a9B",
       "content": "<b>Fiona‘s daily news-10.25, 2023<br></b><br><b>News：</b><br>1-DTCC 上出现BTC  ETF代码再消失再出现，BTC从31k上涨到34k。截至本推发出前查了下又出现了。个人感觉这不再是一个点无需过度关注<br>DTCC官网： <a href=\"https://www.dtcc.com/products/cs/exchange_traded_funds_plain_new.php\" target=\"_blank\" rel=\"noopener\" title=\"https://www.dtcc.com/products/cs/exchange_traded_funds_plain_new.php\">https://www.dtcc.com/products/cs/exchange_traded_funds_plain_new.php</a><br>倪大科普DTCC：<a href=\"https://x.com/Phyrex_Ni/status/1716540970270097814?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Phyrex_Ni/status/1716540970270097814?s=20\">https://x.com/Phyrex_Ni/status/1716540970270097814?s=20</a><br><br>2-11.6 OPEN AI 大会，AI标的活跃：WLD，AGIX，FET<br><br>3-PEPE销毁5.5m代币后，价格暴涨<br><br>4-Galaxy Research reports that Bitcoin ETF inflows are expected to reach $14 billion in the first year after the launch of the Bitcoin spot ETF, rising to $27 billion in the second year and $39 billion in the third year.<br><br>5-FTX和潜在买家洽谈重启可能性：<a href=\"https://www.bloomberg.com/news/articles/2023-10-24/ftx-is-negotiating-with-three-bidders-to-restart-crypto-exchange\" target=\"_blank\" rel=\"noopener\" title=\"https://www.bloomberg.com/news/articles/2023-10-24/ftx-is-negotiating-with-three-bidders-to-restart-crypto-exchange\">https://www.bloomberg.com/news/articles/2023-10-24/ftx-is-negotiating-with-three-bidders-to-restart-crypto-exchange</a><br><br>6-Celestia很快启动Mainnet Beta<br><br><b>行情资讯：</b><br><b>1.</b>近日强推三大币走的基本都不错：LINK，TRB， INJ，今天TRB尤其强。继续看好ing<br>2.群友推荐POWR PK3R 虽说回调买入，但是强到没有回调<br>3.dydx解锁在即，价格突破箱体区间<br>4.群车Banana，RLB做多绕过买卖税<br><br><br><b>链上信息：</b><br>1.ETH做空地址追踪 <a href=\"https://watcher.synthetix.io/0x586db03b0bb5b8dfd7378efeac19339706eabe64\" target=\"_blank\" rel=\"noopener\" title=\"https://watcher.synthetix.io/0x586db03b0bb5b8dfd7378efeac19339706eabe64\">https://watcher.synthetix.io/0x586db03b0bb5b8dfd7378efeac19339706eabe64</a><br><br>2.FTX-related addresses transferred more than $10.49 million in cryptocurrency to Wintermute's Binance and Coinbase deposit addresses in the past 8 hours, including 2,904 ETH ($5.18 million), 1,341 MKR ($2.02 million), 198,000 LINK (  2.26 million US dollars), 12,000 AAVE (1.03 million US dollars)<br><a href=\"https://platform.arkhamintelligence.com/explorer/address/0xde9A61c2b776e2F4C6ddB0C9Ad5cCfCfC15B0a9B\" target=\"_blank\" rel=\"noopener\" title=\"https://platform.arkhamintelligence.com/explorer/address/0xde9A61c2b776e2F4C6ddB0C9Ad5cCfCfC15B0a9B\">https://platform.arkhamintelligence.com/explorer/address/0xde9A61c2b776e2F4C6ddB0C9Ad5cCfCfC15B0a9B</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/Phyrex_Ni/status/1716540970270097814?s=20\" target=\"_blank\" rel=\"noopener\" title=\"得，在解释得细致一点，所谓得DTCC是一家存款信托与清算公司，负责纳斯达克交易清算。并不是代表iShares也就是贝莱德就已经登录了 #Bitcoin 的现货ETF，这只是准备流程中的一部分，我们打个比方。…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Phyrex on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">得，在解释得细致一点，所谓得DTCC是一家存款信托与清算公司，负责纳斯达克交易清算。并不是代表iShares也就是贝莱德就已经登录了 #Bitcoin 的现货ETF，这只是准备流程中的一部分，我们打个比方。…</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "3",
-      "title": "1.WLD更改做市商还币时间，大部分延迟到12月15号",
-      "type": "text",
-      "datetime": "2023-10-23T08:15:43+00:00",
-      "tags": [],
-      "text": "1.WLD更改做市商还币时间，大部分延迟到12月15号。https://x.com/embercn/status/1716274130151235737?s=46&t=UDvWFnnR-rFcApu1t6pAvg2.ftx债券频频上涨，目前常在出现半价买盘。相关标的 $FTT3.关注强势币种 link INJ trb4.dwf Andrei暗示拉盘币，竞猜时间https://x.com/ag_dwf/status/1716331811649798311?s=46&t=UDvWFnnR-rFcApu1t6pAvg5.Zksync 上的正经项目 GRVT，可以交互起来别偷懒。6.看交易量明显有资金流入，现在不做空。7.Top 50 chains up at least 15% on the weekly include Pulse Chain (#13), Aptos (#25), Sui (#28), Mantle (#32), and Kujira (#36).",
-      "content": "1.WLD更改做市商还币时间，大部分延迟到12月15号。https://<a href=\"http://x.com/embercn/status/1716274130151235737?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg\" target=\"_blank\" rel=\"noopener\" title=\"x.com/embercn/status/1716274130151235737?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg\">x.com/embercn/status/1716274130151235737?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg</a><br><br>2.ftx债券频频上涨，目前常在出现半价买盘。相关标的 $FTT<br><br>3.关注强势币种 link INJ trb<br><br>4.dwf Andrei暗示拉盘币，竞猜时间<br><a href=\"https://x.com/ag_dwf/status/1716331811649798311?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/ag_dwf/status/1716331811649798311?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg\">https://x.com/ag_dwf/status/1716331811649798311?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg</a><br><br>5.Zksync 上的正经项目 GRVT，可以交互起来别偷懒。<br><br>6.看交易量明显有资金流入，现在不做空。<br><br>7.Top 50 chains up at least 15% on the weekly include Pulse Chain (#13), Aptos (#25), Sui (#28), Mantle (#32), and Kujira (#36).<a class=\"tgme_widget_message_link_preview\" href=\"http://x.com/embercn/status/1716274130151235737?s=46&amp;t=UDvWFnnR-rFcApu1t6pAvg\" target=\"_blank\" rel=\"noopener\" title=\"Worldcoin 已更改做市商还币规则：原定 10/24 需归还的 1 亿 WLD 减少为 2500 万，另外的 7500 万 WLD 延期至 12/15 归还。Worldcoin 官方公告：https://t.co/SQj2MEwxX4推文由 @Bitget_zh 赞助\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">余烬 (@EmberCN) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Worldcoin 已更改做市商还币规则：<br><br>原定 10/24 需归还的 1 亿 WLD 减少为 2500 万，另外的 7500 万 WLD 延期至 12/15 归还。<br><br>Worldcoin 官方公告：<br>https://t.co/SQj2MEwxX4<br><br>推文由 @Bitget_zh 赞助</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }
