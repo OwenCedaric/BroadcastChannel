@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 701,
+    "totalPosts": 703,
     "totalPages": 36,
     "currentPage": 31,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "119",
+      "title": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了",
+      "type": "text",
+      "datetime": "2024-03-19T13:46:28+00:00",
+      "tags": [],
+      "text": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了。",
+      "content": "今天份的强势币（我眼中）：APT，FTM, SUI; MKR SOL BNB的跌幅还在接受范围内，Bome开始买回来一点了。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "title": "如期下跌，哪怕和无敌木兰吃饭也没能止住跌幅",
+      "type": "text",
+      "datetime": "2024-03-19T13:40:12+00:00",
+      "tags": [],
+      "text": "如期下跌，哪怕和无敌木兰吃饭也没能止住跌幅。回调其实有两个好处：1⃣️可以好好休息，最近大家都过的比较紧张；2⃣️寻找下跌趋势中的强势币并找寻加仓机会。",
+      "content": "如期下跌，哪怕和无敌木兰吃饭也没能止住跌幅。回调其实有两个好处：<i class=\"emoji\"><b>1⃣️</b></i>可以好好休息，最近大家都过的比较紧张；<i class=\"emoji\"><b>2⃣️</b></i>寻找下跌趋势中的强势币并找寻加仓机会。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "21",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "117",
       "title": "感觉大盘不是太稳，我清了一些山寨",
@@ -362,43 +404,6 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "9",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "97",
-      "title": "买了点Near",
-      "type": "text",
-      "datetime": "2024-03-11T03:12:23+00:00",
-      "tags": [],
-      "text": "买了点Near",
-      "content": "买了点Near",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "96",
-      "title": "买了Ron的小伙伴别忘了Stake，会有生态里其他的项目空投",
-      "type": "text",
-      "datetime": "2024-03-11T03:12:16+00:00",
-      "tags": [],
-      "text": "买了Ron的小伙伴别忘了Stake，会有生态里其他的项目空投",
-      "content": "买了Ron的小伙伴别忘了Stake，会有生态里其他的项目空投",
-      "reactions": [
-        {
-          "emoji": "❤️",
           "count": "9",
           "isPaid": false
         }

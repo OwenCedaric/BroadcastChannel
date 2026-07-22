@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 701,
+    "totalPosts": 703,
     "totalPages": 36,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,50 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "676",
+      "title": "5月最大的关注点，习特会",
+      "type": "text",
+      "datetime": "2026-05-04T06:44:02+00:00",
+      "tags": [],
+      "text": "5月最大的关注点，习特会。",
+      "content": "5月最大的关注点，习特会。",
+      "reactions": [
+        {
+          "emoji": "😈",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "675",
+      "title": "不知不觉，过去2周写了很多关于Google #TPU 的文章，既有技术干货也有商业思考，整理TPU系列文章如下1️⃣谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络",
+      "type": "text",
+      "datetime": "2026-05-04T03:51:56+00:00",
+      "tags": [
+        "TPU"
+      ],
+      "text": "不知不觉，过去2周写了很多关于Google #TPU 的文章，既有技术干货也有商业思考，整理TPU系列文章如下1️⃣谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络。https://x.com/nft_hu/status/2047656097948065892?s=202️⃣300万片TPU背后的产业链：https://x.com/nft_hu/status/2050935449653485779?s=20https://x.com/nft_hu/status/2047661338680340923?s=203️⃣为了适应模型发展，第八代TPU设计中，谷歌的软硬件和网络解决方案：https://x.com/nft_hu/status/2051144981587579022?s=204️⃣Anthropic 订购TPU，他和谷歌的股权投资历史https://x.com/nft_hu/status/2049034246191493239?s=205️⃣Google TPU 8t和英伟达GB300机架级性能对比https://x.com/nft_hu/status/2047657781944349125?s=206️⃣TPU封装https://x.com/nft_hu/status/2050150704137093503?s=207️⃣TPU对英伟达的冲击https://x.com/nft_hu/status/2050085265201570207?s=208️⃣TPU对谷歌财报未来贡献https://x.com/nft_hu/status/2049593747869229252?s=20",
+      "content": "不知不觉，过去2周写了很多关于Google <a href=\"/search/%23TPU\" title=\"#TPU\">#TPU</a> 的文章，既有技术干货也有商业思考，整理TPU系列文章如下<br><br><i class=\"emoji\"><b>1️⃣</b></i>谷歌重要产品发布介绍分别是 专用于训练的TPU 8t芯片以及Virgo 网络。<br><a href=\"https://x.com/nft_hu/status/2047656097948065892?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047656097948065892?s=20\">https://x.com/nft_hu/status/2047656097948065892?s=20</a><br><br><i class=\"emoji\"><b>2️⃣</b></i>300万片TPU背后的产业链：<br><a href=\"https://x.com/nft_hu/status/2050935449653485779?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050935449653485779?s=20\">https://x.com/nft_hu/status/2050935449653485779?s=20</a><br><a href=\"https://x.com/nft_hu/status/2047661338680340923?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047661338680340923?s=20\">https://x.com/nft_hu/status/2047661338680340923?s=20</a><br><br><i class=\"emoji\"><b>3️⃣</b></i>为了适应模型发展，第八代TPU设计中，谷歌的软硬件和网络解决方案：<br><a href=\"https://x.com/nft_hu/status/2051144981587579022?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2051144981587579022?s=20\">https://x.com/nft_hu/status/2051144981587579022?s=20</a><br><br><i class=\"emoji\"><b>4️⃣</b></i>Anthropic 订购TPU，他和谷歌的股权投资历史<br><a href=\"https://x.com/nft_hu/status/2049034246191493239?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049034246191493239?s=20\">https://x.com/nft_hu/status/2049034246191493239?s=20</a><br><i class=\"emoji\"><b>5️⃣</b></i>Google TPU 8t和英伟达GB300机架级性能对比<br><a href=\"https://x.com/nft_hu/status/2047657781944349125?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2047657781944349125?s=20\">https://x.com/nft_hu/status/2047657781944349125?s=20</a><br><i class=\"emoji\"><b>6️⃣</b></i>TPU封装<br><a href=\"https://x.com/nft_hu/status/2050150704137093503?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050150704137093503?s=20\">https://x.com/nft_hu/status/2050150704137093503?s=20</a><br><i class=\"emoji\"><b>7️⃣</b></i>TPU对英伟达的冲击<br><a href=\"https://x.com/nft_hu/status/2050085265201570207?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2050085265201570207?s=20\">https://x.com/nft_hu/status/2050085265201570207?s=20</a><br><i class=\"emoji\"><b>8️⃣</b></i>TPU对谷歌财报未来贡献<br><a href=\"https://x.com/nft_hu/status/2049593747869229252?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049593747869229252?s=20\">https://x.com/nft_hu/status/2049593747869229252?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2047656097948065892?s=20\" target=\"_blank\" rel=\"noopener\" title=\"最近 Google 有两项重要产品更新，分别是 专用于训练的TPU 8t芯片以及Virgo 网络。此前已经介绍过TPU芯片，是是 Google 自研的 AI 芯片，专门为矩阵运算和深度学习优化，是 Nvidia GPU 的直接竞争对手。这次Google推出的TPU芯片对此做了进一步的分工：TPU 8t（t = training，训练专用）TPU 8i（i\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbb27e5259b2e52ea7071b966c782c12.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">最近 Google 有两项重要产品更新，分别是 专用于训练的TPU 8t芯片以及Virgo 网络。<br><br>此前已经介绍过TPU芯片，是是 Google 自研的 AI 芯片，专门为矩阵运算和深度学习优化，是 Nvidia GPU 的直接竞争对手。<br><br>这次Google推出的TPU芯片对此做了进一步的分工：<br>TPU 8t（t = training，训练专用）<br>TPU 8i（i</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "674",
       "title": "【Fiona日报】2026-05-04 周一━━ 今日最重要一件事 ━━Fed权力交接倒计时11天，这才是本周最大的价格变量",
@@ -351,47 +395,6 @@
         },
         {
           "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "656",
-      "title": "今晚熬夜么？【Fiona日报】2026-04-29 周三━━ 宏观要闻 ━━🌟🌟🌟【风险最高】特朗普指示\"准备长期封锁伊朗\"，伊朗宣布霍尔木兹收取通行费🌟🌟🌟【重大事件】\"超级星期三\"：Meta、微软、Alphabet、亚马逊今晚盘后同发财报 + Q1 GDP初值→ 四家合计市值逾16万亿美元，今晚北京时间凌晨至4点是本年度最密集的价格发现窗口",
-      "type": "text",
-      "datetime": "2026-04-29T07:56:44+00:00",
-      "tags": [],
-      "text": "今晚熬夜么？【Fiona日报】2026-04-29 周三━━ 宏观要闻 ━━🌟🌟🌟【风险最高】特朗普指示\"准备长期封锁伊朗\"，伊朗宣布霍尔木兹收取通行费🌟🌟🌟【重大事件】\"超级星期三\"：Meta、微软、Alphabet、亚马逊今晚盘后同发财报 + Q1 GDP初值→ 四家合计市值逾16万亿美元，今晚北京时间凌晨至4点是本年度最密集的价格发现窗口。市场三条核心问题线：① Azure增速能否超38%（上季因产能问题增速放缓，叠加OpenAI独家解除的结构性压力）；② Google Cloud能否维持50%+增速；③ Meta/亚马逊管理层如何描述\"中东地缘对企业AI采购节奏的影响\"🌟🌟【市场结构】昨日美股：标普、纳指微涨再创历史新高，但半导体18连涨终结→━━ 宏观数据提示 ━━• 今日：Q1 GDP初值 → 若低于1.5%，滞胀定价重启• 北京时间明日凌晨2点: FOMC利率决议 + 鲍威尔发布会（极大概率最后一次）  → 利率100%不变；核心在发布会对通胀措辞，停火延长与油价走势是他最难回答的问题• 5月15日：鲍威尔任期到期，沃什确认进程推进",
-      "content": "今晚熬夜么？<br><br>【Fiona日报】2026-04-29 周三<br><br>━━ 宏观要闻 ━━<br><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【风险最高】特朗普指示\"准备长期封锁伊朗\"，伊朗宣布霍尔木兹收取通行费<br><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【重大事件】\"超级星期三\"：Meta、微软、Alphabet、亚马逊今晚盘后同发财报 + Q1 GDP初值<br>→ 四家合计市值逾16万亿美元，今晚北京时间凌晨至4点是本年度最密集的价格发现窗口。市场三条核心问题线：<br>① Azure增速能否超38%（上季因产能问题增速放缓，叠加OpenAI独家解除的结构性压力）；<br>② Google Cloud能否维持50%+增速；<br>③ Meta/亚马逊管理层如何描述\"中东地缘对企业AI采购节奏的影响\"<br><br><i class=\"emoji\"><b>🌟</b></i><i class=\"emoji\"><b>🌟</b></i>【市场结构】昨日美股：标普、纳指微涨再创历史新高，但半导体18连涨终结<br>→<br><br>━━ 宏观数据提示 ━━<br><br>• 今日：Q1 GDP初值 → 若低于1.5%，滞胀定价重启<br>• 北京时间明日凌晨2点: FOMC利率决议 + 鲍威尔发布会（极大概率最后一次）<br>  → 利率100%不变；核心在发布会对通胀措辞，停火延长与油价走势是他最难回答的问题<br>• 5月15日：鲍威尔任期到期，沃什确认进程推进",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "655",
-      "title": "整了了一下目前公布的财报Beat的 #半导体 #光通讯 #AI基建 公司的情况：highlight一些大超预期的公司：1️⃣$ASML 光刻机：超预期 / 上调全年指引上调至€360-400B；记录积压订单€38.8B；EUV垄断地位稳固2️⃣$AMKR 先进封装需求全面爆发，强劲创营收历史记录；AI端市场需求旺盛3️⃣$CIEN 双线超预期 / 大幅上调积压订单$70亿；全球最快1.6T；摩根士丹利目标价$380-400；AI数据中心互联需求爆发4️⃣$FN 大幅超预期，营收$1.13B，YOY+36%，光通信营收+36%；HPC业务环比+473%；深度绑定Lumentum等光通信巨头5️⃣$AAOI 超预期，营收$150-165M，全年指引上调，800G/1.6T月产能目标+400%至50万只；2026年营收目标>$10亿；美国本土制造商战略优势",
-      "type": "text",
-      "datetime": "2026-04-29T01:01:34+00:00",
-      "tags": [
-        "半导体",
-        "光通讯",
-        "AI基建"
-      ],
-      "text": "整了了一下目前公布的财报Beat的 #半导体 #光通讯 #AI基建 公司的情况：highlight一些大超预期的公司：1️⃣$ASML 光刻机：超预期 / 上调全年指引上调至€360-400B；记录积压订单€38.8B；EUV垄断地位稳固2️⃣$AMKR 先进封装需求全面爆发，强劲创营收历史记录；AI端市场需求旺盛3️⃣$CIEN 双线超预期 / 大幅上调积压订单$70亿；全球最快1.6T；摩根士丹利目标价$380-400；AI数据中心互联需求爆发4️⃣$FN 大幅超预期，营收$1.13B，YOY+36%，光通信营收+36%；HPC业务环比+473%；深度绑定Lumentum等光通信巨头5️⃣$AAOI 超预期，营收$150-165M，全年指引上调，800G/1.6T月产能目标+400%至50万只；2026年营收目标>$10亿；美国本土制造商战略优势。6️⃣$ANET 营收强劲，YOY+33-34%，全年指引上调至+40%；Needham预计Q1营收增速超33-34%；AI后端网络核心受益者7️⃣$NOW 全面超过，营收$3.77B，YoY+22%，上调全年订阅收入；Now Assist百万级客户YoY+130%；CRPO+22.5%。8️⃣$GEV 大幅超过，不过有特殊结算原因。YoY794%；积压订单$163B ；Q1数据中心电气化订单$2.4B超全年2025；FCF $4.8B翻四倍；股价当日+14%。完整表单见X https://x.com/nft_hu/status/2049292651690881349?s=20",
-      "content": "<b>整了了一下目前公布的财报Beat的 </b><a href=\"/search/%23%E5%8D%8A%E5%AF%BC%E4%BD%93\" title=\"#半导体\"><b>#半导体</b></a><b> </b><a href=\"/search/%23%E5%85%89%E9%80%9A%E8%AE%AF\" title=\"#光通讯\"><b>#光通讯</b></a><b> </b><a href=\"/search/%23AI%E5%9F%BA%E5%BB%BA\" title=\"#AI基建\"><b>#AI基建</b></a><b> 公司的情况：<br><br>highlight一些大超预期的公司：</b><br><i class=\"emoji\"><b>1️⃣</b></i>$ASML 光刻机：超预期 / 上调全年指引上调至€360-400B；记录积压订单€38.8B；EUV垄断地位稳固<br><i class=\"emoji\"><b>2️⃣</b></i>$AMKR 先进封装需求全面爆发，强劲创营收历史记录；AI端市场需求旺盛<br><i class=\"emoji\"><b>3️⃣</b></i>$CIEN 双线超预期 / 大幅上调积压订单$70亿；全球最快1.6T；摩根士丹利目标价$380-400；AI数据中心互联需求爆发<br><i class=\"emoji\"><b>4️⃣</b></i>$FN 大幅超预期，营收$1.13B，YOY+36%，光通信营收+36%；HPC业务环比+473%；深度绑定Lumentum等光通信巨头<br><i class=\"emoji\"><b>5️⃣</b></i>$AAOI 超预期，营收$150-165M，全年指引上调，800G/1.6T月产能目标+400%至50万只；2026年营收目标&gt;$10亿；美国本土制造商战略优势。<br><i class=\"emoji\"><b>6️⃣</b></i>$ANET 营收强劲，YOY+33-34%，全年指引上调至+40%；Needham预计Q1营收增速超33-34%；AI后端网络核心受益者<br><i class=\"emoji\"><b>7️⃣</b></i>$NOW 全面超过，营收$3.77B，YoY+22%，上调全年订阅收入；Now Assist百万级客户YoY+130%；CRPO+22.5%。<br><i class=\"emoji\"><b>8️⃣</b></i>$GEV 大幅超过，不过有特殊结算原因。YoY794%；积压订单$163B ；Q1数据中心电气化订单$2.4B超全年2025；FCF $4.8B翻四倍；股价当日+14%。<br><br>完整表单见X <a href=\"https://x.com/nft_hu/status/2049292651690881349?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2049292651690881349?s=20\">https://x.com/nft_hu/status/2049292651690881349?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2049292651690881349?s=20\" target=\"_blank\" rel=\"noopener\" title=\"整了了一下目前公布的财报Beat的 #半导体 #光通讯 #AI基建 公司的情况：highlight一些大超预期的公司：$ASML 光刻机：超预期 / 上调全年指引上调至€360-400B；记录积压订单€38.8B；EUV垄断地位稳固$AMKR 先进封装需求全面爆发，强劲创营收历史记录；AI端市场需求旺盛$CIEN 双线超预期 /\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/8c07b0b7eb1eccc4c90b1c1a7e7d2601.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">整了了一下目前公布的财报Beat的 #半导体 #光通讯 #AI基建 公司的情况：<br><br>highlight一些大超预期的公司：<br>$ASML 光刻机：超预期 / 上调全年指引上调至€360-400B；记录积压订单€38.8B；EUV垄断地位稳固<br>$AMKR 先进封装需求全面爆发，强劲创营收历史记录；AI端市场需求旺盛<br>$CIEN 双线超预期 /</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
           "count": "1",
           "isPaid": false
         }

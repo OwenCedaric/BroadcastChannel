@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 701,
+    "totalPosts": 703,
     "totalPages": 36,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "365",
+      "title": "美联储主席鲍威尔：失业率保持稳定，使美联储在考虑调整政策立场时能够“谨慎行事”",
+      "type": "text",
+      "datetime": "2025-08-22T14:08:52+00:00",
+      "tags": [],
+      "text": "美联储主席鲍威尔：失业率保持稳定，使美联储在考虑调整政策立场时能够“谨慎行事”。交易员目前预计9月美联储将降息的概率约为90%，而鲍威尔讲话前这一概率为75%。",
+      "content": "美联储主席鲍威尔：失业率保持稳定，使美联储在考虑调整政策立场时能够“谨慎行事”。<br><br>交易员目前预计9月美联储将降息的概率约为90%，而鲍威尔讲话前这一概率为75%。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "364",
+      "title": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近",
+      "type": "text",
+      "datetime": "2025-08-22T05:17:37+00:00",
+      "tags": [],
+      "text": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
+      "content": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "363",
       "title": "买了一点 $BMNR 虽然觉得这个价格大概率跌破",
@@ -394,58 +431,6 @@
         {
           "emoji": "🤣",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "345",
-      "title": "减仓了，留多点现金",
-      "type": "text",
-      "datetime": "2025-07-29T15:00:34+00:00",
-      "tags": [],
-      "text": "减仓了，留多点现金",
-      "content": "减仓了，留多点现金",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "344",
-      "title": "止损了Pengu",
-      "type": "text",
-      "datetime": "2025-07-29T14:59:41+00:00",
-      "tags": [],
-      "text": "止损了Pengu",
-      "content": "止损了Pengu",
-      "reactions": [
-        {
-          "emoji": "🥰",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "1",
           "isPaid": false
         }
       ]
