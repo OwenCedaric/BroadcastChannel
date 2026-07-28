@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 209,
+    "totalPosts": 211,
     "totalPages": 11,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,68 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "19",
+      "title": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨",
+      "type": "text",
+      "datetime": "2025-05-03T14:27:05+00:00",
+      "tags": [],
+      "text": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
+      "content": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。<br>这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "81",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "",
+      "type": "text",
+      "datetime": "2025-05-03T14:25:18+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/17\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/089f8c2e471736a0d0f06af2c8fdb97d.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-18-0\" popovertargetaction=\"show\">\n        <img src=\"/static/3cea09c031582911789734acefadfbf7.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-18-0\" popovertarget=\"modal-18-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/3cea09c031582911789734acefadfbf7.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "17",
       "title": "有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",

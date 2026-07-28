@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 209,
+    "totalPosts": 211,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,93 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "198",
+      "title": "又打了500万美元子弹@60k做scalping",
+      "type": "text",
+      "datetime": "2026-02-06T00:21:19+00:00",
+      "tags": [],
+      "text": "又打了500万美元子弹@60k做scalping",
+      "content": "又打了500万美元子弹@60k做scalping",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "117",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "title": "",
+      "type": "text",
+      "datetime": "2026-02-06T00:21:04+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-197-0\" popovertargetaction=\"show\">\n        <img src=\"/static/80a41ba6b092823c410d6ad8b7c2230f.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-197-0\" popovertarget=\"modal-197-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/80a41ba6b092823c410d6ad8b7c2230f.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "49",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "196",
       "title": "目前打了300万美元子弹 总计45BTC现货头寸 均价66k还有1700万美元子弹",
@@ -942,98 +1029,6 @@
         {
           "emoji": "😈",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "178",
-      "title": "请做好我接下来会犯错误的准备，因为过去几天赢了太多次，从概率上来说我摔跤的可能性越来越高",
-      "type": "text",
-      "datetime": "2026-02-02T11:56:03+00:00",
-      "tags": [],
-      "text": "请做好我接下来会犯错误的准备，因为过去几天赢了太多次，从概率上来说我摔跤的可能性越来越高。没有人是市场之神没有人能够永远胜利尤其是手动主观交易连胜了之后人会开始变愚蠢，我可不会和那些家伙一样傻乎乎的无限冲等干完白银这一票我就会休息不进行主观交易一段时间，因为：我的风格依赖市场出现黑天鹅，而这次大型黑天鹅之后贵金属和crypto市场的杠杆已经彻底出清，近期不大可能出现easy机会。",
-      "content": "请做好我接下来会犯错误的准备，因为过去几天赢了太多次，从概率上来说我摔跤的可能性越来越高。<br><br>没有人是市场之神<br>没有人能够永远胜利<br><br>尤其是手动主观交易连胜了之后人会开始变愚蠢，我可不会和那些家伙一样傻乎乎的无限冲<br><br>等干完白银这一票我就会休息不进行主观交易一段时间，因为：我的风格依赖市场出现黑天鹅，而这次大型黑天鹅之后贵金属和crypto市场的杠杆已经彻底出清，近期不大可能出现easy机会。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "279",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "76",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "177",
-      "title": "再次对冲上了，太踏马舒服",
-      "type": "text",
-      "datetime": "2026-02-02T11:33:39+00:00",
-      "tags": [],
-      "text": "再次对冲上了，太踏马舒服。剩下的250万美元slv etf拿到美股开盘再看情况",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/174\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/6329f270313a1057f3dceb5918f1d847.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">币安合约上这个套保仓位我先平了，现在相当于裸奔  还是想博一个超跌反弹</div>\n</small></blockquote></a>再次对冲上了，太踏马舒服。<br>剩下的250万美元slv etf拿到美股开盘再看情况",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "70",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "3",
           "isPaid": false
         }
       ]

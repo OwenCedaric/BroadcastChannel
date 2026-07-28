@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 209,
+    "totalPosts": 211,
     "totalPages": 11,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,65 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "42",
+      "title": "中国股市我卖出了我的沪深300一半的仓位，调仓且平均的分配至了：宝钢股份 阳光电源 宁德时代 比亚迪 理由：沪深300里有太多我不喜欢的僵尸企业，比如贵州茅台五粮液我没有任何精力去微操作A股，买了都是准备3-5年放着不动的",
+      "type": "text",
+      "datetime": "2025-06-24T20:28:33+00:00",
+      "tags": [],
+      "text": "中国股市我卖出了我的沪深300一半的仓位，调仓且平均的分配至了：宝钢股份 阳光电源 宁德时代 比亚迪 理由：沪深300里有太多我不喜欢的僵尸企业，比如贵州茅台五粮液我没有任何精力去微操作A股，买了都是准备3-5年放着不动的。我宁可选择高分红的或者是“国之重器”类的",
+      "content": "中国股市我卖出了我的沪深300一半的仓位，调仓且平均的分配至了：<br>宝钢股份 阳光电源 宁德时代 比亚迪 <br><br>理由：沪深300里有太多我不喜欢的僵尸企业，比如贵州茅台五粮液<br><br>我没有任何精力去微操作A股，买了都是准备3-5年放着不动的。我宁可选择高分红的或者是“国之重器”类的",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "112",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "title": "#人生保险仓我把之前卖掉的长债仓位又买回来了1/3,但是这次我没买TLT，而是选择的是10年后到期的0利息美国国债",
+      "type": "text",
+      "datetime": "2025-06-24T20:03:07+00:00",
+      "tags": [
+        "人生保险仓"
+      ],
+      "text": "#人生保险仓我把之前卖掉的长债仓位又买回来了1/3,但是这次我没买TLT，而是选择的是10年后到期的0利息美国国债。原因：1. 这就和买比特币/黄金一样，是一个N年都不用动的仓位。相当于人生保险。你的资产表里没有它，你的抗黑天鹅能力就弱2. 0分红10年期债券是一个票面价值不断升值的债券，不卖出你就不会实现利润。而TLT则是每年给你发分红。区别是这可以卡目前的一个系统bug。3. 这次我选择2035到期的0分红10年期债券，相较之前TLT波动会小很多，并且仓位不大。拿着它我的心态会更稳定。",
+      "content": "<a href=\"/search/%23%E4%BA%BA%E7%94%9F%E4%BF%9D%E9%99%A9%E4%BB%93\" title=\"#人生保险仓\">#人生保险仓</a><br><br>我把之前卖掉的长债仓位又买回来了1/3,但是这次我没买TLT，而是选择的是10年后到期的0利息美国国债。<br>原因：<br>1. 这就和买比特币/黄金一样，是一个N年都不用动的仓位。相当于人生保险。你的资产表里没有它，你的抗黑天鹅能力就弱<br>2. 0分红10年期债券是一个票面价值不断升值的债券，不卖出你就不会实现利润。而TLT则是每年给你发分红。区别是这可以卡目前的一个系统bug。<br>3. 这次我选择2035到期的0分红10年期债券，相较之前TLT波动会小很多，并且仓位不大。拿着它我的心态会更稳定。",
+      "reactions": [
+        {
+          "emoji": "🥰",
+          "count": "68",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "40",
       "title": "建仓了一些GOOG作为长期投资原因：- Google公司目前pe18倍，相较竞争对手MSFT、AMZN不贵- 市场给GOOG低估值是因为觉得Google会在AI时代被蚕食份额，但实际上Google的ai业务很强、其特有的TPU在ai领域性能媲美Nvidia，Google在云计算领域也是佼佼者",
@@ -822,68 +881,6 @@
         {
           "emoji": "😁",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "19",
-      "title": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨",
-      "type": "text",
-      "datetime": "2025-05-03T14:27:05+00:00",
-      "tags": [],
-      "text": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
-      "content": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。<br>这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "81",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "title": "",
-      "type": "text",
-      "datetime": "2025-05-03T14:25:18+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/17\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/089f8c2e471736a0d0f06af2c8fdb97d.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-18-0\" popovertargetaction=\"show\">\n        <img src=\"/static/3cea09c031582911789734acefadfbf7.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-18-0\" popovertarget=\"modal-18-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/3cea09c031582911789734acefadfbf7.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "1",
           "isPaid": false
         }
       ]

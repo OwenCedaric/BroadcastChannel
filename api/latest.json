@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 209,
+    "totalPosts": 211,
     "totalPages": 11,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,83 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "250",
+      "title": "后面又加了点，现在手有点颤抖 类似10.11那晚打字抖抖的浑身哆嗦的感觉",
+      "type": "text",
+      "datetime": "2026-07-28T16:31:37+00:00",
+      "tags": [],
+      "text": "后面又加了点，现在手有点颤抖 类似10.11那晚打字抖抖的浑身哆嗦的感觉",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/248\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/e91830f1d92e3deb2485041dd43fd2cb.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权   我不是什么AI专家 也不是什么期权交易员 但我知道： 1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&amp;储存股的IV在历史最高百分位。 2. AI革命依然在继续&amp;需求依然在继续&amp;一个月前人们在喊的基本面并没有改变，相当于同样的商品价格一个月后打了35-50%折扣  至于为什么要卖这种“很难成交的价格”而不是卖贴近目前盘面的价格———这是因为我个人不喜欢风险而喜欢稳定的钱，以一个月后到期的MU…</div>\n</small></blockquote></a>后面又加了点，现在手有点颤抖 <br>类似10.11那晚打字抖抖的浑身哆嗦的感觉",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "38",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "248",
+      "title": "今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位",
+      "type": "text",
+      "datetime": "2026-07-28T15:31:07+00:00",
+      "tags": [],
+      "text": "今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位。2. AI革命依然在继续&需求依然在继续&一个月前人们在喊的基本面并没有改变，相当于同样的商品价格一个月后打了35-50%折扣至于为什么要卖这种“很难成交的价格”而不是卖贴近目前盘面的价格———这是因为我个人不喜欢风险而喜欢稳定的钱，以一个月后到期的MU 660PUT为例，我现在卖15张=立马收获$4.7万利润，且如果一个月后MU真的跌破660&触发交割，我$1m买到的价格将是超级好的价格今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位。2. AI革命依然在继续&需求依然在继续&一个月前人们在喊的基本面并没有改变，相当于同样的商品价格一个月后打了35-50%折扣至于为什么要卖这种“很难成交的价格”而不是卖贴近目前盘面的价格———这是因为我个人不喜欢风险而喜欢稳定的钱，以一个月后到期的MU 660PUT为例，我现在卖15张=立马收获$4.7万利润，且如果一个月后MU真的跌破660&触发交割，我$1m买到的价格将是超级好的价格",
+      "content": "<div class=\"image-list-container image-list-even\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-248-0\" popovertargetaction=\"show\">\n        <img src=\"/static/28d7b501ec36c82d7f6e3c7b5d7e758b.jpg\" alt=\"今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-248-0\" popovertarget=\"modal-248-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/28d7b501ec36c82d7f6e3c7b5d7e758b.jpg\" alt=\"今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位\" loading=\"lazy\" />\n      </button>\n    \n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-248-1\" popovertargetaction=\"show\">\n        <img src=\"/static/db1b5792e3a81428c2a9c5381ca6253c.jpg\" alt=\"今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-248-1\" popovertarget=\"modal-248-1\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/db1b5792e3a81428c2a9c5381ca6253c.jpg\" alt=\"今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权 我不是什么AI专家 也不是什么期权交易员但我知道：1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&储存股的IV在历史最高百分位\" loading=\"lazy\" />\n      </button>\n    </div><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权<br><br> 我不是什么AI专家 也不是什么期权交易员<br>但我知道：<br>1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&amp;储存股的IV在历史最高百分位。<br>2. AI革命依然在继续&amp;需求依然在继续&amp;一个月前人们在喊的基本面并没有改变，相当于同样的商品价格一个月后打了35-50%折扣<br><br>至于为什么要卖这种“很难成交的价格”而不是卖贴近目前盘面的价格———这是因为我个人不喜欢风险而喜欢稳定的钱，以一个月后到期的MU 660PUT为例，我现在卖15张=立马收获$4.7万利润，且如果一个月后MU真的跌破660&amp;触发交割，我$1m买到的价格将是超级好的价格</div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "79",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "40",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "247",
       "title": "捐赠了1万U做慈善，大部分网络渠道捐给韩红基金会了，还有一小部分会用作现实世界里的慈善",
@@ -977,113 +1054,6 @@
         {
           "emoji": "💯",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "225",
-      "title": "polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论",
-      "type": "text",
-      "datetime": "2026-03-18T13:25:24+00:00",
-      "tags": [],
-      "text": "polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论。我觉得老中今年不会打湾子",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-225-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c85529154de557288081de71ed8aa699.jpg\" alt=\"polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-225-0\" popovertarget=\"modal-225-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c85529154de557288081de71ed8aa699.jpg\" alt=\"polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论\" loading=\"lazy\" />\n      </button>\n    </div>polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论。<br><br>我觉得老中今年不会打湾子",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "355",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "149",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "26",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "224",
-      "title": "由于PIPPIN资费转负，我已平仓",
-      "type": "text",
-      "datetime": "2026-03-04T23:40:35+00:00",
-      "tags": [],
-      "text": "由于PIPPIN资费转负，我已平仓。撸个生活费，感谢庄家的馈赠。能打赢这个局的要点总结：1. 如果我开的仓位很大，并且我还鼓动粉丝们去做空，那么就容易被庄狙击。所以我自己也只开了13万U仓位。并且一直强调不要让其他人上车。2. 我自己有足够的影响力+爆了庄家的aster菊花，让它操盘有忌惮，不能一直无限拉盘。3. 运气好这种属于几个月才能逮一次的机会。我说过没有edge的做空是世界上很危险很愚蠢的事情，我也依然这么认为。这只是我的一次瞎赌博玩玩，请勿模仿",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/215\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/672ec441e02e098bd3699ddf16f9c426.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">非常危险的一笔交易 我用很少很少的钱做空了一点PIPPIN瞎几把玩玩，千万别跟。  原因： -  Lighter.xyz上开大量OI操纵ARC的那个庄家昨天被lighter官方给干了，导致ARC币价暴跌。而历史上Hyperliquid操纵JELLYJELLY的那个也被干了，证明了这些“perp dex”也是在LP可能受损的情况下有中心化权限去拉闸某个币的。  - 而PIPPIN在我看来是放大版的另一个ARC。目前PIPPIN庄家的操纵主战场目前是在Aster上，至于在Aster上操盘的原因也很简单：币安现…</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-224-0\" popovertargetaction=\"show\">\n        <img src=\"/static/2f79b74f3b31670a191b2c0909bc943d.jpg\" alt=\"由于PIPPIN资费转负，我已平仓\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-224-0\" popovertarget=\"modal-224-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/2f79b74f3b31670a191b2c0909bc943d.jpg\" alt=\"由于PIPPIN资费转负，我已平仓\" loading=\"lazy\" />\n      </button>\n    </div>由于PIPPIN资费转负，我已平仓。撸个生活费，感谢庄家的馈赠。<br><br>能打赢这个局的要点总结：<br>1. 如果我开的仓位很大，并且我还鼓动粉丝们去做空，那么就容易被庄狙击。所以我自己也只开了13万U仓位。并且一直强调不要让其他人上车。<br>2. 我自己有足够的影响力+爆了庄家的aster菊花，让它操盘有忌惮，不能一直无限拉盘。<br>3. 运气好<br><br>这种属于几个月才能逮一次的机会。<br>我说过没有edge的做空是世界上很危险很愚蠢的事情，我也依然这么认为。这只是我的一次瞎赌博玩玩，请勿模仿",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "367",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "61",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "2",
           "isPaid": false
         }
       ]

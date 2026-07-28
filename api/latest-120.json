@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 209,
+    "totalPosts": 211,
     "totalPages": 11,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,138 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "111",
+      "title": "我个人的一个缺点是：道德水平太高————做不到睁眼说瞎话",
+      "type": "text",
+      "datetime": "2025-10-22T11:25:35+00:00",
+      "tags": [],
+      "text": "我个人的一个缺点是：道德水平太高————做不到睁眼说瞎话。无法去建设/传销一个我自己都认为不值得投资的标的。比如一个币，我明明知道它就是个局部泡沫/临时热点/scam，我是无法做到对公众说“这个项目前景有多么好 / 这个meme币市值看到10B / 这个项目对标X的X分之一市值 / 我买了的仓位不会卖”这类扯蛋话。因为睁眼说瞎话会让我有一种害羞/羞耻的感觉所以你们永远看不到我用个人账户去接任何商业广告或者shill任何一个项目。BD/Marketing大概是这个世界上我最不擅长的事情但是，我鼓励与认可能做到不害羞的人- 本身粉丝多接广告，多一份现金流就没什么坏处- 当你自己有一个大仓位的时候，就应该多喊单多传销，参与到与市场合力拉盘的环节中，让你自己获得更多财富- 本来山寨币市场就是个零和博弈PVP竞技场，你的影响力就是你的一张底牌，要好好利用为你自身创造更多竞争优势- 公众是健忘的，你shill了什么哪怕归零了，过几年人们就忘记了。",
+      "content": "我个人的一个缺点是：道德水平太高————做不到睁眼说瞎话。无法去建设/传销一个我自己都认为不值得投资的标的。<br><br>比如一个币，我明明知道它就是个局部泡沫/临时热点/scam，我是无法做到对公众说“这个项目前景有多么好 / 这个meme币市值看到10B / 这个项目对标X的X分之一市值 / 我买了的仓位不会卖”这类扯蛋话。<br>因为睁眼说瞎话会让我有一种害羞/羞耻的感觉<br>所以你们永远看不到我用个人账户去接任何商业广告或者shill任何一个项目。BD/Marketing大概是这个世界上我最不擅长的事情<br><br>但是，我鼓励与认可能做到不害羞的人<br>- 本身粉丝多接广告，多一份现金流就没什么坏处<br>- 当你自己有一个大仓位的时候，就应该多喊单多传销，参与到与市场合力拉盘的环节中，让你自己获得更多财富<br>- 本来山寨币市场就是个零和博弈PVP竞技场，你的影响力就是你的一张底牌，要好好利用为你自身创造更多竞争优势<br>- 公众是健忘的，你shill了什么哪怕归零了，过几年人们就忘记了。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "499",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "178",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "93",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "title": "我觉得现在ASTER交易所设计不合理的一点是无法创建只读权限的api，而本身又是暗池交易所所以也无法读公共api信息获取仓位这样导致：我作为API用户在这个交易所里放了10m u的资金做资费套利，都不敢创建api自动统计收益，只敢自己手动登陆看收益",
+      "type": "text",
+      "datetime": "2025-10-19T14:50:19+00:00",
+      "tags": [],
+      "text": "我觉得现在ASTER交易所设计不合理的一点是无法创建只读权限的api，而本身又是暗池交易所所以也无法读公共api信息获取仓位这样导致：我作为API用户在这个交易所里放了10m u的资金做资费套利，都不敢创建api自动统计收益，只敢自己手动登陆看收益。因为这种dex perp的可写权限api一旦泄漏就=你账户里资金全可以被对敲盗取且黑客可以逍遥法外。是的，虽然api可以绑定ip，但这样依然不够安全。我记得2022年的时候有一个叫3commas的量化交易社区的后台被入侵——》用户的币安api key被盗——〉黑客通过小币对敲用户资金。我认为未来像hyperliquid、aster这样的dex perp也会出现类似的安全隐患（第三方社区开发的刷量/开仓/套利脚本被植入后门或者云端用户api信息被获取后对敲资金）。并且dex perp为了假装自己是dex perp，是不会冻结黑客的资金的",
+      "content": "我觉得现在ASTER交易所设计不合理的一点是无法创建只读权限的api，而本身又是暗池交易所所以也无法读公共api信息获取仓位<br><br>这样导致：我作为API用户在这个交易所里放了10m u的资金做资费套利，都不敢创建api自动统计收益，只敢自己手动登陆看收益。因为这种dex perp的可写权限api一旦泄漏就=你账户里资金全可以被对敲盗取且黑客可以逍遥法外。<br>是的，虽然api可以绑定ip，但这样依然不够安全。<br><br>我记得2022年的时候有一个叫3commas的量化交易社区的后台被入侵——》用户的币安api key被盗——〉黑客通过小币对敲用户资金。我认为未来像hyperliquid、aster这样的dex perp也会出现类似的安全隐患（第三方社区开发的刷量/开仓/套利脚本被植入后门或者云端用户api信息被获取后对敲资金）。并且dex perp为了假装自己是dex perp，是不会冻结黑客的资金的",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "282",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "56",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "42",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "109",
       "title": "我并不着急抄底我只会耐心等待我想要的折扣达到时再出手耐心 耐心",
@@ -962,128 +1094,6 @@
         {
           "emoji": "🔥",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "89",
-      "title": "骂得好 点赞👍",
-      "type": "text",
-      "datetime": "2025-10-10T19:39:21+00:00",
-      "tags": [],
-      "text": "骂得好 点赞👍",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-89-0\" popovertargetaction=\"show\">\n        <img src=\"/static/cfac5cf8f22f55724d927aa71c1e5855.jpg\" alt=\"骂得好 点赞👍\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-89-0\" popovertarget=\"modal-89-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/cfac5cf8f22f55724d927aa71c1e5855.jpg\" alt=\"骂得好 点赞👍\" loading=\"lazy\" />\n      </button>\n    </div>骂得好 点赞<i class=\"emoji\"><b>👍</b></i>",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "259",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "36",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "88",
-      "title": "搞这个狗日的Aster项目虽然我账面赚钱，但是我投入了大量大量的时间成本，并且我承担了风险来套保，我投入的这些时间精力和机会成本在这个牛市里价值太多钱了",
-      "type": "text",
-      "datetime": "2025-10-10T15:30:59+00:00",
-      "tags": [],
-      "text": "搞这个狗日的Aster项目虽然我账面赚钱，但是我投入了大量大量的时间成本，并且我承担了风险来套保，我投入的这些时间精力和机会成本在这个牛市里价值太多钱了。所以算时间成本的话，我也被反撸了",
-      "content": "搞这个狗日的Aster项目虽然我账面赚钱，但是我投入了大量大量的时间成本，并且我承担了风险来套保，我投入的这些时间精力和机会成本在这个牛市里价值太多钱了。<br><br>所以算时间成本的话，我也被反撸了",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "168",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "3",
           "isPaid": false
         }
       ]
