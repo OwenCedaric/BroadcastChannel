@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 211,
+    "totalPosts": 212,
     "totalPages": 11,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "43",
+      "title": "有两个朋友天天几百万刀几百万美元/港币的梭哈一个股票，短炒几天就卖出，一下子又翻倍赚好几百万上千万美元/港币的",
+      "type": "text",
+      "datetime": "2025-06-26T12:03:46+00:00",
+      "tags": [],
+      "text": "有两个朋友天天几百万刀几百万美元/港币的梭哈一个股票，短炒几天就卖出，一下子又翻倍赚好几百万上千万美元/港币的。估计他们的推文这几天也让很多人看着fomo死了吧看的我也是眼红的，但是眼红归眼红，但是我自己是不会做这一块的。因为我没有他们那么高的胆识和盘感。除非我能在这个游戏里也作弊，否则我就老老实实的玩凡人的游戏（捕获长期价值）我的股票账户的定位是用于长期投资，买了就可以几年不管",
+      "content": "有两个朋友天天几百万刀几百万美元/港币的梭哈一个股票，短炒几天就卖出，一下子又翻倍赚好几百万上千万美元/港币的。估计他们的推文这几天也让很多人看着fomo死了吧<br><br>看的我也是眼红的，但是眼红归眼红，但是我自己是不会做这一块的。<br><br>因为我没有他们那么高的胆识和盘感。除非我能在这个游戏里也作弊，否则我就老老实实的玩凡人的游戏（捕获长期价值）<br><br>我的股票账户的定位是用于长期投资，买了就可以几年不管",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "175",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "40",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "42",
       "title": "中国股市我卖出了我的沪深300一半的仓位，调仓且平均的分配至了：宝钢股份 阳光电源 宁德时代 比亚迪 理由：沪深300里有太多我不喜欢的僵尸企业，比如贵州茅台五粮液我没有任何精力去微操作A股，买了都是准备3-5年放着不动的",
@@ -839,47 +885,6 @@
         },
         {
           "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "20",
-      "title": "BR是真感觉要启动了，所以我给它扇扇风 ",
-      "type": "text",
-      "datetime": "2025-05-03T14:46:34+00:00",
-      "tags": [],
-      "text": "BR是真感觉要启动了，所以我给它扇扇风 https://x.com/Vida_BWE/status/1918674771975545333",
-      "content": "BR是真感觉要启动了，所以我给它扇扇风 <a href=\"https://x.com/Vida_BWE/status/1918674771975545333\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Vida_BWE/status/1918674771975545333\">https://x.com/Vida_BWE/status/1918674771975545333</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "54",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
           "count": "2",
           "isPaid": false
         }

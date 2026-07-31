@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 211,
+    "totalPosts": 212,
     "totalPages": 11,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,67 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "226",
+      "title": "我觉得任何人都要养成的长期投资领域的常识就是：当某一个你之前没买的优质资产短时间内翻了X倍，你就得“谨慎看待”",
+      "type": "text",
+      "datetime": "2026-03-23T09:40:31+00:00",
+      "tags": [],
+      "text": "我觉得任何人都要养成的长期投资领域的常识就是：当某一个你之前没买的优质资产短时间内翻了X倍，你就得“谨慎看待”。不要脑袋一热就决定要追随FOMO怕自己错过“时代的浪潮”世界上优质的资产有那么多，也不差这一个。你就蹲着时机，只买便宜货，贵了就不买。比较方便鉴定“极度便宜”的万能公式就是哪天你看到新闻标题“XXX优质资产回撤超过XX%，让持有超过X年+的投资者回撤全部利润” / “XXX板块的公司PE值跌破历史5%的百分位”专注于只套公式买这些便宜货，就至少这辈子肯定稳稳当当增值，不会变成悲伤故事的主角",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/209\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/40391f953a214d53dfeda4410f352493.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">我还是那个观点： AI=人类的第四次工业革命 + 世界上的关联好资产很多。  但是如果估值不够实惠，那我就不会买。 我绝不会因为”怕错过历史性机遇而在某个资产已经涨了X倍的情况下再去追“  我只会蹲守到下一次大折扣的机会再买，最好是蹲守到媒体开始报道“X优质资产跌幅超过XX%，让X年前购买的人回撤全部利润”这种新闻标题出现时打出我宝贵的现金子弹</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-226-0\" popovertargetaction=\"show\">\n        <img src=\"/static/2524b9d43d912c1ea3b61ad0b480a045.jpg\" alt=\"我觉得任何人都要养成的长期投资领域的常识就是：当某一个你之前没买的优质资产短时间内翻了X倍，你就得“谨慎看待”\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-226-0\" popovertarget=\"modal-226-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/2524b9d43d912c1ea3b61ad0b480a045.jpg\" alt=\"我觉得任何人都要养成的长期投资领域的常识就是：当某一个你之前没买的优质资产短时间内翻了X倍，你就得“谨慎看待”\" loading=\"lazy\" />\n      </button>\n    </div>我觉得任何人都要养成的长期投资领域的常识就是：<br><br>当某一个你之前没买的优质资产短时间内翻了X倍，你就得“谨慎看待”。不要脑袋一热就决定要追随FOMO怕自己错过“时代的浪潮”<br><br>世界上优质的资产有那么多，也不差这一个。你就蹲着时机，只买便宜货，贵了就不买。<br><br>比较方便鉴定“极度便宜”的万能公式就是哪天你看到新闻标题“XXX优质资产回撤超过XX%，让持有超过X年+的投资者回撤全部利润” / “XXX板块的公司PE值跌破历史5%的百分位”<br><br>专注于只套公式买这些便宜货，就至少这辈子肯定稳稳当当增值，不会变成悲伤故事的主角",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "763",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "222",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "42",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "32",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "225",
       "title": "polymarket最爽的一点就是遇到与自己相悖的观点，可以直接真金白银的下注，而不是网上键盘政治辩论",
@@ -1018,62 +1079,6 @@
         {
           "emoji": "😢",
           "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "199",
-      "title": "已减仓这个仓位300万u@63k，实现一部分利润",
-      "type": "text",
-      "datetime": "2026-02-06T00:47:57+00:00",
-      "tags": [],
-      "text": "已减仓这个仓位300万u@63k，实现一部分利润。其他的继续持有不喜欢心理压力 要舒舒服服的睡觉了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/198\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又打了500万美元子弹@60k做scalping</div>\n</small></blockquote></a>已减仓这个仓位300万u@63k，实现一部分利润。其他的继续持有<br>不喜欢心理压力 要舒舒服服的睡觉了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "103",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "34",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "2",
           "isPaid": false
         },
         {

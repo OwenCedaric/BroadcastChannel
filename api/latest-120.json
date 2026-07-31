@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 211,
+    "totalPosts": 212,
     "totalPages": 11,
     "currentPage": 7,
     "pageSize": 20,
@@ -13,6 +13,62 @@
     "prevPageUrl": "latest-100.json"
   },
   "data": [
+    {
+      "id": "112",
+      "title": "吃惊地发现Bitget的卡居然月限额是30万U，这尼玛能直接在海外买车了都更吃惊的是搜索后发现升级到最高等级（季度消费满6万美元）之后一张卡一个月可以消费300万美元…这尼玛什么概念我操 这大概是跨境套利人能开到的限额最大最屌的卡",
+      "type": "text",
+      "datetime": "2025-10-29T14:54:42+00:00",
+      "tags": [],
+      "text": "吃惊地发现Bitget的卡居然月限额是30万U，这尼玛能直接在海外买车了都更吃惊的是搜索后发现升级到最高等级（季度消费满6万美元）之后一张卡一个月可以消费300万美元…这尼玛什么概念我操 这大概是跨境套利人能开到的限额最大最屌的卡。参考友商Bybit的卡一个月消费限额只有1.5万美元。Bybit卡：日常消费 高返现Bitget卡：买房买车",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-112-0\" popovertargetaction=\"show\">\n        <img src=\"/static/106f02bd7661ae724aa70fea55f9277a.jpg\" alt=\"吃惊地发现Bitget的卡居然月限额是30万U，这尼玛能直接在海外买车了都更吃惊的是搜索后发现升级到最高等级（季度消费满6万美元）之后一张卡一个月可以消费300万美元…这尼玛什么概念我操 这大概是跨境套利人能开到的限额最大最屌的卡\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-112-0\" popovertarget=\"modal-112-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/106f02bd7661ae724aa70fea55f9277a.jpg\" alt=\"吃惊地发现Bitget的卡居然月限额是30万U，这尼玛能直接在海外买车了都更吃惊的是搜索后发现升级到最高等级（季度消费满6万美元）之后一张卡一个月可以消费300万美元…这尼玛什么概念我操 这大概是跨境套利人能开到的限额最大最屌的卡\" loading=\"lazy\" />\n      </button>\n    </div>吃惊地发现Bitget的卡居然月限额是30万U，这尼玛能直接在海外买车了都<br><br>更吃惊的是搜索后发现升级到最高等级（季度消费满6万美元）之后一张卡一个月可以消费300万美元…<br><br>这尼玛什么概念我操 这大概是跨境套利人能开到的限额最大最屌的卡。<br><br>参考友商Bybit的卡一个月消费限额只有1.5万美元。<br><br>Bybit卡：日常消费 高返现<br>Bitget卡：买房买车",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "249",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "51",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "36",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "25",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "111",
       "title": "我个人的一个缺点是：道德水平太高————做不到睁眼说瞎话",
@@ -1053,47 +1109,6 @@
         {
           "emoji": "🤩",
           "count": "10",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "90",
-      "title": "sp500无回调的连着上涨了6个月》上涨了40%所有人都在车上 所有人都想着什么时候到顶boom, 一个较大的利空发生了猜猜会发生什么？",
-      "type": "text",
-      "datetime": "2025-10-10T20:54:07+00:00",
-      "tags": [],
-      "text": "sp500无回调的连着上涨了6个月》上涨了40%所有人都在车上 所有人都想着什么时候到顶boom, 一个较大的利空发生了猜猜会发生什么？",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/84\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">卖出了我80%的AMD头寸、100%的BABA、明天计划把之前建仓的日本股票100%抛售  这波大减仓相当于减去了我一半的总股票exposure，因为我比较有信心我能在未来1-2年内以比现在更低的价格买回来。  现在还比较重毫无减仓的仓位是$NET、$GOOG这两个我愿意长期持有，短期波动没事的公司   另外我的A股仓位暂时还不打算减仓，因为中国股市饥渴太久，好不容易来次牛市，群众们理论上会比其他更疯狂一些。我想以更高的价格掏他们的钱包。（至少沪深300回21年前高吧）</div>\n</small></blockquote></a>sp500无回调的连着上涨了6个月》上涨了40%<br>所有人都在车上 所有人都想着什么时候到顶<br>boom, 一个较大的利空发生了<br><br>猜猜会发生什么？",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "137",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "26",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

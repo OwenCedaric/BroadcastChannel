@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 211,
+    "totalPosts": 212,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,62 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "179",
+      "title": "已在币安合约上完成对冲，开始吃资费收利息",
+      "type": "text",
+      "datetime": "2026-02-02T14:55:45+00:00",
+      "tags": [],
+      "text": "已在币安合约上完成对冲，开始吃资费收利息。白银并没有我想象中的类似10.11事件时的快速反弹（或者说在cme开盘时段已经出现过但我没把握好），所以我要撤退了。毕竟这是我不熟悉的领域，不敢太恋战。最终利润只有刚刚scalping赚的十几万美元",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/177\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">再次对冲上了，太踏马舒服。 剩下的250万美元slv etf拿到美股开盘再看情况</div>\n</small></blockquote></a>已在币安合约上完成对冲，开始吃资费收利息。<br>白银并没有我想象中的类似10.11事件时的快速反弹（或者说在cme开盘时段已经出现过但我没把握好），所以我要撤退了。毕竟这是我不熟悉的领域，不敢太恋战。<br>最终利润只有刚刚scalping赚的十几万美元",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "173",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "178",
       "title": "请做好我接下来会犯错误的准备，因为过去几天赢了太多次，从概率上来说我摔跤的可能性越来越高",
@@ -957,67 +1013,6 @@
         },
         {
           "emoji": "😈",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "157",
-      "title": "真正开始大幅损伤我们公司利润的，是最近各大交易所都开始推出的做市商保护措施，防止做市商被知情交易者和延迟套利者过度薅羊毛",
-      "type": "text",
-      "datetime": "2026-01-13T13:03:11+00:00",
-      "tags": [],
-      "text": "真正开始大幅损伤我们公司利润的，是最近各大交易所都开始推出的做市商保护措施，防止做市商被知情交易者和延迟套利者过度薅羊毛。“防止少数玩家用不公平延迟优势从市场赚走太多钱而影响生态”（这段基本上是OKX徐总和我当面说的原话🤣）币安,Bybit,OKX都开始推出这样的给做市商的专属挂单类型：只和散户成交的RPI maker订单类似于Hyperliquid保护做市商的方法预计未来我的新闻交易版图利润要下降30-50%，甚至更多因为越来越多的CEX做市商在接入RPI订单簿，他们开始可选择是否与我撮合。（以前是强制rape）",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-157-0\" popovertargetaction=\"show\">\n        <img src=\"/static/7eeecbb8976fe7e47d4e60eb6fba8c8c.jpg\" alt=\"真正开始大幅损伤我们公司利润的，是最近各大交易所都开始推出的做市商保护措施，防止做市商被知情交易者和延迟套利者过度薅羊毛\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-157-0\" popovertarget=\"modal-157-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/7eeecbb8976fe7e47d4e60eb6fba8c8c.jpg\" alt=\"真正开始大幅损伤我们公司利润的，是最近各大交易所都开始推出的做市商保护措施，防止做市商被知情交易者和延迟套利者过度薅羊毛\" loading=\"lazy\" />\n      </button>\n    </div>真正开始大幅损伤我们公司利润的，是最近各大交易所都开始推出的做市商保护措施，防止做市商被知情交易者和延迟套利者过度薅羊毛。<br>“防止少数玩家用不公平延迟优势从市场赚走太多钱而影响生态”（这段基本上是OKX徐总和我当面说的原话<i class=\"emoji\"><b>🤣</b></i>）<br><br>币安,Bybit,OKX都开始推出这样的给做市商的专属挂单类型：只和散户成交的RPI maker订单<br>类似于Hyperliquid保护做市商的方法<br><br>预计未来我的新闻交易版图利润要下降30-50%，甚至更多<br>因为越来越多的CEX做市商在接入RPI订单簿，他们开始可选择是否与我撮合。（以前是强制rape）",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "222",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "75",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "50",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "26",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "25",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "24",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
           "count": "2",
           "isPaid": false
         }
