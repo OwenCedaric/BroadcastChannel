@@ -5,6 +5,14 @@
   "home_page_url": "https://vida.ceda.is/",
   "items": [
     {
+      "url": "https://vida.ceda.is/posts/255",
+      "title": "本来打了挺多字想骂一骂 但想了想咱不能惹大清 所以还是算了",
+      "description": "",
+      "date_published": "2026-08-01T02:49:22.000Z",
+      "tags": [],
+      "content_html": "本来打了挺多字想骂一骂 但想了想咱不能惹大清 所以还是算了<br><br><a href=\"https://x.com/morris_lt/status/2083367314809143648\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/morris_lt/status/2083367314809143648\">https://x.com/morris_lt/status/2083367314809143648</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/morris_lt/status/2083367314809143648\" target=\"_blank\" rel=\"noopener\" title=\"我X群友问：中国刚刚颁布的《国务院关于出境入境管理的规定》讲了什么，都影响哪些人？官方目标是：规范出境入境管理，维护国家安全和社会秩序，促进对外交往和开放。但实际细节上是：第一：建立更严格的出境资格管理，对于部分人员可以依法限制出境。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/87256d14e2313e838393c4dda18cc05c.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Morris (@Morris_LT) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">我X群友问：中国刚刚颁布的《国务院关于出境入境管理的规定》讲了什么，都影响哪些人？官方目标是：规范出境入境管理，维护国家安全和社会秩序，促进对外交往和开放。但实际细节上是：<br><br>第一：建立更严格的出境资格管理，对于部分人员可以依法限制出境。</div>\n</a>"
+    },
+    {
       "url": "https://vida.ceda.is/posts/254",
       "title": "为啥我的人生基本上没回撤呢？- 我2025年末就已经实现了以前20岁的自己给30岁的自己指定的财务目标- 随着加密市场的萎靡、市场的成熟，我的印钞机停滞了、失去了往日那样牛市里每个月赚几M-十几M的持续造血能力，所以说实话现阶段多赚$10m对我来说没有任何吸引力（人生目标都实现了 再多加点多巴胺刺激也有限），而亏损$1m对我来说很心疼（亏的都是我有限的不可再生资源）",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-02-05T20:31:31.000Z",
       "tags": [],
       "content_html": "又买了15BTC <a href=\"https://t.me/63800\" target=\"_blank\" title=\"@63800\">@63800</a>"
-    },
-    {
-      "url": "https://vida.ceda.is/posts/190",
-      "title": "Post #190",
-      "description": "",
-      "date_published": "2026-02-05T20:31:19.000Z",
-      "tags": [],
-      "content_html": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-190-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f42050af447d7a8befd67c74be33febe.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-190-0\" popovertarget=\"modal-190-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f42050af447d7a8befd67c74be33febe.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>"
     }
   ]
 }

@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 212,
+    "totalPosts": 213,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,52 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "180",
+      "title": "还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高",
+      "type": "text",
+      "datetime": "2026-02-03T06:30:26+00:00",
+      "tags": [],
+      "text": "还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高。我对加密货币的未来超乎想象的乐观，因为只要随着时间推移，这些人的购买力也会越来越强。他们不会平时闲着无聊就去买一买币，但一定会在下一次投机赌博狂热发生时参与。有更多“蓄势待发的购买力”。只要耐心等待几年就必然会发生利多加密货币的某个宏观事件（比如金融危机造成的下一次大规模央行印钞/比如银行替代叙事/比如黄金替代叙事），就能驱动市场的下一轮牛市的行情。",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-180-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c2826d7768662e8fdef8b660ce9d11ab.jpg\" alt=\"还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-180-0\" popovertarget=\"modal-180-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c2826d7768662e8fdef8b660ce9d11ab.jpg\" alt=\"还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高\" loading=\"lazy\" />\n      </button>\n    </div>还有一个信息差：<br>欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高。<br><br>我对加密货币的未来超乎想象的乐观，因为只要随着时间推移，这些人的购买力也会越来越强。他们不会平时闲着无聊就去买一买币，但一定会在下一次投机赌博狂热发生时参与。<br><br>有更多“蓄势待发的购买力”。只要耐心等待几年就必然会发生利多加密货币的某个宏观事件（比如金融危机造成的下一次大规模央行印钞/比如银行替代叙事/比如黄金替代叙事），就能驱动市场的下一轮牛市的行情。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "460",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "80",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "179",
       "title": "已在币安合约上完成对冲，开始吃资费收利息",
@@ -952,67 +998,6 @@
         },
         {
           "emoji": "🤬",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "158",
-      "title": "还得感慨：当下的地缘政治他妈真烦中美都开始用国家安全的叙事在各种领域挥舞大棒子一会儿加个关税 一会儿阻止个技术出口 一会儿阻止个李嘉诚卖港口 一会儿禁止买个芯片 一会儿要收个格陵兰",
-      "type": "text",
-      "datetime": "2026-01-19T00:32:23+00:00",
-      "tags": [],
-      "text": "还得感慨：当下的地缘政治他妈真烦中美都开始用国家安全的叙事在各种领域挥舞大棒子一会儿加个关税 一会儿阻止个技术出口 一会儿阻止个李嘉诚卖港口 一会儿禁止买个芯片 一会儿要收个格陵兰",
-      "content": "还得感慨：当下的地缘政治他妈真烦<br>中美都开始用国家安全的叙事在各种领域挥舞大棒子<br><br>一会儿加个关税 一会儿阻止个技术出口 一会儿阻止个李嘉诚卖港口 一会儿禁止买个芯片 一会儿要收个格陵兰",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "295",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "46",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "28",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "24",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
           "count": "2",
           "isPaid": false
         }

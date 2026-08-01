@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 212,
+    "totalPosts": 213,
     "totalPages": 11,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "91",
+      "title": "发财了",
+      "type": "text",
+      "datetime": "2025-10-10T22:20:12+00:00",
+      "tags": [],
+      "text": "发财了。",
+      "content": "发财了。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "130",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "90",
       "title": "sp500无回调的连着上涨了6个月》上涨了40%所有人都在车上 所有人都想着什么时候到顶boom, 一个较大的利空发生了猜猜会发生什么？",
@@ -918,52 +944,6 @@
         {
           "emoji": "🔥",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "68",
-      "title": "有些量化圈的老登真的挺搞笑的，以前喜欢说我“是P图/是伪造收益PnL/是幸运”现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化为啥人会有心理防御机制这个东西呢",
-      "type": "text",
-      "datetime": "2025-09-03T21:04:34+00:00",
-      "tags": [],
-      "text": "有些量化圈的老登真的挺搞笑的，以前喜欢说我“是P图/是伪造收益PnL/是幸运”现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化为啥人会有心理防御机制这个东西呢。菜就多练，大大方方光明磊落的多好输了就是输了，比不过就是比不过 菜就多练 我搞不懂这类人为啥不服输呢那像Scale AI创始人00后，24岁身价10亿美元+了，现在更是30亿美元+那像Pumpfun创始人Alon，00后，几亿美元现金我看他们只会夸他们牛逼，狠狠的抓住了时代给的机遇而不会踩一踩说“他们只是靠运气踩上风口/碰巧把公司卖给冤大头/只是靠收割链上meme韭菜而已”这类宽慰我自己内心的话我只会想着自己如何进步如何努力，能攀登到和他们一样高的位子不会去酸别人踩别人无人扶我青云志，我自踏雪至山巅。 若是命中无此运，亦可孤身登昆仑。https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f",
-      "content": "有些量化圈的老登真的挺搞笑的，<br>以前喜欢说我“是P图/是伪造收益PnL/是幸运”<br>现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化<br><br>为啥人会有<br><pre><code class=\"language-text\">心理防御机制</code></pre><br>这个东西呢。<br>菜就多练，大大方方光明磊落的多好<br>输了就是输了，比不过就是比不过 菜就多练 我搞不懂这类人为啥不服输呢<br><br>那像Scale AI创始人00后，24岁身价10亿美元+了，现在更是30亿美元+<br>那像Pumpfun创始人Alon，00后，几亿美元现金<br>我看他们只会夸他们牛逼，狠狠的抓住了时代给的机遇<br>而不会踩一踩说“他们只是靠运气踩上风口/碰巧把公司卖给冤大头/只是靠收割链上meme韭菜而已”这类宽慰我自己内心的话<br><br>我只会想着自己如何进步如何努力，能攀登到和他们一样高的位子<br>不会去酸别人踩别人<br><br><pre><code class=\"language-text\">无人扶我青云志，我自踏雪至山巅。 若是命中无此运，亦可孤身登昆仑。</code></pre><br><br><a href=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\" target=\"_blank\" rel=\"noopener\" title=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\">https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f</a><a class=\"tgme_widget_message_link_preview\" href=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\" target=\"_blank\" rel=\"noopener\" title=\"ChatGPT helps you get answers, find inspiration, and be more productive.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/09b9355102ef5567f699bedc2c74a29c.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">ChatGPT</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">ChatGPT - 心理防御机制解析</div>\n  <div class=\"link_preview_description\" dir=\"auto\">ChatGPT helps you get answers, find inspiration, and be more productive.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "121",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "50",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
           "isPaid": false
         }
       ]

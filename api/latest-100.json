@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 212,
+    "totalPosts": 213,
     "totalPages": 11,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,72 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "134",
+      "title": "AI在泡沫中吗？当然在泡沫一定会立马破裂吗？不会，历史上多次证明了泡沫可以持续很久现在可以以长期投资的角度去买美股的高估值公司吗？不行已经有一包portfolio的人舒舒服服的做这班车就行了，什么时候下车看你自己，而没有提前几个月几年建仓而错过行情的人就应该老老实实的等几年等下一次上车机会period.",
+      "type": "text",
+      "datetime": "2025-11-25T10:10:00+00:00",
+      "tags": [],
+      "text": "AI在泡沫中吗？当然在泡沫一定会立马破裂吗？不会，历史上多次证明了泡沫可以持续很久现在可以以长期投资的角度去买美股的高估值公司吗？不行已经有一包portfolio的人舒舒服服的做这班车就行了，什么时候下车看你自己，而没有提前几个月几年建仓而错过行情的人就应该老老实实的等几年等下一次上车机会period.",
+      "content": "AI在泡沫中吗？当然在<br>泡沫一定会立马破裂吗？不会，历史上多次证明了泡沫可以持续很久<br>现在可以以长期投资的角度去买美股的高估值公司吗？不行<br>已经有一包portfolio的人舒舒服服的做这班车就行了，什么时候下车看你自己，而没有提前几个月几年建仓而错过行情的人就应该老老实实的等几年等下一次上车机会<br>period.",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "475",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "31",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "26",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "133",
       "title": "另外说说很多人担心的台海战争吧：我个人认为这几年内（特朗普在任期间）不会发生但是我会用这几年宝贵的时光做好各种身份和架构规划俄乌战争是很好的前车之鉴，俄乌战争发生后，俄罗斯人以本国居民身份在各种海外银行和券商的账户都被关户/清退/被索取各种AML材料拿不出就冻结但是，俄罗斯公民以海外居民身份开设的各种原有账户基本上都还能用，只是不给新开提前准备好，假如那一刻来临，就是人生中的一个大机遇",
@@ -1123,72 +1189,6 @@
         {
           "emoji": "🤬",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "113",
-      "title": "我已经退出了我的FORM仓位- 显然市场对于meme投机叙事已脱敏- Binance没有像我预期的那样投入更多资源培养其嫡系成员（Four.meme、Aster）我退出了，你赢了，现在可以拉盘了 @ fourmeme",
-      "type": "text",
-      "datetime": "2025-10-29T18:18:20+00:00",
-      "tags": [],
-      "text": "我已经退出了我的FORM仓位- 显然市场对于meme投机叙事已脱敏- Binance没有像我预期的那样投入更多资源培养其嫡系成员（Four.meme、Aster）我退出了，你赢了，现在可以拉盘了 @ fourmeme",
-      "content": "我已经退出了我的FORM仓位<br>- 显然市场对于meme投机叙事已脱敏<br>- Binance没有像我预期的那样投入更多资源培养其嫡系成员（Four.meme、Aster）<br><br>我退出了，你赢了，现在可以拉盘了 @ fourmeme",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "402",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "82",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "3",
           "isPaid": false
         }
       ]

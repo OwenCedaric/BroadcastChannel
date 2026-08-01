@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 212,
+    "totalPosts": 213,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,62 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "200",
+      "title": "放2个没屌用的不准确的预言（我他妈能预测未来不就取代马斯克成世界首富了吗？）- BTC 2032年之前会达到18万美元- HYPE 2029年之前会达到100美元",
+      "type": "text",
+      "datetime": "2026-02-06T01:09:26+00:00",
+      "tags": [],
+      "text": "放2个没屌用的不准确的预言（我他妈能预测未来不就取代马斯克成世界首富了吗？）- BTC 2032年之前会达到18万美元- HYPE 2029年之前会达到100美元",
+      "content": "放2个没屌用的不准确的预言（我他妈能预测未来不就取代马斯克成世界首富了吗？）<br><br>- BTC 2032年之前会达到18万美元<br>- HYPE 2029年之前会达到100美元",
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "183",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "67",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "199",
       "title": "已减仓这个仓位300万u@63k，实现一部分利润",
@@ -982,52 +1038,6 @@
         },
         {
           "emoji": "🤬",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "180",
-      "title": "还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高",
-      "type": "text",
-      "datetime": "2026-02-03T06:30:26+00:00",
-      "tags": [],
-      "text": "还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高。我对加密货币的未来超乎想象的乐观，因为只要随着时间推移，这些人的购买力也会越来越强。他们不会平时闲着无聊就去买一买币，但一定会在下一次投机赌博狂热发生时参与。有更多“蓄势待发的购买力”。只要耐心等待几年就必然会发生利多加密货币的某个宏观事件（比如金融危机造成的下一次大规模央行印钞/比如银行替代叙事/比如黄金替代叙事），就能驱动市场的下一轮牛市的行情。",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-180-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c2826d7768662e8fdef8b660ce9d11ab.jpg\" alt=\"还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-180-0\" popovertarget=\"modal-180-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c2826d7768662e8fdef8b660ce9d11ab.jpg\" alt=\"还有一个信息差：欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高\" loading=\"lazy\" />\n      </button>\n    </div>还有一个信息差：<br>欧美人、日韩人、台湾人的85、95后投资（过）加密货币人口的比例超级高。<br><br>我对加密货币的未来超乎想象的乐观，因为只要随着时间推移，这些人的购买力也会越来越强。他们不会平时闲着无聊就去买一买币，但一定会在下一次投机赌博狂热发生时参与。<br><br>有更多“蓄势待发的购买力”。只要耐心等待几年就必然会发生利多加密货币的某个宏观事件（比如金融危机造成的下一次大规模央行印钞/比如银行替代叙事/比如黄金替代叙事），就能驱动市场的下一轮牛市的行情。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "460",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "80",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
           "count": "3",
           "isPaid": false
         }
