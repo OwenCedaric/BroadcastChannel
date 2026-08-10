@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 703,
+    "totalPosts": 704,
     "totalPages": 36,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "533",
+      "title": "别杠杆就好",
+      "type": "text",
+      "datetime": "2026-02-06T01:40:33+00:00",
+      "tags": [],
+      "text": "别杠杆就好",
+      "content": "别杠杆就好",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "532",
       "title": "又接到了一堆美股，比特币也进入划算可买区间",
@@ -403,22 +419,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "513",
-      "title": "美国要给加拿大100%关税特朗普: 卡尼，不叫我爸爸的代价你一会就懂了",
-      "type": "text",
-      "datetime": "2026-01-24T14:37:07+00:00",
-      "tags": [],
-      "text": "美国要给加拿大100%关税特朗普: 卡尼，不叫我爸爸的代价你一会就懂了https://x.com/kobeissiletter/status/2015066539335074118?s=46",
-      "content": "美国要给加拿大100%关税<br>特朗普: 卡尼，不叫我爸爸的代价你一会就懂了<a href=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\">https://x.com/kobeissiletter/status/2015066539335074118?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\" target=\"_blank\" rel=\"noopener\" title=\"BREAKING: President Trump says he will impose a 100% tariff on ALL Canadian goods and products if Canada makes a trade deal with China.Just 8 days ago, Canada announced a new &quot;strategic partnership&quot; with China.We are back to step #1 of the tariff playbook.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/5d19b9624ef249858e4b15a0d8532a2d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">The Kobeissi Letter (@KobeissiLetter) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BREAKING: President Trump says he will impose a 100% tariff on ALL Canadian goods and products if Canada makes a trade deal with China.<br><br>Just 8 days ago, Canada announced a new \"strategic partnership\" with China.<br><br>We are back to step #1 of the tariff playbook.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "2",
           "isPaid": false
         }
       ]

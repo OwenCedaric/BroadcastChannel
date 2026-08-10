@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 703,
+    "totalPosts": 704,
     "totalPages": 36,
     "currentPage": 26,
     "pageSize": 20,
@@ -13,6 +13,34 @@
     "prevPageUrl": "latest-480.json"
   },
   "data": [
+    {
+      "id": "222",
+      "title": "一觉醒来 $BNB 冲到560➕！关于 $BNB 来说几句，#Binance 是现在当下币圈的断层第一，这个第一不仅是交易所，同时也是投资影响力等各个方面",
+      "type": "text",
+      "datetime": "2024-08-20T00:55:21+00:00",
+      "tags": [
+        "Binance"
+      ],
+      "text": "一觉醒来 $BNB 冲到560➕！关于 $BNB 来说几句，#Binance 是现在当下币圈的断层第一，这个第一不仅是交易所，同时也是投资影响力等各个方面。我不认为Binance会上市IPO，所以 $BNB 就相当于是这家公司的股票/股权凭证，我也相信 一姐 @heyibinance 和CZ @cz_binance 会想方设法的给BNB赋能。那为什么买入 $BNB ？1️⃣之前的下跌给了好的价格: 500以下的 $BNB 等于不用配货的Hermes ，买2️⃣我的投资策略转向防御性，所以现金仓位重，又想吃Beta，那买大币种是比较好的选择。符合我对 Beta币认知，这一轮有 $BTC $SOL $BNB 3️⃣CZ的9月出狱利好，事件时间点就在那提前买入4️⃣我买入之前很久没有launchpool，新币也久久没上。相信下半年还是会上一些币并赋能 $BNB一眨眼从490-560，稳稳的幸福☺️",
+      "content": "一觉醒来 $BNB 冲到560<i class=\"emoji\"><b>➕</b></i>！<br>关于 $BNB 来说几句，<a href=\"/search/%23Binance\" title=\"#Binance\">#Binance</a> 是现在当下币圈的断层第一，这个第一不仅是交易所，同时也是投资影响力等各个方面。<br><br>我不认为Binance会上市IPO，所以 $BNB 就相当于是这家公司的股票/股权凭证，我也相信 一姐 <a href=\"https://t.me/heyibinance\" target=\"_blank\" title=\"@heyibinance\">@heyibinance</a> 和CZ <a href=\"https://t.me/cz_binance\" target=\"_blank\" title=\"@cz_binance\">@cz_binance</a> 会想方设法的给BNB赋能。<br><br>那为什么买入 $BNB ？<br><i class=\"emoji\"><b>1️⃣</b></i>之前的下跌给了好的价格: 500以下的 $BNB 等于不用配货的Hermes ，买<br><br><i class=\"emoji\"><b>2️⃣</b></i>我的投资策略转向防御性，所以现金仓位重，又想吃Beta，那买大币种是比较好的选择。符合我对 Beta币认知，这一轮有 $BTC $SOL $BNB <br><br><i class=\"emoji\"><b>3️⃣</b></i>CZ的9月出狱利好，事件时间点就在那<br>提前买入<br><br><i class=\"emoji\"><b>4️⃣</b></i>我买入之前很久没有launchpool，新币也久久没上。相信下半年还是会上一些币并赋能 $BNB<br><br>一眨眼从490-560，稳稳的幸福<i class=\"emoji\"><b>☺️</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "221",
       "title": "0.144-0.173，这种币比较妖，止盈看个人",
@@ -381,22 +409,6 @@
         {
           "emoji": "🥰",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "200",
-      "title": "又买了一点",
-      "type": "text",
-      "datetime": "2024-08-05T13:51:06+00:00",
-      "tags": [],
-      "text": "又买了一点",
-      "content": "又买了一点",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "17",
           "isPaid": false
         }
       ]

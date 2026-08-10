@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 703,
+    "totalPosts": 704,
     "totalPages": 36,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "346",
+      "title": "亏损了一次，提示我对行情的理解不正确",
+      "type": "text",
+      "datetime": "2025-07-29T15:16:01+00:00",
+      "tags": [],
+      "text": "亏损了一次，提示我对行情的理解不正确。握着现金休息一下，看的更明白再出发。目前还是看好ETH华尔街叙事，但是对于蜂拥而至的币股感到有点生理不适。",
+      "content": "亏损了一次，提示我对行情的理解不正确。<br>握着现金休息一下，看的更明白再出发。<br>目前还是看好ETH华尔街叙事，但是对于蜂拥而至的币股感到有点生理不适。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "345",
       "title": "减仓了，留多点现金",
@@ -448,27 +469,6 @@
         {
           "emoji": "⚡",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "325",
-      "title": "希望ETH全力冲",
-      "type": "text",
-      "datetime": "2025-07-16T19:43:42+00:00",
-      "tags": [],
-      "text": "希望ETH全力冲",
-      "content": "希望ETH全力冲",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "⚡",
-          "count": "2",
           "isPaid": false
         }
       ]
