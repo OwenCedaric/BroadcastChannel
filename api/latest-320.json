@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 704,
+    "totalPosts": 706,
     "totalPages": 36,
     "currentPage": 17,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-300.json"
   },
   "data": [
+    {
+      "id": "409",
+      "title": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高",
+      "type": "text",
+      "datetime": "2025-09-24T03:31:56+00:00",
+      "tags": [],
+      "text": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高。相信 持有 等待",
+      "content": "阿里巴巴(<a href=\"http://09988.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09988.HK\">09988.HK</a>)涨幅扩大至7%，股价创近4年新高。<br>相信 持有 等待",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "408",
+      "title": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入",
+      "type": "text",
+      "datetime": "2025-09-22T06:22:38+00:00",
+      "tags": [],
+      "text": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入。跌的原因不清楚，但是基于长期判断逐步买入。买单早早已经挂好，也已经买入了第一批。前几周和我老公开玩笑，说我觉得降息附近行情k线会走一个W。先跌到降息利好出上涨，再回调，再开启最长的上涨。为自己的判断下注吧",
+      "content": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入。跌的原因不清楚，但是基于长期判断逐步买入。买单早早已经挂好，也已经买入了第一批。<br>前几周和我老公开玩笑，说我觉得降息附近行情k线会走一个W。先跌到降息利好出上涨，再回调，再开启最长的上涨。<br>为自己的判断下注吧",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "46",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "407",
       "title": "接到了一大堆，ETH SOL PENGU HYPE WLFI 浮虧巨大的是doge，其他目前都還行",
@@ -408,63 +450,6 @@
       "text": "蚊子肉项目：https://x.com/nft_hu/status/1966390144661074168",
       "content": "蚊子肉项目：<a href=\"https://x.com/nft_hu/status/1966390144661074168\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1966390144661074168\">https://x.com/nft_hu/status/1966390144661074168</a>",
       "reactions": []
-    },
-    {
-      "id": "388",
-      "title": "PUMP买回来了，右侧",
-      "type": "text",
-      "datetime": "2025-09-12T03:58:11+00:00",
-      "tags": [],
-      "text": "PUMP买回来了，右侧",
-      "content": "PUMP买回来了，右侧",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "387",
-      "title": "早安！醒来又是莫名其妙的上涨，不过不错！还有很多仓位",
-      "type": "text",
-      "datetime": "2025-09-12T01:34:51+00:00",
-      "tags": [],
-      "text": "早安！醒来又是莫名其妙的上涨，不过不错！还有很多仓位。看多下半年，不空仓。注意插针，所以不轻易开小山寨的杠杆。怎么定义小山寨，大概是市值排名超过30名的。挂了一些接针的订单，基本也就是这些仓位。Pump还在研究中，看要不要纳入长持标的还是短线投机标的。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/383\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">现在还有的仓位 BTC ETH SOL HYPE 防御时间</div>\n</small></blockquote></a>早安！<br>醒来又是莫名其妙的上涨，不过不错！还有很多仓位。<br><br>看多下半年，不空仓。注意插针，所以不轻易开小山寨的杠杆。怎么定义小山寨，大概是市值排名超过30名的。<br><br>挂了一些接针的订单，基本也就是这些仓位。Pump还在研究中，看要不要纳入长持标的还是短线投机标的。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "35",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🫡",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 704,
+    "totalPosts": 706,
     "totalPages": 36,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "719",
+      "title": "其实 $MU的高利润率也是一把双刃剑",
+      "type": "text",
+      "datetime": "2026-06-25T03:01:33+00:00",
+      "tags": [],
+      "text": "其实 $MU的高利润率也是一把双刃剑。所有的Capex中的大头，不可避免地落入了内存厂商的口袋里，那么绕开内存墙/内存税的紧迫性也就会越高。一些目前探讨研发中的解法/优化协议：1️⃣Nand的局部替代  2️⃣CXL协议 $ALAB3️⃣HBF $SNDK4️⃣模型的优化值得持续关注",
+      "content": "其实 $MU的高利润率也是一把双刃剑。<br>所有的Capex中的大头，不可避免地落入了内存厂商的口袋里，那么绕开内存墙/内存税的紧迫性也就会越高。<br><br>一些目前探讨研发中的解法/优化协议：<br><i class=\"emoji\"><b>1️⃣</b></i>Nand的局部替代  <br><i class=\"emoji\"><b>2️⃣</b></i>CXL协议 $ALAB<br><i class=\"emoji\"><b>3️⃣</b></i>HBF $SNDK<br><i class=\"emoji\"><b>4️⃣</b></i>模型的优化<br><br>值得持续关注",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "718",
+      "title": "又是心理按摩时间",
+      "type": "text",
+      "datetime": "2026-06-23T11:44:33+00:00",
+      "tags": [],
+      "text": "又是心理按摩时间。虽然今早开盘就开始轻量减仓，但是还是没逃得过10%的回撤。会跌也是好事，毕竟一直涨更吓人。市场上有很多利空消息，但目前没有看到会扭转我对后市乐观情绪的。6月颠簸的走势符合预期，不做短线，不追高，以回调加仓为主。当然因为我现金很少仓位很满的关系，没钱加仓了。回调行情下我会做一些调仓，更加集中在最看好的领域。",
+      "content": "又是心理按摩时间。<br>虽然今早开盘就开始轻量减仓，但是还是没逃得过10%的回撤。<br><br>会跌也是好事，毕竟一直涨更吓人。<br><br>市场上有很多利空消息，但目前没有看到会扭转我对后市乐观情绪的。<br><br>6月颠簸的走势符合预期，不做短线，不追高，以回调加仓为主。<br><br>当然因为我现金很少仓位很满的关系，没钱加仓了。回调行情下我会做一些调仓，更加集中在最看好的领域。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "717",
       "title": "这是我今年参加的讲最多话的一次访谈",
@@ -349,32 +391,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "699",
-      "title": "看了先科电子 的电话会，信息容量很大",
-      "type": "text",
-      "datetime": "2026-05-27T05:42:22+00:00",
-      "tags": [],
-      "text": "看了先科电子 的电话会，信息容量很大。这里会用我的理解来做一个概括：光铜俱进，产能落地。这说明他不仅在风口上（光和铜都有领先的产品），而且有供应和产能保证，可以把技术变为产品，变为利润。简单概括财报就是：1️⃣创纪录的财报季的驱动因素：数据中心和LoRa业务2️⃣财务优化：蜂窝模块业务的剥离流程已进入最后阶段Hong Hou在电话会中，对业务的领先都做了详细的阐述：1️⃣800G LPO/LRO中：TIA解决方案需求异常强劲，并且在广泛的收发模块项目中持续增长。TIA全称Transimpedance Amplifier，放在光接收端，把光电探测器输出的小电流转换为电压，并进行前级放大。在 LPO/LRO 模块里，TIA 是保证高带宽、低噪声的关键器件。2️⃣在1.6T光模块方面：已经从主要光模块厂商那里赢得了大量设计订单，超大规模云厂商对1.6T线性接收光学，也就是LRO/LPO的信心正在增强，并将其视为第一层scale-out网络架构的优选方案，因为这类方案能显著节省功耗。这带来了极为强劲的订单和在手积压订单，为下半年的模块放量提供支撑。3️⃣NPO（Near-Package Optics）近封装光学：光模块离交换芯片/GPU 更近，通常放在同一基板上，但未完全共封装。随着800G和1.6T在LPO和LRO上的成功，超大规模云厂商对下一代高密度、低功耗光互连方案的信心增强，这将使NPO成为下一个具有扩张潜力的机会。4️⃣XPO可以理解成“介于 pluggable 与 CPO 之间的一种新模块标准”：模块仍然是可更换的（服务性好），但利用液冷、机箱内新结构来达到接近 CPO 的功耗和带宽密度。参与并支持XPO MSA，许多XPO模块设计都采用了我们的FiberEdge芯片，就像OSFP模块一样。XPO作为CPO scale-out的替代方案存在。5️⃣铜互连：ACC正在持续获得实质性进展。ACC具有相较于直连方案更好的链路裕量，以及相较于基于DSP方案更低的功耗。第一季度开始出货CopperEdge 1.6T芯片，用于部署到一家美国超大规模云客户那里。6️⃣HieFo收购：3月完成，HieFo被归入信号完整性产品部门，而它的磷化铟光子产品则归类于数据中心终端市场。这些产品是1.6T和3.2T光模块中的战略性基础构件。7️⃣氮化镓芯片：GaN已经成为行业标准，能够提供更高功率，并作为可靠基础模块，应用于城域网和数据中心互连。这部分供不应求，产能扩张计划正在按计划推进。",
-      "content": "看了先科电子 的电话会，信息容量很大。<br>这里会用我的理解来做一个概括：<b>光铜俱进，产能落地。<br>这说明他不仅在风口上（光和铜都有领先的产品），而且有供应和产能保证，可以把技术变为产品，变为利润。<br></b><br>简单概括财报就是：<br><i class=\"emoji\"><b>1️⃣</b></i>创纪录的财报季的驱动因素：数据中心和LoRa业务<br><i class=\"emoji\"><b>2️⃣</b></i>财务优化：蜂窝模块业务的剥离流程已进入最后阶段<br><br>Hong Hou在电话会中，对业务的领先都做了详细的阐述：<br><i class=\"emoji\"><b>1️⃣</b></i>800G LPO/LRO中：<br>TIA解决方案需求异常强劲，并且在广泛的收发模块项目中持续增长。<br>TIA全称Transimpedance Amplifier，放在光接收端，把光电探测器输出的小电流转换为电压，并进行前级放大。<br>在 LPO/LRO 模块里，TIA 是保证高带宽、低噪声的关键器件。<br><br><i class=\"emoji\"><b>2️⃣</b></i>在1.6T光模块方面：<br>已经从主要光模块厂商那里赢得了大量设计订单，超大规模云厂商对1.6T线性接收光学，也就是LRO/LPO的信心正在增强，并将其视为第一层scale-out网络架构的优选方案，因为这类方案能显著节省功耗。<br>这带来了极为强劲的订单和在手积压订单，为下半年的模块放量提供支撑。<br><br><i class=\"emoji\"><b>3️⃣</b></i>NPO（Near-Package Optics）<br>近封装光学：光模块离交换芯片/GPU 更近，通常放在同一基板上，但未完全共封装。<br>随着800G和1.6T在LPO和LRO上的成功，超大规模云厂商对下一代高密度、低功耗光互连方案的信心增强，这将使NPO成为下一个具有扩张潜力的机会。<br><br><i class=\"emoji\"><b>4️⃣</b></i>XPO<br>可以理解成“介于 pluggable 与 CPO 之间的一种新模块标准”：模块仍然是可更换的（服务性好），但利用液冷、机箱内新结构来达到接近 CPO 的功耗和带宽密度。<br>参与并支持XPO MSA，许多XPO模块设计都采用了我们的FiberEdge芯片，就像OSFP模块一样。XPO作为CPO scale-out的替代方案存在。<br><br><i class=\"emoji\"><b>5️⃣</b></i>铜互连：<br>ACC正在持续获得实质性进展。ACC具有相较于直连方案更好的链路裕量，以及相较于基于DSP方案更低的功耗。<br>第一季度开始出货CopperEdge 1.6T芯片，用于部署到一家美国超大规模云客户那里。<br><br><i class=\"emoji\"><b>6️⃣</b></i>HieFo收购：<br>3月完成，HieFo被归入信号完整性产品部门，而它的磷化铟光子产品则归类于数据中心终端市场。这些产品是1.6T和3.2T光模块中的战略性基础构件。<br><br><i class=\"emoji\"><b>7️⃣</b></i>氮化镓芯片：GaN<br>已经成为行业标准，能够提供更高功率，并作为可靠基础模块，应用于城域网和数据中心互连。<br>这部分供不应求，产能扩张计划正在按计划推进。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "698",
-      "title": "",
-      "type": "text",
-      "datetime": "2026-05-25T10:52:24+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-698-0\" popovertargetaction=\"show\">\n        <img src=\"/static/43d6b5a4c728b5650279336170d1ad54.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-698-0\" popovertarget=\"modal-698-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/43d6b5a4c728b5650279336170d1ad54.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": []
     }
   ]
 }

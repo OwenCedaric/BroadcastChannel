@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 704,
+    "totalPosts": 706,
     "totalPages": 36,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "307",
+      "title": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了",
+      "type": "text",
+      "datetime": "2025-04-07T01:39:32+00:00",
+      "tags": [],
+      "text": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。也算某种我自以为是的对冲",
+      "content": "买入BTC的同时，还空着一些垃圾中的垃圾，怕得罪人就不点名了。<br>也算某种我自以为是的对冲",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "18",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "306",
+      "title": "鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买",
+      "type": "text",
+      "datetime": "2025-04-07T01:32:07+00:00",
+      "tags": [],
+      "text": "鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买。先买🤏BTC",
+      "content": "鉴于无数次抄底都抄在半山腰的经历，这次准备就算我真的觉得便宜要买，也分多次买。<br><br>先买<i class=\"emoji\"><b>🤏</b></i>BTC",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "30",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "305",
       "title": "4月2日，愚人节后一天",
@@ -466,78 +498,6 @@
         },
         {
           "emoji": "😍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "287",
-      "title": "最近两周交易复盘",
-      "type": "text",
-      "datetime": "2024-10-14T14:22:11+00:00",
-      "tags": [],
-      "text": "最近两周交易复盘https://x.com/nft_hu/status/1845831951027954032?s=46",
-      "content": "最近两周交易复盘<a href=\"https://x.com/nft_hu/status/1845831951027954032?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1845831951027954032?s=46\">https://x.com/nft_hu/status/1845831951027954032?s=46</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "286",
-      "title": "写在 Sui 新高的时刻，投资其实是一件很单的事",
-      "type": "text",
-      "datetime": "2024-10-12T13:24:14+00:00",
-      "tags": [],
-      "text": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。希望 $SUI 可以成为越卖越多的好标的😝",
-      "content": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。<br><br>从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。<br><br>看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。<br><br>2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。<br><br>希望 $SUI 可以成为越卖越多的好标的<i class=\"emoji\"><b>😝</b></i>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "68",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "👀",
           "count": "1",
           "isPaid": false
         }

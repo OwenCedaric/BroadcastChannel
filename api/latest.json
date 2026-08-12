@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 704,
+    "totalPosts": 706,
     "totalPages": 36,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,53 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "740",
+      "title": "可以骗我，但注意次数",
+      "type": "text",
+      "datetime": "2026-08-12T13:00:31+00:00",
+      "tags": [],
+      "text": "可以骗我，但注意次数。希望这次是真的反弹了。",
+      "content": "可以骗我，但注意次数。希望这次是真的反弹了。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "739",
+      "title": "Lumentum 财报你需要知道的事：CPO NPO 发展如何，最好回击Fud的方式是订单和利润",
+      "type": "text",
+      "datetime": "2026-08-12T12:27:44+00:00",
+      "tags": [],
+      "text": "Lumentum 财报你需要知道的事：CPO NPO 发展如何，最好回击Fud的方式是订单和利润。https://x.com/nft_hu/status/2087515970021761234",
+      "content": "Lumentum 财报你需要知道的事：<br>CPO NPO 发展如何，最好回击Fud的方式是订单和利润。<br><a href=\"https://x.com/nft_hu/status/2087515970021761234\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2087515970021761234\">https://x.com/nft_hu/status/2087515970021761234</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2087515970021761234\" target=\"_blank\" rel=\"noopener\" title=\"Lumentum财报FY2026 Q4\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/1fb8a60d31e38d22fcdc264a65989937.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Lumentum财报FY2026 Q4</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "738",
       "title": "【Fiona周报】2026-08-10 至 08-14━━ 本周最重要一件事 ━━  **美国通胀三连发，叠加 AI 基建财报验证周",
@@ -330,48 +377,6 @@
         {
           "emoji": "😁",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "719",
-      "title": "其实 $MU的高利润率也是一把双刃剑",
-      "type": "text",
-      "datetime": "2026-06-25T03:01:33+00:00",
-      "tags": [],
-      "text": "其实 $MU的高利润率也是一把双刃剑。所有的Capex中的大头，不可避免地落入了内存厂商的口袋里，那么绕开内存墙/内存税的紧迫性也就会越高。一些目前探讨研发中的解法/优化协议：1️⃣Nand的局部替代  2️⃣CXL协议 $ALAB3️⃣HBF $SNDK4️⃣模型的优化值得持续关注",
-      "content": "其实 $MU的高利润率也是一把双刃剑。<br>所有的Capex中的大头，不可避免地落入了内存厂商的口袋里，那么绕开内存墙/内存税的紧迫性也就会越高。<br><br>一些目前探讨研发中的解法/优化协议：<br><i class=\"emoji\"><b>1️⃣</b></i>Nand的局部替代  <br><i class=\"emoji\"><b>2️⃣</b></i>CXL协议 $ALAB<br><i class=\"emoji\"><b>3️⃣</b></i>HBF $SNDK<br><i class=\"emoji\"><b>4️⃣</b></i>模型的优化<br><br>值得持续关注",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "718",
-      "title": "又是心理按摩时间",
-      "type": "text",
-      "datetime": "2026-06-23T11:44:33+00:00",
-      "tags": [],
-      "text": "又是心理按摩时间。虽然今早开盘就开始轻量减仓，但是还是没逃得过10%的回撤。会跌也是好事，毕竟一直涨更吓人。市场上有很多利空消息，但目前没有看到会扭转我对后市乐观情绪的。6月颠簸的走势符合预期，不做短线，不追高，以回调加仓为主。当然因为我现金很少仓位很满的关系，没钱加仓了。回调行情下我会做一些调仓，更加集中在最看好的领域。",
-      "content": "又是心理按摩时间。<br>虽然今早开盘就开始轻量减仓，但是还是没逃得过10%的回撤。<br><br>会跌也是好事，毕竟一直涨更吓人。<br><br>市场上有很多利空消息，但目前没有看到会扭转我对后市乐观情绪的。<br><br>6月颠簸的走势符合预期，不做短线，不追高，以回调加仓为主。<br><br>当然因为我现金很少仓位很满的关系，没钱加仓了。回调行情下我会做一些调仓，更加集中在最看好的领域。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "22",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌚",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]
