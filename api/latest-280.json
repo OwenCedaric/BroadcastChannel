@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 706,
+    "totalPosts": 708,
     "totalPages": 36,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "454",
+      "title": "电力板块之储能 ",
+      "type": "text",
+      "datetime": "2025-12-04T06:42:29+00:00",
+      "tags": [],
+      "text": "电力板块之储能 https://x.com/nft_hu/status/1996469738080211081?s=20",
+      "content": "电力板块之储能 <a href=\"https://x.com/nft_hu/status/1996469738080211081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1996469738080211081?s=20\">https://x.com/nft_hu/status/1996469738080211081?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1996469738080211081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"在前文《AI军备竞赛的终点是电力竞赛么？》中我们已经论述了AI算力中心所面临的巨大电力缺口。其中有一个解法，也是Elon非常推崇的解决方案是——“储能”（Energy Storage）。针对最近美国／全球对电网压力 + AI／数据中心对电力需求暴增的情境，Musk 提出一个大胆设想 ——\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7d7ed60acea00a06b1751053caf3215d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">在前文《AI军备竞赛的终点是电力竞赛么？》中我们已经论述了AI算力中心所面临的巨大电力缺口。其中有一个解法，也是Elon非常推崇的解决方案是——“储能”（Energy Storage）。<br><br>针对最近美国／全球对电网压力 + AI／数据中心对电力需求暴增的情境，Musk 提出一个大胆设想 ——</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "453",
+      "title": "电力投资将是AI基建最重要的投资组成部分",
+      "type": "text",
+      "datetime": "2025-12-02T09:46:52+00:00",
+      "tags": [],
+      "text": "电力投资将是AI基建最重要的投资组成部分。这个万亿美金的投资额是怎么算出来的？https://x.com/nft_hu/status/1995787342750384590?s=20",
+      "content": "电力投资将是AI基建最重要的投资组成部分。这个万亿美金的投资额是怎么算出来的？<br><a href=\"https://x.com/nft_hu/status/1995787342750384590?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1995787342750384590?s=20\">https://x.com/nft_hu/status/1995787342750384590?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1995787342750384590?s=20\" target=\"_blank\" rel=\"noopener\" title=\"AI军备竞赛的终点是电力竞赛么？美国到底缺多少电？缺口又可以拉动多少投资？电力投资真的会成为美国GDP增长的核心要点么？往期文章：1️⃣https://t.co/e3hGtsZFfY2️⃣https://t.co/oKDauZKxp2 Morgan\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4196aa3444643b4ad3808ac4f64cf682.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">AI军备竞赛的终点是电力竞赛么？美国到底缺多少电？缺口又可以拉动多少投资？电力投资真的会成为美国GDP增长的核心要点么？往期文章：<i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>https://t.co/e3hGtsZFfY<br><i class=\"emoji\" style=\"background-image:url('/static/dbfa3f72ffeaecf571af92f33b54a6cc.png')\"><b>2️⃣</b></i>https://t.co/oKDauZKxp2 <br><br>Morgan</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "452",
       "title": "同时问了 Chatgpt 和Gemini，电力短缺推动的美国基建中会长期收益的产业和具体标的，两者答案和而不同",
@@ -419,58 +456,6 @@
       "text": "DB: *NASDAQ 100 EXTENDS DECLINE TO 2.4%, S&P 500 FALLS 1.7%DB: 纳斯达克100指数跌幅扩大至2.4%，标普500指数下跌1.7%————————————2025-10-10 23:35:10",
       "content": "<b>DB: *NASDAQ 100 EXTENDS DECLINE TO 2.4%, S&amp;P 500 FALLS 1.7%</b><br><br>DB: 纳斯达克100指数跌幅扩大至2.4%，标普500指数下跌1.7%<br><br>————————————<br>2025-10-10 23:35:10",
       "reactions": []
-    },
-    {
-      "id": "432",
-      "title": "美股最近讲的不多，不喜欢重复反反复复说相似的内容，但是大多数其实走的不错",
-      "type": "text",
-      "datetime": "2025-10-10T14:10:15+00:00",
-      "tags": [],
-      "text": "美股最近讲的不多，不喜欢重复反反复复说相似的内容，但是大多数其实走的不错。Coreweave  $CRWV 从95-149联合健康 $UNH 从250-364$GLXY 25-43$SOFI 从24-29$HOOD 100-152$PLTR 130-180之前写过的推文，确实美股更适合长期投资https://x.com/nft_hu/status/1943203998456254532https://x.com/nft_hu/status/1923187312823001171https://x.com/nft_hu/status/1943577062545199579https://x.com/nft_hu/status/1525110986398584833似乎都是简单模式",
-      "content": "美股最近讲的不多，不喜欢重复反反复复说相似的内容，但是大多数其实走的不错。<br>Coreweave  $CRWV 从95-149<br>联合健康 $UNH 从250-364<br>$GLXY 25-43<br>$SOFI 从24-29<br>$HOOD 100-152<br>$PLTR 130-180<br><br>之前写过的推文，确实美股更适合长期投资<br><a href=\"https://x.com/nft_hu/status/1943203998456254532\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1943203998456254532\">https://x.com/nft_hu/status/1943203998456254532</a><br><a href=\"https://x.com/nft_hu/status/1923187312823001171\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1923187312823001171\">https://x.com/nft_hu/status/1923187312823001171</a><br><a href=\"https://x.com/nft_hu/status/1943577062545199579\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1943577062545199579\">https://x.com/nft_hu/status/1943577062545199579</a><br><a href=\"https://x.com/nft_hu/status/1525110986398584833\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1525110986398584833\">https://x.com/nft_hu/status/1525110986398584833</a><br><br>似乎都是简单模式<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1943203998456254532\" target=\"_blank\" rel=\"noopener\" title=\"从这篇文开启一个新的频道：101个股票标的会介绍一些我看好/持有/研究中的美股标的，不构成投资建议，因为很多股票都在历史高位，美股的波动性也很大。但是希望这个系列可以帮助我和大家一起找到更多好的公司，多一个理解和看世界的角度。今天要介绍的是 Palantir $PLTR\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/da2e7ea890033db18bdc3f0a9dc91751.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">从这篇文开启一个新的频道：101个股票标的<br><br>会介绍一些我看好/持有/研究中的美股标的，不构成投资建议，因为很多股票都在历史高位，美股的波动性也很大。但是希望这个系列可以帮助我和大家一起找到更多好的公司，多一个理解和看世界的角度。<br><br>今天要介绍的是 Palantir $PLTR</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "10",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "431",
-      "title": "今年以来，我的交易体系和行情有一个冲突点: 持续性和交易时间长度",
-      "type": "text",
-      "datetime": "2025-10-10T08:07:52+00:00",
-      "tags": [],
-      "text": "今年以来，我的交易体系和行情有一个冲突点: 持续性和交易时间长度。我通常喜欢持有一个标的稍微久一点的时间，大概是1个月上下。但是今年的行情持续性很差，基本1周附近就会出现转折，山寨更是很多2.3天就结束。所以我很多标的买点都很好，卖的很差。币圈今年的行情更加鼓励paper hand（BTC holder除外) ，频繁的换手交易似乎才是生存方式。这和美股其实非常不同，我现在在更适配不同市场不同的交易频次。希望可以进化成功而不是变成精神分裂。",
-      "content": "今年以来，我的交易体系和行情有一个冲突点: 持续性和交易时间长度。我通常喜欢持有一个标的稍微久一点的时间，大概是1个月上下。<br>但是今年的行情持续性很差，基本1周附近就会出现转折，山寨更是很多2.3天就结束。<br>所以我很多标的买点都很好，卖的很差。币圈今年的行情更加鼓励paper hand（BTC holder除外) ，频繁的换手交易似乎才是生存方式。<br><br>这和美股其实非常不同，我现在在更适配不同市场不同的交易频次。希望可以进化成功而不是变成精神分裂。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "47",
-          "isPaid": false
-        },
-        {
-          "emoji": "😭",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }
