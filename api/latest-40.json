@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 213,
+    "totalPosts": 215,
     "totalPages": 11,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,98 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "202",
+      "title": "已完全退出此仓位",
+      "type": "text",
+      "datetime": "2026-02-06T01:13:44+00:00",
+      "tags": [],
+      "text": "已完全退出此仓位。我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。我的现货是不会卖的",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/198\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又打了500万美元子弹@60k做scalping</div>\n</small></blockquote></a>已完全退出此仓位。<br>我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。<br><br>我的现货是不会卖的",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "191",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "50",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "201",
+      "title": "熊市里才是喊梦想和价位的时候牛市里是把现金从接盘侠口袋里掏出来的时机",
+      "type": "text",
+      "datetime": "2026-02-06T01:10:58+00:00",
+      "tags": [],
+      "text": "熊市里才是喊梦想和价位的时候牛市里是把现金从接盘侠口袋里掏出来的时机",
+      "content": "熊市里才是喊梦想和价位的时候<br>牛市里是把现金从接盘侠口袋里掏出来的时机",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "171",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "200",
       "title": "放2个没屌用的不准确的预言（我他妈能预测未来不就取代马斯克成世界首富了吗？）- BTC 2032年之前会达到18万美元- HYPE 2029年之前会达到100美元",
@@ -917,123 +1009,6 @@
         {
           "emoji": "🤣",
           "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "182",
-      "title": "希望1-3年内能吃到这块大肥蛋糕，这才是这个decade最大的鱼",
-      "type": "text",
-      "datetime": "2026-02-03T18:46:20+00:00",
-      "tags": [],
-      "text": "希望1-3年内能吃到这块大肥蛋糕，这才是这个decade最大的鱼。1000个易理华当量的氢弹威力引爆起来会很好玩。而且这就会是我们都在等的“下轮牛市”的起点这也就是为什么我留着天量现金。",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-182-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c3c8c8fb28025177b16ea7ecc51a21bc.jpg\" alt=\"希望1-3年内能吃到这块大肥蛋糕，这才是这个decade最大的鱼\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-182-0\" popovertarget=\"modal-182-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c3c8c8fb28025177b16ea7ecc51a21bc.jpg\" alt=\"希望1-3年内能吃到这块大肥蛋糕，这才是这个decade最大的鱼\" loading=\"lazy\" />\n      </button>\n    </div>希望1-3年内能吃到这块大肥蛋糕，<br>这才是这个decade最大的鱼。<br>1000个易理华当量的氢弹威力引爆起来会很好玩。<br><br>而且这就会是我们都在等的“下轮牛市”的起点<br><br>这也就是为什么我留着天量现金。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "267",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "80",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "181",
-      "title": "因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样",
-      "type": "text",
-      "datetime": "2026-02-03T15:02:50+00:00",
-      "tags": [],
-      "text": "因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样。我也要做一个博人眼球的交易员，但我会做一个好榜样，这就是我炫耀的意义",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-181-0\" popovertargetaction=\"show\">\n        <img src=\"/static/dc9b4884da566f90653ad4ec92c4deda.jpg\" alt=\"因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-181-0\" popovertarget=\"modal-181-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/dc9b4884da566f90653ad4ec92c4deda.jpg\" alt=\"因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样\" loading=\"lazy\" />\n      </button>\n    </div>因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样。<br><br>我也要做一个博人眼球的交易员，<br>但我会做一个好榜样，这就是我炫耀的意义",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "443",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "61",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "23",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
           "isPaid": false
         },
         {

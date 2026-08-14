@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 213,
+    "totalPosts": 215,
     "totalPages": 11,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,103 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "229",
+      "title": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
+      "type": "text",
+      "datetime": "2026-04-18T12:00:59+00:00",
+      "tags": [],
+      "text": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/228\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大    rave庄家弃盘》合约溢价=吃资费 rave庄家继续发力》现货溢价=吃spread 唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序</div>\n</small></blockquote></a>舒服了<i class=\"emoji\"><b>😌</b></i> 目前gate现货溢价10% 平了一大半了<br>两天付出资金费成本3万U",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "85",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "title": "目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大  rave庄家弃盘》合约溢价=吃资费rave庄家继续发力》现货溢价=吃spread唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
+      "type": "text",
+      "datetime": "2026-04-16T08:33:35+00:00",
+      "tags": [],
+      "text": "目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大  rave庄家弃盘》合约溢价=吃资费rave庄家继续发力》现货溢价=吃spread唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default tgme_widget_message_reply_quote\" href=\"/posts/227\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">- 这几天RAVE作妖，OKX合约经常因为大户爆仓所以比币安合约溢价超过8%以上，这种情况出现了3-4次，自己随便vibe写了个套spread的程序也手动撸了几万U。</div>\n</small></blockquote></a>目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大<br> <br> rave庄家弃盘》合约溢价=吃资费<br>rave庄家继续发力》现货溢价=吃spread<br>唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "262",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "93",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "227",
       "title": "最近不活跃那么久，是因为：1. 在打游戏&旅游&好好生活 ———— 我意识到我的“美好青春年华”这个不可增值资产只剩几年了，所以在好好的花费它2. vibe coding ———— 自己天天用claude code和codex写东西&试东西&全自动化公司审计和资费套利，就是因为现在claude code和codex用的多了，导致我发现业务还有大量多可优化之处，现在天天优化各个地方打补丁&开拓新领域，没有时间写东西这几天的无风险套利最多的机会就是交易所之间的spread套利了，像：- 这几天RAVE作妖，OKX合约经常因为大户爆仓所以比币安合约溢价超过8%以上，这种情况出现了3-4次，自己随便vibe写了个套spread的程序也手动撸了几万U",
@@ -982,98 +1079,6 @@
         {
           "emoji": "🏆",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "202",
-      "title": "已完全退出此仓位",
-      "type": "text",
-      "datetime": "2026-02-06T01:13:44+00:00",
-      "tags": [],
-      "text": "已完全退出此仓位。我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。我的现货是不会卖的",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/198\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又打了500万美元子弹@60k做scalping</div>\n</small></blockquote></a>已完全退出此仓位。<br>我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。<br><br>我的现货是不会卖的",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "191",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "50",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "201",
-      "title": "熊市里才是喊梦想和价位的时候牛市里是把现金从接盘侠口袋里掏出来的时机",
-      "type": "text",
-      "datetime": "2026-02-06T01:10:58+00:00",
-      "tags": [],
-      "text": "熊市里才是喊梦想和价位的时候牛市里是把现金从接盘侠口袋里掏出来的时机",
-      "content": "熊市里才是喊梦想和价位的时候<br>牛市里是把现金从接盘侠口袋里掏出来的时机",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "171",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "37",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "3",
           "isPaid": false
         }
       ]

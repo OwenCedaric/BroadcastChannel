@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 213,
+    "totalPosts": 215,
     "totalPages": 11,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,68 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "23",
+      "title": "在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
+      "type": "text",
+      "datetime": "2025-05-11T15:10:43+00:00",
+      "tags": [],
+      "text": "在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/22\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">https://x.com/thankucrypto/status/1921578110425669645  熬鹰这段话说得不错。 我不明白为什么有人唾弃当车头，在我看来就是小酸子而已  增加自己的影响力》自己拥有大资金+有强影响力〉想让什么涨就让什么涨，想引爆什么叙事就引爆什么叙事。 一方面这很爽，是权力的感觉 一方面这对你自己交易也是+ev，你永远可以买到相对底部的价格  在加密市场 影响力=金钱和权力</div>\n</small></blockquote></a>在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "109",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "",
+      "type": "text",
+      "datetime": "2025-05-11T15:06:24+00:00",
+      "tags": [],
+      "text": "https://x.com/thankucrypto/status/1921578110425669645熬鹰这段话说得不错。我不明白为什么有人唾弃当车头，在我看来就是小酸子而已增加自己的影响力》自己拥有大资金+有强影响力〉想让什么涨就让什么涨，想引爆什么叙事就引爆什么叙事。一方面这很爽，是权力的感觉一方面这对你自己交易也是+ev，你永远可以买到相对底部的价格在加密市场影响力=金钱和权力",
+      "content": "<a href=\"https://x.com/thankucrypto/status/1921578110425669645\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/thankucrypto/status/1921578110425669645\">https://x.com/thankucrypto/status/1921578110425669645</a><br><br>熬鹰这段话说得不错。<br>我不明白为什么有人唾弃当车头，在我看来就是小酸子而已<br><br>增加自己的影响力》自己拥有大资金+有强影响力〉想让什么涨就让什么涨，想引爆什么叙事就引爆什么叙事。<br>一方面这很爽，是权力的感觉<br>一方面这对你自己交易也是+ev，你永远可以买到相对底部的价格<br><br>在加密市场<br>影响力=金钱和权力",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "154",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "21",
       "title": "过去的2个月我买到了好多个有庄家操纵的小市值meme的最底部最底部的价格，BROCCOLIF3B（7m）,MOODENG（24m）,NEIROETH（10m）,KOMA（11m） 之前都买了至少1%的流通量，但很可惜，大部分都是翻了个倍就跑了（唯独KOMA目前我依然持有，我没有公布退出那就是没退出）我总结出的经验是：不要因为“觉得涨得太多了”就从一笔这样的交易里退出还是要用一个长期周期的趋势指标比如Supertrend 4h/8h/12h来进行退出为什么我开始在推特上公开发我这些小市值交易呢？1当然是为了给行情煽风点火，给我自己的bag抬轿子",

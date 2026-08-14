@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 213,
+    "totalPosts": 215,
     "totalPages": 11,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,98 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "257",
+      "title": "今天还做了一个操作是：退出了我1/3的BTC头寸 @63k（用BTC/USD1永续套保）😂😂😂 确实说是不卖的但现在又要卖了我只是觉得：- BTC当然后面依然有牛市，就和任何金融资产一样有周期，只是它目前的叙事完全被AI给盖过了并且可预见的未来1-2年也看不到新叙事- BTC剩余的核心叙事=法币替代/对冲法币贬值，所以下一轮牛市当然得依靠美债出点问题/美元出点问题>驱动“cash is trash这种叙事”，但短时间内似乎看不到出这么大的问题- BTC的下一轮牛市的发生必然基于“美债/美元出点问题”，但它们真的出点问题之前必然会有全球资产的重新定价所以我预期我在1-3年内能以更便宜的价格（预期45-55k）把这个头寸买回来————————我依然保留我2/3的现货因为人生需要这种垫底资产，预防万一",
+      "type": "text",
+      "datetime": "2026-08-13T18:18:14+00:00",
+      "tags": [],
+      "text": "今天还做了一个操作是：退出了我1/3的BTC头寸 @63k（用BTC/USD1永续套保）😂😂😂 确实说是不卖的但现在又要卖了我只是觉得：- BTC当然后面依然有牛市，就和任何金融资产一样有周期，只是它目前的叙事完全被AI给盖过了并且可预见的未来1-2年也看不到新叙事- BTC剩余的核心叙事=法币替代/对冲法币贬值，所以下一轮牛市当然得依靠美债出点问题/美元出点问题>驱动“cash is trash这种叙事”，但短时间内似乎看不到出这么大的问题- BTC的下一轮牛市的发生必然基于“美债/美元出点问题”，但它们真的出点问题之前必然会有全球资产的重新定价所以我预期我在1-3年内能以更便宜的价格（预期45-55k）把这个头寸买回来————————我依然保留我2/3的现货因为人生需要这种垫底资产，预防万一",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/202\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">已完全退出此仓位。 我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。  我的现货是不会卖的</div>\n</small></blockquote></a>今天还做了一个操作是：退出了我1/3的BTC头寸 @63k（用BTC/USD1永续套保）<i class=\"emoji\"><b>😂</b></i><i class=\"emoji\"><b>😂</b></i><i class=\"emoji\"><b>😂</b></i> 确实说是不卖的但现在又要卖了<br><br>我只是觉得：<br>- BTC当然后面依然有牛市，就和任何金融资产一样有周期，只是它目前的叙事完全被AI给盖过了并且可预见的未来1-2年也看不到新叙事<br>- BTC剩余的核心叙事=法币替代/对冲法币贬值，所以下一轮牛市当然得依靠美债出点问题/美元出点问题&gt;驱动“cash is trash这种叙事”，但短时间内似乎看不到出这么大的问题<br>- BTC的下一轮牛市的发生必然基于“美债/美元出点问题”，但它们真的出点问题之前必然会有全球资产的重新定价<br><br>所以我预期我在1-3年内能以更便宜的价格（预期45-55k）把这个头寸买回来<br><br>————————<br>我依然保留我2/3的现货因为人生需要这种垫底资产，预防万一",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "135",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "256",
+      "title": "当时卖的期权基本上已经实现80-98%利润了今天趁着行情暴涨我大部分已操作平仓",
+      "type": "text",
+      "datetime": "2026-08-13T18:02:14+00:00",
+      "tags": [],
+      "text": "当时卖的期权基本上已经实现80-98%利润了今天趁着行情暴涨我大部分已操作平仓",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/248\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/860f55fe3313c7b07a93fb872e3de569.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">今天卖了快$7m的PUT 100%现金备兑 其中大部分是一个月后行权   我不是什么AI专家 也不是什么期权交易员 但我知道： 1. 当前的存储板块的下跌至少在情绪面已经接近极限，所有厉害的交易员们都在哀嚎说自己想不到这样的行情会发生&amp;储存股的IV在历史最高百分位。 2. AI革命依然在继续&amp;需求依然在继续&amp;一个月前人们在喊的基本面并没有改变，相当于同样的商品价格一个月后打了35-50%折扣  至于为什么要卖这种“很难成交的价格”而不是卖贴近目前盘面的价格———这是因为我个人不喜欢风险而喜欢稳定的钱，以一个月后到期的MU…</div>\n</small></blockquote></a>当时卖的期权基本上已经实现80-98%利润了<br>今天趁着行情暴涨我大部分已操作平仓",
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "62",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "255",
       "title": "本来打了挺多字想骂一骂 但想了想咱不能惹大清 所以还是算了",
@@ -962,103 +1054,6 @@
         {
           "emoji": "✍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "229",
-      "title": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
-      "type": "text",
-      "datetime": "2026-04-18T12:00:59+00:00",
-      "tags": [],
-      "text": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/228\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大    rave庄家弃盘》合约溢价=吃资费 rave庄家继续发力》现货溢价=吃spread 唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序</div>\n</small></blockquote></a>舒服了<i class=\"emoji\"><b>😌</b></i> 目前gate现货溢价10% 平了一大半了<br>两天付出资金费成本3万U",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "85",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "228",
-      "title": "目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大  rave庄家弃盘》合约溢价=吃资费rave庄家继续发力》现货溢价=吃spread唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
-      "type": "text",
-      "datetime": "2026-04-16T08:33:35+00:00",
-      "tags": [],
-      "text": "目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大  rave庄家弃盘》合约溢价=吃资费rave庄家继续发力》现货溢价=吃spread唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default tgme_widget_message_reply_quote\" href=\"/posts/227\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">- 这几天RAVE作妖，OKX合约经常因为大户爆仓所以比币安合约溢价超过8%以上，这种情况出现了3-4次，自己随便vibe写了个套spread的程序也手动撸了几万U。</div>\n</small></blockquote></a>目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大<br> <br> rave庄家弃盘》合约溢价=吃资费<br>rave庄家继续发力》现货溢价=吃spread<br>唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "262",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "93",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "1",
           "isPaid": false
         }
       ]

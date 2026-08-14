@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 213,
+    "totalPosts": 215,
     "totalPages": 11,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,88 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "93",
+      "title": "说不出话了",
+      "type": "text",
+      "datetime": "2025-10-10T22:20:22+00:00",
+      "tags": [],
+      "text": "说不出话了",
+      "content": "说不出话了",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "103",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "title": "操他妈的发财了",
+      "type": "text",
+      "datetime": "2025-10-10T22:20:19+00:00",
+      "tags": [],
+      "text": "操他妈的发财了",
+      "content": "操他妈的发财了",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "117",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "91",
       "title": "发财了",
@@ -876,73 +958,6 @@
         },
         {
           "emoji": "😱",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "70",
-      "title": "另外有一个规律就是这类【喜欢给自己做心理按摩的老登】还特别爱把任何人的成功归因为“运气”，好让他们不得志的内心舒服点但其实并不是这样，时代只是给了PumpFun/Scale AI/Nvidia/Binance这些领域的王者这样的一个位子，这个位子下有一堆的竞争者要以各种综合实力干掉各种竞争对手，你才能成为最终的那个王者你可以说你自己没参与这场竞争/没竞争过别人是因为“坏运气”但是你没资格说王者“只是运气好罢了”这类loser话",
-      "type": "text",
-      "datetime": "2025-09-03T21:18:09+00:00",
-      "tags": [],
-      "text": "另外有一个规律就是这类【喜欢给自己做心理按摩的老登】还特别爱把任何人的成功归因为“运气”，好让他们不得志的内心舒服点但其实并不是这样，时代只是给了PumpFun/Scale AI/Nvidia/Binance这些领域的王者这样的一个位子，这个位子下有一堆的竞争者要以各种综合实力干掉各种竞争对手，你才能成为最终的那个王者你可以说你自己没参与这场竞争/没竞争过别人是因为“坏运气”但是你没资格说王者“只是运气好罢了”这类loser话。https://chatgpt.com/s/t_68b8b344d8508191a54e3f1602316328",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/68\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">有些量化圈的老登真的挺搞笑的， 以前喜欢说我“是P图/是伪造收益PnL/是幸运” 现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化  为啥人会有 心理防御机制 这个东西呢。 菜就多练，大大方方光明磊落的多好 输了就是输了，比不过就是比不过 菜就多练 我搞不懂这类人为啥不服输呢  那像Scale AI创始人00后，24岁身价10亿美元+了，现在更是30亿美元+ 那像Pumpfun创始人Alon，00后，几亿美元现金 我看他们只会夸他们牛逼，狠狠的抓住了时代给的机遇 而不会踩一踩说“他…</div>\n</small></blockquote></a>另外有一个规律就是这类【喜欢给自己做心理按摩的老登】还特别爱把任何人的成功归因为“运气”，好让他们不得志的内心舒服点<br>但其实并不是这样，<br>时代只是给了PumpFun/Scale AI/Nvidia/Binance这些领域的王者这样的一个位子，这个位子下有一堆的竞争者<br>要以各种综合实力干掉各种竞争对手，你才能成为最终的那个王者<br><br>你可以说你自己没参与这场竞争/没竞争过别人是因为“坏运气”<br>但是你没资格说王者“只是运气好罢了”这类loser话。<br><br><a href=\"https://chatgpt.com/s/t_68b8b344d8508191a54e3f1602316328\" target=\"_blank\" rel=\"noopener\" title=\"https://chatgpt.com/s/t_68b8b344d8508191a54e3f1602316328\">https://chatgpt.com/s/t_68b8b344d8508191a54e3f1602316328</a><a class=\"tgme_widget_message_link_preview\" href=\"https://chatgpt.com/s/t_68b8b344d8508191a54e3f1602316328\" target=\"_blank\" rel=\"noopener\" title=\"ChatGPT helps you get answers, find inspiration, and be more productive.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">ChatGPT</div>\n  <img class=\"link_preview_image\" alt=\"心理防御机制解析\" src=\"/static/6de5c964788677111db3de7e104e4e33.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">心理防御机制解析</div>\n  <div class=\"link_preview_description\" dir=\"auto\">ChatGPT helps you get answers, find inspiration, and be more productive.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "126",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "69",
-      "title": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
-      "type": "text",
-      "datetime": "2025-09-03T21:15:22+00:00",
-      "tags": [],
-      "text": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
-      "content": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：<br>比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：<br><br>那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "197",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "39",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
           "count": "3",
           "isPaid": false
         }
