@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 708,
+    "totalPosts": 709,
     "totalPages": 36,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "59",
+      "title": "群友秘籍: 如何选择TIA节点1）选佣金低于10%的，但不要选0；2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；3）不要选交易所节点； 4）最好有restaking功能，自动复投，收益最大化",
+      "type": "text",
+      "datetime": "2024-01-03T01:33:39+00:00",
+      "tags": [],
+      "text": "群友秘籍: 如何选择TIA节点1）选佣金低于10%的，但不要选0；2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；3）不要选交易所节点； 4）最好有restaking功能，自动复投，收益最大化。",
+      "content": "群友秘籍: 如何选择TIA节点<br><br>1）选佣金低于10%的，但不要选0；<br>2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；<br>3）不要选交易所节点； <br>4）最好有restaking功能，自动复投，收益最大化。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "58",
       "title": "Tia质押的金铲子作用日益体现，如何质押看 ",
@@ -353,22 +374,6 @@
         {
           "emoji": "👍",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "36",
-      "title": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高",
-      "type": "text",
-      "datetime": "2023-12-14T05:29:58+00:00",
-      "tags": [],
-      "text": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高。2️⃣ $PSBTC (骗傻逼同事，防弹少年团）mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK3️⃣$AVAV avax上的铭文，打了防身，名字又meme又羞耻4️⃣MICE，米老鼠很久之前打的，终于涨了5️⃣Turt今晚新IDO6️⃣昨晚把 $INJ 买回来了，之前卖飞我认错还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
-      "content": "返工第一天 :<br><i class=\"emoji\"><b>1️⃣</b></i>sols铭文，OK钱包主页推荐，上线gate，目前市值不高。<br><br><i class=\"emoji\"><b>2️⃣</b></i> $PSBTC (骗傻逼同事，防弹少年团）<br>mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK<br><br><i class=\"emoji\"><b>3️⃣</b></i>$AVAV avax上的铭文，打了防身，名字又meme又羞耻<br><br><i class=\"emoji\"><b>4️⃣</b></i>MICE，米老鼠很久之前打的，终于涨了<br><br><i class=\"emoji\"><b>5️⃣</b></i>Turt今晚新IDO<br><br><i class=\"emoji\"><b>6️⃣</b></i>昨晚把 $INJ 买回来了，之前卖飞我认错<br><br>还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。<br><br>近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
           "isPaid": false
         }
       ]
