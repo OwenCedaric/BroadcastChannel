@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 215,
+    "totalPosts": 216,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,47 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "183",
+      "title": "如果我等不到那一天，等不到那个“完美的机会”，那我就一直老老实实的当一个“在海边安度余生的人”",
+      "type": "text",
+      "datetime": "2026-02-03T19:02:54+00:00",
+      "tags": [],
+      "text": "如果我等不到那一天，等不到那个“完美的机会”，那我就一直老老实实的当一个“在海边安度余生的人”",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/181\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/c380c8c1e90ca0ba0bab46264bf17307.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">因为大部分聪明的有钱的交易员们都偷偷在过着无人打扰的安稳的低调生活，所以市场上还活跃的好多都是极端坏榜样。  我也要做一个博人眼球的交易员， 但我会做一个好榜样，这就是我炫耀的意义</div>\n</small></blockquote></a>如果我等不到那一天，等不到那个“完美的机会”，那我就一直老老实实的当一个“在海边安度余生的人”",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "170",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "28",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "182",
       "title": "希望1-3年内能吃到这块大肥蛋糕，这才是这个decade最大的鱼",
@@ -947,47 +988,6 @@
         },
         {
           "emoji": "✍",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "161",
-      "title": "那句话怎么说的来着",
-      "type": "text",
-      "datetime": "2026-01-30T19:54:04+00:00",
-      "tags": [],
-      "text": "那句话怎么说的来着",
-      "content": "那句话怎么说的来着",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "53",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
           "count": "2",
           "isPaid": false
         }

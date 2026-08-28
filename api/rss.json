@@ -5,6 +5,14 @@
   "home_page_url": "https://vida.ceda.is/",
   "items": [
     {
+      "url": "https://vida.ceda.is/posts/258",
+      "title": "Mac Studio发售第二天才下的单，本来想等512GB版本发售后再入手，但看到256GB的发货排期都在越来越延后，于是乎直接下单了",
+      "description": "",
+      "date_published": "2026-08-28T15:45:47.000Z",
+      "tags": [],
+      "content_html": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-258-0\" popovertargetaction=\"show\">\n        <img src=\"/static/f131cbb269c121bcbd97de53b0ce6509.jpg\" alt=\"Mac Studio发售第二天才下的单，本来想等512GB版本发售后再入手，但看到256GB的发货排期都在越来越延后，于是乎直接下单了\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-258-0\" popovertarget=\"modal-258-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/f131cbb269c121bcbd97de53b0ce6509.jpg\" alt=\"Mac Studio发售第二天才下的单，本来想等512GB版本发售后再入手，但看到256GB的发货排期都在越来越延后，于是乎直接下单了\" loading=\"lazy\" />\n      </button>\n    </div>Mac Studio发售第二天才下的单，本来想等512GB版本发售后再入手，但看到256GB的发货排期都在越来越延后，于是乎直接下单了。<br><br>对这个世界上大部分人来说本地跑一个模型的确没有啥用，但是这个世界上的公共可用模型们随着各个政府监管收紧在变得 <br>1. 它无法给出“低道德但有效”的方案 2. 你没有真正的隐私<br><br>- 什么样叫“低道德但有效方案”：比如你驾照分被扣完了，照理说你得去重新学习，但低道德有效方案是去找当地的卖分黄牛帮你直接抵扣这些分数，但claude,gpt,grok不会教你/拒绝帮你找<br><br>- chatgpt,claude,grok这些AI都没有真正给与你“律师保密特权”，你寻求非道德但有效方案的聊天内容必然触发安全围栏&gt;被缓存好几年<br><br>————————<br>但如果你没有闲钱，更理性的做法是租聘，你并不需要一台这样的mac才能跑很好的本地模型。<br>完全可以需要问ai一些东西的时候去vast.ai上临时租一台机器，即开即用，几十美元租一天"
+    },
+    {
       "url": "https://vida.ceda.is/posts/257",
       "title": "今天还做了一个操作是：退出了我1/3的BTC头寸 @63k（用BTC/USD1永续套保）😂😂😂 确实说是不卖的但现在又要卖了我只是觉得：- BTC当然后面依然有牛市，就和任何金融资产一样有周期，只是它目前的叙事完全被AI给盖过了并且可预见的未来1-2年也看不到新叙事- BTC剩余的核心叙事=法币替代/对冲法币贬值，所以下一轮牛市当然得依靠美债出点问题/美元出点问题>驱动“cash is trash这种叙事”，但短时间内似乎看不到出这么大的问题- BTC的下一轮牛市的发生必然基于“美债/美元出点问题”，但它们真的出点问题之前必然会有全球资产的重新定价所以我预期我在1-3年内能以更便宜的价格（预期45-55k）把这个头寸买回来————————我依然保留我2/3的现货因为人生需要这种垫底资产，预防万一",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-02-05T21:08:49.000Z",
       "tags": [],
       "content_html": "我记得2021年也就是我入圈1年的时候我第一次面对2021.5.19这种级别的跌幅，BTC日内跌了30%<br>当时是人脑袋懵逼也不知道干啥<br><br>所以今天这真的是小场面，完全没什么好怕的"
-    },
-    {
-      "url": "https://vida.ceda.is/posts/193",
-      "title": "没啥好怕的 这都是小场面",
-      "description": "",
-      "date_published": "2026-02-05T21:06:58.000Z",
-      "tags": [],
-      "content_html": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-193-0\" popovertargetaction=\"show\">\n        <img src=\"/static/31d39e4ecc6ef7e41f1eec3476787188.jpg\" alt=\"没啥好怕的 这都是小场面\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-193-0\" popovertarget=\"modal-193-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/31d39e4ecc6ef7e41f1eec3476787188.jpg\" alt=\"没啥好怕的 这都是小场面\" loading=\"lazy\" />\n      </button>\n    </div>没啥好怕的 这都是小场面"
     }
   ]
 }
