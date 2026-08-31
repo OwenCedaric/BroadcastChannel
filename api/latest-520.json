@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "206",
+      "title": "买了点BNB CZ回归在即，加上最近的价格也还可以",
+      "type": "text",
+      "datetime": "2024-08-08T12:59:35+00:00",
+      "tags": [],
+      "text": "买了点BNB CZ回归在即，加上最近的价格也还可以",
+      "content": "买了点BNB CZ回归在即，加上最近的价格也还可以",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "205",
       "title": "值得注意的消息 ",
@@ -372,32 +388,6 @@
         {
           "emoji": "👍",
           "count": "20",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "186",
-      "title": "关停了网格，从中性走向看涨",
-      "type": "text",
-      "datetime": "2024-07-15T08:11:26+00:00",
-      "tags": [],
-      "text": "关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。看好 $SOL $BTC",
-      "content": "关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。<br>看好 $SOL $BTC",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "1",
           "isPaid": false
         }
       ]

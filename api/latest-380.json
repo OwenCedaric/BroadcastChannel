@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "352",
+      "title": "清仓 BMNR 等新增发",
+      "type": "text",
+      "datetime": "2025-08-12T12:25:45+00:00",
+      "tags": [],
+      "text": "清仓 BMNR 等新增发",
+      "content": "清仓 BMNR 等新增发",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "351",
       "title": "这段时间，一不注意，新的币股就和雨后春笋一般冒出来",
@@ -503,22 +519,6 @@
         {
           "emoji": "🦄",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "331",
-      "title": "币股太多，大家谨慎选择",
-      "type": "text",
-      "datetime": "2025-07-17T14:48:20+00:00",
-      "tags": [],
-      "text": "币股太多，大家谨慎选择。我选择龙头。",
-      "content": "币股太多，大家谨慎选择。我选择龙头。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "19",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 36,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-680.json"
   },
   "data": [
+    {
+      "id": "14",
+      "title": "Fiona‘s weekly Focus-11.13, 2023行情太好忙着炒币，努力回来更新了！更新频率不好意思叫Daily News，所以这次发的是本周前瞻～本周宏观关注：1.APEC峰会的中美对决2.ETF的相关决策近期加密市场的回暖归根究底和ETF的预期脱不开关系，接下来的三次决策截止日期分别是11月17号，1月15号和3月15号",
+      "type": "text",
+      "datetime": "2023-11-13T06:14:35+00:00",
+      "tags": [],
+      "text": "Fiona‘s weekly Focus-11.13, 2023行情太好忙着炒币，努力回来更新了！更新频率不好意思叫Daily News，所以这次发的是本周前瞻～本周宏观关注：1.APEC峰会的中美对决2.ETF的相关决策近期加密市场的回暖归根究底和ETF的预期脱不开关系，接下来的三次决策截止日期分别是11月17号，1月15号和3月15号。（注意回调风险）本周解锁关注🔓：https://token.unlocks.app/1-CYBER 8.4million解锁，占11.43%2-APE 22million解锁，占4.23%3-DYDX 6.67million，占1.2%关注赛道：1-公链 SOL，MATIC，AVAX，FTM，APT2-GAMFI RON，SAND，MANA和系列新游戏3-BTC生态4-破产概念回顾：过去几周抓到了强势币SOL，INJ，LINK；抓到了meme GROK（20倍+）；抓到了破产概念 FTT LUNA VGX。有点点体会，要自己系统研究整理，对新事物保持好奇心。同时不要经常调仓，想清楚买入持有，耐心再fomo的市场极其稀缺但也非常重要。",
+      "content": "Fiona‘s weekly Focus-11.13, 2023<br><br>行情太好忙着炒币，努力回来更新了！更新频率不好意思叫Daily News，所以这次发的是本周前瞻～<br><br>本周宏观关注：<br>1.APEC峰会的中美对决<br>2.ETF的相关决策<br>近期加密市场的回暖归根究底和ETF的预期脱不开关系，接下来的三次决策截止日期分别是11月17号，1月15号和3月15号。（注意回调风险）<br><br>本周解锁关注<i class=\"emoji\"><b>🔓</b></i>：<br><a href=\"https://token.unlocks.app/\" target=\"_blank\" rel=\"noopener\" title=\"https://token.unlocks.app/\">https://token.unlocks.app/</a><br>1-CYBER 8.4million解锁，占11.43%<br>2-APE 22million解锁，占4.23%<br>3-DYDX 6.67million，占1.2%<br><br>关注赛道：<br>1-公链 SOL，MATIC，AVAX，FTM，APT<br>2-GAMFI RON，SAND，MANA和系列新游戏<br>3-BTC生态<br>4-破产概念<br><br>回顾：<br>过去几周抓到了强势币SOL，INJ，LINK；抓到了meme GROK（20倍+）；抓到了破产概念 FTT LUNA VGX。<br>有点点体会，要自己系统研究整理，对新事物保持好奇心。同时不要经常调仓，想清楚买入持有，耐心再fomo的市场极其稀缺但也非常重要。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "13",
       "title": "新项目介绍 #Gamfi- **SHRAPNEL**AVAX 上的射击游戏2023.12上线epic games，发行方Neon Machine游戏：做的还不错，目前透露的画面看起来是标准射击游戏社群：推特粉丝146k，看互动率应该有50%➕是假粉",

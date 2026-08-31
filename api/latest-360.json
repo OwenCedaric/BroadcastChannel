@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "372",
+      "title": "新增观察标的 WLD",
+      "type": "text",
+      "datetime": "2025-09-08T12:43:55+00:00",
+      "tags": [],
+      "text": "新增观察标的 WLD",
+      "content": "新增观察标的 WLD",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "371",
       "title": "这几天好好研究了一下机器人，有几个在我看来大概率会从机器人的发展中获益的公司标的，欢迎讨论",
@@ -398,22 +414,6 @@
       "text": "卖完一直涨 哭了",
       "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/352\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">清仓 BMNR 等新增发</div>\n</small></blockquote></a>卖完一直涨 哭了",
       "reactions": []
-    },
-    {
-      "id": "352",
-      "title": "清仓 BMNR 等新增发",
-      "type": "text",
-      "datetime": "2025-08-12T12:25:45+00:00",
-      "tags": [],
-      "text": "清仓 BMNR 等新增发",
-      "content": "清仓 BMNR 等新增发",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

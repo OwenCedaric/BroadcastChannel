@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "519",
+      "title": "看了深潮的文章说几句",
+      "type": "text",
+      "datetime": "2026-01-29T20:35:09+00:00",
+      "tags": [],
+      "text": "看了深潮的文章说几句。我不觉得只是因为熊市需要一个宣泄出口，CZ才会招骂。底层逻辑还是 “天下苦秦久矣”。秦的暴政才是错，他造成了民不聊生的世道，大家才会揭竿而起。这个熊市币安需要负多少责任？作为行业第一得操守看不到，骚操作却比比皆是。10月10号说清楚了么？这一天的伤痛还一直提醒着我们。一直上币从本就流动性干枯的市场里抽血，最差的时候我甚至想，如果FTX还在会不会比较好。用水军和舔狗撑起来的太平盛世的假面不持久，是空中楼阁，一戳就破。醒醒吧，看看世界的真相。2026应该是出发下一站的时候了！不在垃圾场里挖金子。",
+      "content": "看了深潮的文章说几句。我不觉得只是因为熊市需要一个宣泄出口，CZ才会招骂。<br><br>底层逻辑还是 “天下苦秦久矣”。秦的暴政才是错，他造成了民不聊生的世道，大家才会揭竿而起。<br><br>这个熊市币安需要负多少责任？作为行业第一得操守看不到，骚操作却比比皆是。10月10号说清楚了么？这一天的伤痛还一直提醒着我们。<br>一直上币从本就流动性干枯的市场里抽血，最差的时候我甚至想，如果FTX还在会不会比较好。<br><br>用水军和舔狗撑起来的太平盛世的假面不持久，是空中楼阁，一戳就破。<br><br>醒醒吧，看看世界的真相。2026应该是出发下一站的时候了！不在垃圾场里挖金子。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "49",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "518",
       "title": "据美国哥伦比亚广播公司（CBS）：又一艘军舰——“德尔伯特·D·布莱克”号（USS Delbert D. Black）目前已部署在中东地区",
@@ -362,22 +393,6 @@
         {
           "emoji": "❤️",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "499",
-      "title": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
-      "type": "text",
-      "datetime": "2026-01-20T14:50:58+00:00",
-      "tags": [],
-      "text": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/490\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了些put对冲战争风险</div>\n</small></blockquote></a>盈利先出本了，交易很有趣，原因是错的，结果是对的",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

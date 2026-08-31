@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 709,
+    "totalPosts": 710,
     "totalPages": 36,
     "currentPage": 31,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "126",
+      "title": "来自项目方的一些更新：Space Nation公售质押还剩大约30小时 1目前官方给出最新的消息，PFP以及Alpha Gate第一期收到的OIK空投从总量的1% 1000万颗，增加到了1.25%，也就是1250万颗",
+      "type": "text",
+      "datetime": "2024-03-26T10:47:58+00:00",
+      "tags": [],
+      "text": "来自项目方的一些更新：Space Nation公售质押还剩大约30小时 1目前官方给出最新的消息，PFP以及Alpha Gate第一期收到的OIK空投从总量的1% 1000万颗，增加到了1.25%，也就是1250万颗。2 目前只要参与公售存款质押的，每质押一份0.4ETH，即可获得官方100颗OIK空投，用以覆盖所有的GAS费用。假设质押4ETH参与抽奖，即可获得1000颗OIK空投。白单mint阶段此规则同样适用。3 所有公售和白单阶段MINT不完的PFP - Prime Navigator都将被销毁，且空投比例不会降低。",
+      "content": "来自项目方的一些更新：<br>Space Nation公售质押还剩大约30小时 <br><br>1目前官方给出最新的消息，PFP以及Alpha Gate第一期收到的OIK空投从总量的1% 1000万颗，增加到了1.25%，也就是1250万颗。<br><br>2 目前只要参与公售存款质押的，每质押一份0.4ETH，即可获得官方100颗OIK空投，用以覆盖所有的GAS费用。假设质押4ETH参与抽奖，即可获得1000颗OIK空投。白单mint阶段此规则同样适用。<br><br>3 所有公售和白单阶段MINT不完的PFP - Prime Navigator都将被销毁，且空投比例不会降低。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "125",
       "title": "",
@@ -383,37 +404,6 @@
         {
           "emoji": "🫡",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "105",
-      "title": "属于front 的榜一时刻",
-      "type": "text",
-      "datetime": "2024-03-14T15:19:04+00:00",
-      "tags": [],
-      "text": "属于front 的榜一时刻",
-      "content": "属于front 的榜一时刻",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "31",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]
