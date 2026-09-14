@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 713,
+    "totalPosts": 714,
     "totalPages": 36,
     "currentPage": 30,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-560.json"
   },
   "data": [
+    {
+      "id": "150",
+      "title": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰",
+      "type": "text",
+      "datetime": "2024-04-29T15:27:21+00:00",
+      "tags": [],
+      "text": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰。后续行情我还是看震荡，如果没有新的流动性，恐怕不太乐观。我目前的仓位 9成仓😂 现在反思之前脱水感觉应该卖成U而不是BTC +SOL。我个人还是判断行情没有结束。但是一级投资确实到了转折点，高估值或者有锁仓的项目大家都要仔细计算一下回本周期",
+      "content": "Meson让一二级倒挂这件事情出现，流动性告急确实到了顶峰。后续行情我还是看震荡，如果没有新的流动性，恐怕不太乐观。<br><br>我目前的仓位 9成仓<i class=\"emoji\"><b>😂</b></i> <br>现在反思之前脱水感觉应该卖成U而不是BTC +SOL。我个人还是判断行情没有结束。但是一级投资确实到了转折点，高估值或者有锁仓的项目大家都要仔细计算一下回本周期",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "29",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "149",
       "title": "",
@@ -398,16 +419,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "130",
-      "title": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt",
-      "type": "text",
-      "datetime": "2024-03-28T10:19:25+00:00",
-      "tags": [],
-      "text": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
-      "content": "GMT 昨天有个地址开始大额提币，现在累计了大概总量5%的gmt。稍微开了点多单看看",
-      "reactions": []
     }
   ]
 }

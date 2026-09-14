@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 713,
+    "totalPosts": 714,
     "totalPages": 36,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "210",
+      "title": "来吧，做个投票",
+      "type": "text",
+      "datetime": "2024-08-12T09:43:21+00:00",
+      "tags": [],
+      "text": "来吧，做个投票https://x.com/nft_hu/status/1822930965649674429?s=46",
+      "content": "来吧，做个投票<a href=\"https://x.com/nft_hu/status/1822930965649674429?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1822930965649674429?s=46\">https://x.com/nft_hu/status/1822930965649674429?s=46</a>",
+      "reactions": []
+    },
     {
       "id": "209",
       "title": "复盘了最近的操作，欢迎跟上车赚到钱的大家点赞转发 ",
@@ -393,22 +403,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "190",
-      "title": "BTC 60k-66k，SOL 150-169",
-      "type": "text",
-      "datetime": "2024-07-19T23:33:05+00:00",
-      "tags": [],
-      "text": "BTC 60k-66k，SOL 150-169",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/186\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。 看好 $SOL $BTC</div>\n</small></blockquote></a>BTC 60k-66k，SOL 150-169",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
           "isPaid": false
         }
       ]

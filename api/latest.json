@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 713,
+    "totalPosts": 714,
     "totalPages": 36,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "748",
+      "title": "",
+      "type": "text",
+      "datetime": "2026-09-14T15:58:30+00:00",
+      "tags": [],
+      "text": "https://x.com/unusual_whales/status/2099494877654556864?s=46",
+      "content": "<a href=\"https://x.com/unusual_whales/status/2099494877654556864?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/unusual_whales/status/2099494877654556864?s=46\">https://x.com/unusual_whales/status/2099494877654556864?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/unusual_whales/status/2099494877654556864?s=46\" target=\"_blank\" rel=\"noopener\" title=\"BREAKING: NVIDIA, Palantir, Booz Allen Hamilton and the Pentagon have said will limit their use of Anthropic models.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/30d26179da21c79942c0f7c36f4a7aaa.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">unusual_whales (@unusual_whales) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BREAKING: NVIDIA, Palantir, Booz Allen Hamilton and the Pentagon have said will limit their use of Anthropic models.</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "747",
       "title": "今早 Anthropic的 CEO Dario罕见发了长文，引爆了网络讨论",
@@ -342,16 +352,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "728",
-      "title": "Claude Fable 5 将于明天全球重新上线",
-      "type": "text",
-      "datetime": "2026-07-01T13:22:14+00:00",
-      "tags": [],
-      "text": "Claude Fable 5 将于明天全球重新上线。",
-      "content": "Claude Fable 5 将于明天全球重新上线。",
-      "reactions": []
     }
   ]
 }

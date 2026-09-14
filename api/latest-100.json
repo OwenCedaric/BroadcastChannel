@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 713,
+    "totalPosts": 714,
     "totalPages": 36,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "646",
+      "title": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金",
+      "type": "text",
+      "datetime": "2026-04-23T23:45:59+00:00",
+      "tags": [],
+      "text": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金。2026年似乎所有的机会都被英特尔抓住，当时写在尾声：“CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风；外部资本与政策支持，为它争取了时间窗口；而组织、资本纪律与战略聚焦的调整，则决定了它是否有能力把风接住。”那我想4个月后，我可以给出初步的判断，Intel完美地完成了这场大考。https://x.com/nft_hu/status/2013914221558571021?s=20",
+      "content": "$INTC 的股价已经从 当时的40美金附近，涨到了如今的79美金。<br><br>2026年似乎所有的机会都被英特尔抓住，当时写在尾声：<br>“CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风；外部资本与政策支持，为它争取了时间窗口；而组织、资本纪律与战略聚焦的调整，则决定了它是否有能力把风接住。”<br><br>那我想4个月后，我可以给出初步的判断，Intel完美地完成了这场大考。<br><a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"当计算范式改变，2026年的Intel 等到了它的“风”\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/0cf5d993abd2a43a302457cc51705f0f.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">当计算范式改变，2026年的Intel 等到了它的“风”</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "645",
       "title": "【Fiona日报】2026-04-23 周四━━ 今日最重要一件事 ━━纳指昨夜再创历史新高，市场全力押注\"战争收尾\"——但停火延期后，伊朗拒绝出席第二轮谈判、霍尔木兹仍有扣船，实质进展为零",
@@ -334,22 +365,6 @@
         },
         {
           "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "626",
-      "title": "如何在已经关闭的zkSync Lite中取回遗忘的3000U",
-      "type": "text",
-      "datetime": "2026-04-16T01:51:34+00:00",
-      "tags": [],
-      "text": "如何在已经关闭的zkSync Lite中取回遗忘的3000U。还来得及，还有20天～https://x.com/nft_hu/status/2044594379961352281?s=20",
-      "content": "如何在已经关闭的zkSync Lite中取回遗忘的3000U。还来得及，还有20天～<a href=\"https://x.com/nft_hu/status/2044594379961352281?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2044594379961352281?s=20\">https://x.com/nft_hu/status/2044594379961352281?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2044594379961352281?s=20\" target=\"_blank\" rel=\"noopener\" title=\"如何在已经关闭的zkSync Lite中取回遗忘的3000U。昨天在@meekdonald 的提醒下，发现了自己zkSync Lite上还有一些资金。而这条链将在不久后的5月4号关闭，之后上面的资金永远无法取出。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/10fa5a9aaa7a41eb5c46e10b935d31b9.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">如何在已经关闭的zkSync Lite中取回遗忘的3000U。<br>昨天在@meekdonald 的提醒下，发现了自己zkSync Lite上还有一些资金。而这条链将在不久后的5月4号关闭，之后上面的资金永远无法取出。</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
           "count": "1",
           "isPaid": false
         }
