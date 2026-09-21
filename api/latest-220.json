@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "525",
+      "title": "要买就买最强的，在今天的暴跌行情下，看看我关注列表里盘前比较强的股票 ！ 排名不分前后",
+      "type": "text",
+      "datetime": "2026-02-02T14:30:53+00:00",
+      "tags": [],
+      "text": "要买就买最强的，在今天的暴跌行情下，看看我关注列表里盘前比较强的股票 ！ 排名不分前后。$SNDK $MU $GME $USAR $MP $UAMY $LLY $NOW $ORCL $PLTR $ONDS $CLS 。基本可以分成 内存类，矿产资源类，AI软件类之前跌的多的，热门军工。 矿产类强大概率是受特朗普要建立120亿美金的战略矿产储备消息驱动。PLTR财报即将公布，等财报后再看看。",
+      "content": "要买就买最强的，在今天的暴跌行情下，看看我关注列表里盘前比较强的股票 ！ 排名不分前后。$SNDK $MU $GME $USAR $MP $UAMY $LLY $NOW $ORCL $PLTR $ONDS $CLS 。<br><br>基本可以分成 内存类，矿产资源类，AI软件类之前跌的多的，热门军工。 矿产类强大概率是受特朗普要建立120亿美金的战略矿产储备消息驱动。PLTR财报即将公布，等财报后再看看。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "524",
       "title": "这次贵金属主导、韩股美股配合的回调来的其实意料之中",
@@ -392,27 +408,6 @@
         {
           "emoji": "❤️",
           "count": "14",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "505",
-      "title": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的",
-      "type": "text",
-      "datetime": "2026-01-22T02:24:18+00:00",
-      "tags": [],
-      "text": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的。同时还有$COHR，我同样看好今年的光通讯发展和落地。Roocket Lab 今日股价大跌，主要是他新推出的Neutron火箭系统结构在极限测试中出了故障。这个时间很值得关注。之前撰文提到过，Neutron是他今年最值得期待的产品。如果成功，作为中型火箭也会很大程度地弥补市场空白，如果失败，那去年巨额的资本支出研发成本都打了水漂。 $RKLB",
-      "content": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的。同时还有$COHR，我同样看好今年的光通讯发展和落地。<br>Roocket Lab 今日股价大跌，主要是他新推出的Neutron火箭系统结构在极限测试中出了故障。这个时间很值得关注。之前撰文提到过，Neutron是他今年最值得期待的产品。如果成功，作为中型火箭也会很大程度地弥补市场空白，如果失败，那去年巨额的资本支出研发成本都打了水漂。 $RKLB",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

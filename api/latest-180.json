@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "566",
+      "title": "The core CPI rose 0.22% in Feb, in line with expectations. ",
+      "type": "text",
+      "datetime": "2026-03-11T12:36:40+00:00",
+      "tags": [],
+      "text": "The core CPI rose 0.22% in Feb, in line with expectations. https://x.com/nicktimiraos/status/2031710643712036918?s=46",
+      "content": "The core CPI rose 0.22% in Feb, in line with expectations. <a href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\">https://x.com/nicktimiraos/status/2031710643712036918?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"The core CPI rose 0.22% in Feb, in line with expectations.That lowered the 12-month rate to 2.46%.Core inflation was 2.3% annualized over the previous six months. Both are the lowest readings in five years.3% annualized over the last 3 months, the…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/a35b245a1f2f407b814a5447608fe84b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Nick Timiraos (@NickTimiraos) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The core CPI rose 0.22% in Feb, in line with expectations.<br><br>That lowered the 12-month rate to 2.46%.<br><br>Core inflation was 2.3% annualized over the previous six months. <br><br>Both are the lowest readings in five years.<br><br>3% annualized over the last 3 months, the…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "565",
       "title": "【Fiona的日报频道】2026-03-11━━ 宏观要闻 ━━📌评语：今天的交易主线很清楚——先看美国2月CPI，再看伊朗局势对油价和利率预期的二次冲击",
@@ -382,27 +398,6 @@
         {
           "emoji": "❤️",
           "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "545",
-      "title": "韩国股市：韩国综合指数（KOSPI）突破 6,000 点，创下历史新高，年内累计涨幅超过 40%，表现成为全球表现最好的股市之一",
-      "type": "text",
-      "datetime": "2026-02-25T09:57:50+00:00",
-      "tags": [],
-      "text": "韩国股市：韩国综合指数（KOSPI）突破 6,000 点，创下历史新高，年内累计涨幅超过 40%，表现成为全球表现最好的股市之一。除了SK三星的基本面强势，韩国近期通过了关键的公司治理改革法案，也提振投资者信心，并有助于缩小长期的“韩国折价”。这个改革法案的核心是“销毁库存股”，结束财阀家族以牺牲中小股东利益为代价维持对集团的控制权的历史。事实上，“韩国折价”（Korea Discount）是一个持续数十年的金融现象，指韩国企业的估值长期低于全球同类企业。以最近大热的SK和三星为例，SK的PE约为22，三星约为28.8x - 31.0。财阀家族通过复杂的交叉持股，用极少的股份控制整个集团。这导致大股东倾向于为了家族利益进行关联交易，而不是追求公司价值最大化。此外，长期以来，韩国公司的股息支付率远低于美国和日本。财阀更倾向于保留现金用于扩张或在家族成员间转移，而非回馈股东。库藏股陷阱： 公司回购股票后不注销，而是持在手里作为防御敌意收购的“弹药”，或者在并购时转让给友好方。对投资者而言，这种回购并不能增厚每股收益（EPS）。所以这次的改革是执政党试图解决这些问题提出的一系列举措。本次法案规定： 上市公司新回购的股票必须在 1 年内 销毁；存量股票需在法律施行后 1 年 6 个月内 销毁。来自共同民主党的总统李在明在去年的选举中承诺，他将改善企业治理并振兴股市，以此赢得了该国被称为“蚂蚁”的散户大军的支持。而现在，他似乎正不断积极兑现这一承诺。总之，希望韩国股市再创传奇，希望“东升西不落”。",
-      "content": "韩国股市：韩国综合指数（KOSPI）突破 6,000 点，创下历史新高，年内累计涨幅超过 40%，表现成为全球表现最好的股市之一。<br><br>除了SK三星的基本面强势，韩国近期通过了关键的公司治理改革法案，也提振投资者信心，并有助于缩小长期的“韩国折价”。<br><br>这个改革法案的核心是“销毁库存股”，结束财阀家族以牺牲中小股东利益为代价维持对集团的控制权的历史。<br><br>事实上，“韩国折价”（Korea Discount）是一个持续数十年的金融现象，指韩国企业的估值长期低于全球同类企业。以最近大热的SK和三星为例，SK的PE约为22，三星约为28.8x - 31.0。<br><br>财阀家族通过复杂的交叉持股，用极少的股份控制整个集团。这导致大股东倾向于为了家族利益进行关联交易，而不是追求公司价值最大化。<br><br>此外，长期以来，韩国公司的股息支付率远低于美国和日本。财阀更倾向于保留现金用于扩张或在家族成员间转移，而非回馈股东。<br><br>库藏股陷阱： 公司回购股票后不注销，而是持在手里作为防御敌意收购的“弹药”，或者在并购时转让给友好方。对投资者而言，这种回购并不能增厚每股收益（EPS）。<br><br>所以这次的改革是执政党试图解决这些问题提出的一系列举措。本次法案规定： 上市公司新回购的股票必须在 1 年内 销毁；存量股票需在法律施行后 1 年 6 个月内 销毁。<br><br>来自共同民主党的总统李在明在去年的选举中承诺，他将改善企业治理并振兴股市，以此赢得了该国被称为“蚂蚁”的散户大军的支持。而现在，他似乎正不断积极兑现这一承诺。<br><br>总之，希望韩国股市再创传奇，希望“东升西不落”。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "1",
           "isPaid": false
         }
       ]

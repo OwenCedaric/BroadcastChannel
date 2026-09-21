@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 34,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-640.json"
   },
   "data": [
+    {
+      "id": "67",
+      "title": "About GG  @ggdotzip1⃣Sol上的饥饿游戏，由 Delphi投资AR crypto game where users race to win SOL可以理解为在城市地图里找宝箱获取SOL2⃣目前刚启动，拉人头分享邀请码不断裂变",
+      "type": "text",
+      "datetime": "2024-01-30T00:57:17+00:00",
+      "tags": [],
+      "text": "About GG  @ggdotzip1⃣Sol上的饥饿游戏，由 Delphi投资AR crypto game where users race to win SOL可以理解为在城市地图里找宝箱获取SOL2⃣目前刚启动，拉人头分享邀请码不断裂变。邀请码自取https://gg.zip/LXP8Qhttps://gg.zip/5ECM7https://gg.zip/EGTHO3⃣可以选择作为猎人或者赞助商参加游戏，如果你的城市（大概率）还不支持该游戏，那可以选择当赞助商参与，追踪你看好/喜欢的猎人，据说可以分享他们的胜利（不清楚如何分享，是否可以分sol）4⃣动态奖金机制：简单理解越多人参与奖池子越大5⃣现在是Early access：邀请人来赚G6⃣评价：投资人不错➕sol生态游戏，有点STEPN+GENEPET 的结合体的感觉，尽早体验参与～",
+      "content": "About GG  <a href=\"https://t.me/ggdotzip\" target=\"_blank\" title=\"@ggdotzip\">@ggdotzip</a><br><i class=\"emoji\"><b>1⃣</b></i>Sol上的饥饿游戏，由 Delphi投资<br>AR crypto game where users race to win SOL<br>可以理解为在城市地图里找宝箱获取SOL<br><br><i class=\"emoji\"><b>2⃣</b></i>目前刚启动，拉人头分享邀请码不断裂变。邀请码自取<br><a href=\"https://gg.zip/LXP8Q\" target=\"_blank\" rel=\"noopener\" title=\"https://gg.zip/LXP8Q\">https://gg.zip/LXP8Q</a><br><a href=\"https://gg.zip/5ECM7\" target=\"_blank\" rel=\"noopener\" title=\"https://gg.zip/5ECM7\">https://gg.zip/5ECM7</a><br><a href=\"https://gg.zip/EGTHO\" target=\"_blank\" rel=\"noopener\" title=\"https://gg.zip/EGTHO\">https://gg.zip/EGTHO</a><br><br><i class=\"emoji\"><b>3⃣</b></i>可以选择作为猎人或者赞助商参加游戏，如果你的城市（大概率）还不支持该游戏，那可以选择当赞助商参与，追踪你看好/喜欢的猎人，据说可以分享他们的胜利（不清楚如何分享，是否可以分sol）<br><br><i class=\"emoji\"><b>4⃣</b></i>动态奖金机制：简单理解越多人参与奖池子<br>越大<br><i class=\"emoji\"><b>5⃣</b></i>现在是Early access：邀请人来赚G<br><i class=\"emoji\"><b>6⃣</b></i>评价：投资人不错<i class=\"emoji\"><b>➕</b></i>sol生态游戏，有点STEPN+GENEPET 的结合体的感觉，尽早体验参与～<a class=\"tgme_widget_message_link_preview\" href=\"https://gg.zip/LXP8Q\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">gg.zip</div>\n  \n  \n  \n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "66",
       "title": "Fiona‘s daily news-1.29, 2024",
@@ -353,27 +369,6 @@
         {
           "emoji": "👏",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "43",
-      "title": "",
-      "type": "text",
-      "datetime": "2023-12-21T11:56:21+00:00",
-      "tags": [],
-      "text": "https://x.com/nft_hu/status/1737803984570810373?s=20",
-      "content": "<a href=\"https://x.com/nft_hu/status/1737803984570810373?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1737803984570810373?s=20\">https://x.com/nft_hu/status/1737803984570810373?s=20</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
           "isPaid": false
         }
       ]

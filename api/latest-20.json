@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "730",
+      "title": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的",
+      "type": "text",
+      "datetime": "2026-07-01T15:23:42+00:00",
+      "tags": [],
+      "text": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的。软件股现在成避险资产了😂",
+      "content": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD <br>$RDDT 多邻国 这种之前跌多了的。<br><br>软件股现在成避险资产了<i class=\"emoji\"><b>😂</b></i>",
+      "reactions": []
+    },
     {
       "id": "729",
       "title": "今晚最大的利空消息，Meta正构建云业务，出售过剩的AI计算能力Meta正在制定一项云基础设施业务计划，旨在出售AI计算能力和模型的使用权，从而与亚马逊云服务(AWS)、微软Azure和谷歌云等行业领导者展开新的竞争",
@@ -354,22 +364,6 @@
       "text": "以色列背刺美国伊朗官员确认以色列打击伊朗石化设施伊朗胡齐斯坦省卡伦石化综合体（Karun Petrochemical Complex）发生爆炸。伊朗省级官员确认以色列导弹袭击并损坏了卡伦石化厂。(来自金十数据APP)",
       "content": "以色列背刺美国<br><br>伊朗官员确认以色列打击伊朗石化设施<br><br>伊朗胡齐斯坦省卡伦石化综合体（Karun Petrochemical Complex）发生爆炸。伊朗省级官员确认以色列导弹袭击并损坏了卡伦石化厂。(来自金十数据APP)",
       "reactions": []
-    },
-    {
-      "id": "709",
-      "title": "本周关注5月CPI通胀数据 - 星期三5月PPI通胀数据 - 星期四",
-      "type": "text",
-      "datetime": "2026-06-08T01:32:17+00:00",
-      "tags": [],
-      "text": "本周关注5月CPI通胀数据 - 星期三5月PPI通胀数据 - 星期四",
-      "content": "本周关注<br>5月CPI通胀数据 - 星期三<br>5月PPI通胀数据 - 星期四",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

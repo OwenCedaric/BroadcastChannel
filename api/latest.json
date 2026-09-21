@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "750",
+      "title": "讲真，调研这个问题的过程中，我才意识到人类是多么得天独厚，我们生来就拥有一双灵活的双手",
+      "type": "text",
+      "datetime": "2026-09-21T18:24:17+00:00",
+      "tags": [],
+      "text": "讲真，调研这个问题的过程中，我才意识到人类是多么得天独厚，我们生来就拥有一双灵活的双手。他灵活——可以抓取一片树叶；他精准——匠人的手可以在核桃大小的体积上雕刻人物、花鸟、亭台楼阁，医生的手可以在1 毫米的血管上进行缝合；但同样一双手，可以负担起成年人的重量，可以徒手攀登酋长岩。“灵巧手”这篇文章我的思考路径是：1️⃣非要造一双手不可么？2️⃣造一双手，究竟难在哪里？3️⃣现在，我们进展到了哪里？有一大堆想放的图片，忍下来了，放了很多演示的视频链接，着重批评宇树，视频质量很差。https://x.com/nft_hu/status/2102100693238825052?s=20",
+      "content": "讲真，调研这个问题的过程中，我才意识到人类是多么得天独厚，我们生来就拥有一双灵活的双手。<br>他灵活——可以抓取一片树叶；<br>他精准——匠人的手可以在核桃大小的体积上雕刻人物、花鸟、亭台楼阁，医生的手可以在1 毫米的血管上进行缝合；但同样一双手，可以负担起成年人的重量，可以徒手攀登酋长岩。<br><br>“灵巧手”这篇文章我的思考路径是：<br><i class=\"emoji\"><b>1️⃣</b></i>非要造一双手不可么？<br><i class=\"emoji\"><b>2️⃣</b></i>造一双手，究竟难在哪里？<br><i class=\"emoji\"><b>3️⃣</b></i>现在，我们进展到了哪里？<br><br>有一大堆想放的图片，忍下来了，放了很多演示的视频链接，着重批评宇树，视频质量很差。<br><br><a href=\"https://x.com/nft_hu/status/2102100693238825052?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2102100693238825052?s=20\">https://x.com/nft_hu/status/2102100693238825052?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2102100693238825052?s=20\" target=\"_blank\" rel=\"noopener\" title=\"灵巧手——机器人量产前夜的最后一环？\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  <img class=\"link_preview_image\" alt=\"Fiona ❤️&amp; ✌️ (@nft_hu) on X\" src=\"/static/32f969b4833583940536ca62d0ba8a24.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">灵巧手——机器人量产前夜的最后一环？</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "749",
       "title": "",
@@ -347,16 +357,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "730",
-      "title": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的",
-      "type": "text",
-      "datetime": "2026-07-01T15:23:42+00:00",
-      "tags": [],
-      "text": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的。软件股现在成避险资产了😂",
-      "content": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD <br>$RDDT 多邻国 这种之前跌多了的。<br><br>软件股现在成避险资产了<i class=\"emoji\"><b>😂</b></i>",
-      "reactions": []
     }
   ]
 }

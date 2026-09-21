@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/750",
+      "title": "讲真，调研这个问题的过程中，我才意识到人类是多么得天独厚，我们生来就拥有一双灵活的双手",
+      "description": "",
+      "date_published": "2026-09-21T18:24:17.000Z",
+      "tags": [],
+      "content_html": "讲真，调研这个问题的过程中，我才意识到人类是多么得天独厚，我们生来就拥有一双灵活的双手。<br>他灵活——可以抓取一片树叶；<br>他精准——匠人的手可以在核桃大小的体积上雕刻人物、花鸟、亭台楼阁，医生的手可以在1 毫米的血管上进行缝合；但同样一双手，可以负担起成年人的重量，可以徒手攀登酋长岩。<br><br>“灵巧手”这篇文章我的思考路径是：<br><i class=\"emoji\"><b>1️⃣</b></i>非要造一双手不可么？<br><i class=\"emoji\"><b>2️⃣</b></i>造一双手，究竟难在哪里？<br><i class=\"emoji\"><b>3️⃣</b></i>现在，我们进展到了哪里？<br><br>有一大堆想放的图片，忍下来了，放了很多演示的视频链接，着重批评宇树，视频质量很差。<br><br><a href=\"https://x.com/nft_hu/status/2102100693238825052?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2102100693238825052?s=20\">https://x.com/nft_hu/status/2102100693238825052?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2102100693238825052?s=20\" target=\"_blank\" rel=\"noopener\" title=\"灵巧手——机器人量产前夜的最后一环？\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  <img class=\"link_preview_image\" alt=\"Fiona ❤️&amp; ✌️ (@nft_hu) on X\" src=\"/static/32f969b4833583940536ca62d0ba8a24.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">灵巧手——机器人量产前夜的最后一环？</div>\n</a>"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/749",
       "title": "Post #749",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-05-30T00:57:50.000Z",
       "tags": [],
       "content_html": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>目前收益50% 相信现在不是终点"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/699",
-      "title": "看了先科电子 的电话会，信息容量很大",
-      "description": "",
-      "date_published": "2026-05-27T05:42:22.000Z",
-      "tags": [],
-      "content_html": "看了先科电子 的电话会，信息容量很大。<br>这里会用我的理解来做一个概括：<b>光铜俱进，产能落地。<br>这说明他不仅在风口上（光和铜都有领先的产品），而且有供应和产能保证，可以把技术变为产品，变为利润。<br></b><br>简单概括财报就是：<br><i class=\"emoji\"><b>1️⃣</b></i>创纪录的财报季的驱动因素：数据中心和LoRa业务<br><i class=\"emoji\"><b>2️⃣</b></i>财务优化：蜂窝模块业务的剥离流程已进入最后阶段<br><br>Hong Hou在电话会中，对业务的领先都做了详细的阐述：<br><i class=\"emoji\"><b>1️⃣</b></i>800G LPO/LRO中：<br>TIA解决方案需求异常强劲，并且在广泛的收发模块项目中持续增长。<br>TIA全称Transimpedance Amplifier，放在光接收端，把光电探测器输出的小电流转换为电压，并进行前级放大。<br>在 LPO/LRO 模块里，TIA 是保证高带宽、低噪声的关键器件。<br><br><i class=\"emoji\"><b>2️⃣</b></i>在1.6T光模块方面：<br>已经从主要光模块厂商那里赢得了大量设计订单，超大规模云厂商对1.6T线性接收光学，也就是LRO/LPO的信心正在增强，并将其视为第一层scale-out网络架构的优选方案，因为这类方案能显著节省功耗。<br>这带来了极为强劲的订单和在手积压订单，为下半年的模块放量提供支撑。<br><br><i class=\"emoji\"><b>3️⃣</b></i>NPO（Near-Package Optics）<br>近封装光学：光模块离交换芯片/GPU 更近，通常放在同一基板上，但未完全共封装。<br>随着800G和1.6T在LPO和LRO上的成功，超大规模云厂商对下一代高密度、低功耗光互连方案的信心增强，这将使NPO成为下一个具有扩张潜力的机会。<br><br><i class=\"emoji\"><b>4️⃣</b></i>XPO<br>可以理解成“介于 pluggable 与 CPO 之间的一种新模块标准”：模块仍然是可更换的（服务性好），但利用液冷、机箱内新结构来达到接近 CPO 的功耗和带宽密度。<br>参与并支持XPO MSA，许多XPO模块设计都采用了我们的FiberEdge芯片，就像OSFP模块一样。XPO作为CPO scale-out的替代方案存在。<br><br><i class=\"emoji\"><b>5️⃣</b></i>铜互连：<br>ACC正在持续获得实质性进展。ACC具有相较于直连方案更好的链路裕量，以及相较于基于DSP方案更低的功耗。<br>第一季度开始出货CopperEdge 1.6T芯片，用于部署到一家美国超大规模云客户那里。<br><br><i class=\"emoji\"><b>6️⃣</b></i>HieFo收购：<br>3月完成，HieFo被归入信号完整性产品部门，而它的磷化铟光子产品则归类于数据中心终端市场。这些产品是1.6T和3.2T光模块中的战略性基础构件。<br><br><i class=\"emoji\"><b>7️⃣</b></i>氮化镓芯片：GaN<br>已经成为行业标准，能够提供更高功率，并作为可靠基础模块，应用于城域网和数据中心互连。<br>这部分供不应求，产能扩张计划正在按计划推进。"
     }
   ]
 }

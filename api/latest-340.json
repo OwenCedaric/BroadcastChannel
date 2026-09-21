@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 715,
+    "totalPosts": 716,
     "totalPages": 36,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "399",
+      "title": "最近的 GLXY 走强势，线看起来不错",
+      "type": "text",
+      "datetime": "2025-09-18T01:09:22+00:00",
+      "tags": [],
+      "text": "最近的 GLXY 走强势，线看起来不错",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/391\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">Will GLXY be next BMNR?</div>\n</small></blockquote></a>最近的 GLXY 走强势，线看起来不错",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "398",
       "title": "优必选 宁德时代 阿里巴巴 恒生科技ETF都写过，都有，都很猛！",
@@ -462,27 +478,6 @@
         {
           "emoji": "🔥",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "378",
-      "title": "买了点pump",
-      "type": "text",
-      "datetime": "2025-09-10T09:41:03+00:00",
-      "tags": [],
-      "text": "买了点pump",
-      "content": "买了点pump",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]
