@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 28,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-520.json"
   },
   "data": [
+    {
+      "id": "193",
+      "title": "止盈减仓1/3",
+      "type": "text",
+      "datetime": "2024-07-29T14:39:52+00:00",
+      "tags": [],
+      "text": "止盈减仓1/3",
+      "content": "止盈减仓1/3",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "192",
       "title": "Fiona’s daily news, &.231⃣️重大消息1-ETH ETF通过并将开始正式交易2-随着选举进入未知领域，拜登的退出刺激 Polymarket 日交易量创纪录的 2800 万美元，对美国总统选举获胜者的赌注飙升至超过 3 亿美元2⃣️公司：1-传英伟达将推出中国特供版「Blackwell」架构 B20 加速器2-马斯克：特斯拉有望 2026 年大规模生产人形机器人，供其他公司使用3- 微软技术故障造成全球损失或超 10 亿美元3⃣️行情预测1-有分析师指出：在特朗普参加比特币大会之前获利了结将会付出昂贵的代价",
@@ -359,27 +375,6 @@
       "reactions": [
         {
           "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "173",
-      "title": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "type": "text",
-      "datetime": "2024-06-02T09:52:14+00:00",
-      "tags": [],
-      "text": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "content": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "reactions": [
-        {
-          "emoji": "🦄",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
           "count": "4",
           "isPaid": false
         }

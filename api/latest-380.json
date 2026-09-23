@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 20,
     "pageSize": 20,
@@ -13,6 +13,42 @@
     "prevPageUrl": "latest-360.json"
   },
   "data": [
+    {
+      "id": "359",
+      "title": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的",
+      "type": "text",
+      "datetime": "2025-08-12T13:27:27+00:00",
+      "tags": [],
+      "text": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。现在每天的交易量足够大，应该可以消化这部分的卖盘😭",
+      "content": "买回一半的 BMNR 一卖一买，亏了10%<br>买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。<br>现在每天的交易量足够大，应该可以消化这部分的卖盘<br><i class=\"emoji\"><b>😭</b></i>",
+      "reactions": [
+        {
+          "emoji": "🙏",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👀",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "358",
       "title": "关于 ATM 增发和盘前股价变化需要知道的几个基础知识点：1⃣ATM 会增加总股数 ATM 是公司在二级市场分批、按当时市价发行新股给投资者的过程",
@@ -415,37 +451,6 @@
         {
           "emoji": "🫡",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "338",
-      "title": "合约都平了",
-      "type": "text",
-      "datetime": "2025-07-22T03:28:11+00:00",
-      "tags": [],
-      "text": "合约都平了",
-      "content": "合约都平了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😨",
-          "count": "3",
           "isPaid": false
         }
       ]

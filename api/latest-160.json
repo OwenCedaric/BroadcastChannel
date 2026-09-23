@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "589",
+      "title": "Buy back $MU",
+      "type": "text",
+      "datetime": "2026-03-25T14:59:53+00:00",
+      "tags": [],
+      "text": "Buy back $MU",
+      "content": "Buy back $MU",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "588",
       "title": "【Fiona的日报频道】2026-03-25━━ 宏观要闻 ━━1️⃣🌟 现货黄金企稳回升，结束日线九连跌",
@@ -339,37 +355,6 @@
         {
           "emoji": "❤️",
           "count": "11",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "567",
-      "title": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好",
-      "type": "text",
-      "datetime": "2026-03-11T13:50:51+00:00",
-      "tags": [],
-      "text": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。交易的需求是不变的，不管施加交易命令的是人或者是AI agent。",
-      "content": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。<br>交易的需求是不变的，不管施加交易命令的是人或者是AI agent。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "25",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
           "isPaid": false
         }
       ]

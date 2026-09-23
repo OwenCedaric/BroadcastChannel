@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 19,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-340.json"
   },
   "data": [
+    {
+      "id": "379",
+      "title": "回购是真回购，盘面强势，大行情还行",
+      "type": "text",
+      "datetime": "2025-09-10T09:42:15+00:00",
+      "tags": [],
+      "text": "回购是真回购，盘面强势，大行情还行。右侧一把",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/378\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了点pump</div>\n</small></blockquote></a>回购是真回购，盘面强势，大行情还行。右侧一把",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "378",
       "title": "买了点pump",
@@ -423,42 +444,6 @@
         {
           "emoji": "🤯",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "359",
-      "title": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的",
-      "type": "text",
-      "datetime": "2025-08-12T13:27:27+00:00",
-      "tags": [],
-      "text": "买回一半的 BMNR 一卖一买，亏了10%买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。现在每天的交易量足够大，应该可以消化这部分的卖盘😭",
-      "content": "买回一半的 BMNR 一卖一买，亏了10%<br>买入的原因，强势的盘面：说明了有强大的买盘，无论这个买盘是有机的还是阴谋的。虽说有200亿，但是以他们老道的操盘应该会逐步卖，越卖越高。随着ETH的上涨，实现共振。<br>现在每天的交易量足够大，应该可以消化这部分的卖盘<br><i class=\"emoji\"><b>😭</b></i>",
-      "reactions": [
-        {
-          "emoji": "🙏",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "👀",
-          "count": "1",
           "isPaid": false
         }
       ]

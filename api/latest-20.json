@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "731",
+      "title": "继续",
+      "type": "text",
+      "datetime": "2026-07-01T15:29:21+00:00",
+      "tags": [],
+      "text": "继续",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/726\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又到了买的很痛苦但是要买的时候</div>\n</small></blockquote></a>继续",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "730",
       "title": "现在账户里大多数的半导体仓位都是跌的，为数不多涨的就是 $HOOD $RDDT 多邻国 这种之前跌多了的",
@@ -354,16 +370,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "710",
-      "title": "以色列背刺美国伊朗官员确认以色列打击伊朗石化设施伊朗胡齐斯坦省卡伦石化综合体（Karun Petrochemical Complex）发生爆炸",
-      "type": "text",
-      "datetime": "2026-06-08T05:26:55+00:00",
-      "tags": [],
-      "text": "以色列背刺美国伊朗官员确认以色列打击伊朗石化设施伊朗胡齐斯坦省卡伦石化综合体（Karun Petrochemical Complex）发生爆炸。伊朗省级官员确认以色列导弹袭击并损坏了卡伦石化厂。(来自金十数据APP)",
-      "content": "以色列背刺美国<br><br>伊朗官员确认以色列打击伊朗石化设施<br><br>伊朗胡齐斯坦省卡伦石化综合体（Karun Petrochemical Complex）发生爆炸。伊朗省级官员确认以色列导弹袭击并损坏了卡伦石化厂。(来自金十数据APP)",
-      "reactions": []
     }
   ]
 }

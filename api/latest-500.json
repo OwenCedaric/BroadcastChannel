@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 26,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-480.json"
   },
   "data": [
+    {
+      "id": "236",
+      "title": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1",
+      "type": "text",
+      "datetime": "2024-08-23T07:30:39+00:00",
+      "tags": [],
+      "text": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。可惜后来没有买回来，但是也证明了选币眼光",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/195\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了一点 AAVE 弱市场里的强势币</div>\n</small></blockquote></a>【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】<br>Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。<br>可惜后来没有买回来，但是也证明了选币眼光",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "235",
       "title": "今早关于 $BNB 的开放性讨论（F是我）A：BNB炒作预期会不会回落下？F：我觉得BNB应该阶段性强势",
@@ -418,22 +439,6 @@
         {
           "emoji": "👏",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "214",
-      "title": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置",
-      "type": "text",
-      "datetime": "2024-08-15T05:40:01+00:00",
-      "tags": [],
-      "text": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置。",
-      "content": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "20",
           "isPaid": false
         }
       ]

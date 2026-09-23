@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 13,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "506",
+      "title": "400hit 年内翻倍期待一下",
+      "type": "text",
+      "datetime": "2026-01-22T03:14:12+00:00",
+      "tags": [],
+      "text": "400hit 年内翻倍期待一下",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>400hit 年内翻倍期待一下",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "505",
       "title": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的",
@@ -355,27 +371,6 @@
       "text": "静心等待今晚的CPI",
       "content": "静心等待今晚的CPI",
       "reactions": []
-    },
-    {
-      "id": "486",
-      "title": "阿里巴巴 等了很久的突破感觉真的要来了",
-      "type": "text",
-      "datetime": "2026-01-13T09:51:53+00:00",
-      "tags": [],
-      "text": "阿里巴巴 等了很久的突破感觉真的要来了",
-      "content": "阿里巴巴 等了很久的突破感觉真的要来了",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

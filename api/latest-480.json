@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 25,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-460.json"
   },
   "data": [
+    {
+      "id": "258",
+      "title": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k",
+      "type": "text",
+      "datetime": "2024-09-04T03:18:12+00:00",
+      "tags": [],
+      "text": "9月3日行情小记昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。我回复不是太想买，总体还是看空。我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。重要的其实还是美股。祝空仓的我们都能抄到底。",
+      "content": "9月3日行情小记<br>昨晚 $BTC 大跌，中间一度插针到 55k。基本走了一个如期下跌的路线，满意。<br>昨天白天再比特币一路冲高要去60k时，其实有群友问我，是不是该买一点。<br>我回复不是太想买，总体还是看空。<br><br>我的看空主要还是源自美股，美股无论是标普还是纳指都在历史的高位，PE的均值也很高。一旦有不佳的数据或者消息出现，都会成为引发下跌的理由。<br><br>周一的行情反弹我更愿意理解为“猴市”，趁美股没开盘上蹿下跳一下。<br><br>重要的其实还是美股。<br><br>祝空仓的我们都能抄到底。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "257",
       "title": "回看8月清仓，又一次逃顶！",
@@ -382,27 +403,6 @@
         {
           "emoji": "❤️",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "236",
-      "title": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1",
-      "type": "text",
-      "datetime": "2024-08-23T07:30:39+00:00",
-      "tags": [],
-      "text": "【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。可惜后来没有买回来，但是也证明了选币眼光",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/195\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了一点 AAVE 弱市场里的强势币</div>\n</small></blockquote></a>【数据：AAVE 月涨幅 45%，在 Top 100 代币中排名第 1】<br>Foresight News 消息，据 Bitget 行情数据，DeFi 借贷协议代币 AAVE 月涨幅 45%，在市值最大的 100 个代币中排名第 1。<br>可惜后来没有买回来，但是也证明了选币眼光",
-      "reactions": [
-        {
-          "emoji": "🫡",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
           "isPaid": false
         }
       ]

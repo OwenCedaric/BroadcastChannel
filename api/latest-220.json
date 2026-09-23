@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "526",
+      "title": "开盘了，➕ $LITE $COHR $STX",
+      "type": "text",
+      "datetime": "2026-02-02T14:39:03+00:00",
+      "tags": [],
+      "text": "开盘了，➕ $LITE $COHR $STX",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/525\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">要买就买最强的，在今天的暴跌行情下，看看我关注列表里盘前比较强的股票 ！ 排名不分前后。$SNDK $MU $GME $USAR $MP $UAMY $LLY $NOW $ORCL $PLTR $ONDS $CLS 。  基本可以分成 内存类，矿产资源类，AI软件类之前跌的多的，热门军工。 矿产类强大概率是受特朗普要建立120亿美金的战略矿产储备消息驱动。PLTR财报即将公布，等财报后再看看。</div>\n</small></blockquote></a>开盘了，<i class=\"emoji\"><b>➕</b></i> $LITE $COHR $STX",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "525",
       "title": "要买就买最强的，在今天的暴跌行情下，看看我关注列表里盘前比较强的股票 ！ 排名不分前后",
@@ -395,22 +411,6 @@
       "text": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。影响较小",
       "content": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。<br>影响较小",
       "reactions": []
-    },
-    {
-      "id": "506",
-      "title": "400hit 年内翻倍期待一下",
-      "type": "text",
-      "datetime": "2026-01-22T03:14:12+00:00",
-      "tags": [],
-      "text": "400hit 年内翻倍期待一下",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>400hit 年内翻倍期待一下",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "14",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

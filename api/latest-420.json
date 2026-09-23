@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 22,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-400.json"
   },
   "data": [
+    {
+      "id": "318",
+      "title": "比特币新的新高纪念日",
+      "type": "text",
+      "datetime": "2025-07-11T03:25:52+00:00",
+      "tags": [],
+      "text": "比特币新的新高纪念日",
+      "content": "比特币新的新高纪念日",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "⚡",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "317",
       "title": "新频道上线，101支美股之Palantir ",
@@ -432,27 +458,6 @@
         {
           "emoji": "🤡",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "298",
-      "title": "Fiona’s Daily News 12.7👔宏观1️⃣12 月 6 日，继特朗普宣布任命 Paul Atkins 为 SEC 主席之后，特朗普又任命 PayPal 联创 David Sacks 担任「白宫人工智能与加密货币事务负责人」",
-      "type": "text",
-      "datetime": "2024-12-07T03:09:53+00:00",
-      "tags": [],
-      "text": "Fiona’s Daily News 12.7👔宏观1️⃣12 月 6 日，继特朗普宣布任命 Paul Atkins 为 SEC 主席之后，特朗普又任命 PayPal 联创 David Sacks 担任「白宫人工智能与加密货币事务负责人」。2⃣️非农数据超预期，现在就业好说明经济好 解读是不衰退，利好。3⃣️OpenAI 发布智能模型 o1 以及 ChatGPT Pro Sam Altman 表示，OpenAI 发布智能模型 o1，价格为 20 美元 / 月，相比于 o1-preview 更智能、更快、功能更多。目前已在 ChatGPT 中上线，即将发布 API。此外，另一款产品为 ChatGPT Pro，价格为 200 美元 / 月，可无限制使用。4⃣️特朗普团队或将于下周面试美 CFTC 主席候选人5⃣️福克斯记者：美 SEC 已拒绝两家 SOL 现货 ETF 申请；彭博社分析师：Solana ETF 发行人或于新 SEC 主席上任后重新提交申请6⃣️前纽约联储主席：比特币储备对美国人来说将是一笔糟糕的交易前纽约联储主席 Bill Dudley 表示，建立比特币储备对于政府或不持有比特币的人来说，有什么好处呢？没有什么好处。没有退出策略，因此其目的是推高通胀，而不是为政府创造价值——政府将被迫持有不会产生任何收入的波动性代币。🪙币圈 1️⃣【Tether Treasury 在以太坊网络新铸造 20 亿枚 USDT】2⃣️【Beam 基金会、Aethir 和 MetaStreet 联合推出 AI 计算计划项目 Tactical Compute，计划筹集 4000 万美元】3⃣️以太坊现货 ETF 昨日总净流入 4.28 亿美元，达到历史新高4⃣️Pudgy Penguins 母公司 Igloo 发推表示，除了在 Solana 上推出外，PENGU 代币计划采用多链，包括在以太坊和 Abstract 上启动。5⃣️Molecule 将联合成立 DeSci 生态系统基金，并已回购 RIF 与 URO 代币。DeSci 平台 Molecule 发推表示，其将与 Pump.science 以及 DeSci 项目 BIO Protocol 合作成立 DeSci 生态系统基金，资金规模为 1.66 亿枚 BIO（Molecule 分配额度的 50%），以加速链上的科学 IP。此外，其表示已分别回购价值 10 万美元的 RIF 和 URO 代币。6⃣️Base 上 Meme 币启动平台 Clanker 交易量达 10 亿美元，收入达 1000 万美元。",
-      "content": "Fiona’s Daily News 12.7<br><br><i class=\"emoji\"><b>👔</b></i>宏观<br><i class=\"emoji\"><b>1️⃣</b></i>12 月 6 日，继特朗普宣布任命 Paul Atkins 为 SEC 主席之后，特朗普又任命 PayPal 联创 David Sacks 担任「白宫人工智能与加密货币事务负责人」。<br><i class=\"emoji\"><b>2⃣️</b></i>非农数据超预期，现在就业好说明经济好 解读是不衰退，利好。<br><i class=\"emoji\"><b>3⃣️</b></i>OpenAI 发布智能模型 o1 以及 ChatGPT Pro<br> Sam Altman 表示，OpenAI 发布智能模型 o1，价格为 20 美元 / 月，相比于 o1-preview 更智能、更快、功能更多。目前已在 ChatGPT 中上线，即将发布 API。此外，另一款产品为 ChatGPT Pro，价格为 200 美元 / 月，可无限制使用。<br><i class=\"emoji\"><b>4⃣️</b></i>特朗普团队或将于下周面试美 CFTC 主席候选人<br><i class=\"emoji\"><b>5⃣️</b></i>福克斯记者：美 SEC 已拒绝两家 SOL 现货 ETF 申请；<br>彭博社分析师：Solana ETF 发行人或于新 SEC 主席上任后重新提交申请<br><i class=\"emoji\"><b>6⃣️</b></i>前纽约联储主席：比特币储备对美国人来说将是一笔糟糕的交易<br>前纽约联储主席 Bill Dudley 表示，建立比特币储备对于政府或不持有比特币的人来说，有什么好处呢？没有什么好处。没有退出策略，因此其目的是推高通胀，而不是为政府创造价值——政府将被迫持有不会产生任何收入的波动性代币。<br><br><i class=\"emoji\"><b>🪙</b></i>币圈 <br><i class=\"emoji\"><b>1️⃣</b></i>【Tether Treasury 在以太坊网络新铸造 20 亿枚 USDT】<br><i class=\"emoji\"><b>2⃣️</b></i>【Beam 基金会、Aethir 和 MetaStreet 联合推出 AI 计算计划项目 Tactical Compute，计划筹集 4000 万美元】<br><i class=\"emoji\"><b>3⃣️</b></i>以太坊现货 ETF 昨日总净流入 4.28 亿美元，达到历史新高<br><i class=\"emoji\"><b>4⃣️</b></i>Pudgy Penguins 母公司 Igloo 发推表示，除了在 Solana 上推出外，PENGU 代币计划采用多链，包括在以太坊和 Abstract 上启动。<br><i class=\"emoji\"><b>5⃣️</b></i>Molecule 将联合成立 DeSci 生态系统基金，并已回购 RIF 与 URO 代币。DeSci 平台 Molecule 发推表示，其将与 <a href=\"http://Pump.science/\" target=\"_blank\" rel=\"noopener\" title=\"Pump.science\">Pump.science</a> 以及 DeSci 项目 BIO Protocol 合作成立 DeSci 生态系统基金，资金规模为 1.66 亿枚 BIO（Molecule 分配额度的 50%），以加速链上的科学 IP。此外，其表示已分别回购价值 10 万美元的 RIF 和 URO 代币。<br><i class=\"emoji\"><b>6⃣️</b></i>Base 上 Meme 币启动平台 Clanker 交易量达 10 亿美元，收入达 1000 万美元。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
           "isPaid": false
         }
       ]

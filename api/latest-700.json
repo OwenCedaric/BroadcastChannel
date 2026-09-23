@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 716,
+    "totalPosts": 717,
     "totalPages": 36,
     "currentPage": 36,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-680.json"
   },
   "data": [
+    {
+      "id": "23",
+      "title": "Meson测试网开了可以去挖币，测试币最后映射",
+      "type": "text",
+      "datetime": "2023-11-29T10:20:07+00:00",
+      "tags": [],
+      "text": "Meson测试网开了可以去挖币，测试币最后映射。可以挖头矿了～https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju",
+      "content": "Meson测试网开了可以去挖币，测试币最后映射。可以挖头矿了～<br><a href=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\" target=\"_blank\" rel=\"noopener\" title=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\">https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju</a><a class=\"tgme_widget_message_link_preview\" href=\"https://dashboard.gaganode.com/register?referral_code=svqvniepdzbpwju\" target=\"_blank\" rel=\"noopener\" title=\"Next generation Full-Stack Edge Marketplace\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">GaGaNode</div>\n  <img class=\"link_preview_image\" alt=\"GaGaNode from meson.network | Next Generation Decentralized Edge Cloud\" src=\"/static/f9caf9cf1886579b467777c00e640e65.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">GaGaNode from meson.network | Next Generation Decentralized Edge Cloud</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Next generation Full-Stack Edge Marketplace</div>\n</a>",
+      "reactions": []
+    },
     {
       "id": "22",
       "title": "Fiona‘s daily news-11.26, 2023分享最近在看的项目，或许是Alpha或许是Theta～（利益披露，部分有仓位）1⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO",
