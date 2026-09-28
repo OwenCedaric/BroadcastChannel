@@ -3,7 +3,7 @@
     "title": "投机之路",
     "description": "",
     "avatar": "/static/9fd66de71229ea393a9afe5d42b5aa73.jpg",
-    "totalPosts": 216,
+    "totalPosts": 217,
     "totalPages": 11,
     "currentPage": 4,
     "pageSize": 20,
@@ -13,6 +13,47 @@
     "prevPageUrl": "latest-40.json"
   },
   "data": [
+    {
+      "id": "184",
+      "title": "是的 理论上来说我们在“一切优质资产的超级周期”因为法币确实是在源源不断的贬值+生产力科技在飞速进步且会一直这么持续下去把眼光放到5-10年，现在的一切都很便宜但是如果人们在这个过程中养成一直无脑buy the dip的习惯并且次次都赢》养成使用杠杆放大收益的习惯，那么即使世界上再优质的资产都会有其中一部分用杠杆的人需要买单结账的时候",
+      "type": "text",
+      "datetime": "2026-02-03T19:14:19+00:00",
+      "tags": [],
+      "text": "是的 理论上来说我们在“一切优质资产的超级周期”因为法币确实是在源源不断的贬值+生产力科技在飞速进步且会一直这么持续下去把眼光放到5-10年，现在的一切都很便宜但是如果人们在这个过程中养成一直无脑buy the dip的习惯并且次次都赢》养成使用杠杆放大收益的习惯，那么即使世界上再优质的资产都会有其中一部分用杠杆的人需要买单结账的时候",
+      "content": "是的 理论上来说我们在“一切优质资产的超级周期”<br>因为法币确实是在源源不断的贬值+生产力科技在飞速进步且会一直这么持续下去<br>把眼光放到5-10年，现在的一切都很便宜<br><br>但是如果人们在这个过程中养成一直无脑buy the dip的习惯并且次次都赢》养成使用杠杆放大收益的习惯，那么即使世界上再优质的资产都会有其中一部分用杠杆的人需要买单结账的时候",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "268",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "91",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "183",
       "title": "如果我等不到那一天，等不到那个“完美的机会”，那我就一直老老实实的当一个“在海边安度余生的人”",
@@ -928,67 +969,6 @@
         {
           "emoji": "🎉",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "162",
-      "title": "我操他妈的发财了",
-      "type": "text",
-      "datetime": "2026-01-30T19:54:22+00:00",
-      "tags": [],
-      "text": "我操他妈的发财了",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/92\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">操他妈的发财了</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-162-0\" popovertargetaction=\"show\">\n        <img src=\"/static/67eaffbf3223126de0395b0d9c13ae06.jpg\" alt=\"我操他妈的发财了\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-162-0\" popovertarget=\"modal-162-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/67eaffbf3223126de0395b0d9c13ae06.jpg\" alt=\"我操他妈的发财了\" loading=\"lazy\" />\n      </button>\n    </div>我操他妈的发财了",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "240",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "96",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "79",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "2",
           "isPaid": false
         }
       ]
