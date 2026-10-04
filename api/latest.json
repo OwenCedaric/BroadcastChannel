@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 718,
+    "totalPosts": 719,
     "totalPages": 36,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "753",
+      "title": "今天很值得关注的一条消息——“马斯克证实台积电与 Terafab「正在讨论」合作“的传闻",
+      "type": "text",
+      "datetime": "2026-10-04T14:14:51+00:00",
+      "tags": [],
+      "text": "今天很值得关注的一条消息——“马斯克证实台积电与 Terafab「正在讨论」合作“的传闻。传递了两个信号：1️⃣供不应求，先进制程的可用产能和先进封装能力紧张。台积电长久以来的扩产纪律性让他无法承接这样的需求。2️⃣Terafab纯利好，无论哪种合作方式都是利好。3️⃣对Intel而言，我觉得有喜有忧，美国独占叙事被挑战，但 $INTC 符合特定先进节点、美国本土制造要求以及交付窗口的产能，本身就是最大的稀缺资源。https://x.com/elonmusk/status/2106292253039673685?s=20",
+      "content": "今天很值得关注的一条消息——“马斯克证实台积电与 Terafab「正在讨论」合作“的传闻。<br><br>传递了两个信号：<br><i class=\"emoji\"><b>1️⃣</b></i>供不应求，先进制程的可用产能和先进封装能力紧张。台积电长久以来的扩产纪律性让他无法承接这样的需求。<br><br><i class=\"emoji\"><b>2️⃣</b></i>Terafab纯利好，无论哪种合作方式都是利好。<br><br><i class=\"emoji\"><b>3️⃣</b></i>对Intel而言，我觉得有喜有忧，美国独占叙事被挑战，但 $INTC 符合特定先进节点、美国本土制造要求以及交付窗口的产能，本身就是最大的稀缺资源。<br><br><a href=\"https://x.com/elonmusk/status/2106292253039673685?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/elonmusk/status/2106292253039673685?s=20\">https://x.com/elonmusk/status/2106292253039673685?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/elonmusk/status/2106292253039673685?s=20\" target=\"_blank\" rel=\"noopener\" title=\"@XFreeze True\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/854fa30b1d2a80e485615b027428252d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Elon Musk (@elonmusk) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">@XFreeze True</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤓",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "752",
       "title": "就像童话故事都在灰姑娘嫁给王子之后截然而止，一款AI发明的新药，之后的故事似乎也无人关注",
@@ -333,22 +359,6 @@
         {
           "emoji": "❤️",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "733",
-      "title": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人",
-      "type": "text",
-      "datetime": "2026-07-02T12:36:14+00:00",
-      "tags": [],
-      "text": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人。(来自金十数据APP)",
-      "content": "【美国6月非农大幅低于预期】金十数据7月2日讯，美国6月季调后非农就业人口录得增加5.7万人，低于市场预期的增加11万人。<br>(来自金十数据APP)",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "11",
           "isPaid": false
         }
       ]
