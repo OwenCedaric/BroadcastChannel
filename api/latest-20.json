@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 721,
+    "totalPosts": 722,
     "totalPages": 37,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "736",
+      "title": "内存股反弹了，但是走的不算很强",
+      "type": "text",
+      "datetime": "2026-07-22T06:33:31+00:00",
+      "tags": [],
+      "text": "内存股反弹了，但是走的不算很强。有一个变化是这次下跌被套的筹码太多。以前没有套牢盘涨起来都是星辰大海，现在一堆套牢盘，涨起来就有人想卖。虽然我依旧持有看好，但目前看来，走势很难像之前一样。",
+      "content": "内存股反弹了，但是走的不算很强。<br>有一个变化是这次下跌被套的筹码太多。以前没有套牢盘涨起来都是星辰大海，现在一堆套牢盘，涨起来就有人想卖。<br><br>虽然我依旧持有看好，但目前看来，走势很难像之前一样。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "735",
       "title": "新的一周开始了，终究还是要面对，来聊聊内存股和韩股",
@@ -356,27 +372,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "715",
-      "title": "大家端午安康，要记得吃粽子呀❤️",
-      "type": "text",
-      "datetime": "2026-06-19T10:41:11+00:00",
-      "tags": [],
-      "text": "大家端午安康，要记得吃粽子呀❤️",
-      "content": "大家端午安康，要记得吃粽子呀<i class=\"emoji\"><b>❤️</b></i>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "29",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "4",
           "isPaid": false
         }
       ]
