@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 726,
+    "totalPosts": 727,
     "totalPages": 37,
     "currentPage": 3,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-20.json"
   },
   "data": [
+    {
+      "id": "720",
+      "title": "关于先进制程的溢出效应：台积电产能有限，成熟制程外溢",
+      "type": "text",
+      "datetime": "2026-06-25T03:01:47+00:00",
+      "tags": [],
+      "text": "关于先进制程的溢出效应：台积电产能有限，成熟制程外溢。受益者联华电子、世界先进。产能利用率同步明显回升。",
+      "content": "关于先进制程的溢出效应：<br>台积电产能有限，成熟制程外溢。受益者联华电子、世界先进。产能利用率同步明显回升。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "719",
       "title": "其实 $MU的高利润率也是一把双刃剑",
@@ -367,27 +388,6 @@
         {
           "emoji": "❤️",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "700",
-      "title": "目前收益50% 相信现在不是终点",
-      "type": "text",
-      "datetime": "2026-05-30T00:57:50+00:00",
-      "tags": [],
-      "text": "目前收益50% 相信现在不是终点",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>目前收益50% 相信现在不是终点",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
           "isPaid": false
         }
       ]

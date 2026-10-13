@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 726,
+    "totalPosts": 727,
     "totalPages": 37,
     "currentPage": 2,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest.json"
   },
   "data": [
+    {
+      "id": "741",
+      "title": "美国7月PPI年率 4.7%，预期4.9%，前值5.50%",
+      "type": "text",
+      "datetime": "2026-08-13T12:33:48+00:00",
+      "tags": [],
+      "text": "美国7月PPI年率 4.7%，预期4.9%，前值5.50%。3月以来新低。",
+      "content": "美国7月PPI年率 4.7%，预期4.9%，前值5.50%。3月以来新低。",
+      "reactions": []
+    },
     {
       "id": "740",
       "title": "可以骗我，但注意次数",
@@ -356,27 +366,6 @@
         {
           "emoji": "👍",
           "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "720",
-      "title": "关于先进制程的溢出效应：台积电产能有限，成熟制程外溢",
-      "type": "text",
-      "datetime": "2026-06-25T03:01:47+00:00",
-      "tags": [],
-      "text": "关于先进制程的溢出效应：台积电产能有限，成熟制程外溢。受益者联华电子、世界先进。产能利用率同步明显回升。",
-      "content": "关于先进制程的溢出效应：<br>台积电产能有限，成熟制程外溢。受益者联华电子、世界先进。产能利用率同步明显回升。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "3",
           "isPaid": false
         }
       ]
