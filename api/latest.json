@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/9a19df33b884d4d87ada68025b1d2191.jpg",
-    "totalPosts": 724,
+    "totalPosts": 726,
     "totalPages": 37,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "760",
+      "title": "有朋友问我的存储如何：其实仓位已经说明了我的态度",
+      "type": "text",
+      "datetime": "2026-10-13T04:03:34+00:00",
+      "tags": [],
+      "text": "有朋友问我的存储如何：其实仓位已经说明了我的态度。存储不是不好，相反的，存储很好——存储很赚钱，存储算PE很便宜。但是我仍然减少了存储的仓位。原因如下：1️⃣持仓体验差，这其实很说明背后的资金流动问题，尊重K线；2️⃣拥挤，如果所有人都进来了，我们要赚谁的钱？3️⃣今天新的原因，中国入局。感受过中国生产力击垮行业的故事已经在各处重复无数次了。我仍然有持仓，但仓位只有巅峰期的1/4不到。现在不会第一、二、三抄底选项。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/755\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">来聊一下未来对市场的看法： 其实最近大家应该发现了，还是我们之前炒作过的那些板块。内存、光通讯、设备厂商、关键材料、晶圆厂和先进封装、检测...  就好像故事的轮回一样，跌了一圈，我们又回到了曾经了起点，把4-6月的故事重新进行一次，把曾经那些瓶颈重新炒一遍。  很有意思是我们的态度，拿内存来说，基本一到两个月，我们就要在内存牛逼和内存要完这样的心态里完成切换。 光通讯也是如此。  从去年10月到今年10月，我已经持有光通讯/内存一整年了。我对基本面的想法没有什么改变，但是我的仓位发生了一些变化。  内存…</div>\n</small></blockquote></a>有朋友问我的存储如何：<br><b>其实仓位已经说明了我的态度。</b><br>存储不是不好，相反的，存储很好——存储很赚钱，存储算PE很便宜。但是我仍然减少了存储的仓位。<br><br>原因如下：<br><i class=\"emoji\"><b>1️⃣</b></i>持仓体验差，这其实很说明背后的资金流动问题，尊重K线；<br><i class=\"emoji\"><b>2️⃣</b></i>拥挤，如果所有人都进来了，我们要赚谁的钱？<br><i class=\"emoji\"><b>3️⃣</b></i>今天新的原因，中国入局。感受过中国生产力击垮行业的故事已经在各处重复无数次了。<br><br>我仍然有持仓，但仓位只有巅峰期的1/4不到。现在不会第一、二、三抄底选项。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "title": "半导体又一次跌倒了...这次我觉得原因有两层：1️⃣我卖出的原因是更宏观的：战争未结束、原油/成品油价格高涨、US10Y收益率持续走高",
+      "type": "text",
+      "datetime": "2026-10-13T03:58:31+00:00",
+      "tags": [],
+      "text": "半导体又一次跌倒了...这次我觉得原因有两层：1️⃣我卖出的原因是更宏观的：战争未结束、原油/成品油价格高涨、US10Y收益率持续走高。缺少一个走出新高的宏观要素。2️⃣市场同时给出了很多短期原因：Open AI的ARR造假问题；长鑫年底前要推出新的DDR5，对存储板块造成了显著冲击；$NVDA和 Cisco 宣布了 USFP 光模块，这一消息出来后光模块暴跌。暂时不会抄底，还是要等宏观出现更多的确定性。",
+      "content": "半导体又一次跌倒了...<br><br>这次我觉得原因有两层：<br><b><i class=\"emoji\"><b>1️⃣</b></i>我卖出的原因是更宏观的：</b><br>战争未结束、原油/成品油价格高涨、US10Y收益率持续走高。缺少一个走出新高的宏观要素。<br><br><b><i class=\"emoji\"><b>2️⃣</b></i>市场同时给出了很多短期原因：</b><br>Open AI的ARR造假问题；<br>长鑫年底前要推出新的DDR5，对存储板块造成了显著冲击；<br>$NVDA和 Cisco 宣布了 USFP 光模块，这一消息出来后光模块暴跌。<br><br><b>暂时不会抄底，还是要等宏观出现更多的确定性。</b>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "758",
       "title": "回看当时的自己",
@@ -310,53 +342,6 @@
       "text": "美国7月PPI年率 4.7%，预期4.9%，前值5.50%。3月以来新低。",
       "content": "美国7月PPI年率 4.7%，预期4.9%，前值5.50%。3月以来新低。",
       "reactions": []
-    },
-    {
-      "id": "740",
-      "title": "可以骗我，但注意次数",
-      "type": "text",
-      "datetime": "2026-08-12T13:00:31+00:00",
-      "tags": [],
-      "text": "可以骗我，但注意次数。希望这次是真的反弹了。",
-      "content": "可以骗我，但注意次数。希望这次是真的反弹了。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "739",
-      "title": "Lumentum 财报你需要知道的事：CPO NPO 发展如何，最好回击Fud的方式是订单和利润",
-      "type": "text",
-      "datetime": "2026-08-12T12:27:44+00:00",
-      "tags": [],
-      "text": "Lumentum 财报你需要知道的事：CPO NPO 发展如何，最好回击Fud的方式是订单和利润。https://x.com/nft_hu/status/2087515970021761234",
-      "content": "Lumentum 财报你需要知道的事：<br>CPO NPO 发展如何，最好回击Fud的方式是订单和利润。<br><a href=\"https://x.com/nft_hu/status/2087515970021761234\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2087515970021761234\">https://x.com/nft_hu/status/2087515970021761234</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2087515970021761234\" target=\"_blank\" rel=\"noopener\" title=\"Lumentum财报FY2026 Q4\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/1fb8a60d31e38d22fcdc264a65989937.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Lumentum财报FY2026 Q4</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }
